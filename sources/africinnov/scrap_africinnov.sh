@@ -5,7 +5,7 @@ function get_name(){
 }
 
 function get_description(){
-    cat html/$1.html | grep '<p><b>' | sed 's/.*<p><b>\(.*\)<\/b><\/p>/\1/' | sed 's/<br>//'
+    cat html/$1.html | grep '<p>' | grep '</p>' | sed 's/.*<p>\(.*\)<\/p>/\1/' | sed 's/<br>//'
 
 }
 
@@ -30,12 +30,28 @@ curl -s https://www.africinnov.com/fr/annuaire > html/index.html
 
 for u in $(cat html/index.html | grep https://www.africinnov.com/fr/annuaire/ | sed 's/.*"https:\/\/www.africinnov.com\/fr\/annuaire\/\([^"]*\)".*/\1/' | sort | uniq ); do
     curl -s https://africinnov.com/fr/annuaire/$u > html/$u.html
+    id=""
     name=$(get_name $u)
-    email=$(get_email $u)
-    facebook=$(get_facebook_url $u)
+    closed=""
     website=$(get_website_url $u)
+    website_down=""	
+    facebook=$(get_facebook_url $u)
+    linkedin=""
+    lat=""
+    lng=""
     address=$(get_address $u)
+    city=""
+    region=""
+    country=""	
     description=$(get_description $u)
-    echo "\"$name\",\"$website\",\"$facebook\",\"$address\",\"$email\",\"$description\""
+    email=$(get_email $u)
+
+    curl -s "$website" >/dev/null
+    if [ "$?" -ne "0" ]; then
+        website_down="x"
+    fi
+
+
+    echo "\"$id\",\"$name\",\"$closed\",\"$website\",\"$website_down\",\"$facebook\",\"$linkedin\",\"$lat\",\"$lng\",\"$address\",\"$city\",\"$region\",\"$country\",\"$description\",\"$email\""
 
 done
