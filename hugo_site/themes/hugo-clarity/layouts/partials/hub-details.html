@@ -1,0 +1,40 @@
+
+  <div class="">
+    Website:
+    {{ with .Params.website }}
+      <a href="{{ . }}" class="twitter" title="Twitter" target="_blank" rel="nofollow">
+        {{ . }}
+      </a>
+    {{end }}
+    <br />
+
+    Twitter: 
+    {{ with .Params.Twitter }}
+      <a href="https://twitter.com/{{ . }}" class="twitter" title="Twitter" target="_blank" rel="nofollow">
+        https://twitter.com/{{ . }}
+      </a>
+    {{end }}
+    <br />
+
+    Facebook:
+    {{ with .Params.facebook }}
+      <a href="{{ . }}" class="facebook" target="_blank" rel="nofollow">
+        {{.}}
+      </a>
+    {{ end }}
+    <br />
+
+      <br />
+    {{ with .Params.linkedin }}
+      Linkedin:
+      <a href="{{ . }}" id = "linkedinshare" class="linkedin" rel="nofollow">
+        [linkedin]
+      </a>
+    {{ end }}
+
+    {{ with .Params.location }}
+    City: {{ with .city }} {{.}} {{ end }} <br />
+    Country: {{ with .country }} {{.}} {{ end }}
+    {{ end }}
+  </div>
+  
