@@ -16,5 +16,6 @@ location:
    region: 
    country: Benin
 email: 
+articles:
 ---
 Coworkingspace et action tank qui recherche des approches innovantes li�es aux nouvelles technologies pour r�pondre aux enjeux sociaux-�conomiques de ce si�cle.

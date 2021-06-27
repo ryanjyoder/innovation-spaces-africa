@@ -16,5 +16,6 @@ location:
    region: 
    country: 
 email: contact@thepugbybo.com
+articles:
 ---
 The Plug est un programme d�incubation propose? par BOPlug a? toute entrepreneur ayant un projet en lien avec le de?veloppement de l'expe?rience client. Plus innovant, plus digitale et plus respectueux des nouvelles attentes environnementales.

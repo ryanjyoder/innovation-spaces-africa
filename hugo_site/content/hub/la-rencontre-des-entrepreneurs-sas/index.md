@@ -16,5 +16,7 @@ location:
    region: 
    country: 
 email: 
+articles:
+   - "https://www.sikafinance.com/marches/le-fonds-dinvestissement-la-rde-holding-ouvre-une-chaine-de-cafe-au-senegal_27383"
 ---
 La  Rencontre Des Entrepreneurs (RDE) est le 1�r Acc�l�rateur multisectoriel d'appui et d'accompagnement priv� du S�n�gal dont la  principale mission consiste �  rep�rer des PME � fort potentiel pour en faire des champions en leur  donnant acc�s au capital,  aux meilleures comp�tences  et   �  un  ensemble de r�seau   

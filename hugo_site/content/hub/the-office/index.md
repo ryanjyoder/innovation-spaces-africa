@@ -16,5 +16,7 @@ location:
    region: Kigali City
    country: Rwanda
 email: 
+articles:
+   - "http://coworkingafrica.com/2015/03/25/interview-jon-stever-the-office-kigali/"
 ---
 The Office is a coworking space, a community innovation hub, a physical entrepreneurial ecosystem, and an art gallery...among other things. 

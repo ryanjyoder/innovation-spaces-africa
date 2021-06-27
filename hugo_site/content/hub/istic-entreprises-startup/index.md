@@ -16,5 +16,8 @@ location:
    region: 
    country: 
 email: 
+articles:
+   - "https://www.africinnov.com/fr/annuaire/istic-entreprises-startup"
+   - "https://www.leconomistemaghrebin.com/2017/12/11/istic-entreprises-pepiniere-apii/"
 ---
 ISTIC Entreprises Startup se propose comme une passerelle entre le monde universitaire et le monde socio-�conomique.  

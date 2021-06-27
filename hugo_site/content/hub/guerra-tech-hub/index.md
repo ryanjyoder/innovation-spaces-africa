@@ -16,5 +16,7 @@ location:
    region: 
    country: 
 email: contact@guerrahub.com
+articles:
+   - "http://ecostartup.org/guerra-tech-hub-lincubateur-du-nord-mise-pour-une-industrie-numerique-inclusive-mixte-et-egalitaire/"
 ---
 Avec Guerra, nous souhaitons d�velopper une communaut�, un p�le social, durable, multiculturel et interg�n�rationnel autour des enjeux du num�rique. A cet effet, nous avons mis en place 3 grands programmes de d�veloppement et offrons de multiples services pour soutenir notre communaut� technologique.

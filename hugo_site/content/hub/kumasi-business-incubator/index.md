@@ -16,5 +16,11 @@ location:
    region: 
    country: Ghana
 email: 
+articles:
+   - "https://ghanatalksbusiness.com/2018/07/business-incubator-series-meet-ceo-kumasi-hive/"
+   - "https://www.modernghana.com/news/319994/knust-sets-up-kumasi-business-incubator.html"
+   - "https://tahmo.org/call-for-application-hackathon-for-environmental-sensors-19-to-23-nov-2018-in-kumasi-ghana/"
+   - "https://recycleupghana.org/recycle-up-ghana-business-incubation-weekend-bootcamp-2019/"
+   - "https://womenandbusines.wordpress.com/2014/12/12/kumasi-business-incubator-is-latest-ghana-innovation-hub/"
 ---
 

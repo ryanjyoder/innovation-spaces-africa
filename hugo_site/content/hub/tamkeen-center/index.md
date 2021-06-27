@@ -16,5 +16,8 @@ location:
    region: 
    country: 
 email: contact@tamkeen.ma
+articles:
+   - "https://www.bicworld.com/en/moroccan-center-innovation-and-social-entrepreneurship-mcise-tamkeen-initiative"
+   - "https://menafn.com/1101210786/Qatar-Charity-concludes-first-phase-of-Tamkeen-programme"
 ---
 Tamkeen Center est une initiatve priv�e et apolitique, mais accueille toute contribution et appui technique et financiers pour favoriser le d�ploiement de son activit� � plus grande �chelle.&nbsp;

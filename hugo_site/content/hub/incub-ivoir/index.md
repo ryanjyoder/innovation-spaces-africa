@@ -16,5 +16,10 @@ location:
    region: 
    country: 
 email: afric'innov
+articles:
+   - "https://www.afrikatech.com/start-business/incubivoir-environment-startup-project-caravan/"
+   - "https://stage.intracen.org/news/With-support-from-FastTrackTech-tech-hubs-boost-innovation-in-West-Africa/"
+   - "https://www.water-entrepreneurship-pact.org/2021/05/31/what-weve-been-up-to-in-west-africa-so-far/"
+   - "https://inafrik.com/incubivoir-la-passerelle-ideale-entre-porteurs-de-projets-et-investisseurs/"
 ---
 incubinfo@caamonde.org

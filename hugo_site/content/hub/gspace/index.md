@@ -16,5 +16,7 @@ location:
    region: 
    country: Ghana
 email: 
+articles:
+   - "http://ecostartup.org/guerra-tech-hub-lincubateur-du-nord-mise-pour-une-industrie-numerique-inclusive-mixte-et-egalitaire/"
 ---
 

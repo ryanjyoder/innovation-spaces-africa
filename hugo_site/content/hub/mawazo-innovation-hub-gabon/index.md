@@ -16,5 +16,6 @@ location:
    region: Estuaire
    country: Gabon
 email: 
+articles:
 ---
 The Mawazo Innovation Hub, a division of NFT Consult, was established to support emerging Next Generation ICT businesses .

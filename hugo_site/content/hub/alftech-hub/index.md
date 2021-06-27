@@ -16,5 +16,8 @@ location:
    region: Ogun State
    country: Nigeria
 email: 
+articles:
+   - "https://www.ft.com/content/c757e400-f994-4fc4-87fa-e2647de138a3"
+   - "https://thenationonlineng.net/alftech-hub-assist-young-entrepreneurs/"
 ---
 ALFTech Hub is  an innovation hub that is focused on social impact, job creation, skill acquisition, youth engagement and innovation. 

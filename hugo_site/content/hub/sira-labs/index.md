@@ -16,5 +16,10 @@ location:
    region: 
    country: 
 email: contact@sira-labs.com
+articles:
+   - "https://www.burkina24.com/2020/10/28/lancement-de-lincubateur-sira-labs-a-bobo-dioulasso-des-opportunites-de-creation-dentreprises-numeriques-pour-tous/"
+   - "https://www.burkina24.com/2017/07/31/tic-au-burkina-sira-labs-ou-la-route-du-developpement/"
+   - "https://lefaso.net/spip.php?article100228"
+   - "https://eprevision.blog4ever.com/sira-labs-sante-de-lenfant-etat-des-lieux-au-burkina-faso-et-transformation-digitale"
 ---
 

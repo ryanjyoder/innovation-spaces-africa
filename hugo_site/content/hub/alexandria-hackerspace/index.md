@@ -16,5 +16,8 @@ location:
    region: 
    country: Egypt
 email: 
+articles:
+   - "https://dailynewsegypt.com/2014/09/14/hacking-like-egyptians/"
+   - "https://www.wamda.com/2013/04/9-hackerspaces-changing-the-arab-world"
 ---
 

@@ -16,5 +16,9 @@ location:
    region: Federal Capital Territory
    country: Nigeria
 email: Info@civicfoundationforinnovation.org
+articles:
+   - "https://reliefweb.int/report/nigeria/undp-partners-civic-foundation-innovation-seeks-new-approaches-designing-development"
+   - "https://techpoint.africa/2017/08/09/civic-innovation-lab-abuja-launch/"
+   - "https://philanthropynewsdigest.org/connections/cleveland-foundation-s-civic-innovation-lab"
 ---
 Civic Innovation hub is a co-creation space and innovation center that is focused on social impact, youth engagement and innovation. 

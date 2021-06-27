@@ -16,5 +16,6 @@ location:
    region: Akwa Ibom
    country: Nigeria
 email: 
+articles:
 ---
 Start Innovation Hub is an innovation lab in Uyo, Nigeria. It was incorporated in May 2014 to help technology startups with software and hardware ideas start up faster. Start Hub aims at stimulating economic growth in the technology community by providing key ingredients like seed funding, mentorship and access to business expertise. Others are networking opportunities, peer review, pitch development, product testing and introduction to investors. 

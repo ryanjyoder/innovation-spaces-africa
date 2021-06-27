@@ -16,5 +16,8 @@ location:
    region: 
    country: 
 email: info@bujahub.com
+articles:
+   - "https://www.jimbere.org/news/digital-entrepreneurship-unemployment-solution-youth-burundi/"
+   - "none"
 ---
 

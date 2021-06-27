@@ -16,5 +16,10 @@ location:
    region: Western Region
    country: Ghana
 email: 
+articles:
+   - "https://www.pulse.com.gh/news/business/empowering-businesses-eazzysocial-and-icode-empower-business-professionals-in/r4df3x4"
+   - "https://newsghana.com.gh/mest-and-mastercard-foundation-training-program-for-startup-creation/"
+   - "https://newsghana.com.gh/web-technology-another-avenue-for-job-creation-and-economic-empowerment-darko-mensah/"
+   - "https://africabusiness2020.com/2018/10/08/beyond-accra-5-hubs-outside-ghanas-capital-need-know/"
 ---
 iCODE is an innovation hub that is focused on skill acquisition, youth engagement and innovation.  

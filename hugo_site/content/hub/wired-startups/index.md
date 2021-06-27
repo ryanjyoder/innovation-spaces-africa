@@ -16,5 +16,8 @@ location:
    region: 
    country: Morocco
 email: 
+articles:
+   - "https://medium.com/@aminebenkeroum/why-i-started-wired-africa-768c439f4d78"
+   - "https://ventureburn.com/2019/09/everything-you-need-to-know-about-the-north-african-startup-landscape/"
 ---
 Wired Startups is an Incubator/Accelerator that is focused on job creation, skill acquisition and innovation.

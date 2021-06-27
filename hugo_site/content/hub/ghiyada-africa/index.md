@@ -16,5 +16,8 @@ location:
    region: 
    country: 
 email: ghiyadaafrica@gmail.com
+articles:
+   - "https://www.africinnov.com/fr/annuaire/ghiyada-africa"
+   - "https://africa-talents.tg/jeune-fille-dans-le-developpement-numerique-du-togo-21-avril-2018-a-lome/"
 ---
 

@@ -16,5 +16,6 @@ location:
    region: 
    country: Democratic Republic of the Congo
 email: start@llab.cd
+articles:
 ---
 Lumumba Labs began operation in October, 2014, and was officially registered in May, 2015 with a staff strength of 4.

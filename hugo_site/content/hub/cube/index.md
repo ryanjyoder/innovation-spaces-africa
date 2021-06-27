@@ -16,5 +16,7 @@ location:
    region: 
    country: 
 email: equipecube@gmail.com
+articles:
+   - "https://robohub.org/cube-tech-fair/"
 ---
 L'accent est mis sur les projets dans les biotechnologies (Agriculture et transformation agroalimentaire, solutions innovantes en biotechnologies m�dicales, environnementales et industrielles). Toutefois nous sommes pr�ts � accompagner d'autres projets si le volet innovation est prouv� (Inclusion financi�re, �nergie, services de base) et qui r�pondent � un probl�me identifi� dans la communaut�.

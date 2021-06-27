@@ -16,5 +16,9 @@ location:
    region: 
    country: 
 email: 
+articles:
+   - "https://www.africanews.com/2019/07/11/the-congo-business-network-for-economic-development-the-morning-call//"
+   - "https://www.kapitalafrik.com/2018/12/13/drc-congo-business-network-plans-an-online-event-on-business-registration-in-congo/"
+   - "https://www.fmdrc-zambia.com/congo-business-network-to-focus-on-the-digital-ecosystem/"
 ---
 

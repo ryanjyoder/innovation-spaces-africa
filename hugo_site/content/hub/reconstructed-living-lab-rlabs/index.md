@@ -16,5 +16,8 @@ location:
    region: Western Cape
    country: South Africa
 email: info@rlabs.org
+articles:
+   - "https://www.tandfonline.com/doi/abs/10.1080/20786204.2010.10873982"
+   - "http://www.hsrc.ac.za/en/review/hsrc-review-dec-2019/sa-living-labs"
 ---
 Reconstructed Living Lab (RLabs) is a global movement and registered social enterprise that provides innovative solutions to address various complex problems.

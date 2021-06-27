@@ -16,5 +16,8 @@ location:
    region: 
    country: 
 email: incubateur@ugb.edu.sn
+articles:
+   - "https://entrepreneuriatsn.com/incubateur-ugb-recrutement-de-30-jeunes-en-pre-incubation/"
+   - "http://entreprendre.reverberelemag.com/directory/incubateur-ugb/"
 ---
 

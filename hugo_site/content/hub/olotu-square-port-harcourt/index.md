@@ -16,5 +16,9 @@ location:
    region: Rivers
    country: Nigeria
 email: 
+articles:
+   - "https://ventureburn.com/2018/06/heres-need-know-nigerias-tech-startup-ecosystem/"
+   - "https://techcultureng.com/2019/08/10/port-harcourt-to-host-global-women-startup-weekend/"
+   - "https://techpoint.africa/2017/10/13/paq-session-2017-portharcourt/"
 ---
 Olotu Square is an innovation center focused on social impact, youth engagement and innovation. 

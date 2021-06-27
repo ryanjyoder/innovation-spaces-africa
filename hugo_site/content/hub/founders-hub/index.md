@@ -16,5 +16,6 @@ location:
    region: Kwara
    country: Nigeria
 email: 
+articles:
 ---
 Founders Hub is an innovation hub that is focused on skill acquisition, youth engagement and innovation.

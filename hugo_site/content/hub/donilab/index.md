@@ -16,5 +16,11 @@ location:
    region: District de Bamako
    country: Mali
 email: info@donilab.net
+articles:
+   - "https://www.afrik21.africa/en/mali-donilab-finances-the-projects-of-three-start-ups-in-the-green-economy/"
+   - "https://www.rfi.fr/fr/emission/20181116-difficultes-repats-mali"
+   - "https://blogs.worldbank.org/fr/voices/une-competition-encourage-la-diaspora-entreprendre-au-mali"
+   - "https://la-jmec.com/project/4-5-6-decembre-bamako-mali/"
+   - "https://chronicle.lu/category/innovation/35611-two-incubators-supported-by-ada-obtain-africinnov-label"
 ---
 DoniLab is an innovation hub that is focused on social impact, job creation and innovation.

@@ -16,5 +16,8 @@ location:
    region: Volta Region
    country: Ghana
 email: 
+articles:
+   - "https://www.techinafrica.com/afrilabs-reaches-milestone-100-hubs/"
+   - "https://18.189.87.50/afrilabs-introduces-40-new-hubs-into-its-network/"
 ---
 Honode Hub is an incubator and accelerator  that are focused on skill acquisition, job creation and innovation.  

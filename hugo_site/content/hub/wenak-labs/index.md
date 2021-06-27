@@ -16,5 +16,12 @@ location:
    region: N�Djamena
    country: Chad
 email: contact@wenaklabs.org
+articles:
+   - "https://www.afrikatech.com/start-business/afrilabs-strengthens-in-africa-through-the-addition-of-11-new-technology-hubs-to-its-network/"
+   - "https://www.techgistafrica.com/specials/reviews/pan-african-tech-network-expands-to-chad-and-dr-congo-with-11-new-tech-hubs/"
+   - "https://howafrica.com/afrilabs-welcomes-new-hubs-into-pan-african-network/"
+   - "https://www.journaldutchad.com/tchad-lancement-la-semaine-prochaine-de-novembre-numerique/"
+   - "https://theworldnews.net/td-news/tchad-un-novembre-numerique-pour-promouvoir-la-citoyennete-sur-internet"
+   - "https://awomkenneth.com/2017/05/nhub-nigeria-and-others-join-afrilabs/"
 ---
 began operation in April, 2014, and was officially registered in July, 2015. They are an innovation and co-creation hub focused on social impact, skill acquisition, job creation and youth engagement.

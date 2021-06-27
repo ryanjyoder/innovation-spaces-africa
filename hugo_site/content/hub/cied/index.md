@@ -16,5 +16,11 @@ location:
    region: 
    country: 
 email: 
+articles:
+   - "https://www.iecd.org/projets/cote-ivoire-appui-aux-petites-entreprises-et-projet-mpe/"
+   - "http://www.faapa.info/en/2021/02/26/legislatives-2021-la-cied-appelle-au-sens-de-responsabilite-des-acteurs-politiques-pour-des-elections-apaisees/"
+   - "https://www.fratmat.info/article/211459/politique/eacutelections-leacutegislatives/legislatives-2021-la-cied-sensibilise-a-koumassi"
+   - "https://www.afrikmag.com/cote-divoire-election-du-31-octobre-la-cied-appelle-a-un-environnement-preelectoral-apaise/"
+   - "https://news.abidjan.net/h/688497.html"
 ---
 

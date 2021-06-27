@@ -16,5 +16,6 @@ location:
    region: 
    country: 
 email: contact@trustees.fr
+articles:
 ---
 Trustee est une soci�t� qui accompagne et investit en position minoritaire dans les startups innovantes. Trustee intervient �galement � divers stades de d�veloppement dans des Startups et Pme  � fort potentiel de croissance. Nous offrons �galement un espace de travail partag� (Coworking) et d'autres prestations � la carte pour mieux repondre au besoin des porteurs de projet. �

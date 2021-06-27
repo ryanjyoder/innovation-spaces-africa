@@ -16,5 +16,8 @@ location:
    region: Harare Province
    country: Zimbabwe
 email: 
+articles:
+   - "https://www.africanews.com/2020/12/09/survey-reveals-95-percent-of-african-small-and-medium-sized-enterprises-smes-did-not-receive-government-aid-during-covid-19-pandemic//"
+   - "https://www.globalinnovationgathering.org/2018/09/15/izone-hub-has-a-new-address/"
 ---
 iZone Hub is an incubator and accelerator that are focused on skill acquisition, job creation and innovation.

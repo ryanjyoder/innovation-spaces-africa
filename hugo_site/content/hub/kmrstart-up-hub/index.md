@@ -16,5 +16,13 @@ location:
    region: 
    country: 
 email: 
+articles:
+   - "https://www.digitaltimes.africa/afrilabs-admits-15-new-members-across-africa/"
+   - "https://disrupt-africa.com/2020/12/10/african-hubs-network-afrilabs-adds-15-new-members-to-reach-240/"
+   - "https://techpadi.africa/2020/12/africalab-hub-reaches-250-startup-membership/"
+   - "http://nlonako.com/2020/09/14/kmr-start-up-hub-lincubateur-qui-se-voue-a-la-promotion-de-linnovation-en-zone-rurale/"
+   - "https://mybusiness237.wordpress.com/tag/kmr-start-up-hub/"
+   - "https://webdesign.tutsplus.com/articles/the-state-of-web-design-in-africa--cms-26756"
+   - "https://www.afrohustler.com/are-cameroonian-banks-about-to-miss-out-on-digital-payments-fintech/"
 ---
 

@@ -16,5 +16,6 @@ location:
    region: 
    country: Cameroon
 email: 
+articles:
 ---
 Projet d'espace coworking & innovation au c�ur de la r�gion centre

@@ -16,5 +16,9 @@ location:
    region: 
    country: contact@technopark.ma
 email: 
+articles:
+   - "https://www.thehindu.com/news/national/kerala/game-changer/article32473407.ece"
+   - "https://businesschief.eu/leadership-and-strategy/technopark-driving-innovation-morocco-through-ecosystem-entrepreneurial-growth"
+   - "https://www.techinafrica.com/moroccos-agadir-technopark-for-startups-is-almost-completion/"
 ---
 afric'innov

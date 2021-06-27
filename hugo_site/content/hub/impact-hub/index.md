@@ -16,5 +16,8 @@ location:
    region: 
    country: South Africa 
 email: 
+articles:
+   - "https://disrupt-africa.com/2015/07/23/impact-hub-johannesburg-closes/"
+   - "https://africabusinesscommunities.com/news/liquid-telecom-rwanda-partners-with-impact-hub-kigali-to-nurture-digital-innovation/"
 ---
 

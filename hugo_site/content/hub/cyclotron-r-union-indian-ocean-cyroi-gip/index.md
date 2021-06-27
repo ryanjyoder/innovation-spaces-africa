@@ -16,5 +16,9 @@ location:
    region: 
    country: Reunion
 email: 
+articles:
+   - "https://umr-astre.cirad.fr/en/research/teams/research-and-surveillance-in-the-indian-ocean-crvoi"
+   - "http://ecoaustral.com/comment-le-cyroi-fait-de-la-reunion-une-terre-de-recherche"
+   - "https://www.ipreunion.com/cinor-actualite/reportage/2021/04/02/cinor-cyroi-visite-au-coeur-de-la-recherche,133207.html"
 ---
 

@@ -16,5 +16,10 @@ location:
    region: 
    country: 
 email: contact@dlcoworking.com
+articles:
+   - "http://businesschallengeniger.com/appel-a-projet-by-dlcoworking/"
+   - "https://www.africinnov.com/fr/news/leila_kaman_militante_dune_diaspora_africaine_engagee"
+   - "https://inesi-niger.org/entretien-avec-leila-diana-kaman-notre-vision-est-de-reveler-le-potentiel-nigerien/"
+   - "https://www.francophonieinnovation.org/articles/h/appel-a-candidature-pour-incubation-les-odd-au-feminin-2020.html"
 ---
 

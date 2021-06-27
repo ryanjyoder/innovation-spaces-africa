@@ -16,5 +16,8 @@ location:
    region: 
    country: Uganda
 email: 
+articles:
+   - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3827263/"
+   - "https://www.routesonline.com/news/29/breaking-news/208457/routes-africa-korongo-plans-link-to-uganda-following-fleet-growth/"
 ---
 

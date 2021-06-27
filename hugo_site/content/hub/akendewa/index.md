@@ -16,5 +16,8 @@ location:
    region: 
    country: Cote D'Ivoire
 email: 
+articles:
+   - "https://fi.co/insight/silicon-valley-based-founder-institute-launches-new-startup-program-in-ivory-coast"
+   - "https://www.bbc.com/news/world-africa-12986141"
 ---
 

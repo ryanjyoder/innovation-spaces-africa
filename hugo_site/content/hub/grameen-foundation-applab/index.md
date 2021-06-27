@@ -16,5 +16,10 @@ location:
    region: 
    country: Uganda
 email: 
+articles:
+   - "https://www.modernghana.com/news/224554/grameen-foundation-launches-mobile-services-tailor.html"
+   - "https://www.tandfonline.com/doi/full/10.1080/1369118X.2016.1200644"
+   - "https://www.cgap.org/blog/art-discovery-incubating-mobile-money-ideas-uganda"
+   - "https://www.cnet.com/news/for-ugandas-poor-a-cellular-connection/"
 ---
 

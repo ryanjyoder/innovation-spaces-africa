@@ -16,5 +16,8 @@ location:
    region: 
    country: Namibia
 email: 
+articles:
+   - "http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=6999"
+   - "https://www.opportunitiesforafricans.com/namibia-business-innovation-centre-business-plan-competition-2013/"
 ---
 

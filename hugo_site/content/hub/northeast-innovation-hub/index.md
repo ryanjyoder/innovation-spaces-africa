@@ -16,5 +16,7 @@ location:
    region: Adamawa
    country: Nigeria
 email: info@humanitarianihub.org
+articles:
+   - "https://allafrica.com/stories/202008280057.html"
 ---
 NorthEast Innovation Hub is a dynamic community of creative minds and game changers collaborating on innovative solutions to the challenges faced by communities in North-Eastern part of Nigeria and the World as a whole.

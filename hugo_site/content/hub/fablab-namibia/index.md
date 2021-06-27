@@ -16,5 +16,9 @@ location:
    region: 
    country: Namibia
 email: 
+articles:
+   - "https://www.we.com.na/news/fablab-to-shut-its-doors2018-05-16"
+   - "https://allafrica.com/stories/201612210749.html"
+   - "https://www.namibiansun.com/news/team-namibia-and-fablab-play-business-matchmakers"
 ---
 

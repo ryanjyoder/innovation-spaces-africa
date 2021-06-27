@@ -16,5 +16,9 @@ location:
    region: Kano
    country: Nigeria
 email: 
+articles:
+   - "https://techbuild.africa/digital-development-hub-innovation-nigeria/"
+   - "https://blogs.worldbank.org/digital-development/tech-hubs-across-africa-which-will-be-legacy-makers"
+   - "https://hbr.org/2019/12/research-how-technology-could-promote-growth-in-6-african-countries"
 ---
 Digital Hub is a co-working space, incubation/acceleration and an innovation center that focuses on social impact, skill acquisition and job creation. 

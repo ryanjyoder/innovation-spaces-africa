@@ -16,5 +16,8 @@ location:
    region: District de Bamako
    country: Mali
 email: secretariat@diaspohub.com
+articles:
+   - "https://www.journaldumali.com/2018/02/16/formation-pratique-a-createam/"
+   - "https://innovation-village.com/afrilabs-now-has-a-network-of-100-technology-and-innovation-hubs-across-africa/"
 ---
 Diaspo Hub is an incubator and accelerator  that are focused on skill acquisition, social impact and innovation.

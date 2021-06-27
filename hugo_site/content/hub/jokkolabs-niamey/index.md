@@ -16,5 +16,9 @@ location:
    region: 
    country: 
 email: 
+articles:
+   - "https://rebranding-africa.com/en/2017/09/26/karim-sy/"
+   - "https://www.jeuneafrique.com/3751/economie/r-ussite-avec-jokkolabs-karim-sy-parie-sur-le-co-working/"
+   - "https://www.gsma.com/mobilefordevelopment/english/things-learned-tech-hubs-africa-asia/"
 ---
 

@@ -16,5 +16,12 @@ location:
    region: Abia
    country: Nigeria
 email: 
+articles:
+   - "https://sheleadsafrica.org/innovation-growth-hub-nigeria/"
+   - "https://techbuild.africa/innovation-growth-hub-aba-holds-demo-day/"
+   - "https://techbuild.africa/ighub-empowers-youths-digital-skills/"
+   - "https://www.proshareng.com/news/Tech%20Trends/Innovation-Hubs-in-Nigeria--Challenges-and-Opportunities-for-Growth/45595"
+   - "https://businessday.ng/technology/article/innovation-growth-hub-trains-2000-out-of-school-youths-on-digital-skills/"
+   - "https://techpoint.africa/2017/03/06/list-tech-hubs-across-nigeria/"
 ---
 Innovation Growth Hub is an innovation hub that is focused on job creation, skill acquisition and innovation. 

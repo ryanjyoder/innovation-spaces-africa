@@ -16,5 +16,8 @@ location:
    region: Nairobi County
    country: Kenya
 email: 
+articles:
+   - "https://www.biztechafrica.com/article/ilabafrica-take-android-training-students/9461/"
+   - "https://www.intelligentcio.com/africa/2020/08/05/kenyas-strathmore-university-named-vmware-it-academy-for-east-africa/"
 ---
 @iLabAfrica is a research centre under the Faculty of Information Technology at Strathmore University established to spearhead ICT research.

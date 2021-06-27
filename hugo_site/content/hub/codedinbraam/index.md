@@ -16,5 +16,8 @@ location:
    region: 
    country: South Africa 
 email: 
+articles:
+   - "https://www.thoughtworks.com/insights/blog/software-africans"
+   - "https://globalvoices.org/2015/09/01/tech-communities-in-francophone-africa-rise-to-the-challenge-of-their-anglophone-counterparts/"
 ---
 

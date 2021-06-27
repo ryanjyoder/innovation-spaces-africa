@@ -16,5 +16,9 @@ location:
    region: 
    country: South Africa
 email: info@theinnovationhub.com
+articles:
+   - "https://www.brandsouthafrica.com/investments-immigration/business/trends/innovations/innovationhub"
+   - "https://www.centralbanking.com/fintech/7523676/new-fintech-innovation-hub-goes-live-in-south-africa"
+   - "https://www.mdpi.com/2071-1050/12/5/1858/htm"
 ---
 The Innovation Hub 

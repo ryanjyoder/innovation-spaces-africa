@@ -16,5 +16,11 @@ location:
    region: Gauteng
    country: South Africa
 email: 
+articles:
+   - "http://www.weekendpost.co.bw/21506/weekendlife/young-author-represents-botswana-at-y-beca-foundation/"
+   - "https://www.tralac.org/blog/article/14715-youth-entrepreneurship-in-africa-a-beacon-of-hope-for-the-continent.html"
+   - "https://ventureburn.com/2018/06/afrilabs-extends-deeper-into-north-africa-w/"
+   - "https://www.techinafrica.com/afrilabs-reaches-milestone-100-hubs/"
+   - "https://www.techinafrica.com/details-youngest-african-win-africa-prize-engineering-innovation-2018/"
 ---
 Y-BECA is an incubator and accelerator that is focused on social impact, job creation and innovation

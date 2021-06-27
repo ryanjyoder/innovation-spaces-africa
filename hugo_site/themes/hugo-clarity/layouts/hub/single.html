@@ -25,6 +25,15 @@
     {{- partial "hub-details" . }}
 
     {{- .Content }}
+
+      {{ with .Params.Articles }}
+      <ul>
+      {{ range . }}
+        <li><a href="{{.}}">{{.}}</a></li>
+      {{ end }}
+      </ul>
+    {{ end }}
+
     {{- $showComments := true }}
     {{- if eq $s.comments false }}
       {{- $showComments = false }}

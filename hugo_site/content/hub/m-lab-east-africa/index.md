@@ -16,5 +16,9 @@ location:
    region: 
    country: Kenya
 email: 
+articles:
+   - "https://www.biztechafrica.com/article/mlab-east-africa-officially-opened/809/"
+   - "https://disrupt-africa.com/2014/12/17/kenyan-startups-earn-5k-investment-mlab-east-africa/"
+   - "https://thenextweb.com/news/kenya-launches-africas-first-mobile-apps-lab"
 ---
 

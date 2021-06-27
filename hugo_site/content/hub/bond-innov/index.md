@@ -16,5 +16,8 @@ location:
    region: 
    country: 
 email: contact@bondinnov.com
+articles:
+   - "https://www.biospace.com/article/releases/biocitech-sas-gives-support-to-three-start-ups-in-bond-innov-initiative-/"
+   - "none"
 ---
    Notre exp�rience dans l'accompagnement de projets innovants nous permet de s�lectionner et de suivre avec soin des projets de qualit� gr�ce � une �quipe d'accompagnement d�di�e, des locaux � disposition des entrepreneurs, un r�seau actif en France et en Afrique, des formations collectives, un p�le d'experts, et de nombreux autres services !

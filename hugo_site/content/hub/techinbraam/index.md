@@ -16,5 +16,11 @@ location:
    region: 
    country: South Africa
 email: 
+articles:
+   - "https://www.brandsouthafrica.com/investments-immigration/science-technology/new-technology-hub-for-braamfontein"
+   - "https://mg.co.za/article/2013-05-30-00-jozis-tech-revolution-goes-to-town/"
+   - "https://www.thoughtworks.com/insights/blog/software-africans"
+   - "https://www.ee.co.za/article/conversation-prof-barry-dwolatzky-dedication-passion-funding-lacking.html"
+   - "https://ventureburn.com/2013/06/the-most-comprehensive-guide-to-the-sa-startup-landscape-ever-resource/"
 ---
 

@@ -16,5 +16,8 @@ location:
    region: 
    country: South Africa 
 email: 
+articles:
+   - "https://ventureburn.com/2019/07/university-incubators-african-entrepreneurs/"
+   - "https://www.entrepreneur.com/article/327566"
 ---
 

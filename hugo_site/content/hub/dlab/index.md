@@ -16,5 +16,11 @@ location:
    region: 
    country: Tanzania
 email: 
+articles:
+   - "https://www.data4sdgs.org/news/people-are-heart-data-revolution"
+   - "https://blog.okfn.org/2017/03/29/data-for-sustainable-development-celebrates-open-data-day/"
+   - "https://www.devex.com/news/sponsored/opinion-covid-19-lesson-local-data-skills-matter-98910"
+   - "https://mabumbe.com/cmp/tanzania-data-lab-dlab/"
+   - "https://blogs.worldbank.org/opendata/meet-four-women-leading-drive-open-data-africa"
 ---
 dLab began operations in March, 2016 and was legally registered in the same month with a current staff strength of 35.  

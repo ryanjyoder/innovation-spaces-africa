@@ -16,5 +16,12 @@ location:
    region: 
    country: contact@cepem.sn
 email: 
+articles:
+   - "https://www.ledna.org/Entreprenariat-Lancement-du-projet-renforcement-de-capacites-de-la-Couveuse-d.html"
+   - "https://www.africinnov.com/fr/annuaire/cepem-couveuse-dentreprise-pour-la-promotion-de-le"
+   - "https://www.topnews.sn/pme-la-mairie-de-dakar-va-accompagner-50-jeunes-entrepreneurs-dakarois/"
+   - "https://www.xalimasn.com/entreprenariat-et-appui-aux-jeunes-les-villes-de-dakar-et-montreal-sengagent-dans-le-projet-cepem-pour-accompagner-les-dakarois/"
+   - "https://eequebec.com/communique-lecole-met-son-expertise-au-service-du-developpement-entrepreneurial-de-la-ville-de-dakar/"
+   - "https://www.aimf.asso.fr/Dakar-Inauguration-de-la-Couveuse-d-entreprise-pour-la-promotion-de-l-emploi.html"
 ---
 afric'innov

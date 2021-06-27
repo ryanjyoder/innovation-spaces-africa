@@ -16,5 +16,8 @@ location:
    region: Lagos
    country: Nigeria
 email: 
+articles:
+   - "https://ventureburn.com/2018/06/heres-need-know-nigerias-tech-startup-ecosystem/"
+   - "https://techpoint.africa/2017/11/09/techpoint-tours-2017-day-4/"
 ---
 Olotu Square

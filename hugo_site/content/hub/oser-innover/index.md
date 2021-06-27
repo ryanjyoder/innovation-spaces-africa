@@ -16,5 +16,10 @@ location:
    region: 
    country: 
 email: 
+articles:
+   - "https://baumeister.swiss/fr/oser-innover-pour-se-differencier/"
+   - "https://www.bilan.ch/economie/oser_innover_pour_rester_leader"
+   - "https://www.actualites.uqam.ca/2020/concours-oser-innover"
+   - "https://www.cio-online.com/actualites/lire-plaidoyer-pour-oser-innover-12927.html"
 ---
 

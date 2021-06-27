@@ -16,5 +16,10 @@ location:
    region: 
    country: Tanzania
 email: 
+articles:
+   - "https://www.infodev.org/articles/teknohama-business-incubator-manager-dar-es-salaam-tanzania"
+   - "https://www.telecompaper.com/news/airtel-tanzania-partners-with-dtbi-on-youth-training--1202577"
+   - "https://www.thebusinessyear.com/tanzania-2014/tech-hubs/focus"
+   - "https://www.oafrica.com/business/tanzanias-latest-ict-project-and-incubator-drive-local-innovation/"
 ---
 

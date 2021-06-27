@@ -16,5 +16,7 @@ location:
    region: 
    country: Uganda
 email: 
+articles:
+   - "https://techjaja.com/takeaways-from-the-launch-of-refactory-tech-academy/"
 ---
 Refactory is a tech program tailored to make tech talents job-ready. The program is created in partnership with � and for � the tech sector in Uganda.

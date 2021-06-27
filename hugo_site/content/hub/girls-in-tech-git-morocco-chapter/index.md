@@ -16,5 +16,7 @@ location:
    region: 
    country: Morocco
 email: 
+articles:
+   - "https://www.wamda.com/2015/04/Girls-in-Tech-launch-Morocco-support-women-entrepreneurs"
 ---
 

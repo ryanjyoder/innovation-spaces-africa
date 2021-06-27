@@ -16,5 +16,10 @@ location:
    region: Akwa Ibom
    country: Nigeria
 email: 
+articles:
+   - "http://www.connectingafrica.com/document.asp?doc_id=746077"
+   - "https://hypestationng.com/the-roothub-and-76-other-communities-selected-for-the-2020-facebook-community-accelerator-program/"
+   - "https://ventureburn.com/2018/06/heres-need-know-nigerias-tech-startup-ecosystem/"
+   - "https://www.africanews.com/2020/07/14/twelve-facebook-leaders-from-nigeria-south-africa-and-kenya-selected-as-part-of-the-facebook-community-accelerator-programme//"
 ---
 Roothub is a co-creation space  that is focused on social impact, job creation and innovation. 

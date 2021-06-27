@@ -16,5 +16,9 @@ location:
    region: Bauchi
    country: Nigeria
 email: info@uplift.ng
+articles:
+   - "https://medium.com/upliftngr/creating-founders-in-bauchi-nigeria-e09e200d2db8"
+   - "https://ventureburn.com/2018/06/heres-need-know-nigerias-tech-startup-ecosystem/"
+   - "https://www.geek360.pro/uplifthub-is-the-never-boring-community-in-bauchi/"
 ---
 Uplift Hub is an innovation hub that is focused on social impact, job creation, skill acquisition, youth engagement and innovation.

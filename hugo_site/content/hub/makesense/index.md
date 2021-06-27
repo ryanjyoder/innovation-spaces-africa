@@ -16,5 +16,7 @@ location:
    region: 
    country: 
 email: 
+articles:
+   - "https://vc4a.com/makesense/"
 ---
 

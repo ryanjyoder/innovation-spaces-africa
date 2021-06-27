@@ -16,5 +16,7 @@ location:
    region: Greater Accra Region
    country: Ghana
 email: 
+articles:
+   - "https://vc4a.com/mobile-web-ghana/"
 ---
 Mobile Web Ghana was created as part of the World Wide Web Foundation�s Mobile Entrepreneurs in Africa program (sponsored by Vodafone) in 2010. It helps passionate people become mobile-technology entrepreneurs, by teaching them to create software applications that are accessible via mobile phones (whether via mobile websites, apps, SMS, or voice). It also helps to make them develop the business side of technology, and teach them mobile business: start-ups, market research, business models, etc.

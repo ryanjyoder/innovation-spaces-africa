@@ -16,5 +16,9 @@ location:
    region: North-Kivu
    country: Democratic Republic of the Congo
 email: reception@cinolu.org
+articles:
+   - "https://www.elanrdc.com/south/2018/11/12/cinolu-centre-dinnovation-de-lubumbashi-hsaka"
+   - "https://www.bizcommunity.com/Article/51/715/213977.html"
+   - "none"
 ---
 Centre d'innovation de Lubumbashi Democratic Republic of Congo

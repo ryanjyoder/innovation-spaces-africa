@@ -16,5 +16,8 @@ location:
    region: 
    country: Nigeria
 email: 
+articles:
+   - "https://guardian.ng/business-services/l5-lab-wins-pebec-technology-solution-bid/"
+   - "https://techcabal.com/2014/11/28/l5-labs-versus-wawotv/"
 ---
 

@@ -16,5 +16,7 @@ location:
    region: 
    country: Tanzania
 email: hello@obuntuhub.co.tz
+articles:
+   - "http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=7009"
 ---
 Obuntu Hub is inspired by the notion of �obuntu� which can be translated as �collective progress.� We conceived the hub as a catalyst to drive collective progress for entrepreneurs and the community at large. Our focus is on empowering young entrepreneurs who innovate through tech or unique business models. 

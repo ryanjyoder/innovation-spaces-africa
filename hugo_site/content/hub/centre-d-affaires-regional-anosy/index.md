@@ -16,5 +16,8 @@ location:
    region: 
    country: 
 email: afric'innov
+articles:
+   - "https://www.newsmada.com/2019/07/03/artisanat-secteur-populaire-avec-un-potentiel-de-developpement/"
+   - "none"
 ---
 cara.anosy@gmail.com

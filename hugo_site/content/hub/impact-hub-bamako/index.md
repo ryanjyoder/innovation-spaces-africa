@@ -16,5 +16,11 @@ location:
    region: Bamako Capital District
    country: Mali
 email: bamako.info@impact.net
+articles:
+   - "https://www.infodev.org/articles/year-life-incubator"
+   - "https://socialworkplaces.com/how-impact-hub-today-operates-the-world-largest-coworking-franchise/"
+   - "https://triplejump.eu/2017/07/31/first-ecosystem-development-support-in-west-africa/"
+   - "https://www.lepoint.fr/economie/technologie-impact-hub-bamako-mohamed-keita-creer-les-entrepreneurs-du-futur-05-01-2016-2007159_28.php"
+   - "https://www.maliweb.net/formation-professionnelle/mali-impact-hub-bamako-ambitionne-de-promouvoir-linsertion-professionnelle-2917257.html"
 ---
 Impact Hub Bamako is an innovation hub that is focused on job creation, youth engagement and innovation

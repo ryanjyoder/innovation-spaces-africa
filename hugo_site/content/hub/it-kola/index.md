@@ -16,5 +16,7 @@ location:
    region: 
    country: Cameroon
 email: 
+articles:
+   - "https://vc4a.com/it-kola/"
 ---
 IT Kola stands for innovation and use of sustainable technologies for Africa. It is a collaborative platform where ideas, inspiration & commitment  

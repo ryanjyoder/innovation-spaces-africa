@@ -16,5 +16,7 @@ location:
    region: 
    country: Tanzania
 email: 
+articles:
+   - "http://www.findglocal.com/TZ/Dar-es-Salaam/199246130413117/STIClab-LTD"
 ---
 STICLab LTD is the first Maker Space in Tanzania with a state of the art digital fabrication Lab where 80% of the equipment being used is made locally by STICLab itself. This equipment includes tools such as CNC Milling Machines and 3D printers. STICLab�s Technology and Innovation Centre is designed to provide a productive environment for scientists, makers and innovators, providing full access to a Lab and Workshop facilities that support product development from idea creation through to production. We welcome individuals from different backgrounds with engineering and technical ideas that could transform society to use our facilities.

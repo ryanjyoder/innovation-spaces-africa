@@ -16,5 +16,8 @@ location:
    region: 
    country: 
 email: 
+articles:
+   - "http://www.lepaystchad.com/2053/"
+   - "https://france3-regions.francetvinfo.fr/normandie/2014/01/30/loxos-une-petite-entreprise-normande-qui-reussit-en-france-et-l-etranger-405525.html"
 ---
 

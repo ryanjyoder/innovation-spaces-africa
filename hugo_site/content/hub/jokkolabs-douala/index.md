@@ -16,5 +16,10 @@ location:
    region: 
    country: 
 email: 
+articles:
+   - "https://inspireafrika.com/jokkolabs-le-social-change-hub-debarque-a-douala/?utm_source=rss&utm_medium=rss&utm_campaign=jokkolabs-le-social-change-hub-debarque-a-douala"
+   - "https://startupbrics.com/innovation-7-incubateurs-en-afrique-ouest/"
+   - "https://www.euromoney.com/article/b1b61mjlc5vb8f/how-socgen-is-building-an-african-future"
+   - "https://www.auletch.com/a-douala-jokkolabs-organise-une-conference-sur-la-bonne-gouvernance-via-les-nouvelles-technologies/"
 ---
 

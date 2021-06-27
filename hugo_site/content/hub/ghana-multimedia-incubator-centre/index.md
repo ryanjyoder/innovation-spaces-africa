@@ -16,5 +16,9 @@ location:
    region: 
    country: Ghana
 email: 
+articles:
+   - "https://newsghana.com.gh/mtn-gmic-equips-young-entrepreneurs-in-ghana/"
+   - "https://www.biztechafrica.com/article/mtn-partners-ghana-multimedia-incubator-center/7695/"
+   - "https://www.ghanabusinessnews.com/2010/12/08/incubators-management-training-workshop-opens/"
 ---
 

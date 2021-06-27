@@ -16,5 +16,6 @@ location:
    region: 
    country: Egypt
 email: 
+articles:
 ---
 The District is an inspiring coworking space for game-changing entrepreneurs and freelancers with social capital.  

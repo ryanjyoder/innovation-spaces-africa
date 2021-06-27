@@ -16,5 +16,7 @@ location:
    region: 
    country: 
 email: startoppzone@rjdlt.com
+articles:
+   - "https://www.digitaltimes.africa/afrilab-welcomes-27-new-members/"
 ---
 

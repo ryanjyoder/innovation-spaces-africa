@@ -16,5 +16,6 @@ location:
    region: 
    country: 
 email: contact@energy-generation.org
+articles:
 ---
 Energy Generation est une organisation panafricaine qui encourage les jeunes Africains � relever les d�fis les plus pressants de leur g�n�ration (�nergie, agriculture, sant�, etc.) � travers l'entrepreneuriat et la technologie.     <br>Energy Generation vise � soutenir et � promouvoir les innovations technologiques et entrepreneuriales afin d'identifier, de d�velopper et de diffuser largement les solutions pratiques � made in Africa �.     <br><br>Mais avant tout, Energy Generation est une plate-forme centr�e sur l'humain qui offre aux individus des possibilit�s de lib�rer et d�exprimer toute leur cr�ativit�.<br>

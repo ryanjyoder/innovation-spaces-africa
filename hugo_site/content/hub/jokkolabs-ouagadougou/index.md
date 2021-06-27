@@ -16,5 +16,7 @@ location:
    region: 
    country: Burkina Faso
 email: 
+articles:
+   - "https://www.appsafrica.com/jokkolabs-becomes-member-of-growing-afrilabs-network/"
 ---
 

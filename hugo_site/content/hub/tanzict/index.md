@@ -16,5 +16,9 @@ location:
    region: 
    country: Tanzania
 email: 
+articles:
+   - "https://www.infodev.org/articles/cutting-edge-ict-incubator-set-unleash-technology-entrepreneurship-tanzania"
+   - "https://www.howwemadeitinafrica.com/will-tanzanias-two-new-innovation-hubs-boost-the-countrys-tech-scene/20416/"
+   - "https://blogs.worldbank.org/digital-development/weve-updated-africa-tech-hub-map-using-your-suggestions"
 ---
 

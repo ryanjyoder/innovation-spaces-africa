@@ -16,5 +16,8 @@ location:
    region: Gauteng
    country: South Africa
 email: 
+articles:
+   - "http://www.ngopulse.org/opportunity/2017/05/16/board-membership"
+   - "https://www.entrepreneur.com/article/327566"
 ---
 Softstart Incubator is an innovation hub that is focused on social impact, job creation and innovation. 

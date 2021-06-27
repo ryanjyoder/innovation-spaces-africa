@@ -16,5 +16,8 @@ location:
    region: 
    country: South Africa
 email: 
+articles:
+   - "https://ventureburn.com/2014/12/new-center-mpumalanga-foster-culture-entrepreneurship/"
+   - "https://ventureburn.com/2015/02/startup-90-reveals-second-cohort-keen-acceleration/"
 ---
 

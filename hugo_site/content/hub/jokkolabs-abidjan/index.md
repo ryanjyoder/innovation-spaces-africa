@@ -16,5 +16,10 @@ location:
    region: 
    country: C?te d?Ivoire
 email: 
+articles:
+   - "https://www.jeuneafrique.com/6228/economie/jokkolabs-abidjan-et-casablanca/"
+   - "https://www.tandfonline.com/doi/full/10.1080/20421338.2020.1816265"
+   - "https://www.jeuneafrique.com/6228/economie/jokkolabs-abidjan-et-casablanca/"
+   - "https://www.africatopsuccess.com/jokkolabs-abidjan-and-casablanca-joining-the-network/"
 ---
 

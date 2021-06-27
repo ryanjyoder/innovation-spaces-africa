@@ -16,5 +16,7 @@ location:
    region: Kinshasa
    country: Democratic Republic of the Congo
 email: 
+articles:
+   - "https://startup.info/kivuhub/"
 ---
 Kivu Hub is an incubator and accelerator that are focused on social impact, job creation and innovation. 

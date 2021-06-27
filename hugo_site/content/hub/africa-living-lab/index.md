@@ -16,5 +16,8 @@ location:
    region: 
    country: Senegal
 email: 
+articles:
+   - "https://www.slideshare.net/openlivinglabs/the-case-for-african-network-of-living-labs-alvaro-oliveira"
+   - "none"
 ---
 

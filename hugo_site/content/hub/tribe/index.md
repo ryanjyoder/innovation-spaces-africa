@@ -16,5 +16,7 @@ location:
    region: Anambra
    country: Nigeria
 email: 
+articles:
+   - "https://ventureburn.com/2018/06/heres-need-know-nigerias-tech-startup-ecosystem/"
 ---
 Tribe is an innovation centre that is focuses on skill acquisition, social impact and innovation.  

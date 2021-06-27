@@ -16,5 +16,8 @@ location:
    region: 
    country: Rwanda
 email: 
+articles:
+   - "https://ventureburn.com/2015/06/think-adds-new-startups-accelerated-incubator/"
+   - "https://www.forbes.com/sites/karstenstrauss/2014/04/01/lets-build-a-tech-startup-in-rwanda/?sh=5391af776bf0"
 ---
 

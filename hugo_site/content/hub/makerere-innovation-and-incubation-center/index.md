@@ -16,5 +16,10 @@ location:
    region: 
    country: Uganda
 email: 
+articles:
+   - "https://www.opportunitiesforafricans.com/miic-youth-work-readiness-program-cohort-2/"
+   - "https://businessfocus.co.ug/dfcu-bank-partners-with-makerere-innovation-incubation-centre-to-support-young-entrepreneurs/"
+   - "https://www.dw.com/en/innovation-a-country-in-the-starting-blocks/a-43623331"
+   - "https://pctechmag.com/2017/10/government-unveils-shs-80m-innovation-hub-at-makerere/"
 ---
 Makerere University Startup Hub - Transforming ideas and innovations into successful companies.

@@ -16,5 +16,8 @@ location:
    region: 
    country: Nigeria
 email: 
+articles:
+   - "https://disrupt-africa.com/2017/06/01/afrilabs-welcomes-new-hubs-into-pan-african-network/"
+   - "https://www.nytimes.com/2021/04/29/insider/nigeria-niger-river-bridge.html"
 ---
 iBridge began operation in October, 2012 and was legally registered in the same year. It is a co-creation hub that focuses on skill acquisition, social impact and innovation.

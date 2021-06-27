@@ -16,5 +16,7 @@ location:
    region: 
    country: 
 email: hello@jabaspace.co
+articles:
+   - "https://medium.com/@JabaSpace"
 ---
 

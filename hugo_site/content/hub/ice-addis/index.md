@@ -16,5 +16,13 @@ location:
    region: Addis Ababa
    country: Ethiopia
 email: 
+articles:
+   - "https://addiszeybe.com/featured/events/technology/news/iceaddis-and-huawei-jointly-boost-ict-innovation"
+   - "https://www.theengineroom.org/iceaddis-a-hub-for-getting-involved-in-technology-and-social-change/"
+   - "https://www.wamda.com/2013/06/coworking-space-iceaddis-home-to-ethiopia-startups"
+   - "https://afroleap.com/?p=1942"
+   - "https://www.thereporterethiopia.com/article/Coworking%20-spaces-inspiring-innovators?__cf_chl_jschl_tk__=7ef28586410cd29143b4f6ef853a3c153099bfa9-1624093403-0-AbH-Ccp_hkj0oarp-r8ZUeYOJc6h9od0p5kl5ne8CmXSzjJNjBtWBfKKDGwfWUhaCKHgrKaex9Mx2HeBPUjgTHZqwIN58-MQtCdL3hg64nMggoLMVrLn1Ug089kfLvqmE3BQBluzH-ybVp5WKIjDev2apGj2Y91fRtWKWlUBe_HjEQyGg-34wqwm6X94ygong8Bfiw4ma0cMu5BMq4WF6wm8F2OEu35dXomgYMETC_h9Se4PcC_hPqlxw2TzB4g7OxxGBSPUNv980LHw_08ZpskiMjjnJNd_9v96T0-z8MbvorgwENAV4CKJuDbqf2AmSwJMOeQg7L7GQdBX9ZGw6yfClblLmT_3a6Kju8tdS43slyVzw1RJOdX3C4i6EjjAn2JtTICxuqU6yWTebB3F5ZdJUULNaYdxkL9u8Uj5IiYfVeyWI2mpO1wyEu5sZt4IUzLGusKTPRkmvPURsT1KETM"
+   - "https://disrupt-africa.com/2016/02/25/iceaddis-growth-africa-partner-for-ethiopian-accelerator/"
+   - "https://www.techinafrica.com/payway-ethiopia-closes-a-6-figure-grant-from-li-way-payment-to-create-jobs-through-digital-payment/"
 ---
 iceaddis is a self-sufficient business incubation and innovation community center aimed at supporting Ethiopia�s economic growth by tightening the constructive interaction between researchers, developers, entrepreneurs, creative workers and customers and by promoting local technological solutions and solution providers to the public.   

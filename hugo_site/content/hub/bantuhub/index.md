@@ -16,5 +16,10 @@ location:
    region: 
    country: Congo
 email: 
+articles:
+   - "https://www.biztechafrica.com/article/congo-brazzavilles-bantuhub-offers-ict-relief-loca/8861/"
+   - "https://www.lepoint.fr/economie/du-bantuhub-a-l-infinite-school-verone-mankou-dit-tout-30-07-2014-1860380_28.php"
+   - "https://www.afrikatech.com/start-business/verone-mankou-and-her-way-c-tablet/"
+   - "https://www.biztechafrica.com/article/congo-brazzavilles-bantuhub-offers-ict-relief-loca/8861/"
 ---
 

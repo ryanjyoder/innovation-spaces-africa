@@ -16,5 +16,8 @@ location:
    region: 
    country: Angola
 email: 
+articles:
+   - "https://www.afdb.org/en/documents/spn-angola-acquisition-hardware-and-software-implementation-inapem-information-management-system-angola"
+   - "https://www.iledefrance.fr/innovup-laide-de-la-region-ile-de-france-en-faveur-de-linnovation-est-renforcee-et-simplifiee-pour"
 ---
 

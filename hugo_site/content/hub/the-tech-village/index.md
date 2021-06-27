@@ -16,5 +16,9 @@ location:
    region: 
    country: Zimbabwe
 email: 
+articles:
+   - "https://allafrica.com/stories/202105190337.html"
+   - "https://www.techzim.co.zw/2020/03/zims-tech-village-announced-as-one-of-african-tech-and-creative-groups-atcg-flagship-spaces-in-africa/"
+   - "https://ventureburn.com/2018/04/zimbabwe-startup-directory/"
 ---
 The Tech Village began operations in May, 2016 and was legally registered in September, 2016 with a staff strength of 5.  

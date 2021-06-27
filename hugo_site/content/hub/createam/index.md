@@ -16,5 +16,7 @@ location:
    region: 
    country: 
 email: contact@createam.ml
+articles:
+   - "https://blogs.worldbank.org/psd/giving-francophone-african-incubators-keys-accelerate-growth-entrepreneurship"
 ---
 

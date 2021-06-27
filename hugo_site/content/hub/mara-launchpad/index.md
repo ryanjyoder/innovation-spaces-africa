@@ -16,5 +16,9 @@ location:
    region: 
    country: Togo
 email: 
+articles:
+   - "https://www.bizcommunity.com/Article/220/422/78959.html"
+   - "https://www.forbes.com/sites/mfonobongnsehe/2012/08/07/young-african-millionaire-launches-mara-com-africas-first-online-mentorship-network/?sh=582552df2fbc"
+   - "https://www.africardv.com/developpement/le-togo-parmi-les-champions-africains-de-tech-hubs/"
 ---
 

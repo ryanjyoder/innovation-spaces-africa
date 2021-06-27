@@ -16,5 +16,9 @@ location:
    region: 
    country: 
 email: 
+articles:
+   - "https://fr.allafrica.com/stories/202101060710.html"
+   - "https://www.adiac-congo.com/content/afrique-la-1re-edition-des-rencontres-du-reseau-rse-et-des-odd-souvre-ce-7-janvier-123156"
+   - "http://www.agadd.org/2021/03/fohla-mouftaou-entrepreuneur-dirigeant-de-greenkeeper-afrika-au-benin.html"
 ---
 

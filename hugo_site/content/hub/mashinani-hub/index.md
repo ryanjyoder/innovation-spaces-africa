@@ -16,5 +16,6 @@ location:
    region: Kisii County
    country: Kenya
 email: 
+articles:
 ---
 Mashinani Hub is an innovation center that is focused on social impact, job creation and innovation.

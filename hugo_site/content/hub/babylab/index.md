@@ -16,5 +16,10 @@ location:
    region: Abidjan
    country: C�te d'Ivoire
 email: contact@baby-lab.org
+articles:
+   - "https://www.rfi.fr/fr/emission/20160823-cote-ivoire-lancement-laboratoire-numerique-baby-lab-abidjan"
+   - "https://lumieresdelaville.net/babylab-fablab-abidjan-informatique-jeunes-3/"
+   - "https://fjn.ci/fjn/start-up-de-la-semaine-baby-lab/"
+   - "none"
 ---
 BabyLab is an innovation center that is focused on social impact, youth engagement and innovation.

@@ -16,5 +16,8 @@ location:
    region: 
    country: 
 email: hedi@factory319.com
+articles:
+   - "http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=7014"
+   - "https://thd.tn/factory-619-nouvel-incubateur-pour-startups-base-a-la-charguia/"
 ---
 

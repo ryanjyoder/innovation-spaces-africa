@@ -16,5 +16,8 @@ location:
    region: 
    country: Morocco
 email: 
+articles:
+   - "https://www.africatopsuccess.com/jokkolabs-abidjan-and-casablanca-joining-the-network/"
+   - "https://trueafrica.co/article/karim-sy-taking-co-working-spaces-to-bamako-abidjan-dakar-cotonou-and-more/"
 ---
 

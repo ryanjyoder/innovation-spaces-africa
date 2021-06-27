@@ -16,5 +16,9 @@ location:
    region: R�gion des lagunes
    country: C�te d'Ivoire
 email: 
+articles:
+   - "https://techafrique.startupbrics.com/coworking-ecosysteme-startup-cote-ivoire/"
+   - "https://www.jeuneafrique.com/28875/economie/un-bureau-pour-deux-trois-vingt-cinq/"
+   - "https://itweb.africa/content/Gb3BwMWoGRpM2k6V"
 ---
 AMN Coworking Space focuses on web, design, media and cultural entrepreneurs, leveraging mobile and web solutions to address a business need. Technologists, media professionals, investors and doers are welcomed to the space.

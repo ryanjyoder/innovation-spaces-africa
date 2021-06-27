@@ -16,5 +16,7 @@ location:
    region: 
    country: 
 email: info@play-international.org
+articles:
+   - "https://www.play-international.org/projets/education-et-inclusion-sociale-en-afrique-de-louest"
 ---
 

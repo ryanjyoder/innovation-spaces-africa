@@ -16,5 +16,11 @@ location:
    region: 
    country: 
 email: contact@ifentrepreneuriat.org
+articles:
+   - "http://www.faapa.info/en/2021/04/20/lif-entrepreneuriat-offre-des-opportunites-aux-jeunes-entrepreneurs/"
+   - "https://padmpme.cd/2020/06/26/padmpme-deloitte-afrique-if-entrepreneuriat-et-kivu-entrepreneurs-mettront-en-oeuvre-des-concours-des-plans-daffaires-pour-les-entrepreneurs-mpme/"
+   - "https://www.financialafrik.com/2021/06/03/rdc-vers-la-subvention-de-750-projets-de-jeunes-entrepreneurs/"
+   - "https://www.adiac-congo.com/content/pme-les-jeunes-entrepreneurs-laureats-du-concours-de-plans-daffaires-recompenses-124545"
+   - "https://cbtd-formation.com/index.php/2020/11/24/formation-sur-les-techniques-de-competitivite-et-astuces-pour-mobiliser-des-investisseurs-assuree-par-le-professeur-val-masamba-dg-de-lif-entrepreneuriat-sarl-du-lundi-le-23-novembre-2020-au/"
 ---
 I&Fentrepreneuriat est riche d�une exp�rience de 10 ans (2007 � 2017) dans l�accompagnement par incubation d�entreprise. Il est le premier incubateur d�entreprises en R�publique D�mocratique du Congo.   I&Fentrepreneuriat est riche d�au-moins 148 entreprises dont 30 cr��es par des jeunes de moins de 25 ans exer�ant pour 80% dans l�agroalimentaire, 5% dans la haute technologie, 5% dans la production des mat�riaux de construction et 10% dans les technologies de l�information et la communication.   Ces entreprises sont riches de 86 produits innovants. I&Fentrepreneuriat compte 25 coaches tr�s jeunes.   I&Fentrepreneuriat a d�velopp� une p�dagogie d�accompagnement bas�e sur le mod�le TCC-GRP pour aider ses porteurs de projets � cr�er leurs entreprises.    

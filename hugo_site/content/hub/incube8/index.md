@@ -16,5 +16,8 @@ location:
    region: 
    country: Malawi
 email: 
+articles:
+   - "https://disrupt-africa.com/2016/06/13/new-incubator-set-to-launch-in-malawi/"
+   - "https://www.techgistafrica.com/specials/reviews/pan-african-tech-network-expands-to-chad-and-dr-congo-with-11-new-tech-hubs/"
 ---
 inCUBE8 Malawi began operation in February, 2016 and was officially registered on the same day. They are an innovation hub that run incubation and acceleration programmes targeted at youth engagement and job creation.  

@@ -16,5 +16,9 @@ location:
    region: 
    country: Kenya
 email: 
+articles:
+   - "https://techcabal.com/2015/05/28/kenyas-c4dlab-opens-registration-for-its-innovation-week/"
+   - "https://www.unicef.org/innovation/stories/intel-and-university-nairobi-launch-tech-incubator"
+   - "https://techcabal.com/2015/03/20/nairobi-based-incubator-c4dlab-innovation-lab-will-now-operate-as-an-incubator-accelerator/"
 ---
 C4DLab is a research & development, prototyping and innovation startup incubation lab housed at the School of Computing & Informatics.  

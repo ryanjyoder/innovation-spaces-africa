@@ -16,5 +16,11 @@ location:
    region: Western Cape
    country: South Africa
 email: info@injini.africa
+articles:
+   - "https://www.investcapetown.com/success_stories/injini-edtech-incubator/"
+   - "https://ventureburn.com/2020/02/sa-edtech-incubator-injini-six-startups-fourth-cohort/"
+   - "https://www.devex.com/news/african-entrepreneurs-discuss-the-promise-and-pitfalls-of-ed-tech-92401"
+   - "https://www.opportunitiesforafricans.com/injini-edtech-incubator-programme-2019-2020/"
+   - "https://www.edsurge.com/news/2017-10-10-why-the-world-s-youngest-continent-got-an-edtech-accelerator"
 ---
 Injini is an incubator and accelerator that is focused on social impact, job creation and innovation. 

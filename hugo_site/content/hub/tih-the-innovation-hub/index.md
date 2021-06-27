@@ -16,5 +16,9 @@ location:
    region: 
    country: South Africa 
 email: 
+articles:
+   - "https://www.brandsouthafrica.com/investments-immigration/business/trends/innovations/innovationhub"
+   - "https://www.biztechafrica.com/article/sanral-unveils-technical-innovation-hub/14377/"
+   - "https://www.esi-africa.com/event-news/the-innovation-hub-utilities-should-be-creative/"
 ---
 

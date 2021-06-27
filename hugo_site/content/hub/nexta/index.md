@@ -16,5 +16,6 @@ location:
    region: 
    country: 
 email: contact@nexta.mg
+articles:
 ---
 <b>NextA</b> est b�tit sur 7 axes d'accompagnement:<ul><li>Mentoring/Coaching</li><li>Formations</li><li>R�seautage </li><li>Activit�s </li><li>Financement </li><li>Employabilit� </li><li>Lieu </li></ul>

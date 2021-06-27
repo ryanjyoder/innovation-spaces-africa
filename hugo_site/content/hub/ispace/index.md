@@ -16,5 +16,9 @@ location:
    region: Greater Accra Region
    country: Ghana
 email: info@ispacegh.com
+articles:
+   - "https://ventureburn.com/2013/09/ispace-ghana-the-story-behind-accras-newest-innovation-centre-and-tech-hub/"
+   - "https://thebftonline.com/14/09/2020/ispace-rewards-3-startups-for-excelling-at-accra-spintex-startup-summit-hub/"
+   - "https://www.pioneerspost.com/news-views/20141127/tech-savvy-generation-has-ghana-their-fingertips"
 ---
 The iSpace Foundation is a coworking tech and creative innovation space for startups, innovators, social entrepreneurs & developers..  

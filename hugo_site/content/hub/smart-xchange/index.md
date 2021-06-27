@@ -16,5 +16,8 @@ location:
    region: 
    country: South Africa 
 email: 
+articles:
+   - "https://www.brandsouthafrica.com/tag/smart-xchange"
+   - "https://blogs.worldbank.org/digital-development/tech-hubs-across-africa-which-will-be-legacy-makers"
 ---
 

@@ -16,5 +16,12 @@ location:
    region: 
    country: Kenya
 email: 
+articles:
+   - "https://www.voanews.com/africa/fab-lab-igniting-revolution-kenya"
+   - "https://www.3ders.org/articles/20111212-fablab-nairobistrengthens-kenyas-innovation-system.html"
+   - "https://www.voanews.com/africa/fab-lab-igniting-revolution-kenya"
+   - "https://www.france24.com/en/20200519-we-can-get-it-done-here-african-tech-tackles-coronavirus-locally"
+   - "https://www.africanglobe.net/business/fab-lab-igniting-revolution-kenya/"
+   - "https://odi.org/en/insights/how-youth-led-makerspaces-plug-the-skills-gap-in-africa/"
 ---
 

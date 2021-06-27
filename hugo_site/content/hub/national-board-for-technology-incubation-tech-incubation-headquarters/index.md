@@ -16,5 +16,9 @@ location:
    region: 
    country: Nigeria
 email: 
+articles:
+   - "http://koreascience.or.kr/article/JAKO201821142173904.page"
+   - "https://opinionnigeria.com/technology-incubation-centre-and-youth-engagement-by-musa-aliu/"
+   - "https://techpoint.africa/2018/09/19/technology-incubation-centre-nigeria/"
 ---
 

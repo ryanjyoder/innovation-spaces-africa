@@ -16,5 +16,8 @@ location:
    region: 
    country: 
 email: contact@comorescoworking.com
+articles:
+   - "https://alwatwan.net/societe/projet-int%C3%A9gr%C3%A9-des-cha%C3%AEnes-de-valeurs-i-lancement-officiel-du-concours-de-plan-d%E2%80%99affaires.html"
+   - "none"
 ---
 

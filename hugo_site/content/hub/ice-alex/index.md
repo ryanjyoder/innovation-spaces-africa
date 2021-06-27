@@ -16,5 +16,6 @@ location:
    region: Alexandria Governorate
    country: Egypt
 email: info@icealex.com
+articles:
 ---
 Ice Alex is an ever-growing international network of hubs and nodes in Cairo & Alexandria (Egypt), Addis Ababa (Ethiopia) and Weimar (Germany). 

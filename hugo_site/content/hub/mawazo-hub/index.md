@@ -16,5 +16,8 @@ location:
    region: Central Region
    country: Uganda
 email: 
+articles:
+   - "https://pctechmag.com/2015/09/interview-patrick-kadama-on-equipping-the-next-generation-of-innovators/"
+   - "https://pctechmag.com/2017/03/a-new-hub-opens-in-uganda-targeting-youth-passionate-in-entrepreneurship-tech-startups/"
 ---
 The Mawazo Innovation Hub, a division of NFT Consult, was established to support emerging Next Generation ICT businesses through accelerated technology commercialization. The Mawazo Innovation Hub has created a unique space for high tech entrepreneurs, academics, researchers and venture capitalists to meet, network and collectively work towards growing the Ugandan economy through innovation.  
