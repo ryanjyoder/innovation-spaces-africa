@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "JA Gabon, Libreville, Gabon"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: info@jagabon.org
 articles:
    - "https://www.banquemondiale.org/fr/news/feature/2019/03/08/radia-garrigues-ceo-of-an-incubator-providing-gabons-youth-with-skills-for-the-future"

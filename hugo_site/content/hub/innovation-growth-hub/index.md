@@ -12,9 +12,9 @@ location:
    lat: 5.4308921
    lng: 7.5247243
    address: "Abia, Nigeria"
-   city: 
-   region: Abia
-   country: Nigeria
+city: 
+region: Abia
+country: Nigeria
 email: 
 articles:
    - "https://sheleadsafrica.org/innovation-growth-hub-nigeria/"

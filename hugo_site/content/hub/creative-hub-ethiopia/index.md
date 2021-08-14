@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: 
 articles:
    - "https://www.addisinsight.net/creative-hub-ethiopia-calls-all-artisans-to-apply-to-their-new-incubation-program/"

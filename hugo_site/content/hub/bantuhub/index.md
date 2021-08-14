@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Brazzaville
-   region: 
-   country: Congo
+city: Brazzaville
+region: 
+country: Congo
 email: 
 articles:
    - "https://www.biztechafrica.com/article/congo-brazzavilles-bantuhub-offers-ict-relief-loca/8861/"

@@ -12,9 +12,9 @@ location:
    lat: 6.2757656
    lng: 7.00683930000002
    address: "Anambra, Nigeria"
-   city: 
-   region: Anambra
-   country: Nigeria
+city: 
+region: Anambra
+country: Nigeria
 email: 
 articles:
    - "https://ventureburn.com/2018/06/heres-need-know-nigerias-tech-startup-ecosystem/"

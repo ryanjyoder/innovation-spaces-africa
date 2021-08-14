@@ -1,5 +1,5 @@
 ---
-title: "CEPEM Couveuse d�Entreprise pour la Promotion de l�Emploi par la Micro-entreprise "
+title: "CEPEM Couveuse d'Entreprise pour la Promotion de l'Emploi par la Micro-entreprise"
 date: 2021-06-12T15:35:07-04:00
 draft: true
 id: 38
@@ -11,11 +11,11 @@ linkedin:
 location: 
    lat: 
    lng: 
-   address: "3 Rue Amadou Assane Ndoye X b�ranger Ferraud ,  Dakar"
-   city: 
-   region: 
-   country: contact@cepem.sn
-email: 
+   address: "3 Rue Amadou Assane Ndoye X b�ranger Ferraud"
+city: Dakar
+region: 
+country: Senegal
+email: contact@cepem.sn
 articles:
    - "https://www.ledna.org/Entreprenariat-Lancement-du-projet-renforcement-de-capacites-de-la-Couveuse-d.html"
    - "https://www.africinnov.com/fr/annuaire/cepem-couveuse-dentreprise-pour-la-promotion-de-le"

@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Lagos
-   region: 
-   country: Nigeria
+city: Lagos
+region: 
+country: Nigeria
 email: 
 articles:
    - "https://techcrunch.com/2019/09/26/nigerias-cchub-acquires-kenyas-ihub-to-create-mega-africa-incubator/"

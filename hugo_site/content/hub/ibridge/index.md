@@ -12,9 +12,9 @@ location:
    lat: 9.081999
    lng: 8.67527700000005
    address: "Nigeria"
-   city: 
-   region: 
-   country: Nigeria
+city: 
+region: 
+country: Nigeria
 email: 
 articles:
    - "https://disrupt-africa.com/2017/06/01/afrilabs-welcomes-new-hubs-into-pan-african-network/"

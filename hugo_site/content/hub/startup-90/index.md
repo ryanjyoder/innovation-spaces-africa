@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Buchanan Square, Sir Lowry Road, Woodstock, Cape Town, 7925"
-   city: Cape Town
-   region: 
-   country: South Africa
+city: Cape Town
+region: 
+country: South Africa
 email: 
 articles:
    - "https://ventureburn.com/2014/12/new-center-mpumalanga-foster-culture-entrepreneurship/"

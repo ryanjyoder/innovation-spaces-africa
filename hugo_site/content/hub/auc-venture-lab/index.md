@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Cairo
-   region: 
-   country: Egypt
+city: Cairo
+region: 
+country: Egypt
 email: 
 articles:
    - "https://startupswb.com/auc-vlab-is-looking-for-egypts-next-innovators-for-their-startup-accelerator-program.html"

@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Luanda
-   region: 
-   country: Angola
+city: Luanda
+region: 
+country: Angola
 email: 
 articles:
    - "https://www.afdb.org/en/documents/spn-angola-acquisition-hardware-and-software-implementation-inapem-information-management-system-angola"

@@ -12,9 +12,9 @@ location:
    lat: 3.8480325
    lng: 11.5020752
    address: "Yaounde, Cameroon"
-   city: Yaounde
-   region: Centre
-   country: Cameroon
+city: Yaounde
+region: Centre
+country: Cameroon
 email: nextgentechcenter@gmail.com
 articles:
    - "https://www.reuters.com/article/us-africa-education-women-idUSKBN1KK00U"

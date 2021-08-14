@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Casablanca, Maroc"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: mehdi@lafactory.co // omaima@lafactory.co
 articles:
    - "https://www.iafrikan.com/2019/10/25/afrilabs-tech-innovation-startups-hubs-africa/"

@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: 22/121 Atron, N&#039;Djamena
-   region: 
-   country: 
+city: 22/121 Atron, N&#039;Djamena
+region: 
+country: 
 email: startoppzone@rjdlt.com
 articles:
    - "https://www.digitaltimes.africa/afrilab-welcomes-27-new-members/"

@@ -12,9 +12,9 @@ location:
    lat: -15.7820588
    lng: 35.0042201
    address: "Malawi Sun Hotel, Blantyre, Malawi"
-   city: Blantyre
-   region: Southern Region
-   country: Malawi
+city: Blantyre
+region: Southern Region
+country: Malawi
 email: info@mhubmw.com
 articles:
    - "https://disrupt-africa.com/2015/04/28/malawis-first-incubator-mhub-looks-to-make-country-a-tech-force-in-region/"

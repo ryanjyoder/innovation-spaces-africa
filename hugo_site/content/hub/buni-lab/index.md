@@ -12,9 +12,9 @@ location:
    lat: -6.369028
    lng: 34.888822
    address: "Tanzania"
-   city: 
-   region: 
-   country: Tanzania
+city: 
+region: 
+country: Tanzania
 email: 
 articles:
    - "https://disrupt-africa.com/2015/02/19/tanzanias-buni-hub-builds-3d-printer-made-e-waste/"

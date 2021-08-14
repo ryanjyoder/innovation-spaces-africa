@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Ouagadougou
-   region: 
-   country: Burkina Faso
+city: Ouagadougou
+region: 
+country: Burkina Faso
 email: 
 articles:
    - "https://www.genderit.org/articles/dealing-fraud-and-internet-love-women-and-cybercrime-burkina-faso"

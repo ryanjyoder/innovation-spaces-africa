@@ -12,9 +12,9 @@ location:
    lat: 1.373333
    lng: 32.2902750000001
    address: "Uganda"
-   city: 
-   region: 
-   country: Uganda
+city: 
+region: 
+country: Uganda
 email: 
 articles:
    - "https://www.independent.co.ug/innovations-village-boosting-ugandas-start-ups/"

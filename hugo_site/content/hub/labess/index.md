@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "7 Rue du Docteur Alphonse Laveran, Tunis, Tunisie"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: afric'innov
 articles:
    - "https://meshkal.org/?p=248"

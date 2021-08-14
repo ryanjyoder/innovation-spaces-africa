@@ -12,9 +12,9 @@ location:
    lat: 9.562389
    lng: 44.0770133999999
    address: "Hargeisa, Somalia"
-   city: Hargeisa
-   region: Woqooyi Galbeed
-   country: Somalia
+city: Hargeisa
+region: Woqooyi Galbeed
+country: Somalia
 email: 
 articles:
    - "https://www.biztechafrica.com/article/innovate-ventures-re-runs-tech-accelerator-somali-/12399/"

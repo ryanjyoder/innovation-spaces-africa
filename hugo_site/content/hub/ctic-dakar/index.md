@@ -11,10 +11,11 @@ linkedin:
 location: 
    lat: 14.6691984
    lng: -17.4306432
-   address: "Rue Berenger Feraud, Dakar, Senegal"
-   city: Dakar
-   region: 
-   country: Senegal
+   address: "Rue Berenger Feraud"
+city: Dakar
+region: 
+country: Senegal
+country: Senegal
 email: contact@cticdakar.com
 articles:
    - "https://www.infodev.org/articles/spotlight-ctic-dakar"

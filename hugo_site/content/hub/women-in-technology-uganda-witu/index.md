@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Kampala
-   region: 
-   country: Uganda
+city: Kampala
+region: 
+country: Uganda
 email: 
 articles:
    - "https://techjaja.com/top-5-women-in-tech-programs-in-uganda/"

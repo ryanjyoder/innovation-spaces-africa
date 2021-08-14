@@ -12,9 +12,9 @@ location:
    lat: 6.3628451
    lng: 2.42312849999996
    address: "Rue 403, Cotonou, Benin"
-   city: Cotonou
-   region: Littoral Department
-   country: Benin
+city: Cotonou
+region: Littoral Department
+country: Benin
 email: 
 articles:
    - "https://www.lemonde.fr/afrique/article/2020/11/26/benin-etrilabs-le-labo-qui-a-booste-l-innovation-numerique-pendant-la-crise-du-coronavirus_6061258_3212.html"

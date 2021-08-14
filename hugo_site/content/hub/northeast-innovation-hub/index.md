@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "NE Innovation Campus, No 3 Legom Close, Off Kashim Ibrahim Way, Jimeta 640221"
-   city: 
-   region: Adamawa
-   country: Nigeria
+city: 
+region: Adamawa
+country: Nigeria
 email: info@humanitarianihub.org
 articles:
    - "https://allafrica.com/stories/202008280057.html"

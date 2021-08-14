@@ -12,9 +12,9 @@ location:
    lat: -17.8118106
    lng: 31.0895029000001
    address: "Zimbabwe Cricket, Maiden Drive, Harare, Zimbabwe"
-   city: Harare
-   region: Harare Province
-   country: Zimbabwe
+city: Harare
+region: Harare Province
+country: Zimbabwe
 email: 
 articles:
    - "https://theirworld.org/voices/muzinda-hub-x-theirworld-creating-the-next-generation-of-coders-and-entrepreneurs"

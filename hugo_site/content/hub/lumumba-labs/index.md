@@ -12,9 +12,9 @@ location:
    lat: -4.038333
    lng: 21.758664
    address: "253, Avenue Kimvula"
-   city: Kinshasa
-   region: 
-   country: Democratic Republic of the Congo
+city: Kinshasa
+region: 
+country: Democratic Republic of the Congo
 email: start@llab.cd
 articles:
 ---

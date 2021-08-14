@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Carrefour de la rue 71 et de la rue 232 � Aflao Gakli ,  Lom�"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: edm.togo@entrepreneursdumonde.org
 articles:
    - "https://www.entrepreneursdumonde.org/en/program/miawodo-support-to-very-small-businesses-in-burkina-faso/"

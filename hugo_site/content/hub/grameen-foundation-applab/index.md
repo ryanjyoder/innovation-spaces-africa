@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Kampala
-   region: 
-   country: Uganda
+city: Kampala
+region: 
+country: Uganda
 email: 
 articles:
    - "https://www.modernghana.com/news/224554/grameen-foundation-launches-mobile-services-tailor.html"

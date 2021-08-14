@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Dar es Salaam
-   region: 
-   country: Tanzania
+city: Dar es Salaam
+region: 
+country: Tanzania
 email: 
 articles:
    - "https://www.infodev.org/articles/teknohama-business-incubator-manager-dar-es-salaam-tanzania"

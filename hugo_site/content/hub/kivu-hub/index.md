@@ -12,9 +12,9 @@ location:
    lat: -4.3919893
    lng: 15.3127824000001
    address: "Bukavu, Kinshasa, Congo-Kinshasa"
-   city: Kinshasa
-   region: Kinshasa
-   country: Democratic Republic of the Congo
+city: Kinshasa
+region: Kinshasa
+country: Democratic Republic of the Congo
 email: 
 articles:
    - "https://startup.info/kivuhub/"

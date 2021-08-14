@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Ebene Cybercity
-   region: 
-   country: Mauritius
+city: Ebene Cybercity
+region: 
+country: Mauritius
 email: 
 articles:
    - "http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=6997"

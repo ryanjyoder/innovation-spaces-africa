@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: 
 articles:
    - "https://www.digitaltimes.africa/afrilabs-admits-15-new-members-across-africa/"

@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Dar es Salaam
-   region: 
-   country: Tanzania
+city: Dar es Salaam
+region: 
+country: Tanzania
 email: 
 articles:
    - "https://www.infodev.org/articles/cutting-edge-ict-incubator-set-unleash-technology-entrepreneurship-tanzania"

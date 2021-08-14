@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Cape Coast
-   region: 
-   country: Ghana
+city: Cape Coast
+region: 
+country: Ghana
 email: 
 articles:
    - "http://geniusghana.blogspot.com/2007/05/?m=1"

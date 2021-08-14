@@ -12,9 +12,9 @@ location:
    lat: 8.9847995
    lng: 4.56244259999994
    address: "Kwara, Nigeria"
-   city: 
-   region: Kwara
-   country: Nigeria
+city: 
+region: Kwara
+country: Nigeria
 email: 
 articles:
 ---

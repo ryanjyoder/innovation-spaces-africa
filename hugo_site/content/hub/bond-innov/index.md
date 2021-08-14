@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "32 Avenue Henri Varagnat, Bondy, France"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: contact@bondinnov.com
 articles:
    - "https://www.biospace.com/article/releases/biocitech-sas-gives-support-to-three-start-ups-in-bond-innov-initiative-/"

@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Missira, Mali"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: bamako.incubateur@gmail.com
 articles:
    - "https://womensbusinessinitiative.net/charlenes-bubble-amazing-african-entrepreneurs-greetings-from-bamako/"

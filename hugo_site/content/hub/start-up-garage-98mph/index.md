@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Capetown
-   region: 
-   country: South Africa 
+city: Capetown
+region: 
+country: South Africa 
 email: 
 articles:
 ---

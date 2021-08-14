@@ -11,11 +11,11 @@ linkedin:
 location: 
    lat: 
    lng: 
-   address: "167 avenue Lamine Gu�ye x Place Soweto Immeuble Rivonia Tower 11�me �tage, Dakar-S�n�gal"
-   city: 
-   region: 
-   country: <b></b><b></b>
-email: afric'innov
+   address: "167 avenue Lamine Gu�ye x Place Soweto Immeuble Rivonia Tower 11eme Etage"
+city: Dakar
+region: 
+country: Senegal
+email: ncamara@emergence.africa
 articles:
 ---
-ncamara@emergence.africa
+

@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Cairo
-   region: 
-   country: Egypt
+city: Cairo
+region: 
+country: Egypt
 email: 
 articles:
    - "https://egyptianstreets.com/2015/10/13/upper-egypts-young-women-seek-change-at-greek-campus/"

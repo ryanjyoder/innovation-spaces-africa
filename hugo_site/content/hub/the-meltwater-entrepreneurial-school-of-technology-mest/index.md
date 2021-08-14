@@ -12,9 +12,9 @@ location:
    lat: 5.6446677
    lng: -0.152526599999987
    address: "Aluguntugui St, Accra, Ghana"
-   city: Accra
-   region: Greater Accra Region
-   country: Ghana
+city: Accra
+region: Greater Accra Region
+country: Ghana
 email: 
 articles:
    - "https://disrupt-africa.com/2020/09/24/mest-invests-700k-in-7-graduating-tech-startups/"

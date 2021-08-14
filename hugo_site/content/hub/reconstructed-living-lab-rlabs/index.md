@@ -12,9 +12,9 @@ location:
    lat: -33.9538889
    lng: 18.532508
    address: "66 Tarentaal Rd, Bridgetown, Cape Town 7769, South Africa"
-   city: Cape Town
-   region: Western Cape
-   country: South Africa
+city: Cape Town
+region: Western Cape
+country: South Africa
 email: info@rlabs.org
 articles:
    - "https://www.tandfonline.com/doi/abs/10.1080/20786204.2010.10873982"

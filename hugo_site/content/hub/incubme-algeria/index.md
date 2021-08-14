@@ -12,9 +12,9 @@ location:
    lat: 28.033886
    lng: 1.659626
    address: "Algeria"
-   city: 
-   region: 
-   country: Algeria
+city: 
+region: 
+country: Algeria
 email: 
 articles:
    - "https://ventureburn.com/2018/05/incubme-algeria-incubator-algiers/"

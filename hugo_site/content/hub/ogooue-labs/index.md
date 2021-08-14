@@ -12,9 +12,9 @@ location:
    lat: 0.3606914
    lng: 9.46803190000003
    address: "Gabon Libreville, Libreville, Estuaire, Gabon"
-   city: Libreville
-   region: Estuaire
-   country: Gabon
+city: Libreville
+region: Estuaire
+country: Gabon
 email: 
 articles:
    - "https://www.afd.fr/fr/actualites/au-gabon-un-incubateur-pour-attirer-les-start-de-lafrique-francophone"

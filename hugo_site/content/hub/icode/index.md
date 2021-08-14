@@ -12,9 +12,9 @@ location:
    lat: 4.9028537
    lng: -1.79162220000001
    address: "Apollo, Takoradi, Ghana"
-   city: Takoradi
-   region: Western Region
-   country: Ghana
+city: Takoradi
+region: Western Region
+country: Ghana
 email: 
 articles:
    - "https://www.pulse.com.gh/news/business/empowering-businesses-eazzysocial-and-icode-empower-business-professionals-in/r4df3x4"

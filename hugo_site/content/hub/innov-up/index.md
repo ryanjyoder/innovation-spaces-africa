@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "innovup, Avenue Du 24 Janvier, Lom�, Togo"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: innovup@fefa-togo.org
 articles:
    - "https://www.afrikatech.com/start-business/togo-acquires-innovup-a-business-incubator-for-women/"

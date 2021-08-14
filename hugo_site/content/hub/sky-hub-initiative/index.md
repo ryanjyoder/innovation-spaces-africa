@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Bulawayo
-   region: 
-   country: Zimbabwe
+city: Bulawayo
+region: 
+country: Zimbabwe
 email: 
 articles:
    - "https://www.oii.ox.ac.uk/blog/harares-hubs-excitement-experimentation-and-many-open-questions-2/"

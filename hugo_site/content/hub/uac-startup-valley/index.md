@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Abomey Calavi, B�nin"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: uacstartupvalley@uacstartupvalley.com
 articles:
 ---

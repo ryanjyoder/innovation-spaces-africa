@@ -12,9 +12,9 @@ location:
    lat: -17.8330168
    lng: 31.0855879000001
    address: "Mutare Road, Harare, Zimbabwe"
-   city: Harare
-   region: Harare Province
-   country: Zimbabwe
+city: Harare
+region: Harare Province
+country: Zimbabwe
 email: 
 articles:
    - "https://www.manicapost.co.zw/create-business-hub-to-generate-employment/"

@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "44 Avenue De La D�mocratie, Kinshasa, R�publique d�mocratique du Congo"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: info@lisungifablab.org
 articles:
    - "https://theworldnews.net/cd-news/lisungi-fablab-25-laureats-primes-pour-la-premiere-promotion"

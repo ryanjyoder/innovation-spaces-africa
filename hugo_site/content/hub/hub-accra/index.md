@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Accra
-   region: 
-   country: Ghana
+city: Accra
+region: 
+country: Ghana
 email: 
 articles:
 ---

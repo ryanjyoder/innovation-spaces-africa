@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Pretoria
-   region: 
-   country: South Africa 
+city: Pretoria
+region: 
+country: South Africa 
 email: 
 articles:
    - "https://www.brandsouthafrica.com/investments-immigration/business/trends/innovations/innovationhub"

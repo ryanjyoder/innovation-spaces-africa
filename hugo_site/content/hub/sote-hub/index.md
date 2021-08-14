@@ -12,9 +12,9 @@ location:
    lat: -0.023559
    lng: 37.906193
    address: "Kenya"
-   city: 
-   region: 
-   country: Kenya
+city: 
+region: 
+country: Kenya
 email: 
 articles:
    - "https://disrupt-africa.com/2016/02/17/sote-hub-taking-business-incubation-to-rural-kenya/"

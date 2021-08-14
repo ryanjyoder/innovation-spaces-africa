@@ -12,9 +12,9 @@ location:
    lat: 30.0444196
    lng: 31.2357116000001
    address: "Cairo, Egypt"
-   city: Cairo
-   region: Cairo Governorate
-   country: Egypt
+city: Cairo
+region: Cairo Governorate
+country: Egypt
 email: 
 articles:
    - "https://egyptindependent.com/cairo-hackerspace-infectiously-inventive/"

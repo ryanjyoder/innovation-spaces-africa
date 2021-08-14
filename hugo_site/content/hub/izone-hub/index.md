@@ -12,9 +12,9 @@ location:
    lat: -17.8118106
    lng: 31.0895029000001
    address: "Zimbabwe Cricket, Maiden Drive, Harare, Zimbabwe"
-   city: Harare
-   region: Harare Province
-   country: Zimbabwe
+city: Harare
+region: Harare Province
+country: Zimbabwe
 email: 
 articles:
    - "https://www.africanews.com/2020/12/09/survey-reveals-95-percent-of-african-small-and-medium-sized-enterprises-smes-did-not-receive-government-aid-during-covid-19-pandemic//"

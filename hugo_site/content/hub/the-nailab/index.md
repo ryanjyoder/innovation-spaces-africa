@@ -12,9 +12,9 @@ location:
    lat: -1.3373892
    lng: 36.6891955999999
    address: "Ngong View Road, Nairobi, Kenya"
-   city: Nairobi
-   region: Nairobi County
-   country: Kenya
+city: Nairobi
+region: Nairobi County
+country: Kenya
 email: 
 articles:
    - "https://disrupt-africa.com/2018/01/16/kenyas-nailab-selects-15-startups-for-make-it-accelerator/"

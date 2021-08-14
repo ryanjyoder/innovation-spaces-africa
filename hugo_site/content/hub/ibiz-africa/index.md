@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Nairobi
-   region: 
-   country: Kenya
+city: Nairobi
+region: 
+country: Kenya
 email: 
 articles:
    - "https://www.standardmedia.co.ke/business/article/2001234495/ibizafrica-at-strathmore-university-on-the-verge-of-becoming-kenya-s-silicon-savannah"

@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Kumasi
-   region: 
-   country: Ghana
+city: Kumasi
+region: 
+country: Ghana
 email: 
 articles:
    - "https://ghanatalksbusiness.com/2018/07/business-incubator-series-meet-ceo-kumasi-hive/"

@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "AGORA BUSINESS CENTER, VILLA N7 MERMOZ ,  DAKAR"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: 
 articles:
    - "https://www.sikafinance.com/marches/le-fonds-dinvestissement-la-rde-holding-ouvre-une-chaine-de-cafe-au-senegal_27383"

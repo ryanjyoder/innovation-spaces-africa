@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Harare
-   region: 
-   country: Zimbabwe
+city: Harare
+region: 
+country: Zimbabwe
 email: 
 articles:
    - "https://zw.usembassy.gov/hypercube-hub-shares-lessons-learned/"

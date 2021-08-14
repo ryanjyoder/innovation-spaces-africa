@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Nairobi
-   region: 
-   country: Kenya
+city: Nairobi
+region: 
+country: Kenya
 email: 
 articles:
    - "https://www.biztechafrica.com/article/mlab-east-africa-officially-opened/809/"

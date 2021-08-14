@@ -12,9 +12,9 @@ location:
    lat: -0.2849853
    lng: 36.0693113
    address: "Kenyatta Avenue, Nakuru, Kenya"
-   city: Nakuru
-   region: Nakuru County
-   country: Kenya
+city: Nakuru
+region: Nakuru County
+country: Kenya
 email: 
 articles:
    - "https://www.infodev.org/articles/success-story-akirachix"

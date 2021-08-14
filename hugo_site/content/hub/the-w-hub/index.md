@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Abidjan
-   region: 
-   country: Cote d'Ivoire
+city: Abidjan
+region: 
+country: Cote d'Ivoire
 email: 
 articles:
 ---

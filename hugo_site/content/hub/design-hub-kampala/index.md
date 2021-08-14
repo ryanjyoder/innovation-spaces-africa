@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Plot 3 Bata Close, 5th Street Industrial Area PO Box 7381,"
-   city: Kampala
-   region: 
-   country: Uganda
+city: Kampala
+region: 
+country: Uganda
 email: 
 articles:
    - "https://startjournal.org/2019/05/design-hub-kampala/"

@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Immeuble Emeraude Center, Jardins du Lac 2 , Tunis, Tunisie"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: contact@zenlab.com.tn
 articles:
    - "https://www.espacemanager.com/zen-lab-lincubateur-de-projets-digitaux-zen.html"

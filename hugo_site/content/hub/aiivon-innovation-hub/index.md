@@ -12,9 +12,9 @@ location:
    lat: 9.0764785
    lng: 7.39857400000005
    address: "Abuja, Nigeria"
-   city: Abuja
-   region: Federal Capital Territory
-   country: Nigeria
+city: Abuja
+region: Federal Capital Territory
+country: Nigeria
 email: 
 articles:
    - "https://techpoint.africa/2018/06/27/join-abujas-tech-and-creative-community-at-the-beautiful-aiivon-innovation-hub/"

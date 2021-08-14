@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Avedji-Elavagnon, Lom�, Togo"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: youthcdcprogram@gmail.com
 articles:
    - "https://www.togofirst.com/en/economic-governance/0908-1388-togo-youth-competency-development-center-launches-top-class-certificate-to-boost-entrepreneurship"

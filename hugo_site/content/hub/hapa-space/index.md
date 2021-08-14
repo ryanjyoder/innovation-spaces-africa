@@ -12,9 +12,9 @@ location:
    lat: 6.6934285
    lng: -1.61401030000002
    address: "Kumasi Ghana @ 50 Jubilee Park, Kumasi, Ghana"
-   city: Kumasi
-   region: Ashanti Region
-   country: Ghana
+city: Kumasi
+region: Ashanti Region
+country: Ghana
 email: 
 articles:
    - "https://www.theafricandream.net/habaspace-is-the-newest-coworking-hub-in-kumasi/"

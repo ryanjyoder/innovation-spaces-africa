@@ -32,9 +32,9 @@
       </a>
     {{ end }}
 
-    {{ with .Params.location }}
-    City: {{ with .city }} {{.}} {{ end }} <br />
-    Country: {{ with .country }} {{.}} {{ end }}
+    City: {{ with .Params.city }} {{.}} {{ end }} <br />
+    Country: {{ with .Params.country }} 
+    <a href='{{ absLangURL "country" }}/{{ . | urlize }}/' class="" title="{{ . }}">{{.}}</a>
     {{ end }}
   </div>
   

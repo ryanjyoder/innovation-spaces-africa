@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Antananarivo
-   region: 
-   country: Madagascar
+city: Antananarivo
+region: 
+country: Madagascar
 email: 
 articles:
    - "https://www.mbuguanjihia.com/tag/malagasy-i-hub"

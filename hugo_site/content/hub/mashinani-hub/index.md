@@ -12,9 +12,9 @@ location:
    lat: -0.6708163
    lng: 34.7771001
    address: "Kisii Country Club, Kisii, Kenya"
-   city: Kisii
-   region: Kisii County
-   country: Kenya
+city: Kisii
+region: Kisii County
+country: Kenya
 email: 
 articles:
 ---

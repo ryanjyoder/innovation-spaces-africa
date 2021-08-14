@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "H�dzranawo�, 2e Arrondissement, Lom� (Awoudja) Lom�, Togo,  Lom�"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: contact@energy-generation.org
 articles:
 ---

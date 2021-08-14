@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "lot P1430 v�doko ,  Cotonou"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: 
 articles:
    - "https://fr.allafrica.com/stories/202101060710.html"

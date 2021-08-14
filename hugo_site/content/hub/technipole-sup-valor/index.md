@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Yaound�, Cameroun"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: gkamande@technipole-supvalor.com
 articles:
    - "https://www.cameroon-tribune.cm/article.html/23918/fr.html/start-ups-cameroun-israel-main-dans-la-main"

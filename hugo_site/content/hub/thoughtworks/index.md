@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Johannesburg
-   region: 
-   country: South Africa
+city: Johannesburg
+region: 
+country: South Africa
 email: 
 articles:
    - "https://www.itweb.co.za/content/VgZey7JA6YavdjX9"

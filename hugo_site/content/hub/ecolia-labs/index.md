@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Ecolia Labs, Unnamed Rd, Yaound�, Cameroun"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: contact@ecolialabs.org
 articles:
    - "https://www.earthtalentbybollore.com/en/ecolia-labs-an-innovative-project-turned-towards-the-digital/"

@@ -12,9 +12,9 @@ location:
    lat: 6.2330852
    lng: 0.996561700000029
    address: "Ho - Denu Road, Dzodze, Ghana"
-   city: Dzodze
-   region: Volta Region
-   country: Ghana
+city: Dzodze
+region: Volta Region
+country: Ghana
 email: 
 articles:
    - "https://www.techinafrica.com/afrilabs-reaches-milestone-100-hubs/"

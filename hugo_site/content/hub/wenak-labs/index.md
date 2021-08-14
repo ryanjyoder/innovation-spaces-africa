@@ -12,9 +12,9 @@ location:
    lat: 13.1078947
    lng: 14.4490398
    address: "Immeuble BSIC, 2eme �tage"
-   city: 
-   region: N�Djamena
-   country: Chad
+city: 
+region: N�Djamena
+country: Chad
 email: contact@wenaklabs.org
 articles:
    - "https://www.afrikatech.com/start-business/afrilabs-strengthens-in-africa-through-the-addition-of-11-new-technology-hubs-to-its-network/"

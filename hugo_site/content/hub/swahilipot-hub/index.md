@@ -12,9 +12,9 @@ location:
    lat: -4.0434771
    lng: 39.6682065
    address: "Mombasa, Kenya"
-   city: Mombasa
-   region: Mombasa County
-   country: Kenya
+city: Mombasa
+region: Mombasa County
+country: Kenya
 email: 
 articles:
    - "https://www.pulselive.co.ke/bi/tech/swahilipot-mombasa-based-innovation-hub-announces-week-long-event-to-stimulate/16dqlnf"

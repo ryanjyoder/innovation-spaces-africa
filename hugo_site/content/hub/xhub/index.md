@@ -12,9 +12,9 @@ location:
    lat: 8.9806034
    lng: 38.7577605
    address: "Addis Ababa, Ethiopia"
-   city: Addis Ababa
-   region: Addis Ababa
-   country: Ethiopia
+city: Addis Ababa
+region: Addis Ababa
+country: Ethiopia
 email: 
 articles:
    - "https://disrupt-africa.com/2014/11/24/xhub-incubator-launched-ethiopia/"

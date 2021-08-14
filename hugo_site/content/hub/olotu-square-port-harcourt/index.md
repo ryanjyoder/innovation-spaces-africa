@@ -12,9 +12,9 @@ location:
    lat: 4.815554
    lng: 7.04984420000005
    address: "Port Harcourt, Nigeria"
-   city: Port Harcourt
-   region: Rivers
-   country: Nigeria
+city: Port Harcourt
+region: Rivers
+country: Nigeria
 email: 
 articles:
    - "https://ventureburn.com/2018/06/heres-need-know-nigerias-tech-startup-ecosystem/"

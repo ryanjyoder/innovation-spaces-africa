@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Kampala
-   region: 
-   country: Uganda
+city: Kampala
+region: 
+country: Uganda
 email: 
 articles:
    - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3827263/"

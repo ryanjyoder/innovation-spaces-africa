@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Douala
-   region: 
-   country: Cameroon
+city: Douala
+region: 
+country: Cameroon
 email: 
 articles:
    - "https://www.cameroonbusinesstoday.cm/articles/1597/fr/diamond-business-technologies-coworking-space-training-centre-operational"

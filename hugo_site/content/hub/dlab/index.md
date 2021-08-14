@@ -12,9 +12,9 @@ location:
    lat: -6.8234286
    lng: 39.2680669
    address: "Tanzania Breweries, Msimbazi Street, Dar es Salaam, Tanzania"
-   city: Dar es Salaam
-   region: 
-   country: Tanzania
+city: Dar es Salaam
+region: 
+country: Tanzania
 email: 
 articles:
    - "https://www.data4sdgs.org/news/people-are-heart-data-revolution"

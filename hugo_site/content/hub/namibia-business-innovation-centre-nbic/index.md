@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Windhoek
-   region: 
-   country: Namibia
+city: Windhoek
+region: 
+country: Namibia
 email: 
 articles:
    - "http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=6999"

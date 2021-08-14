@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Saint Denis 
-   region: 
-   country: Reunion
+city: Saint Denis 
+region: 
+country: Reunion
 email: 
 articles:
    - "https://umr-astre.cirad.fr/en/research/teams/research-and-surveillance-in-the-indian-ocean-crvoi"

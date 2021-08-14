@@ -12,9 +12,9 @@ location:
    lat: -13.254308
    lng: 34.301525
    address: "Malawi"
-   city: 
-   region: 
-   country: Malawi
+city: 
+region: 
+country: Malawi
 email: 
 articles:
    - "https://disrupt-africa.com/2016/06/13/new-incubator-set-to-launch-in-malawi/"

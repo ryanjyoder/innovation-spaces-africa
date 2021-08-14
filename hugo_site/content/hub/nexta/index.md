@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Immeuble Tana Shore - Enceinte Futura Andranomena Antananarivo"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: contact@nexta.mg
 articles:
 ---

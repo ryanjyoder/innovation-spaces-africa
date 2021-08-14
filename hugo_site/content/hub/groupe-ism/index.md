@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: incubateurs@ism.edu.sn
 articles:
    - "http://wikimonde.com/article/Groupe_ISM"

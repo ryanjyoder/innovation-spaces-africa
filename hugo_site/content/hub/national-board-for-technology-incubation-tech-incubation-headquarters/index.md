@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Abuja
-   region: 
-   country: Nigeria
+city: Abuja
+region: 
+country: Nigeria
 email: 
 articles:
    - "http://koreascience.or.kr/article/JAKO201821142173904.page"

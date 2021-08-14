@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Johannesburg
-   region: 
-   country: South Africa
+city: Johannesburg
+region: 
+country: South Africa
 email: 
 articles:
    - "https://www.nbcnews.com/know-your-value/feature/how-black-girls-code-transformed-basement-experiment-international-movement-ncna1103431"

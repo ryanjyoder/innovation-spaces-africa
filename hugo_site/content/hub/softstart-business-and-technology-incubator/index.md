@@ -12,9 +12,9 @@ location:
    lat: -26.2041028
    lng: 28.0473051
    address: "Johannesburg, South Africa"
-   city: Johannesburg
-   region: Gauteng
-   country: South Africa
+city: Johannesburg
+region: Gauteng
+country: South Africa
 email: 
 articles:
    - "http://www.ngopulse.org/opportunity/2017/05/16/board-membership"

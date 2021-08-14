@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Kinshasa
-   region: 
-   country: Cote D'Ivoire
+city: Kinshasa
+region: 
+country: Cote D'Ivoire
 email: 
 articles:
    - "https://sarahclavel.com/2014/07/14/hubs-in-africa-what-are-they-up-to/"

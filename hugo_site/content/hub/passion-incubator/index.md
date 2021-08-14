@@ -12,9 +12,9 @@ location:
    lat: 6.4524039
    lng: 3.39685350000002
    address: "Lagos Island, Lagos, Nigeria"
-   city: Lagos
-   region: Lagos
-   country: Nigeria
+city: Lagos
+region: Lagos
+country: Nigeria
 email: 
 articles:
    - "https://techpoint.africa/2018/01/05/passion-incubator-journey-far/"

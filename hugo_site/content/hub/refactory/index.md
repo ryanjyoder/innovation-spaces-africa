@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "3rd Floor Le Palm Building, Plot 244/245 Lubbobo Close off Tank Hill Road"
-   city: Kampala
-   region: 
-   country: Uganda
+city: Kampala
+region: 
+country: Uganda
 email: 
 articles:
    - "https://techjaja.com/takeaways-from-the-launch-of-refactory-tech-academy/"

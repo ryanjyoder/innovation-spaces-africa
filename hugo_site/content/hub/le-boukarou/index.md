@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Douala, Cameroun"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: contact@leboukarou.digital.com
 articles:
    - "https://africaeurope-innovationpartnership.net/news/aeips-participation-round-table-discussion-cameroon-incubators-and-innovators-january-2020"

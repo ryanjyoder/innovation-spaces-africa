@@ -12,9 +12,9 @@ location:
    lat: 0.3229945
    lng: 32.5766
    address: "Soliz House, Kampala, Uganda"
-   city: Kampala
-   region: Central Region
-   country: Uganda
+city: Kampala
+region: Central Region
+country: Uganda
 email: 
 articles:
    - "https://www.unicef.org/uganda/press-releases/four-ugandan-young-innovators-receive-seed-funding-worth-ugx308-million-us84153"

@@ -12,9 +12,9 @@ location:
    lat: 0.3355622
    lng: 32.582343
    address: "Uganda National Museum, Kampala, Uganda"
-   city: Kampala
-   region: Central Region
-   country: Uganda
+city: Kampala
+region: Central Region
+country: Uganda
 email: 
 articles:
    - "https://www.dignited.com/27502/hive-colab-opens-mbarara-branch/"

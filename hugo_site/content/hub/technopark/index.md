@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: 
-   region: 
-   country: contact@technopark.ma
+city: 
+region: 
+country: contact@technopark.ma
 email: 
 articles:
    - "https://www.thehindu.com/news/national/kerala/game-changer/article32473407.ece"

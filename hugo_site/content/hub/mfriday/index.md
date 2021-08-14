@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Kumasi
-   region: 
-   country: Ghana
+city: Kumasi
+region: 
+country: Ghana
 email: 
 articles:
 ---

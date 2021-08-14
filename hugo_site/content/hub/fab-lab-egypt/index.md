@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Cairo
-   region: 
-   country: Egypt
+city: Cairo
+region: 
+country: Egypt
 email: 
 articles:
    - "https://y-center.org/impact/egypt/"

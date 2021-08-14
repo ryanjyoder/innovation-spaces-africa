@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Oujda, Maroc"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: contact@tamkeen.ma
 articles:
    - "https://www.bicworld.com/en/moroccan-center-innovation-and-social-entrepreneurship-mcise-tamkeen-initiative"

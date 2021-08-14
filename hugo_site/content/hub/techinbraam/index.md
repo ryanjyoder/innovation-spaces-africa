@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Johannesburg
-   region: 
-   country: South Africa
+city: Johannesburg
+region: 
+country: South Africa
 email: 
 articles:
    - "https://www.brandsouthafrica.com/investments-immigration/science-technology/new-technology-hub-for-braamfontein"

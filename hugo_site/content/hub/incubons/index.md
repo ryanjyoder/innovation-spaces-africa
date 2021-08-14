@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "VP 27 A bis Ambohimiandra ,  Antananarivo"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: incubons.etc@gmail.com
 articles:
    - "https://www.marieclaire.fr/j-ai-cree-le-premier-incubateur-social-de-l-ocean-indien,1263531.asp"

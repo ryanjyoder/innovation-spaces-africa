@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Lom�, quartier Av�dji, Carrefour Margot, Lom�, Togo"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: contact@couveuse-papricai.org
 articles:
    - "https://fondationheinrichklose.org/2019/12/22/ikam-ouvre-ses-portes-au-togo/"

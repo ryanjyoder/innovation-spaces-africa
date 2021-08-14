@@ -12,9 +12,9 @@ location:
    lat: -1.2920659
    lng: 36.8219462
    address: "Nairobi, Kenya"
-   city: Nairobi
-   region: Nairobi County
-   country: Kenya
+city: Nairobi
+region: Nairobi County
+country: Kenya
 email: 
 articles:
    - "https://disrupt-africa.com/2020/09/16/metta-nairobi-garage-partner-to-offer-kenyan-entrepreneurs-benefits-of-both/"

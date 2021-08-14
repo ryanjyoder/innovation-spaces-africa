@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Avenue raymond Poincar�, 3�me �tage du b�timent Solemare"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: princilia-doris.mizere@total.com
 articles:
 ---

@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: yeesalagrihub@gmail.com
 articles:
    - "https://www.rfi.fr/fr/emission/20180512-yeesal-agri-hub-le-premier-agri-tech-hub-senegal"

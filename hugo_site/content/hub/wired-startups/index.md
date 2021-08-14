@@ -12,9 +12,9 @@ location:
    lat: 31.791702
    lng: -7.09262000000001
    address: "Morocco"
-   city: 
-   region: 
-   country: Morocco
+city: 
+region: 
+country: Morocco
 email: 
 articles:
    - "https://medium.com/@aminebenkeroum/why-i-started-wired-africa-768c439f4d78"

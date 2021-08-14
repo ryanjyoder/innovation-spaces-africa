@@ -12,9 +12,9 @@ location:
    lat: 9.081999
    lng: 8.67527700000005
    address: "Nigeria"
-   city: 
-   region: 
-   country: Nigeria
+city: 
+region: 
+country: Nigeria
 email: 
 articles:
    - "https://disrupt-africa.com/2016/02/02/nhub-nigeria-looks-to-make-jos-a-tech-outsourcing-hub/"

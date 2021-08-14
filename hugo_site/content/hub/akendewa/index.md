@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Abidjan
-   region: 
-   country: Cote D'Ivoire
+city: Abidjan
+region: 
+country: Cote D'Ivoire
 email: 
 articles:
    - "https://fi.co/insight/silicon-valley-based-founder-institute-launches-new-startup-program-in-ivory-coast"

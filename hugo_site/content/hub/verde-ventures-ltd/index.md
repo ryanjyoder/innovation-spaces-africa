@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Eb�ne, Quatre Bornes, Maurice"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: 
 articles:
 ---

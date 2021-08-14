@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Johannesburg
-   region: 
-   country: South Africa 
+city: Johannesburg
+region: 
+country: South Africa 
 email: 
 articles:
    - "https://disrupt-africa.com/2020/07/22/impact-amplifier-google-org-launch-1m-africa-online-safety-fund/"

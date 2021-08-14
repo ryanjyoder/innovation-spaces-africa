@@ -12,9 +12,9 @@ location:
    lat: 6.306069
    lng: -10.7988739
    address: "Camp Johnson Rd, Monrovia, Liberia"
-   city: Monrovia
-   region: Montserrado
-   country: Liberia
+city: Monrovia
+region: Montserrado
+country: Liberia
 email: 
 articles:
    - "https://www.hotosm.org/updates/hot-and-ilab-liberia-exploring-the-potential-of-machine-learning-to-augment-human-mappers-in-monrovia/"

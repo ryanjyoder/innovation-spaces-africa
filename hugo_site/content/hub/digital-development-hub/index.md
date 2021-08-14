@@ -12,9 +12,9 @@ location:
    lat: 12.0049303
    lng: 8.51169030000006
    address: "Kano City, Kano, Nigeria"
-   city: Kano
-   region: Kano
-   country: Nigeria
+city: Kano
+region: Kano
+country: Nigeria
 email: 
 articles:
    - "https://techbuild.africa/digital-development-hub-innovation-nigeria/"

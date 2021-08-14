@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Stellenbosch 
-   region: 
-   country: South Africa 
+city: Stellenbosch 
+region: 
+country: South Africa 
 email: 
 articles:
    - "https://ventureburn.com/2014/02/angelhub-becomes-angelhub-ventures-with-michael-jordaan-buy-in/"

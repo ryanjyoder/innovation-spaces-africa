@@ -12,9 +12,9 @@ location:
    lat: 7.369722
    lng: 12.354722
    address: "Cameroon"
-   city: 
-   region: 
-   country: Cameroon
+city: 
+region: 
+country: Cameroon
 email: 
 articles:
    - "https://vc4a.com/it-kola/"

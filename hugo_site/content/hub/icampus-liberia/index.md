@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Monrovia
-   region: 
-   country: Liberia
+city: Monrovia
+region: 
+country: Liberia
 email: 
 articles:
    - "https://accountabilitylab.org/icampus-launches-liberia-learning-awards-2020/"

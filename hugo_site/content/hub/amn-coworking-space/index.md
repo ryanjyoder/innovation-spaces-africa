@@ -12,9 +12,9 @@ location:
    lat: 5.3553063
    lng: -3.96637899999996
    address: "E 128, Abidjan, C�te d'Ivoire"
-   city: Abidjan
-   region: R�gion des lagunes
-   country: C�te d'Ivoire
+city: Abidjan
+region: R�gion des lagunes
+country: C�te d'Ivoire
 email: 
 articles:
    - "https://techafrique.startupbrics.com/coworking-ecosysteme-startup-cote-ivoire/"

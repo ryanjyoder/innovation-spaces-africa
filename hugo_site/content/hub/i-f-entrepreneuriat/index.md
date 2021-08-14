@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "23, Avenue Kolo, Quartier Noki, Mbanza-Ngungu, Bas-Congo, RD Congo"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: contact@ifentrepreneuriat.org
 articles:
    - "http://www.faapa.info/en/2021/04/20/lif-entrepreneuriat-offre-des-opportunites-aux-jeunes-entrepreneurs/"

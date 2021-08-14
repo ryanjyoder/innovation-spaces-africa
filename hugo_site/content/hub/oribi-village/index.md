@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "19 Park Road, Gardens, Cape Town, Afrique du Sud"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: hello@oribivillage.com
 articles:
    - "https://www.itweb.co.za/content/kLgB17e8EjRv59N4"

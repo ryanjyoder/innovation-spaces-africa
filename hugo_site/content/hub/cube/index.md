@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "BP 4556, togo"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: equipecube@gmail.com
 articles:
    - "https://robohub.org/cube-tech-fair/"

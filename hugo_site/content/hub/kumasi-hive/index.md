@@ -12,9 +12,9 @@ location:
    lat: 7.946527
    lng: -1.02319399999999
    address: "Ghana"
-   city: 
-   region: 
-   country: Ghana
+city: 
+region: 
+country: Ghana
 email: info@kumasihive.com
 articles:
    - "https://mybeeponline.com/kumasi-hive-to-empower-ghanaian-communities-with-solartaxi-project/"

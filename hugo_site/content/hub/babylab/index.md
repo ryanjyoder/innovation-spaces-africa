@@ -12,9 +12,9 @@ location:
    lat: 5.3173556
    lng: -4.01906439999993
    address: "Abobo Habitat, Q 180"
-   city: Abidjan
-   region: Abidjan
-   country: C�te d'Ivoire
+city: Abidjan
+region: Abidjan
+country: C�te d'Ivoire
 email: contact@baby-lab.org
 articles:
    - "https://www.rfi.fr/fr/emission/20160823-cote-ivoire-lancement-laboratoire-numerique-baby-lab-abidjan"

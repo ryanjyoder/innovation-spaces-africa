@@ -12,9 +12,9 @@ location:
    lat: -17.8251657
    lng: 31.03351
    address: "Harare, Zimbabwe"
-   city: Harare
-   region: Harare Province
-   country: Zimbabwe
+city: Harare
+region: Harare Province
+country: Zimbabwe
 email: 
 articles:
    - "https://www.fundsforngos.org/developing-countries-2/zimbabwe-2/green-innovation-hub-gihub-submit-social-innovating-ideas-for-environmental-sustainability-and-renewable-energy-needs/"

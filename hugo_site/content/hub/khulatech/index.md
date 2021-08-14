@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Cotonou B�nin, Vedoko, von funai, immeuble MTN ,  Cotonou"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: contact@khulatech.com
 articles:
    - "https://www.grocotts.co.za/2020/02/14/a-wireless-town-through-khula-tech-solutions/"

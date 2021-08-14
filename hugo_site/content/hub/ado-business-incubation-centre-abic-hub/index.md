@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Iba Ajie, 1 Tasia Street, ShopRite Junction"
-   city: Onitsha
-   region: 
-   country: Nigeria
+city: Onitsha
+region: 
+country: Nigeria
 email: 
 articles:
    - "https://www.theafricareport.com/23434/tech-hubs-across-africa-to-incubate-the-next-generation/"

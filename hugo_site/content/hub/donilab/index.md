@@ -12,9 +12,9 @@ location:
    lat: 12.6363899
    lng: -7.99483789999999
    address: "SOTUBA"
-   city: Bamako
-   region: District de Bamako
-   country: Mali
+city: Bamako
+region: District de Bamako
+country: Mali
 email: info@donilab.net
 articles:
    - "https://www.afrik21.africa/en/mali-donilab-finances-the-projects-of-three-start-ups-in-the-green-economy/"

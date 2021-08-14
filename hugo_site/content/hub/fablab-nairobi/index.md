@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Nairobi
-   region: 
-   country: Kenya
+city: Nairobi
+region: 
+country: Kenya
 email: 
 articles:
    - "https://www.voanews.com/africa/fab-lab-igniting-revolution-kenya"

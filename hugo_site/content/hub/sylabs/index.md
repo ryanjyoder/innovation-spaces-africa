@@ -12,9 +12,9 @@ location:
    lat: 28.033886
    lng: 1.659626
    address: "Algeria"
-   city: 
-   region: 
-   country: Algeria
+city: 
+region: 
+country: Algeria
 email: hello@sylabs-dz.com
 articles:
    - "https://jazairhope.org/en/interview-meet-chawki-the-owner-of-a-startup-that-provides-books-for-48-willayas-in-algeria/"

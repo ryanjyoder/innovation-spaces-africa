@@ -12,9 +12,9 @@ location:
    lat: 6.6927446
    lng: 3.23648539999999
    address: "Ota, Nigeria"
-   city: Ota
-   region: Ogun State
-   country: Nigeria
+city: Ota
+region: Ogun State
+country: Nigeria
 email: 
 articles:
    - "https://www.ft.com/content/c757e400-f994-4fc4-87fa-e2647de138a3"

@@ -12,9 +12,9 @@ location:
    lat: -33.9248685
    lng: 18.4240553
    address: "Cape Town, South Africa"
-   city: Cape Town
-   region: Western Cape
-   country: South Africa
+city: Cape Town
+region: Western Cape
+country: South Africa
 email: info@injini.africa
 articles:
    - "https://www.investcapetown.com/success_stories/injini-edtech-incubator/"

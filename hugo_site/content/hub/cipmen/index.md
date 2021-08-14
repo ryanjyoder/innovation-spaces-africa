@@ -12,9 +12,9 @@ location:
    lat: 17.607789
    lng: 8.08166600000004
    address: "Niamey"
-   city: 
-   region: 
-   country: Niger
+city: 
+region: 
+country: Niger
 email: contact@cipmen.org
 articles:
    - "https://www.theafricareport.com/2164/nigers-big-boost-to-up-and-coming-sme-shoots/"

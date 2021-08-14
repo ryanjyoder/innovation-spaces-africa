@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: hedi@factory319.com
 articles:
    - "http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=7014"

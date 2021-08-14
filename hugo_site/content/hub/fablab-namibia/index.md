@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Windhoek
-   region: 
-   country: Namibia
+city: Windhoek
+region: 
+country: Namibia
 email: 
 articles:
    - "https://www.we.com.na/news/fablab-to-shut-its-doors2018-05-16"

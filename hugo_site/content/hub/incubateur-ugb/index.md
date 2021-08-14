@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Sanar, Saint-Louis, Saint-Louis, S�n�gal"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: incubateur@ugb.edu.sn
 articles:
    - "https://entrepreneuriatsn.com/incubateur-ugb-recrutement-de-30-jeunes-en-pre-incubation/"

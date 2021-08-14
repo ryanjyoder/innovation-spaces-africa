@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Saint Denis (Sainte Clotilde)
-   region: 
-   country: Reunion
+city: Saint Denis (Sainte Clotilde)
+region: 
+country: Reunion
 email: 
 articles:
    - "https://www.lequotidien.re/actualites/economie/technopole-de-la-reunion-daniel-ramsamy-reconduit-a-la-presidence/"

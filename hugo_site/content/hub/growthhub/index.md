@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Nairobi
-   region: 
-   country: Kenya
+city: Nairobi
+region: 
+country: Kenya
 email: 
 articles:
    - "https://techmoran.com/2013/06/21/kenyas-growthhub-opens-applications-for-its-second-cohort-of-startups-offering-75000-in-seed-funding/"

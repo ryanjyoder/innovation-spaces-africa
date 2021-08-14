@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Durban
-   region: 
-   country: South Africa 
+city: Durban
+region: 
+country: South Africa 
 email: 
 articles:
    - "https://www.brandsouthafrica.com/tag/smart-xchange"

@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Cape Town
-   region: 
-   country: South Africa
+city: Cape Town
+region: 
+country: South Africa
 email: 
 articles:
    - "https://baronscapetown.co.za/"

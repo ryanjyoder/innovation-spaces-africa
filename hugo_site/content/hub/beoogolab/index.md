@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Somgand�, Secteur 19, Rue Dima Koon ,  Ouagadougou"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: info@beoogolab.org
 articles:
    - "https://www.africinnov.com/fr/news/entretien_avec_mahamadi_rouamba_le_pionnier_de_la_startup_studio_au_burkina_faso"

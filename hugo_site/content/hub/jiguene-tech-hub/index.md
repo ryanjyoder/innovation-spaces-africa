@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Dakar
-   region: 
-   country: Senegal
+city: Dakar
+region: 
+country: Senegal
 email: 
 articles:
    - "https://www.borgenmagazine.com/jiggen-tech-hub-breaking-tech-barriers-in-senegal/"

@@ -12,9 +12,9 @@ location:
    lat: 12.6250651
    lng: -7.98821799999996
    address: "Ambassade d'Allemagne, Rue 14"
-   city: Bamako
-   region: District de Bamako
-   country: Mali
+city: Bamako
+region: District de Bamako
+country: Mali
 email: secretariat@diaspohub.com
 articles:
    - "https://www.journaldumali.com/2018/02/16/formation-pratique-a-createam/"

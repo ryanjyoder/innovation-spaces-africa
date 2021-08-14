@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Tunis
-   region: 
-   country: Tunisia
+city: Tunis
+region: 
+country: Tunisia
 email: 
 articles:
    - "https://www.jeuneafrique.com/189960/archives-thematique/tunisie-wiki-start-up-incubateur-priv/"

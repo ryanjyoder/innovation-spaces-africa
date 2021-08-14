@@ -12,9 +12,9 @@ location:
    lat: 10.3009641
    lng: 9.82365329999993
    address: "Bauchi, Nigeria"
-   city: Bauchi
-   region: Bauchi
-   country: Nigeria
+city: Bauchi
+region: Bauchi
+country: Nigeria
 email: info@uplift.ng
 articles:
    - "https://medium.com/upliftngr/creating-founders-in-bauchi-nigeria-e09e200d2db8"

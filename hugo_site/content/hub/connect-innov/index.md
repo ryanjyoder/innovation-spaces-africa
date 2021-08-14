@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: afric'innov
 articles:
    - "https://santedesiles.com/table-kids-by-connect-innov/"

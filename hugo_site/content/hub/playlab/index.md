@@ -11,10 +11,10 @@ linkedin:
 location: 
    lat: 
    lng: 
-   address: "Villa Mamelles Aviation LOT num�ro 3 TF ,  Dakar"
-   city: 
-   region: 
-   country: 
+   address: "Villa Mamelles Aviation LOT num�ro 3 TF"
+city: Dakar
+region: 
+country: Senegal
 email: info@play-international.org
 articles:
    - "https://www.play-international.org/projets/education-et-inclusion-sociale-en-afrique-de-louest"

@@ -12,9 +12,9 @@ location:
    lat: -8.8249255
    lng: 13.2279833
    address: "ANGOLA LNG, Rua Am�lcar Cabral, Luanda, Angola"
-   city: Luanda
-   region: Luanda
-   country: Angola
+city: Luanda
+region: Luanda
+country: Angola
 email: 
 articles:
    - "https://disrupt-africa.com/2016/01/04/kiandahub-seeks-funding-to-become-centre-of-angolas-startup-community/"

@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Quartier Moursal, Boulevard SAO, Rue 5018, B.P.: 111 , N&#039;Djamena"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: 
 articles:
    - "http://www.lepaystchad.com/2053/"

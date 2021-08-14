@@ -12,9 +12,9 @@ location:
    lat: 10.4548808
    lng: 7.4056928
    address: "kaduna South, Kaduna, Nigeria"
-   city: Kaduna
-   region: Kaduna
-   country: Nigeria
+city: Kaduna
+region: Kaduna
+country: Nigeria
 email: 
 articles:
    - "https://qz.com/africa/821936/colab-a-new-tech-hub-in-kaduna-hopes-to-inspire-an-ecosystem-in-northern-nigeria/"

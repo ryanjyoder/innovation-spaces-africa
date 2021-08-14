@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Casablanca
-   region: 
-   country: Morocco
+city: Casablanca
+region: 
+country: Morocco
 email: 
 articles:
    - "https://www.wamda.com/2016/01/moroccos-new-work-lab-grows-from-coworking-space-to-entrepreneurship-training-center"

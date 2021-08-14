@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Aba
-   region: 
-   country: Nigeria
+city: Aba
+region: 
+country: Nigeria
 email: info@rad5.com.ng
 articles:
    - "https://technopreneur.com.ng/2019/08/09/rad5-tech-hub-trains-300-children-on-coding-computer-skills/"

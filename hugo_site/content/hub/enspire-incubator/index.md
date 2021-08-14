@@ -12,9 +12,9 @@ location:
    lat: 9.0764785
    lng: 7.39857400000005
    address: "Abuja, Federal Capital Territory, Nigeria"
-   city: Abuja
-   region: Federal Capital Territory
-   country: Nigeria
+city: Abuja
+region: Federal Capital Territory
+country: Nigeria
 email: 
 articles:
    - "https://www.tandfonline.com/doi/abs/10.1080/20421338.2020.1746045?journalCode=rajs20"

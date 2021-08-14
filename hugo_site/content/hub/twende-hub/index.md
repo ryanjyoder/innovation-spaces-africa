@@ -12,9 +12,9 @@ location:
    lat: 6.3335725
    lng: -3.17231800000002
    address: "Tanzania, Western Region, Ghana"
-   city: Tanzania
-   region: Western Region
-   country: Ghana
+city: Tanzania
+region: Western Region
+country: Ghana
 email: 
 articles:
    - "https://vc4a.com/twende-hub/"

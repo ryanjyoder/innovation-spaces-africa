@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "89, avenue KANKONTWE, BEL&#039;AIR, KAMPEMBA ,"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: afric'innov
 articles:
 ---

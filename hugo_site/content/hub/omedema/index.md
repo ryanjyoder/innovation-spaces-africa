@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "1 Rue de la Mare Adam, Chaville, France"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: CONTACT@OMEDEMA.COM
 articles:
    - "https://www.cpafrique.fr/mamadou-konate-fondateur-de-omedema/"

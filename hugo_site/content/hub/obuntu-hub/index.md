@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Mega Complex-Arusha"
-   city: 
-   region: 
-   country: Tanzania
+city: 
+region: 
+country: Tanzania
 email: hello@obuntuhub.co.tz
 articles:
    - "http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=7009"

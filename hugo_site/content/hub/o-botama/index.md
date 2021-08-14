@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Biyem-Assi, Yaound�, Cameroun"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: afric'innov
 articles:
    - "https://econuma.com/go-aac/les-incubateurs-dentreprises-au-cameroun-une-chance-de-survie-pour-les-entreprises-camerounaises-1616334556"

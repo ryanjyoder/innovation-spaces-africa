@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Dar es Salaam
-   region: 
-   country: Tanzania
+city: Dar es Salaam
+region: 
+country: Tanzania
 email: 
 articles:
    - "https://afruturist.medium.com/what-you-need-to-know-about-tanzania-innovation-ecosystem-why-we-are-the-fastest-12ebfc7c32ef"

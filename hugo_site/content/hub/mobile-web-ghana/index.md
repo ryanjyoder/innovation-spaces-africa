@@ -12,9 +12,9 @@ location:
    lat: 5.5712984
    lng: -0.146848299999988
    address: "Ghana International Trade Fair Centre, Accra, Ghana"
-   city: Accra
-   region: Greater Accra Region
-   country: Ghana
+city: Accra
+region: Greater Accra Region
+country: Ghana
 email: 
 articles:
    - "https://vc4a.com/mobile-web-ghana/"

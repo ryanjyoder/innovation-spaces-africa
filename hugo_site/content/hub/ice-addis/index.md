@@ -12,9 +12,9 @@ location:
    lat: 9.0118214
    lng: 38.7328845
    address: "Chad St, Addis Ababa, Ethiopia"
-   city: Addis Ababa
-   region: Addis Ababa
-   country: Ethiopia
+city: Addis Ababa
+region: Addis Ababa
+country: Ethiopia
 email: 
 articles:
    - "https://addiszeybe.com/featured/events/technology/news/iceaddis-and-huawei-jointly-boost-ict-innovation"

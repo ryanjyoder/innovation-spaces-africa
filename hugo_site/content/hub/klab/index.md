@@ -12,9 +12,9 @@ location:
    lat: -1.940278
    lng: 29.873888
    address: "Rwanda"
-   city: 
-   region: 
-   country: Rwanda
+city: 
+region: 
+country: Rwanda
 email: 
 articles:
    - "https://www.centreforpublicimpact.org/insights/driving-growth-rwandas-klab"

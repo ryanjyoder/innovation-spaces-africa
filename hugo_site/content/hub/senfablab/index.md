@@ -12,9 +12,10 @@ location:
    lat: 
    lng: 
    address: ""
-   city: 
-   region: 
-   country: Senegal
+city: 
+region: 
+country: Senegal
+country: Senegal
 email: 
 articles:
 ---

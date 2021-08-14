@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Festival Des Glaces, Ouagadougou, Burkina Faso"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: contact@sira-labs.com
 articles:
    - "https://www.burkina24.com/2020/10/28/lancement-de-lincubateur-sira-labs-a-bobo-dioulasso-des-opportunites-de-creation-dentreprises-numeriques-pour-tous/"

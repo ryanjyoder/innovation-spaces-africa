@@ -12,9 +12,9 @@ location:
    lat: -1.2882626
    lng: 36.8137592000001
    address: "Kenyatta Avenue, Nairobi, Kenya"
-   city: Nairobi
-   region: Nairobi County
-   country: Kenya
+city: Nairobi
+region: Nairobi County
+country: Kenya
 email: 
 articles:
    - "https://www.biztechafrica.com/article/ilabafrica-take-android-training-students/9461/"

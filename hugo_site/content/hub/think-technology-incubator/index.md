@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Kigali
-   region: 
-   country: Rwanda
+city: Kigali
+region: 
+country: Rwanda
 email: 
 articles:
    - "https://ventureburn.com/2015/06/think-adds-new-startups-accelerated-incubator/"

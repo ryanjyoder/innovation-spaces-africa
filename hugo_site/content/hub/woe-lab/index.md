@@ -12,9 +12,9 @@ location:
    lat: 4.9255857
    lng: -2.32036949999997
    address: "Gulf of Guinea, Esiama, Ghana"
-   city: Esiama
-   region: Western Region
-   country: Ghana
+city: Esiama
+region: Western Region
+country: Ghana
 email: 
 articles:
    - "https://edition.cnn.com/2017/11/28/africa/3d-printer-electronic-waste/index.html"

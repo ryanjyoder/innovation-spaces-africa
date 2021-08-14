@@ -12,9 +12,9 @@ location:
    lat: 5.152149
    lng: 46.199616
    address: "Somalia"
-   city: 
-   region: 
-   country: Somalia
+city: 
+region: 
+country: Somalia
 email: 
 articles:
    - "https://www.africanews.com/2017/09/12/africa-has-over-300-tech-hubs-somalia-launches-its-first-hi-tech//"

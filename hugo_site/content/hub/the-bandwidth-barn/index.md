@@ -12,9 +12,9 @@ location:
    lat: -30.559482
    lng: 22.937506
    address: "South Africa"
-   city: 
-   region: 
-   country: South Africa
+city: 
+region: 
+country: South Africa
 email: 
 articles:
    - "https://www.brandsouthafrica.com/investments-immigration/business/investing/opportunities/bandwidthbarn"

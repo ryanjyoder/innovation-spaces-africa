@@ -12,9 +12,9 @@ location:
    lat: 0.4990124
    lng: 29.4527538
    address: "Beni, North-Kivu, Democratic Republic of the Congo"
-   city: Beni
-   region: North-Kivu
-   country: Democratic Republic of the Congo
+city: Beni
+region: North-Kivu
+country: Democratic Republic of the Congo
 email: reception@cinolu.org
 articles:
    - "https://www.elanrdc.com/south/2018/11/12/cinolu-centre-dinnovation-de-lubumbashi-hsaka"

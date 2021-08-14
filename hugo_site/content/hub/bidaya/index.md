@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "33 bis rue le titien Val fleuri ,  Casablanca"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: contact@bidaya.io
 articles:
    - "https://www.techinafrica.com/bidaya-moroccos-significant-tech-incubator/"

@@ -12,9 +12,9 @@ location:
    lat: 26.820553
    lng: 30.802498
    address: "Egypt"
-   city: 
-   region: 
-   country: Egypt
+city: 
+region: 
+country: Egypt
 email: 
 articles:
 ---

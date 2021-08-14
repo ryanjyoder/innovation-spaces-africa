@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: direction@afppme.bf
 articles:
    - "https://www.afdb.org/en/documents/ami-burkina-faso-selection-dune-firme-pour-une-assistance-technique-en-vue-de-la-consolidation-du-dispositif-dincubation-et-de-la-formation-des-formateurs-de-lagence-de-financement-et-de-promotion-des-petites-et-moyennes-entreprises-afp-pme"

@@ -12,9 +12,9 @@ location:
    lat: 6.6623005
    lng: 3.2833564
    address: "Nigeria Newspapers, Lagos, Nigeria"
-   city: Lagos
-   region: Lagos
-   country: Nigeria
+city: Lagos
+region: Lagos
+country: Nigeria
 email: 
 articles:
    - "https://ventureburn.com/2018/06/heres-need-know-nigerias-tech-startup-ecosystem/"

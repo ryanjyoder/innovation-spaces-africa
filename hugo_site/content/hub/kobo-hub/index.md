@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Immeuble 130, avenue Kwango, Kinshasa (Ref: INA)"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: secretariat@kobo-hub.com
 articles:
    - "https://www.platformafrica.com/2020/06/23/kobo-hub-a-community-of-congolese-entrepreneurs/"

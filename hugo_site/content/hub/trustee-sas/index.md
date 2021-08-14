@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Tombo ,  Kaloum, Conakry"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: contact@trustees.fr
 articles:
 ---

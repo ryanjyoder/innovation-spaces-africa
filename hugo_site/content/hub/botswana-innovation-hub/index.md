@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Gaborone
-   region: 
-   country: Botswana
+city: Gaborone
+region: 
+country: Botswana
 email: 
 articles:
    - "https://www.dezeen.com/2020/07/21/botswana-innovation-hub-shop-architects-gaborone/"

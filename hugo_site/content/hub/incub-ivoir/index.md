@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "zone 3 rue des carrossiers Bo�te Postale 10 Bp 1041 Abidjan 10"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: afric'innov
 articles:
    - "https://www.afrikatech.com/start-business/incubivoir-environment-startup-project-caravan/"

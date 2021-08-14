@@ -12,9 +12,9 @@ location:
    lat: -0.0974903
    lng: 34.7525582999999
    address: "Accra Street, Kisumu, Kenya"
-   city: Kisumu
-   region: Kisumu County
-   country: Kenya
+city: Kisumu
+region: Kisumu County
+country: Kenya
 email: 
 articles:
    - "https://techweez.com/2019/02/09/impact-lake-hub-innovation/"

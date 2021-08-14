@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Boulevard De La Liberte, Bujumbura, Burundi"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: info@bujahub.com
 articles:
    - "https://www.jimbere.org/news/digital-entrepreneurship-unemployment-solution-youth-burundi/"

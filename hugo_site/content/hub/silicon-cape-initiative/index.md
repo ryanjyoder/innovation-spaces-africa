@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Cape Town
-   region: 
-   country: South Africa 
+city: Cape Town
+region: 
+country: South Africa 
 email: 
 articles:
    - "https://thenextweb.com/news/how-silicon-cape-is-fostering-a-supportive-ecosystem-for-startups-in-south-africa"

@@ -12,9 +12,9 @@ location:
    lat: 9.0764785
    lng: 7.39857400000005
    address: "Abuja, Nigeria"
-   city: Abuja
-   region: Federal Capital Territory
-   country: Nigeria
+city: Abuja
+region: Federal Capital Territory
+country: Nigeria
 email: Info@civicfoundationforinnovation.org
 articles:
    - "https://reliefweb.int/report/nigeria/undp-partners-civic-foundation-innovation-seeks-new-approaches-designing-development"

@@ -12,9 +12,9 @@ location:
    lat: -6.8234286
    lng: 39.2680669
    address: "Tanzania Breweries, Dar es Salaam, Tanzania"
-   city: Dar es Salaam
-   region: 
-   country: Tanzania
+city: Dar es Salaam
+region: 
+country: Tanzania
 email: 
 articles:
    - "http://www.findglocal.com/TZ/Dar-es-Salaam/199246130413117/STIClab-LTD"

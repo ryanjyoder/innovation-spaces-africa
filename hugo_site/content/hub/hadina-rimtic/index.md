@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Nouakchott, Nouakchott, Mauritanie"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: contact@hadinarimtic.com
 articles:
    - "https://www.jeuneafrique.com/361471/economie/start-up-de-semaine-hadina-rimtic-lincubateur-veut-donner-de-voix-a-tech-mauritanienne/"

@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Maputo
-   region: 
-   country: Mozambique
+city: Maputo
+region: 
+country: Mozambique
 email: 
 articles:
    - "http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=6998"

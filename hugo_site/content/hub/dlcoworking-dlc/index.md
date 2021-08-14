@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Av Kawar, Derri�re maternit� Yantala ,  Niamey"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: contact@dlcoworking.com
 articles:
    - "http://businesschallengeniger.com/appel-a-projet-by-dlcoworking/"

@@ -12,9 +12,9 @@ location:
    lat: -1.9705786
    lng: 30.1044288000001
    address: "Kigali, Rwanda"
-   city: Kigali
-   region: Kigali City
-   country: Rwanda
+city: Kigali
+region: Kigali City
+country: Rwanda
 email: 
 articles:
    - "https://africabusinesscommunities.com/tech/tech-features/startup-interview-benjamin-manirafasha-ceo-iris-hub-rwanda/"

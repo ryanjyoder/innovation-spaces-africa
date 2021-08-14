@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Cairo
-   region: 
-   country: Egypt
+city: Cairo
+region: 
+country: Egypt
 email: 
 articles:
    - "https://www.atuuat.africa/2020/11/06/spotlight-on-innovation-and-entrepreneurship-in-egypts-ict-sector/"

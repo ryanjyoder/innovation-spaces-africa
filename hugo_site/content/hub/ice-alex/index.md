@@ -12,9 +12,9 @@ location:
    lat: 30.7622959
    lng: 29.6962677
    address: "Alexandria Governorate, Egypt"
-   city: 
-   region: Alexandria Governorate
-   country: Egypt
+city: 
+region: Alexandria Governorate
+country: Egypt
 email: info@icealex.com
 articles:
 ---

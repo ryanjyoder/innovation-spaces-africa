@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Minna
-   region: 
-   country: Nigeria
+city: Minna
+region: 
+country: Nigeria
 email: 
 articles:
    - "https://thenationonlineng.net/creating-entrepreneurs-technology-incubation/"

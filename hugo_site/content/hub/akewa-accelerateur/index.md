@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Cit� Scherko/Angondje commune D&#039;Akanda ,  Libreville"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: agence.akewa@gmail.com
 articles:
    - "http://www.gabonews.com/fr/actus/social/article/akewa-accelerateur-au-coeur-du-developpement"

@@ -12,9 +12,9 @@ location:
    lat: 0.3935071
    lng: 9.44680019999998
    address: "Gabon Telecom, Libreville, Estuaire, Gabon"
-   city: Libreville
-   region: Estuaire
-   country: Gabon
+city: Libreville
+region: Estuaire
+country: Gabon
 email: 
 articles:
 ---

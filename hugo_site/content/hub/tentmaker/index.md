@@ -12,9 +12,9 @@ location:
    lat: 5.6004186
    lng: -0.183411500000034
    address: "accra, Ghana Airways Avenue, Accra, Ghana"
-   city: Accra
-   region: Greater Accra Region
-   country: Ghana
+city: Accra
+region: Greater Accra Region
+country: Ghana
 email: 
 articles:
    - "https://www.ghanaweb.com/GhanaHomePage/business/Tentmaker-Ghana-trains-21-fashion-entrepreneurs-under-Creative-Enterprise-Program-CEP-687748"

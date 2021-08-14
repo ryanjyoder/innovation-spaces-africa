@@ -12,9 +12,9 @@ location:
    lat: -25.7491488
    lng: 28.2674629000001
    address: "The Enterprise Building, Allan Cormack St, Pretoria 0020, South Africa"
-   city: Pretoria
-   region: Gauteng
-   country: South Africa
+city: Pretoria
+region: Gauteng
+country: South Africa
 email: 
 articles:
    - "https://www.brandsouthafrica.com/investments-immigration/business/trends/newbusiness/mlabsa-280711"

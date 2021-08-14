@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Casablanca
-   region: 
-   country: Morocco
+city: Casablanca
+region: 
+country: Morocco
 email: 
 articles:
    - "https://innovation.mit.edu/news-article/hacking-phosphates-promote-innovative-entrepreneurship/"

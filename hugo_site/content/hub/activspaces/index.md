@@ -12,9 +12,9 @@ location:
    lat: 4.1515548
    lng: 9.23278570000002
    address: "Cefam Rd, Buea, Cameroon"
-   city: Buea
-   region: Southwest
-   country: Cameroon
+city: Buea
+region: Southwest
+country: Cameroon
 email: info@activspaces.com
 articles:
    - "https://techxplore.com/news/2019-09-cameroon-silicon-mountain-tech-startups.html"

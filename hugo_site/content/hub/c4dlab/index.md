@@ -12,9 +12,9 @@ location:
    lat: -0.023559
    lng: 37.906193
    address: "Kenya"
-   city: 
-   region: 
-   country: Kenya
+city: 
+region: 
+country: Kenya
 email: 
 articles:
    - "https://techcabal.com/2015/05/28/kenyas-c4dlab-opens-registration-for-its-innovation-week/"

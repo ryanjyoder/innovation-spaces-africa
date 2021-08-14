@@ -12,9 +12,9 @@ location:
    lat: 9.0438014
    lng: 7.49190239999996
    address: "Abuja International Conference Centre, Herbert Macaulay Way, Abuja, Nigeria"
-   city: Abuja
-   region: Federal Capital Territory
-   country: Nigeria
+city: Abuja
+region: Federal Capital Territory
+country: Nigeria
 email: 
 articles:
    - "https://techpoint.africa/2020/05/14/vp-fund-invests-in-tambua-funneljoy-brass/"

@@ -12,9 +12,9 @@ location:
    lat: 5.0377396
    lng: 7.91279450000002
    address: "Uyo, Akwa Ibom, Nigeria"
-   city: Uyo
-   region: Akwa Ibom
-   country: Nigeria
+city: Uyo
+region: Akwa Ibom
+country: Nigeria
 email: 
 articles:
 ---

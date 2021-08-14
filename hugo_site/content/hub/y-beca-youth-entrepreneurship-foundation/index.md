@@ -12,9 +12,9 @@ location:
    lat: -26.20222
    lng: 28.049388
    address: "Johannesburg Sewing Centre, Pritchard Street, Hillbrow, Johannesburg, South Africa"
-   city: Johannesburg
-   region: Gauteng
-   country: South Africa
+city: Johannesburg
+region: Gauteng
+country: South Africa
 email: 
 articles:
    - "http://www.weekendpost.co.bw/21506/weekendlife/young-author-represents-botswana-at-y-beca-foundation/"

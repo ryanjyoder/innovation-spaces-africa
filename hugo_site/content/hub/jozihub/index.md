@@ -12,9 +12,9 @@ location:
    lat: -26.1934093
    lng: 27.9849379
    address: "South Africa Islam, Johannesburg, Gauteng, South Africa"
-   city: Johannesburg
-   region: Gauteng
-   country: South Africa
+city: Johannesburg
+region: Gauteng
+country: South Africa
 email: info@jozihub.org
 articles:
    - "https://www.itweb.co.za/content/5rW1xL75ayQ7Rk6m"

@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Ngoumou
-   region: 
-   country: Cameroon
+city: Ngoumou
+region: 
+country: Cameroon
 email: 
 articles:
 ---

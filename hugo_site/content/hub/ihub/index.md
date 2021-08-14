@@ -12,9 +12,9 @@ location:
    lat: -0.023559
    lng: 37.906193
    address: "Kenya"
-   city: 
-   region: 
-   country: Kenya
+city: 
+region: 
+country: Kenya
 email: 
 articles:
    - "https://www.forbes.com/sites/tobyshapshak/2016/03/11/kenyas-ihub-enters-a-new-chapter/?sh=3add9a8e4f6a"

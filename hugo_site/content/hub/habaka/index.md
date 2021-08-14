@@ -12,9 +12,9 @@ location:
    lat: -18.9078944
    lng: 47.5287605
    address: "Lalana Rainandriamampandry, Antananarivo, Antananarivo Province, Madagascar"
-   city: Antananarivo
-   region: Antananarivo Province
-   country: Madagascar
+city: Antananarivo
+region: Antananarivo Province
+country: Madagascar
 email: 
 articles:
    - "https://disrupt-africa.com/2015/02/17/habaka-incubator-working-madagascan-government-boost-tech/"

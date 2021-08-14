@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Durban
-   region: 
-   country: South Africa 
+city: Durban
+region: 
+country: South Africa 
 email: 
 articles:
    - "https://ventureburn.com/2019/07/university-incubators-african-entrepreneurs/"

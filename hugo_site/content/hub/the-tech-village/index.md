@@ -12,9 +12,9 @@ location:
    lat: -19.015438
    lng: 29.154857
    address: "Zimbabwe"
-   city: 
-   region: 
-   country: Zimbabwe
+city: 
+region: 
+country: Zimbabwe
 email: 
 articles:
    - "https://allafrica.com/stories/202105190337.html"

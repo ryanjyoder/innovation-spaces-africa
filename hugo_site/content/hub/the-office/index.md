@@ -12,9 +12,9 @@ location:
    lat: -1.9517449
    lng: 30.0610748
    address: "26 KN 3 Road, Kigali, Rwanda"
-   city: Kigali
-   region: Kigali City
-   country: Rwanda
+city: Kigali
+region: Kigali City
+country: Rwanda
 email: 
 articles:
    - "http://coworkingafrica.com/2015/03/25/interview-jon-stever-the-office-kigali/"

@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Port Harcourt
-   region: 
-   country: Nigeria
+city: Port Harcourt
+region: 
+country: Nigeria
 email: 
 articles:
    - "https://techpoint.africa/2015/10/05/niger-delta-based-focus-hub-opens-incubation-program-for-entrepreneurs-and-startups/"

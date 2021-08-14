@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Alexandria
-   region: 
-   country: Egypt
+city: Alexandria
+region: 
+country: Egypt
 email: 
 articles:
    - "https://dailynewsegypt.com/2014/09/14/hacking-like-egyptians/"

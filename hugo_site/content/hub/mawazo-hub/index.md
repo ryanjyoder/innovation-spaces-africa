@@ -12,9 +12,9 @@ location:
    lat: 0.3119942
    lng: 32.5844634
    address: "Uganda House, Kampala, Uganda"
-   city: Kampala
-   region: Central Region
-   country: Uganda
+city: Kampala
+region: Central Region
+country: Uganda
 email: 
 articles:
    - "https://pctechmag.com/2015/09/interview-patrick-kadama-on-equipping-the-next-generation-of-innovators/"

@@ -12,9 +12,9 @@ location:
    lat: 12.1348457
    lng: 15.0557415000001
    address: "N'Djamena, Chad"
-   city: N'Djamena
-   region: N'Djamena
-   country: Chad
+city: N'Djamena
+region: N'Djamena
+country: Chad
 email: 
 articles:
    - "https://www.samenacouncil.org/samena_daily_news?news=68601"

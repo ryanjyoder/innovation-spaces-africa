@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Concession Procoki, avenue de L&#039;OUA, Kinshasa, Democratic Republic of the Congo"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: 
 articles:
    - "https://www.africanews.com/2019/07/11/the-congo-business-network-for-economic-development-the-morning-call//"

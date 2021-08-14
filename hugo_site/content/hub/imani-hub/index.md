@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Kinshasa
-   region: 
-   country: DRC
+city: Kinshasa
+region: 
+country: DRC
 email: 
 articles:
    - "https://www.contrepoints.org/2014/11/23/189103-imani-hub-premier-espace-de-coworking-en-rdc"

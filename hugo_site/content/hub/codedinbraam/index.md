@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Johannesburg
-   region: 
-   country: South Africa 
+city: Johannesburg
+region: 
+country: South Africa 
 email: 
 articles:
    - "https://www.thoughtworks.com/insights/blog/software-africans"

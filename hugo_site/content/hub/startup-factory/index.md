@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Djibouti"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: contact@startupdjibouti.com
 articles:
 ---

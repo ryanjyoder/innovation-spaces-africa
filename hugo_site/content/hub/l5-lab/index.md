@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Lagos
-   region: 
-   country: Nigeria
+city: Lagos
+region: 
+country: Nigeria
 email: 
 articles:
    - "https://guardian.ng/business-services/l5-lab-wins-pebec-technology-solution-bid/"

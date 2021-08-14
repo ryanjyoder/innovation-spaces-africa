@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Cape Town
-   region: 
-   country: South Africa 
+city: Cape Town
+region: 
+country: South Africa 
 email: 
 articles:
    - "https://bitcoinmagazine.com/business/cape-innovation-technology-initiative-launches-digital-currency-hub-south-africa-1434496453"

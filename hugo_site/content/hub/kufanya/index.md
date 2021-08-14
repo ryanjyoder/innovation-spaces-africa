@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Rue Mongi Bali, Sfax, Tunisie"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: africabusinessleaders@gmail.com
 articles:
 ---

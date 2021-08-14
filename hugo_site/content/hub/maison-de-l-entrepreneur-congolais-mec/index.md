@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "8 Avenue de l&#039;Eglise , Quartier Gambela ,  Lubumbashi"
-   city: 
-   region: 
-   country: La maison de l'entrepreneur Congolais MEC en sigle est une structure d�accompagnement en entrepreneuriat  et innovation bas�e � Lubumbashi en RDC. Sa  mission est d'accompagner les jeunes entreprises sociales  innovantes en RDC en leur offrant un espace de vie, logistique � moindre co�t, des espaces de travail collaboratifs, mise en r�seau avec d'autres acteurs de l'�cosyst�me entrepreneurial. Un programme d'incubation r�pondant aux normes internationales sera �galement mis en place
+city: 
+region: 
+country: La maison de l'entrepreneur Congolais MEC en sigle est une structure d�accompagnement en entrepreneuriat  et innovation bas�e � Lubumbashi en RDC. Sa  mission est d'accompagner les jeunes entreprises sociales  innovantes en RDC en leur offrant un espace de vie, logistique � moindre co�t, des espaces de travail collaboratifs, mise en r�seau avec d'autres acteurs de l'�cosyst�me entrepreneurial. Un programme d'incubation r�pondant aux normes internationales sera �galement mis en place
 email: afric'innov
 articles:
 ---

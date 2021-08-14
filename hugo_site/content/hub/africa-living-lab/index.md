@@ -12,12 +12,13 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Dakar
-   region: 
-   country: Senegal
+city: Dakar
+region: 
+country: Senegal
 email: 
 articles:
    - "https://www.slideshare.net/openlivinglabs/the-case-for-african-network-of-living-labs-alvaro-oliveira"
-   - "none"
 ---
+As of July 2021, this lab does not seem operational.
 
+The ISEG research group at Université Internationale des Diasporas Africaines (UNIDAF) was responsible for establishing the African Living Lab, which focused on developing a network of laboratories across West Africa to promote technology takeup and digital community by youth. 

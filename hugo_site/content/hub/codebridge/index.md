@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Cape Town
-   region: 
-   country: South Africa 
+city: Cape Town
+region: 
+country: South Africa 
 email: 
 articles:
    - "https://www.ada.ac.za/alumni_news/codebridge-newlands/"

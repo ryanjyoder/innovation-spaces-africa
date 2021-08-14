@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "E5B Century Square Century City Cape Town"
-   city: Cape Town
-   region: Western Cape South Africa
-   country: South Africa
+city: Cape Town
+region: Western Cape South Africa
+country: South Africa
 email: 
 articles:
    - "https://disrupt-africa.com/2020/03/17/sas-grindstone-accelerator-raises-1-5m-from-sa-sme-fund-partners-google-for-startups/"

@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Ouagadougou, Burkina Faso"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: contact@lafabrique-bf.com
 articles:
    - "https://actif.auf.org/membre/la-fabrique/"

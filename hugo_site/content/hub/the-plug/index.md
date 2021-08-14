@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "R�sidence les Terrasses D&#039;Oran, Bir El Djir, Oran"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: contact@thepugbybo.com
 articles:
 ---

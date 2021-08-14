@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Conakry, Guin�e"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: contact@osetonemploi.com
 articles:
    - "https://conakrylemag.com/interview-de-danda-diallo-jeune-entrepreneur-fondateur-ceo-de-lincubateur-ose-emploi/"

@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Rabat, Maroc"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: 
 articles:
 ---

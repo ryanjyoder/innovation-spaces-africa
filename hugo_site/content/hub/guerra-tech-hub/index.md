@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Banikanni, rue de la pharmacie du Campus ,  Parakou"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: contact@guerrahub.com
 articles:
    - "http://ecostartup.org/guerra-tech-hub-lincubateur-du-nord-mise-pour-une-industrie-numerique-inclusive-mixte-et-egalitaire/"

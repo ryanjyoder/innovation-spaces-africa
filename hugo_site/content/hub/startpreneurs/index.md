@@ -12,9 +12,9 @@ location:
    lat: 9.081999
    lng: 8.67527700000005
    address: "Nigeria"
-   city: 
-   region: 
-   country: Nigeria
+city: 
+region: 
+country: Nigeria
 email: info@startpreneurs.com.ng
 articles:
    - "https://guardian.ng/business-services/jennifer-chizuainconsistency-poor-policy-implementation-bane-of-businesses/"

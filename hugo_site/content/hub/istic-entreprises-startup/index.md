@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Technopole Ecopark Borj-c�dria, Borj C�dria, Tunisie"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: 
 articles:
    - "https://www.africinnov.com/fr/annuaire/istic-entreprises-startup"

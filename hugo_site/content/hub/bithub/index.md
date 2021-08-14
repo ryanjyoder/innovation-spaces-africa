@@ -12,9 +12,9 @@ location:
    lat: -1.3009903
    lng: 36.8142327
    address: "Kenya Road, Nairobi, Kenya"
-   city: Nairobi
-   region: Nairobi County
-   country: Kenya
+city: Nairobi
+region: Nairobi County
+country: Kenya
 email: 
 articles:
    - "https://news.bitcoin.com/kenyas-bithub-africa-mines-bitcoin-using-solar-power/"

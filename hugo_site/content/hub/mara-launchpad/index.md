@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: ""
-   city: Kampala
-   region: 
-   country: Togo
+city: Kampala
+region: 
+country: Togo
 email: 
 articles:
    - "https://www.bizcommunity.com/Article/220/422/78959.html"

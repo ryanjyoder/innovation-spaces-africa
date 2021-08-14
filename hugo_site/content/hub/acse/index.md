@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "107 Boulevard Des Martyrs, Sidi M&#039;Hamed, Alg�rie"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: j.ferreira@acsedz.com
 articles:
    - "http://impactjournalismday.com/story/algerian-center-for-social-entrepreneurship/"

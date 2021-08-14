@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "adidogome la pampa ,  lom�"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: ghiyadaafrica@gmail.com
 articles:
    - "https://www.africinnov.com/fr/annuaire/ghiyada-africa"

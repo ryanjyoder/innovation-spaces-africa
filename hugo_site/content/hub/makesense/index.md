@@ -11,10 +11,10 @@ linkedin:
 location: 
    lat: 
    lng: 
-   address: "Rue Mermoz, Dakar, Dakar, S�n�gal"
-   city: 
-   region: 
-   country: 
+   address: "Rue Mermoz"
+city: Dakar
+region: 
+country: Senegal
 email: 
 articles:
    - "https://vc4a.com/makesense/"

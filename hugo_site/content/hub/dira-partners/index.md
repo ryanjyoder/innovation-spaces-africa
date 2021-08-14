@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "80 R�sidences Hacienda, dakar , S�n�gal"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: contact@dirapartners.com
 articles:
 ---

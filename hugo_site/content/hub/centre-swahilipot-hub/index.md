@@ -12,9 +12,9 @@ location:
    lat: 0.5157743
    lng: 35.2747495
    address: "Kenyatta Street, Eldoret, Kenya"
-   city: Eldoret
-   region: Uasin Gishu County
-   country: Kenya
+city: Eldoret
+region: Uasin Gishu County
+country: Kenya
 email: 
 articles:
    - "https://liquid.tech/insights/innovation-blog/IoT%20hacking%20on%20the%20coast%20-%20Pwani%20Innovation%20Week"

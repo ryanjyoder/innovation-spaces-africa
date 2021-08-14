@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Bluezone De Dixinn, Conakry, Guin�e"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: projetsaboutech@gmail.com
 articles:
    - "https://www.afrikatech.com/start-business/the-saboutech-incubator-booster-of-the-guinean-entrepreneurial-ecosystem-launches-its-2018-call-for-applications/"

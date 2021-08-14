@@ -12,9 +12,9 @@ location:
    lat: 4.876463
    lng: 8.08569299999999
    address: "Uyo Airport, Uyo, Nigeria"
-   city: Uyo
-   region: Akwa Ibom
-   country: Nigeria
+city: Uyo
+region: Akwa Ibom
+country: Nigeria
 email: 
 articles:
    - "http://www.connectingafrica.com/document.asp?doc_id=746077"

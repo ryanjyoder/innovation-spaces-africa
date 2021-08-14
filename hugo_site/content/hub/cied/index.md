@@ -12,9 +12,9 @@ location:
    lat: 
    lng: 
    address: "Abidjan, C�te-d&#039;Ivoire, Abidjan, C�te d&#039;Ivoire"
-   city: 
-   region: 
-   country: 
+city: 
+region: 
+country: 
 email: 
 articles:
    - "https://www.iecd.org/projets/cote-ivoire-appui-aux-petites-entreprises-et-projet-mpe/"

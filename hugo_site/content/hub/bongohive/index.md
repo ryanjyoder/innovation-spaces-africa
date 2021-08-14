@@ -12,9 +12,9 @@ location:
    lat: -15.4186552
    lng: 28.3099678
    address: "Haile Selassie Ave, Lusaka, Zambia"
-   city: Lusaka
-   region: Lusaka Province
-   country: Zambia
+city: Lusaka
+region: Lusaka Province
+country: Zambia
 email: 
 articles:
    - "https://techcabal.com/2020/08/19/the-man-behind-zambias-foremost-innovation-hub/"
