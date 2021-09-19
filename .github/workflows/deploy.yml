@@ -31,7 +31,7 @@ jobs:
         git submodule update --init
 
         # generate html
-        hugo -d $OUTPUT_DIR
+        hugo -d $OUTPUT_DIR -D
 
         # upload static html
         lftp --env-password -u $FTP_USER $FTP_HOST -e "set ftp:ssl-allow no; mirror -R $OUTPUT_DIR $REMOTE_PATH; quit"
