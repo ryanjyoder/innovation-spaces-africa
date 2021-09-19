@@ -1,9 +1,9 @@
 ---
-title: "Hub Accra"
+title: "Impact Hub Accra"
 date: 2021-06-12T15:35:07-04:00
 draft: true
 id: 95
-website: www.hubaccra.com
+website: accra.impacthub.net
 website-inactive: 
 twitter: impacthubaccra
 facebook: 

@@ -26,15 +26,15 @@
       </a>
     {{ end }}
     <br />
-
-      <br />
     {{ with .Params.linkedin }}
       Linkedin:
       <a href="{{ . }}" id = "linkedinshare" class="linkedin" rel="nofollow">
-        [linkedin]
+        {{ . }}
       </a>
+      <br />
     {{ end }}
 
+    <br />
     City: {{ with .Params.city }} {{.}} {{ end }} <br />
     Country: {{ with .Params.country }} 
     <a href='{{ absLangURL "country" }}/{{ . | urlize }}/' class="" title="{{ . }}">{{.}}</a>
