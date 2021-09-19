@@ -25,7 +25,7 @@ jobs:
         export PATH=$PATH:/snap/bin
         export OUTPUT_DIR='pulbic'
         export LFTP_PASSWORD=$FTP_PASSWORD
-        export REMOTE_PATH='/tech-hubs-africa'
+        export REMOTE_PATH='/'
 
         # get theme (submodule)
         git submodule update --init
