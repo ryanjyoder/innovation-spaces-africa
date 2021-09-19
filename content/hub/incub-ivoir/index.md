@@ -12,14 +12,14 @@ location:
    lat: 
    lng: 
    address: "zone 3 rue des carrossiers Bo�te Postale 10 Bp 1041 Abidjan 10"
-city: 
+city: Abidjan
 region: 
-country: 
-email: afric'innov
+country: Côte d’Ivoire
+email: incubinfo@caamonde.org
 articles:
    - "https://www.afrikatech.com/start-business/incubivoir-environment-startup-project-caravan/"
    - "https://stage.intracen.org/news/With-support-from-FastTrackTech-tech-hubs-boost-innovation-in-West-Africa/"
    - "https://www.water-entrepreneurship-pact.org/2021/05/31/what-weve-been-up-to-in-west-africa-so-far/"
    - "https://inafrik.com/incubivoir-la-passerelle-ideale-entre-porteurs-de-projets-et-investisseurs/"
 ---
-incubinfo@caamonde.org
+

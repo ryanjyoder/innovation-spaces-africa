@@ -11,12 +11,12 @@ linkedin:
 location: 
    lat: 
    lng: 
-   address: "7 Rue du Docteur Alphonse Laveran, Tunis, Tunisie"
-city: 
+   address: "7 Rue du Docteur Alphonse Laveran"
+city: Tunis
 region: 
-country: 
-email: afric'innov
+country: Tunisie
+email: contact@labess.tn
 articles:
    - "https://meshkal.org/?p=248"
 ---
-contact@labess.tn
+

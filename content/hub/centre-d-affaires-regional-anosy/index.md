@@ -11,13 +11,13 @@ linkedin:
 location: 
    lat: 
    lng: 
-   address: "Kathyana Car Rental - Bazaribe Fort Dauphin, Fort-Dauphin, Madagascar"
+   address: "Kathyana Car Rental - Bazaribe Fort Dauphin"
 city: 
-region: 
-country: 
-email: afric'innov
+region: Fort-Dauphin
+country: Madagascar 
+email: cara.anosy@gmail.com
 articles:
    - "https://www.newsmada.com/2019/07/03/artisanat-secteur-populaire-avec-un-potentiel-de-developpement/"
    - "none"
 ---
-cara.anosy@gmail.com
+

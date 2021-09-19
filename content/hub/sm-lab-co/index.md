@@ -14,8 +14,8 @@ location:
    address: ""
 city: 
 region: 
-country: 
-email: afric'innov
+country: Burkina Faso
+email: contact@smlab.cool
 articles:
 ---
-contact@smlab.cool
+

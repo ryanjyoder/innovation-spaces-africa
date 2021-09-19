@@ -11,11 +11,12 @@ linkedin:
 location: 
    lat: 
    lng: 
-   address: "Bamako, Mali"
-city: 
+   address: ""
+city: Bamako
 region: 
-country: Offrir des opportunit�s de d�veloppement �conomique aux jeunes maliens � travers le secteur priv�  La cr�ation d�un bon environnement de d�veloppement des entreprises jeunes au Mali  La facilitation de l�interconnexion des entrepreneurs au Mali et dans le monde   
-email: afric'innov
+country: Mali
+email: expertlabsmali@gmail.com
 articles:
 ---
-expertlabsmali@gmail.com
+
+Offrir des opportunit�s de d�veloppement �conomique aux jeunes maliens � travers le secteur priv�  La cr�ation d�un bon environnement de d�veloppement des entreprises jeunes au Mali  La facilitation de l�interconnexion des entrepreneurs au Mali et dans le monde

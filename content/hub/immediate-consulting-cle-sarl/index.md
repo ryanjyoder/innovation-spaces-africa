@@ -11,11 +11,11 @@ linkedin:
 location: 
    lat: 
    lng: 
-   address: "89, avenue KANKONTWE, BEL&#039;AIR, KAMPEMBA ,"
-city: 
+   address: "89, avenue KANKONTWE, BEL&#039;AIR, KAMPEMBA"
+city: Lubumbashi
 region: 
-country: 
-email: afric'innov
+country: Democratic Republic of Congo
+email: info@immediate-consulting.com
 articles:
 ---
-info@immediate-consulting.com
+

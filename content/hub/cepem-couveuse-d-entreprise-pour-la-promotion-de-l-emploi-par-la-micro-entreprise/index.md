@@ -24,4 +24,4 @@ articles:
    - "https://eequebec.com/communique-lecole-met-son-expertise-au-service-du-developpement-entrepreneurial-de-la-ville-de-dakar/"
    - "https://www.aimf.asso.fr/Dakar-Inauguration-de-la-Couveuse-d-entreprise-pour-la-promotion-de-l-emploi.html"
 ---
-afric'innov
+
