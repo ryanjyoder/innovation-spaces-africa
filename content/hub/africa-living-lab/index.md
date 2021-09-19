@@ -1,0 +1,26 @@
+---
+title: "Africa Living Lab "
+date: 2021-06-12T15:35:07-04:00
+draft: true
+id: 7
+website: https://isegcesmi.com/sample-page/
+website-inactive: x
+twitter: 
+facebook: 
+linkedin: 
+location: 
+   lat: 
+   lng: 
+   address: ""
+city: Dakar
+region: 
+country: Senegal
+email: 
+articles:
+   - "https://www.slideshare.net/openlivinglabs/the-case-for-african-network-of-living-labs-alvaro-oliveira"
+---
+
+
+Copy and pasted from : http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=7007
+
+The ISEG research group at Université Internationale des Diasporas Africaines (UNIDAF) was responsible for establishing the African Living Lab, which focused on developing a network of laboratories across West Africa to promote technology takeup and digital community by youth.

@@ -1,0 +1,25 @@
+---
+title: "Mobile Senegal "
+date: 2021-06-12T15:35:07-04:00
+draft: true
+id: 183
+website: http://mobilesenegal.org/
+website-inactive: 
+twitter: mobilesenegal
+facebook: https://www.facebook.com/mobilesenegal
+linkedin: 
+youtube: https://youtube.com/mobilesenegal
+location: 
+   lat: 
+   lng: 
+   address: ""
+city: Dakar
+region: 
+country: Senegal
+email: 
+articles:
+---
+
+Copy and pasted from : http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=7007
+
+Established in 2008 with support from Pace University in the US, MobileSenegal (now established as the Mobile4Senegal association) was the first Francophone mobile focused incubator in Africa. MobileSenegal focuses on training mobile developers - to date, over 450 participants have completed boot camps and competitions and developed more than 70 applications. To date, grant funding has been provided through Pace University (Google, NCIIA, IBM), and local companies.
