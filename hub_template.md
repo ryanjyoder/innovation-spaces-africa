@@ -18,16 +18,20 @@ whatsapp: +221 77.777.77.77
 instagram: https://instagram.com/hub-name
 
 # Basics
-legalEntity: "non-profit, for-profit, government, school"
+legalEntity: "non-profit, for-profit, governmental, school"
 founded: 2010-10-10
 active: True
-governingIndividuals:
+team:
    - name: First Last
      title: Position/Title at Hub
-     contact: Free text, eg: phone number, twitter, email.
+     phone:
+     email:
+     twitter:
    - name: First Last 2
      title: Position/Title at Hub
-     contact: Free text, eg: phone number, twitter, email.
+     phone:
+     email:
+     twitter:
 focusAreas: 
    - youth
    - women
@@ -63,11 +67,12 @@ location:
    lat: 1.004
    lng: -1.002
    address: "Street Address Reserved for true addresses"
-   address-description: "Use for places without true addresses or in addition to the street address"
+   addressDescription: "Use for places without true addresses or in addition to the street address"
 city: City English Name
 region: Region English Name
 country: Country English Name
 email: contact@example.com
+phone: 
 articles:
    # These links should be true articles or blog posts by an organizaation other than the hub.
    # Do no include blogs from the hub or profiles of the hub from VC4Africa for example
@@ -86,5 +91,5 @@ A brief history of the tech hub. When it was founded. Included any major changes
 # Covid Response
 Did the hub close at all? Were any member directly affected? Did activities go remote or were they suspended? Current outlook for managing the pandemic?
 
-# Reponse to growing remote environment
+# Response to growing remote environment
 How much of the hubs activities are conducted online? Are they pivoting to more remote focused activies? Or is the hub focusing on activities that can't be as easily done online. Are members finding similar resources online now instead?

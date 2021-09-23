@@ -26,13 +26,25 @@
 
     {{- .Content }}
 
-      {{ with .Params.Articles }}
-      <ul>
-      {{ range . }}
-        <li><a href="{{.}}">{{.}}</a></li>
-      {{ end }}
-      </ul>
+    {{ with .Params.team }}
+    <h3>
+      Team
+    </h3>
+    <ul>
+    {{ range . }}
+      <li>{{ .title }} - {{.name}} {{with .email }} ({{.}}) {{end}} </li>
     {{ end }}
+    </ul>
+  {{ end }}
+
+  {{ with .Params.Articles }}
+  <h3>In the News</h3>
+  <ul>
+  {{ range . }}
+    <li><a href="{{.}}">{{.}}</a></li>
+  {{ end }}
+  </ul>
+{{ end }}
 
     {{- $showComments := true }}
     {{- if eq $s.comments false }}
