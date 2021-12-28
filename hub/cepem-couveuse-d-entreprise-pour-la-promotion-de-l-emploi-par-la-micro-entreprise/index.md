@@ -61,6 +61,8 @@ team:
 focusAreas: 
    - youth
    - women
+techFocus: false
+hasPhysicalSpace: true
 keyActivities:
    - incubator
 funding:
