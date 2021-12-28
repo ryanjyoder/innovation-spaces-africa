@@ -1,21 +1,20 @@
 title: "I-Hub Malagasy"
 date: 2021-06-12T15:35:07-04:00
 draft: true
-id: 97
+id: i-hub-malagasy
 website: http://www.i-hub.mg/
-website-inactive: 
-twitter: 
-facebook: 
-linkedin: 
-location: 
-   lat: 
-   lng: 
-   address: ""
+website-inactive:
+twitter:
+facebook:
+linkedin:
+location:
+  lat:
+  lng:
+  address: ""
 city: Antananarivo
-region: 
+region:
 country: Madagascar
-email: 
+email:
 articles:
-   - "https://www.mbuguanjihia.com/tag/malagasy-i-hub"
-description: |
-    
+  - "https://www.mbuguanjihia.com/tag/malagasy-i-hub"
+description: ""

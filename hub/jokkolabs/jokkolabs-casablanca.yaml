@@ -1,22 +1,21 @@
 title: "Jokkolabs Casablanca"
 date: 2021-06-12T15:35:07-04:00
 draft: true
-id: 141
+id: jokkolabs-casablanca
 website: http://jokkolabs.net
-website-inactive: 
+website-inactive:
 twitter: JklCasa
-facebook: 
-linkedin: 
-location: 
-   lat: 
-   lng: 
-   address: ""
+facebook:
+linkedin:
+location:
+  lat:
+  lng:
+  address: ""
 city: Casablanca
-region: 
+region:
 country: Morocco
-email: 
+email:
 articles:
-   - "https://www.africatopsuccess.com/jokkolabs-abidjan-and-casablanca-joining-the-network/"
-   - "https://trueafrica.co/article/karim-sy-taking-co-working-spaces-to-bamako-abidjan-dakar-cotonou-and-more/"
-description: |
-    
+  - "https://www.africatopsuccess.com/jokkolabs-abidjan-and-casablanca-joining-the-network/"
+  - "https://trueafrica.co/article/karim-sy-taking-co-working-spaces-to-bamako-abidjan-dakar-cotonou-and-more/"
+description: ""

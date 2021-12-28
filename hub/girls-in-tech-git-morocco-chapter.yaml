@@ -1,21 +1,20 @@
 title: "Girls in Tech (GIT)-Morocco Chapter"
 date: 2021-06-12T15:35:07-04:00
 draft: true
-id: 82
+id: girls-in-tech-git-morocco-chapter
 website: http://morocco.girlsintech.org/
-website-inactive: 
+website-inactive:
 twitter: girlsintech
-facebook: 
-linkedin: 
-location: 
-   lat: 
-   lng: 
-   address: ""
+facebook:
+linkedin:
+location:
+  lat:
+  lng:
+  address: ""
 city: Casablanca
-region: 
+region:
 country: Morocco
-email: 
+email:
 articles:
-   - "https://www.wamda.com/2015/04/Girls-in-Tech-launch-Morocco-support-women-entrepreneurs"
-description: |
-    
+  - "https://www.wamda.com/2015/04/Girls-in-Tech-launch-Morocco-support-women-entrepreneurs"
+description: ""

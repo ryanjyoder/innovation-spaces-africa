@@ -1,23 +1,22 @@
 title: "National Board for Technology Incubation-Tech Incubation Headquarters"
 date: 2021-06-12T15:35:07-04:00
 draft: true
-id: 189
+id: national-board-for-technology-incubation-tech-incubation-headquarters
 website: http://www.nbti.gov.ng/
-website-inactive: 
-twitter: 
-facebook: 
-linkedin: 
-location: 
-   lat: 
-   lng: 
-   address: ""
+website-inactive:
+twitter:
+facebook:
+linkedin:
+location:
+  lat:
+  lng:
+  address: ""
 city: Abuja
-region: 
+region:
 country: Nigeria
-email: 
+email:
 articles:
-   - "http://koreascience.or.kr/article/JAKO201821142173904.page"
-   - "https://opinionnigeria.com/technology-incubation-centre-and-youth-engagement-by-musa-aliu/"
-   - "https://techpoint.africa/2018/09/19/technology-incubation-centre-nigeria/"
-description: |
-    
+  - "http://koreascience.or.kr/article/JAKO201821142173904.page"
+  - "https://opinionnigeria.com/technology-incubation-centre-and-youth-engagement-by-musa-aliu/"
+  - "https://techpoint.africa/2018/09/19/technology-incubation-centre-nigeria/"
+description: ""

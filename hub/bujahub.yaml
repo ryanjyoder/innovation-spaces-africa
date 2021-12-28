@@ -1,22 +1,21 @@
 title: "BujaHub"
 date: 2021-06-12T15:35:07-04:00
 draft: true
-id: 29
+id: bujahub
 website: http://www.bujahub.com
 website-inactive: x
-twitter: 
+twitter:
 facebook: https://www.facebook.com/bujahub/
-linkedin: 
-location: 
-   lat: 
-   lng: 
-   address: "Boulevard De La Liberte, Bujumbura, Burundi"
-city: 
-region: 
-country: 
+linkedin:
+location:
+  lat:
+  lng:
+  address: "Boulevard De La Liberte, Bujumbura, Burundi"
+city:
+region:
+country:
 email: info@bujahub.com
 articles:
-   - "https://www.jimbere.org/news/digital-entrepreneurship-unemployment-solution-youth-burundi/"
-   - "none"
-description: |
-    
+  - "https://www.jimbere.org/news/digital-entrepreneurship-unemployment-solution-youth-burundi/"
+  - "none"
+description: ""
