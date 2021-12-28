@@ -1,0 +1,29 @@
+id: fablabkalubya
+name: kalubyaFaLab
+kind_name: fab_lab
+parent_id: 13
+blurb: ""
+description: ""
+slug: fablabkalubya
+avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/21/22/07/41/a4d1504e-7ac8-45b0-bc3c-dc08efcdf958/Fab_Lab_logo.svg.png
+header_url: null
+address_1: El Obour City
+address_2: ""
+city: El Obour City
+county: ""
+postal_code: ""
+country_code: EG
+latitude: 30.2283408
+longitude: 31.4798948
+address_notes: ""
+phone: ""
+email: gad.elhebry@stemkalubya.moe.edu.eg
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links: []

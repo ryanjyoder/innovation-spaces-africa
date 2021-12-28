@@ -1,0 +1,25 @@
+id: reparerecycle
+name: RépareRecycle / 974
+kind_name: mini_fab_lab
+parent_id: 979
+blurb: RépareRecycle.re
+description: RépareRecycle.re
+slug: reparerecycle
+avatar_url: http://fablabs.io.s3.amazonaws.com/2021/01/02/03/04/34/968169cc-7982-484c-9d5b-3fe9b81920c1/9a4b1e1c0d870e474ec9bb195e2b1421.jpg
+header_url: http://fablabs.io.s3.amazonaws.com/2021/01/02/02/59/26/c56a5711-2159-4a4b-80d5-e51cc9d80858/citronvert.jpeg
+address_1: Plaine des Cafres
+address_2: 3 impasse renneville
+city: La Plaine des Cafres
+county: tampon
+postal_code: "97418"
+country_code: RE
+latitude: -21.2328589
+longitude: 55.5786829
+address_notes: ""
+phone: "0693420287"
+email: reparerecycle@gmail.com
+capabilities: []
+activity_status: active
+links:
+  - id: 36812
+    url: https://reparerecycle.re

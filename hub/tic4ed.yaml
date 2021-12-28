@@ -1,0 +1,33 @@
+id: tic4ed
+name: TIC4Ed
+kind_name: mini_fab_lab
+parent_id: 840
+blurb: Nous souhaitons mettre la technologie au service des jeunes et des populations locales. Pour ce faire, nous leurs faisons apprendre par la pratique, l’entraide et la valorisation des compétences.
+description: "Elle a pour objectif de :\r\n\r\n    • de promouvoir la culture numérique auprès de tous les publics.\r\n\r\n    • de former des personnes à l’utilisation des technologies de l’information et communication (TIC)\r\n\r\n    • de former des formateurs dans ces mêmes domaines.\r\n\r\n    • d’informer la population sur les usages, opportunités\r\n\r\n    • de sensibiliser la population sur les dérives et mésusages possibles\r\n\r\n    • de vulgariser leur utilisation et appropriation\r\n\r\nA cette fin, l’Association se propose d’organiser toutes sortes d’activités (formations, débats, projections, colloques, levées de fonds, activités, renforcement de capacité, partenariats internationaux, etc...)."
+slug: tic4ed
+avatar_url: http://fablabs.io.s3.amazonaws.com/2020/06/22/17/25/57/4618dbb9-42b2-4d92-b000-83ef5d0b8efa/IMG-20190828-WA0000.jpg
+header_url: http://fablabs.io.s3.amazonaws.com/2020/06/22/17/25/57/3178ed54-338d-481f-aad0-6df665fcd4b8/IMG-20190828-WA0001.jpg
+address_1: Abata
+address_2: Cité Hélice 3, villa n°8
+city: Abidjan
+county: Abidjan
+postal_code: ""
+country_code: CI
+latitude: 5.35674115895547
+longitude: -3.92523078922425
+address_notes: Abidjan Cocody Riviera Abatta, Cité Hélice 3, villa n°8. Carrefour DROGBA
+phone: +225 07 77 84 41 92
+email: contact@tic4ed.org
+capabilities:
+  - three_d_printing
+  - circuit_production
+activity_status: active
+links:
+  - id: 37726
+    url: https://www.youtube.com/channel/UCFBqztxgqST3IkX3niFNX8w?
+  - id: 12303
+    url: https://www.facebook.com/tic4ed/
+  - id: 12302
+    url: https://twitter.com/Tic4Ed
+  - id: 12301
+    url: https://www.tic4ed.org

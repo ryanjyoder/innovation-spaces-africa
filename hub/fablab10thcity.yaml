@@ -1,0 +1,28 @@
+id: fablab10thcity
+name: FabLab 10Th City
+kind_name: fab_lab
+parent_id: 13
+blurb: FabLab 10Th City is committed to the creation of an inclusive learning society in which innovation, instruction, inclusion and fundamental values are all combined to work together
+description: FabLab 10Th City is  committed to the creation of an inclusive learning society in which innovation, instruction, inclusion and fundamental values are all combined to work together. The potential benefits offered by learning, new technologies and innovation must be made available to everyone without any form of discrimination. The mission is to promote the sharing of human knowledge, social innovation, and social inclusion
+slug: fablab10thcity
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/28/54/6ff4fd7c-5b09-4cee-a7c3-e5b94763114c/FabLab 10Th City.jpg
+header_url: null
+address_1: 'العاشر من رمضان مجاوره 26, Th Of Ramadan City, Ash Sharqiyah, Egypt, '
+address_2: ""
+city: العاشر من رمضان مجاوره 26, Th Of Ramadan City,
+county: Egypt
+postal_code: ""
+country_code: EG
+latitude: 30.2805578
+longitude: 31.7602901
+address_notes: ""
+phone: +2 010 15 69 5057
+email: fablab10thcity@gmail.com
+capabilities:
+  - three_d_printing
+  - circuit_production
+  - laser
+activity_status: null
+links:
+  - id: 1869
+    url: https://www.facebook.com/FabLab10ThCity/

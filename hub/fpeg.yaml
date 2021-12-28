@@ -1,0 +1,30 @@
+id: fpeg
+name: 'Foundation for Future Production Engineering '
+kind_name: fab_lab
+parent_id: null
+blurb: Non-profit organization building a bridge between industry and university.
+description: We are a non-profit organization of active students and specialists in various engineering fields, with a common dream of building a bridge between industry and university. We offer digital fabrication classes and support students in prototyping their university projects.
+slug: fpeg
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/22/26/619413ac-82c9-4a20-bb93-2ca4b7a74033/Foundation for Future Production Engineering .jpg
+header_url: null
+address_1: 210 Eldelta St. Sporting Area
+address_2: ""
+city: Alexandria
+county: ""
+postal_code: ""
+country_code: EG
+latitude: 31.2198037
+longitude: 29.9316576
+address_notes: ""
+phone: "+2035917925"
+email: info@fp-eg.org
+capabilities:
+  - three_d_printing
+  - circuit_production
+  - laser
+activity_status: planned
+links:
+  - id: 1241
+    url: http://www.fp-eg.org
+  - id: 1242
+    url: https://www.facebook.com/fut.prod

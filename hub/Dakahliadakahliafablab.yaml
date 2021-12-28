@@ -1,0 +1,29 @@
+id: Dakahliadakahliafablab
+name: Dakahlia fablab
+kind_name: fab_lab
+parent_id: 1747
+blurb: Contains 5 machines,3D printer,Laser cutter,mono fab ,Vinyl cutter and shopboot.
+description: ""
+slug: Dakahliadakahliafablab
+avatar_url: null
+header_url: null
+address_1: '  جمصة/بلقاس /محافظة الدقهلية/مصر'
+address_2: ""
+city: جمصة
+county: مصر
+postal_code: ""
+country_code: EG
+latitude: 31.4412725
+longitude: 31.5364199000001
+address_notes: ""
+phone: ""
+email: abdelmaboud2a@gmail.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links: []

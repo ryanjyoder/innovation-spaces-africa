@@ -1,0 +1,30 @@
+id: fablabminya
+name: Fab Lab Minya
+kind_name: mini_fab_lab
+parent_id: 895
+blurb: ""
+description: Fab Lab Minya is an open-maker space and fabrication laboratory to help all makers to turn their ideas into prototypes, help anyone to be amaker. we are part of bigger Makerspace program run by Giza Systems Education Foundation.
+slug: fablabminya
+avatar_url: http://fablabs.io.s3.amazonaws.com/2018/04/22/19/44/26/34d73d85-2653-49fa-b4ed-c2b868f4e759/FAB LAB logo.png
+header_url: null
+address_1: 44 Ragheb Street
+address_2: 44 Ragheb Street
+city: Minya
+county: Egypt
+postal_code: "61512"
+country_code: EG
+latitude: 28.1006937031076
+longitude: 30.7526128463348
+address_notes: ""
+phone: "01099906211"
+email: fablabminya@gmail.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+activity_status: active
+links:
+  - id: 5677
+    url: https://www.facebook.com/FabLabMinya

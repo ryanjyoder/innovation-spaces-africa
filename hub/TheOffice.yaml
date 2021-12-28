@@ -1,0 +1,26 @@
+id: TheOffice
+name: The Office
+kind_name: mini_fab_lab
+parent_id: null
+blurb: We are a community innovation space
+description: We're a fab cafe, a meeting place for makers in an completely made environment.  So far, we only have a 3D Printer and some electronics tools and components.  Join us to grow the space.
+slug: TheOffice
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/20/25/d2b70c30-788e-4994-b0ab-f23caa95fb07/The Office.jpg
+header_url: null
+address_1: Kigali
+address_2: 34 KN41 Street
+city: Kigali
+county: ""
+postal_code: ""
+country_code: RW
+latitude: -1.95875598907001
+longitude: 30.0695222900268
+address_notes: The Office is the four-story building covered in photographs
+phone: +250 725 633 423
+email: admin@theoffice.rw
+capabilities:
+  - three_d_printing
+activity_status: null
+links:
+  - id: 1061
+    url: http://theoffice.rw

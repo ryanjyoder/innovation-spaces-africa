@@ -1,0 +1,38 @@
+id: woelab
+name: WOELAB
+kind_name: fab_lab
+parent_id: 267
+blurb: ""
+description: "With a twenty members WɔɛLab Community is a young innovative community of the first African space of Technology Democracy: WoeLab was created in August 2012.\r\n\" Small digital republic\" in Lomé-Togo West Africa neighborhood, definitely \" Fablab to street level \"  Now \" Silicon Villa \", WɔɛLab is a shared space where innovation is daily  developed new approaches of virtuous productive collaboration in the African context , following the specifications : #LowHighTech.\r\nPrerogatives are: \r\n1- Center of Digital Resources , Technology Incubator . The space hosts latent technological potential just waiting to be operated under the double condition of free and transparency. \r\n2 - Nursery structures of web domains , digital and ICT . Privileged space of Technological Democracy expression. - Dissemination of LowHighTech knowledge accessible to all, mutual assistance voluntary, free technological support for artisans neighborhood, regaining the power of making, search of Global Intelligence . \r\n3 - University Collaboration and Research Pane. Partnerships with research centers and design schools . Supporting institutions in the process of their own Lab pole constitution.\r\nThe entire projects are developed as collaborative by the community and managed by the members inside. This collaboration is applied to the start up, developed by the community. Thus, all the projects and Start-Up developed inside WɔɛLab by the community became the community project or start-Up. \r\nWɔɛLab is an original project of The African architecture developed by Sénamé Koffi AGBODJINOU and inside the Smart African City program \" HubCité ! \"\r\n"
+slug: woelab
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/14/48/113159df-880d-4545-84bf-2ecdabc229cd/WOELAB.jpg
+header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/13/51/26/7c9f967c-308e-4c7d-97d3-be61a7fbc9b6/WOELAB.jpg
+address_1: Lome
+address_2: WOELAB-Lomé , Rue Klala, Villa 209 Bè-Klikamé
+city: Lomé
+county: Golfe
+postal_code: 11BP305 Lome-Djifa
+country_code: TG
+latitude: 6.16378406725365
+longitude: 1.20864585026243
+address_notes: http://osm.org/go/wEDymuotZ--?m=&way=229256586
+phone: 0022893540826 / 0022891486366
+email: woelabo@gmail.com | contact@woelabo.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - precision_milling
+activity_status: null
+links:
+  - id: 593
+    url: 'http://3dprintogo.wpweb.fr/          '
+  - id: 592
+    url: 'http:// http://3dprintafrica-educative.tumblr.com/  '
+  - id: 591
+    url: https://www.facebook.com/woelab?fref=ts
+  - id: 590
+    url: 'http://   https://twitter.com/woelab '
+  - id: 1108
+    url: http://   http://www.lafricainedarchitecture.com/hubciteacute.html
+  - id: 1109
+    url: http://www.woelabo.com

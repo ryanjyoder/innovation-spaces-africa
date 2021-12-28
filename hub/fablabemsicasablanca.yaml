@@ -1,0 +1,30 @@
+id: fablabemsicasablanca
+name: FABLAB EMSI CASABLANCA
+kind_name: fab_lab
+parent_id: null
+blurb: fablab emsi casablanca is a fablab open to EMSI students carrying innovative projects
+description: FablabEMSICASABLANCA is a new fablab created in the EMSI Casablanca School. The main objective is the support of EMSI students to innovation in engineering sciences
+slug: fablabemsicasablanca
+avatar_url: http://fablabs.io.s3.amazonaws.com/2018/01/02/09/19/31/83c1f7c9-497d-46ea-97d9-279fbbb7e6ed/fablabemsi.png
+header_url: http://fablabs.io.s3.amazonaws.com/2018/01/02/09/19/31/4b3f7cfc-3385-4112-bc7b-181d2587aa95/fablabemsi.png
+address_1: Boulevard Laymoune
+address_2: ""
+city: Casablanca
+county: ""
+postal_code: ""
+country_code: MA
+latitude: 33.5413023
+longitude: -7.67090080000003
+address_notes: Boulevard Laymoune, Casablanca
+phone: 05228-94287
+email: med.tabaa@gmail.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+activity_status: active
+links:
+  - id: 5260
+    url: http://www.emsi.ma/fablab
+  - id: 5261
+    url: 'http://www.emsi.ma '

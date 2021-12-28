@@ -1,0 +1,31 @@
+id: iteslfablab
+name: ITESL FABLAB
+kind_name: fab_lab
+parent_id: null
+blurb: ITESL Fab Lab is a place where people can collaborate, prototype and create innovative solutions using cutting-edge technology.
+description: "Information & Telecommunications Engineering Solutions Limited (ITESL), a registered Nigerian engineering company operates a digital fabrication laboratory also known as Fab lab, a high-tech workshop for computer-based innovation, design and fabrication. \r\n\r\nITESL Fab Lab began as a result of a grant facilitated through AVDD (Aso Villa Demo Day), a presidential national technological innovation competition, Ministry of Trade, investment & industries and co-sponsored by World Bank (via GEM project) and ITESL. The Growth and Employment (GEM) project in Nigeria is an employment project by the Ministry of Trade and Investment supported by the World Bank and the UK Department for International Development (DFID).\r\n\r\nITESL Fab Lab is a place where people can collaborate, prototype and create innovative solutions using cutting-edge technology. The fab lab program was initiated to broadly explore how the content of information relates to its physical representation and how an under-served community can be powered by technology at the grassroots level. The Fab Lab attracts different technology interests in various fields such as computer-controlled fabrication, physical computing, software programming, traditional craftsmanship, digital manufacturing etc.\r\n\r\nITESL Fab Lab creates a nurturing, self-sustainable, innovative environment for individuals and businesses to encourage the growth of local innovation ecosystems. \r\nITESL FAB LAB is based upon the concepts of Dr Neil Gershenfeld, the director of the Massachusetts Institute of Technology’s Center for Bits and Atoms. Fab labs share an evolving inventory of core capabilities to make (almost) anything, allowing people and projects to be shared. This gives entrepreneurs and businesses the capability to turn their ideas and concepts into reality. ITESL FAB LAB support economically sustainable projects to meet the needs of the community and country at large."
+slug: iteslfablab
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/09/16/21/37/46/1e628fc2-7878-4cf6-a13d-33600f3a296d/Fab Lab logo.jpg
+header_url: http://fablabs.io.s3.amazonaws.com/2017/09/16/21/37/47/e9727b7e-faa5-4a43-b2ed-a5a65557ed87/ITESL Fablab Website Home Page.JPG
+address_1: 'Civic Innovation Lab, No 50, Ademola Adetokunbo Crescent, Wuse 2, ABUJA 900288, '
+address_2: ""
+city: Abuja
+county: Abuja/FCT
+postal_code: "900288"
+country_code: NG
+latitude: 9.0902694
+longitude: 7.46959749999996
+address_notes: 'Civic Innovation Lab, No 50, Ademola Adetokunbo Crescent, Wuse 2, ABUJA 900288, '
+phone: "08034919237"
+email: info@iteslfablab.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links:
+  - id: 4949
+    url: http://www.iteslfablab.com

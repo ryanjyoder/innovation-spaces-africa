@@ -1,0 +1,27 @@
+id: arofablab
+name: ARO FABLAB
+kind_name: fab_lab
+parent_id: 241
+blurb: It is situated in the rural part of Western Kenya - it works with local innovators to use the local materials in creating products that addresses the community needs and encourage home industries.
+description: "Aro Fablab works under Arc-Kenya which is a local NGO with a mission of leading transformation of lives of poor rural communities using technology and innovation. For this reason this Fablab provides a research station for the potential programmes intended to give solutions to the corresponding challenges. It also works with learning institutions and entrepreneurs. \r\nThe lab focuses most on using wastes to create something needed by the community which can be both cost effective and environmental friendly\r\n"
+slug: arofablab
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/26/26/3ee01f1e-32d7-4d0c-9961-056850bc481b/ARO FABLAB.jpg
+header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/14/03/10/9a065a2c-4893-4492-8358-919ebe5f8e31/ARO FABLAB.jpg
+address_1: "3188"
+address_2: ""
+city: KISUMU
+county: Choose your State or Province below:NYANZA
+postal_code: "40100"
+country_code: KE
+latitude: null
+longitude: null
+address_notes: From Kisumu City, take Bondo Usenge Route and just 1km from Ndori, take a right turn on an all weather road. Signboards for ARC KENYA and MAJIWA Secondary school are available at this turning point. ARO CENTRE where Fablab is located is 800mtrs from the tarmac road.
+phone: "+254720355951"
+email: aro.fablab@gmail.com
+capabilities:
+  - laser
+  - vinyl_cutting
+activity_status: null
+links:
+  - id: 1639
+    url: http:/www.arc-kenya.org

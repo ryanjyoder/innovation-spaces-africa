@@ -1,0 +1,29 @@
+id: energylab
+name: EnergyLab Lomé by Energy Generation
+kind_name: fab_lab
+parent_id: null
+blurb: Situated in Lomé, Togo, our Fab Lab is an integral part of our Energy Generation Business and Incubation programs in which we work with young African adults to help them turn their vision into reality
+description: "The EnergyLab (Energy Generation's Fab Lab) is in a rapid growth stage. We started small, with 2 3-D printers and a laser cutter and have been building out our capacity since. Our FabLab Manager, Paul Cairns, is currently enrolled in the Fab Academy and plans to make this Fab Lab West Africa's first official Fab Academy Node! \r\n\r\nOur first cohort of students enrolled in our Business and Energy School has already begun using the Fab Lab to develop their prototype and are actively involved in our Arduino and programming clubs. Our lab is mostly comprised of 3-D printers, a laser cutter, and a GRBL controlled desktop CNC built by our very own. We also offer numerous power tools and a stick welding station. \r\n\r\nWe are "
+slug: energylab
+avatar_url: http://fablabs.io.s3.amazonaws.com/2021/07/09/15/45/57/5a7cd19c-e1c1-4669-b74b-27b07c87b77e/avatar.png
+header_url: null
+address_1: Rue 251 HDN
+address_2: ""
+city: Lome
+county: ""
+postal_code: BP 012116
+country_code: TG
+latitude: null
+longitude: null
+address_notes: Situated at the old Defitech II campus
+phone: +228 79 61 50 58
+email: energytech@energy-generation.org
+capabilities:
+  - three_d_printing
+  - circuit_production
+  - laser
+  - precision_milling
+activity_status: active
+links:
+  - id: 36600
+    url: https://en.energy-generation.org/

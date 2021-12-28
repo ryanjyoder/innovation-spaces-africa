@@ -1,0 +1,26 @@
+id: esiaulab
+name: esiaulab
+kind_name: fab_lab
+parent_id: null
+blurb: une lab créée au sein de l'ESIAU et appuyée par le woelal
+description: 'Notre fablab dénommée ESIAULAB  a été crée au sein de l''école supérieure d''ingénierie d''architecture et d''urbanisme (ESIAU) Bamako Mali avec l''appui du woelab '
+slug: esiaulab
+avatar_url: null
+header_url: null
+address_1: abdoulaye.deyoko@wanadoo.fr
+address_2: abdoulaye.deyoko@esiau-mali.com
+city: Bamako
+county: Mali
+postal_code: "223"
+country_code: ML
+latitude: null
+longitude: null
+address_notes: C'est dans l'mmeuble de ESIAU  à la rue 466 porte 28 Badialan1 Bamako Mali
+phone: 223 79100764
+email: abdoulaye.deyoko@wanadoo.fr
+capabilities:
+  - three_d_printing
+activity_status: planned
+links:
+  - id: 504
+    url: http://atelier.rfi.fr/profiles/status/show?id=1189413%3AStatus%3A409652

@@ -1,0 +1,28 @@
+id: karakeeb
+name: Karakeeb Makerspace
+kind_name: mini_fab_lab
+parent_id: null
+blurb: we are group of crazy engineers, passionate about technology, we love to play with electronics, and create things from trash.
+description: "We are always working on robots, planes, multi-rotors, ROVs, and preparing for new workshops. and we love to share our knowledge with other people.\r\nOur target is to spread the culture of technology, among people, espicially people comming form a non-engineering background."
+slug: karakeeb
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/28/29/cbd57d4e-c101-4a0b-9198-0a7d6a592b9a/Karakeeb Makerspace.jpg
+header_url: null
+address_1: 298 Port Said St
+address_2: ""
+city: Alexandria
+county: Alexandria
+postal_code: "21523"
+country_code: EG
+latitude: 31.2235346
+longitude: 29.9381932
+address_notes: Inside the Jesuit Cultural Center
+phone: "+201001661239"
+email: me@menaeffat.com
+capabilities:
+  - three_d_printing
+  - laser
+  - vinyl_cutting
+activity_status: null
+links:
+  - id: 1832
+    url: https://fb.com/karakeeb.co

@@ -1,0 +1,30 @@
+id: fablabkenitra
+name: FabLab Kenitra
+kind_name: fab_lab
+parent_id: 887
+blurb: FABLAB Kenitra est un lieu collaboratif de fabrication, ouvert à tous, qui aidera les créateurs à s’approprier des technologies utiles pour leurs projets.
+description: "Fablab Kenitra propose et conçoit des formations inter et intra-entreprises, pour l'acquisition de compétences reconnues par les professionnels selon 2 axes :\r\n*Promotion de l’innovation à tout acteur de Kenitra et de sa région (universitaires, étudiants, porteurs de projet et d’idée …)\r\n*Soutien au développement de la Zone Industrielle de Kenitra : Il apportera une valeur ajoutée en termes de soutien à la recherche et à la formation.\r\n"
+slug: fablabkenitra
+avatar_url: http://fablabs.io.s3.amazonaws.com/2019/06/10/15/21/52/a6abf761-b38b-42d0-9c3b-f044eae9c9a4/LogoFabLabK1.jpg
+header_url: null
+address_1: 28 Rue Maamora
+address_2: ""
+city: Kénitra
+county: ""
+postal_code: "14000"
+country_code: MA
+latitude: 34.2562785
+longitude: -6.58140660000004
+address_notes: ""
+phone: "+212666888860"
+email: contact@fablab-kenitra.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - vinyl_cutting
+activity_status: active
+links:
+  - id: 7194
+    url: http://fablab-kenitra.com

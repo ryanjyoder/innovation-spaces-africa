@@ -1,0 +1,23 @@
+id: fablabtemara
+name: FabLab Temara
+kind_name: fab_lab
+parent_id: null
+blurb: A cause du COVID-19 FabLab Temara en arrêt d'activité depuis le 16 mars 2020 Due to COVID-19 FabLab Temara has been out of business since March 16, 2020
+description: "A cause du COVID-19 FabLab Temara en arrêt d'activité depuis le 16 mars 2020\r\nDue to COVID-19 FabLab Temara has been out of business since March 16, 2020"
+slug: fablabtemara
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/28/45/26ae4e91-8bb2-424e-b153-9c104d170771/FabLab Temara.jpg
+header_url: http://fablabs.io.s3.amazonaws.com/2021/05/14/23/10/51/8a6a85a4-f5d0-4298-9db6-4455284e176f/closed.png
+address_1: ""
+address_2: ""
+city: Témara
+county: ""
+postal_code: "12010"
+country_code: MA
+latitude: 33.9146954
+longitude: -6.91560279999999
+address_notes: "A cause du COVID-19 FabLab Temara en arrêt d'activité depuis le 16 mars 2020\r\nDue to COVID-19 FabLab Temara has been out of business since March 16, 2020\r\n"
+phone: "+212612028009"
+email: fablabtemara@gmail.com
+capabilities: []
+activity_status: closed
+links: []

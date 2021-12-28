@@ -1,0 +1,25 @@
+id: DUPLICATE
+name: DUPLICATE
+kind_name: fab_lab
+parent_id: null
+blurb: DUPLICATE
+description: DUPLICATE
+slug: DUPLICATE
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/04/12/13/34/38/1c66757d-f182-4c3e-91aa-b4b2efd311c3/mr-green-pla.jpg
+header_url: http://fablabs.io.s3.amazonaws.com/2017/04/12/13/34/38/fc9a17eb-1726-406d-a02b-179ed35398a5/mr-green-pla.jpg
+address_1: ""
+address_2: ""
+city: ""
+county: ""
+postal_code: 60-
+country_code: RW
+latitude: 52.4098644
+longitude: 16.897548
+address_notes: ""
+phone: ""
+email: ""
+capabilities: []
+activity_status: closed
+links:
+  - id: 862
+    url: http://www.zaklad.org.pl

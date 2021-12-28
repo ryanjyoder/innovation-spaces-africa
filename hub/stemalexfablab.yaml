@@ -1,0 +1,29 @@
+id: stemalexfablab
+name: Stem Alex Fab Lab
+kind_name: fab_lab
+parent_id: 13
+blurb: my fab lab in Borj elarab Alexandria Egypt
+description: "we have ..\r\n* laser cuter\r\n* shopbot\r\n*3D printer\r\n* vinaly cuter\r\n* mono fab"
+slug: stemalexfablab
+avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/15/17/10/da31161b-7af9-42a5-b124-c582c5b922fd/m.Jpg
+header_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/15/17/10/f5cad84b-7610-4866-8866-6e1ed59179ac/m.Jpg
+address_1: Burj Al Arab
+address_2: ""
+city: Burj Al Arab
+county: Alexandria
+postal_code: "00203"
+country_code: EG
+latitude: 30.9010214
+longitude: 29.5516077
+address_notes: "new burj elarab \r\nAlexandria stem school"
+phone: "01227498827"
+email: khalid.diab@stemalex.moe.edu.eg
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links: []

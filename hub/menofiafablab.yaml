@@ -1,0 +1,29 @@
+id: menofiafablab
+name: menofia fablab
+kind_name: fab_lab
+parent_id: 13
+blurb: ""
+description: ""
+slug: menofiafablab
+avatar_url: http://fablabs.io.s3.amazonaws.com/2019/03/25/10/01/26/85f94ac2-9206-4446-bfb4-f44709205e68/download.png
+header_url: null
+address_1: Sirs Al Layyanah
+address_2: ""
+city: Sirs Al Layyanah
+county: menofia
+postal_code: "33511"
+country_code: EG
+latitude: 30.4390852
+longitude: 30.9671759
+address_notes: ""
+phone: ""
+email: shokry29@gmail.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links: []

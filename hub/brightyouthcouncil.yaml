@@ -1,0 +1,25 @@
+id: brightyouthcouncil
+name: Bright Youth Council
+kind_name: fab_lab
+parent_id: null
+blurb: null
+description: ""
+slug: brightyouthcouncil
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/11/19/bf97d8dd-bc8d-4af3-80e3-ca781fdb8e13/Bright Youth Council.jpg
+header_url: null
+address_1: ""
+address_2: ""
+city: Soshanguve
+county: Gauteng
+postal_code: "0152"
+country_code: ZA
+latitude: -25.5253546
+longitude: 28.1005632
+address_notes: ""
+phone: ""
+email: ""
+capabilities: []
+activity_status: null
+links:
+  - id: 110
+    url: http://blogs.fabfolk.com/sosh

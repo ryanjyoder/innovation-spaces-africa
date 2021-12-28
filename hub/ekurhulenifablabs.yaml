@@ -1,0 +1,29 @@
+id: ekurhulenifablabs
+name: Ekurhuleni fablabs (Fablab Tembisa and Fablab Thokoza)
+kind_name: fab_lab
+parent_id: null
+blurb: The main goal of the fablab Tembisa and Thokoza is to promote innovation amongst the previously disadvantaged communities
+description: "The fablab concept was adopted by the City of Ekurhuleni as it assists in promoting innovation and supporting entrepreneurship within the disadvantaged communities. \r\nThe vision of the city is to make sure that its communities have a access to fablabs in its six regions , with one fablab per region . Through the promotion of innovation and entrepreneurship the city sees the fablabs assisting in reducing its unemployment\r\n"
+slug: ekurhulenifablabs
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/17/20/17bdda3f-85db-4c9b-88ee-883f4c1da05d/Ekurhuleni fablabs (Fablab Tembisa and Fablab Thokoza).jpg
+header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/13/53/45/10397aed-417c-44f2-a1c0-1bb96bef2800/Ekurhuleni fablabs (Fablab Tembisa and Fablab Thokoza).jpg
+address_1: '45 Thami Mnyele Drive '
+address_2: ""
+city: Tembisa
+county: Guateng
+postal_code: "1450"
+country_code: ZA
+latitude: null
+longitude: null
+address_notes: ""
+phone: +27 11 999 7738
+email: neville.govender@ekurhuleni.gov.za
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: null
+links: []

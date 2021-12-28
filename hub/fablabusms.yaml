@@ -1,0 +1,26 @@
+id: fablabusms
+name: FabLab USMS
+kind_name: fab_lab
+parent_id: 21
+blurb: ""
+description: ""
+slug: fablabusms
+avatar_url: null
+header_url: null
+address_1: Avenue Mohamed V, Quartier Takadoum, B.P 591
+address_2: ""
+city: Béni Mellal
+county: ""
+postal_code: "23000"
+country_code: MA
+latitude: null
+longitude: null
+address_notes: ""
+phone: ""
+email: ""
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+activity_status: null
+links: []

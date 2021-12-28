@@ -1,0 +1,27 @@
+id: industrylab
+name: IndustryLab
+kind_name: fab_lab
+parent_id: null
+blurb: IndustryLab is laboratory for innovation and creativity where you give life to your projects by yourself.
+description: "IndustryLab is laboratory invested by Moroccan Office of Industrial and Commercial Property. Its purpose is to promote innovation in different industrial sectors, universities and R&D institutions also individual inventors and new technologies fan. \r\n"
+slug: industrylab
+avatar_url: null
+header_url: null
+address_1: Route BO 50
+address_2: Oulad Haddou, Sidi Maârouf
+city: Casablanca
+county: Morocco
+postal_code: "21090"
+country_code: MA
+latitude: null
+longitude: null
+address_notes: ""
+phone: "00212678634727"
+email: khalid.ezzemani@outlook.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - laser
+  - vinyl_cutting
+activity_status: active
+links: []

@@ -1,0 +1,27 @@
+id: benisuef18
+name: Fablab Beni Suef
+kind_name: fab_lab
+parent_id: 895
+blurb: ""
+description: Fab Lab Beni Suef is an open-maker space and fabrication laboratory to help all makers to turn their ideas into prototypes, help anyone to be amaker. we are part of bigger Makerspace program run by Giza Systems Education Foundation
+slug: benisuef18
+avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/25/15/19/34/e67e24db-4131-4c65-9cf8-7ffb92af2381/Beni Suef-02.png
+header_url: null
+address_1: شارع عبد السلام عارف برج الحي القيوم فوق ماكدونالدز الدور الخامس
+address_2: ""
+city: Beni Suef
+county: Egypt
+postal_code: ""
+country_code: EG
+latitude: null
+longitude: null
+address_notes: Go to McDonald's  then up to fifth floor
+phone: "01030734666"
+email: fablab.benisuef@gizasystems.com
+capabilities:
+  - three_d_printing
+  - laser
+activity_status: active
+links:
+  - id: 7378
+    url: https://www.facebook.com/OfficialFabLabBeniSuef/

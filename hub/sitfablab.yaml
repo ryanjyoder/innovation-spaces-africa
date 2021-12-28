@@ -1,0 +1,26 @@
+id: sitfablab
+name: SIT fab lab
+kind_name: fab_lab
+parent_id: null
+blurb: The fab lab is in its early stages. We specialize in making prosthetic using 3D printed parts. We also engage in woodwork, pottery and metal work.
+description: 'The lab is situated in Ghana as part of Sena Institute of Technology. The lab is working with experts in Boston and Ghana to develop innovative solutions using 3D printing, wood work,pottery and metal works. '
+slug: sitfablab
+avatar_url: http://fablabs.io.s3.amazonaws.com/2019/03/05/22/01/03/acce8f20-332d-4bc9-93fb-38d609bf7078/SIT logo3.png
+header_url: http://fablabs.io.s3.amazonaws.com/2019/03/14/02/42/56/1ab9eb45-62d9-40b0-a469-1af55bd97989/SIT fab lab.jpg
+address_1: Penyi-Dzodze Road
+address_2: Unit PEN-ANY-266
+city: Penyi
+county: Volta Region
+postal_code: ""
+country_code: GH
+latitude: null
+longitude: null
+address_notes: We are opposite White Dove Hotel.
+phone: +1 8572659493
+email: info@sitghana.org
+capabilities:
+  - three_d_printing
+activity_status: active
+links:
+  - id: 6799
+    url: https://sitghana.org/fab-lab/

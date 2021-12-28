@@ -1,0 +1,25 @@
+id: fablab6october
+name: Fab Lab 6 October
+kind_name: fab_lab
+parent_id: null
+blurb: Fab Lab 6 October is an initiative to teach the youth in our City about technology, we focus in Economic Empowerment through Technology to raise the standard of living in our city through new ideas
+description: "This Fablab has an amazing story We collected the needed fund to buy the machinery for our fablab via a crowdfunding campaign you can check it from here http://www.zoomaal.com/projects/qafeer?ref=40246675 \r\nWe have a strong Community\r\nour Lab is incubated in Qafeer Labs in 6 October City."
+slug: fablab6october
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/27/02/7a24d888-c628-4e2a-bbf5-b19ff41dcf5d/Fab Lab 6 October.jpg
+header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/14/03/45/8707af85-1d9e-4627-a1c5-e43f58ef6ca8/Fab Lab 6 October.jpg
+address_1: 343-المحور المركزي- الحي الثاني-المجاورة الثانية، 6 أكتوبر، الجيزة
+address_2: block 343, apartment 4
+city: 6th of October City
+county: 6october
+postal_code: "12566"
+country_code: EG
+latitude: 29.9688129
+longitude: 30.9398315999999
+address_notes: ""
+phone: "01007814519"
+email: connect@qafeer.com
+capabilities:
+  - three_d_printing
+  - laser
+activity_status: closed
+links: []

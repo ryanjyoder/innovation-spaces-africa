@@ -1,0 +1,31 @@
+id: kabakoo
+name: Kabakoo - The House Of Wondering
+kind_name: fab_lab
+parent_id: null
+blurb: The lab for collaborative imagination ... Kabakoo is a shared space dedicated to the emergence of endogenous solutions to local problems by leveraging the power of place-based learning.
+description: "Kabakoo is an open science lab where we focus on learning through making.\r\n\r\nWhat defines us?\r\n1. Ecological sustainability: Passive construction with local materials built with the ancient African technique of the Nubian vault; Upcycled furniture made by waste collected around Bamako\r\n2. For the people with the people: Located in a typical low-income neighborhood where the majority of the population in African cities actually live\r\n3. Inclusiveness: At Kabakoo, you can find the vocationally trained, the formally college-educated, and the informally trained alike. \r\n\r\nKabakoo means “to wonder” or “to be amazed” in the Bamanan language from West Africa. “Wondering” is the beginning of discovery and knowledge (cf. Bamanan mythology or the Ancient Greeks). We wonder to better understand the issues we are facing and to create locally-grounded solutions. The first House Of Wondering was launched in May 2018 in Bamako."
+slug: kabakoo
+avatar_url: http://fablabs.io.s3.amazonaws.com/2018/07/19/17/42/04/8b290d1a-44f6-475e-9687-925bf6a8ff4f/logo_only visual.png
+header_url: http://fablabs.io.s3.amazonaws.com/2018/07/19/17/42/05/dc301bde-428e-40de-96c0-209b48e36f70/TwitterBanner_Jabakoo.png
+address_1: Faladié
+address_2: ""
+city: Bamako
+county: ""
+postal_code: ""
+country_code: ML
+latitude: 12.5751057
+longitude: -7.94843790000004
+address_notes: Bamako, Faladié (Grabal)
+phone: 00223 94 40 24 63
+email: akwaba@kabakoo.africa
+capabilities:
+  - three_d_printing
+  - circuit_production
+activity_status: active
+links:
+  - id: 5871
+    url: http://www.kabakoo.africa
+  - id: 5872
+    url: https://www.facebook.com/kabakoo
+  - id: 5873
+    url: https://www.linkedin.com/company/kabakoo/

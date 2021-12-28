@@ -1,0 +1,33 @@
+id: lisungifablab
+name: Lisungi Fablab
+kind_name: fab_lab
+parent_id: 1626
+blurb: Lisungi FabLab est un FabLab solidaire qui œuvre dans l'insertion professionnelle des jeunes et des femmes défavorisés à travers l'éducation aux pratiques du numérique génératrices des revenus.
+description: Le projet Lisungi FabLab est un atelier de fabrication numérique ouvert à tous. Il a pour but de sensibiliser et développer les compétences numériques des jeunes défavorisés ou en rupture scolaire et des femmes en situation précaire en particulier, en leur dispensant des formations métiers dans le domaine de l’informatique, l’électronique et la télécommunication.  Le projet met en place des actions qui les impliqueront dans la valorisation de leurs compétences, par le biais de l’initiation et la pratique dans différents ateliers. 2 types d’activités sont prévus, notamment les formations à la fabrication numérique et l’accompagnement.
+slug: lisungifablab
+avatar_url: http://fablabs.io.s3.amazonaws.com/2018/08/29/17/38/49/8128b772-9924-4c00-9171-2ca65c08386f/LISUNGI FABLAB Full.jpg
+header_url: http://fablabs.io.s3.amazonaws.com/2018/08/29/17/38/49/d475e2a3-1876-48d6-9bce-df4ef401aaf2/fablab page.jpeg
+address_1: 44 Avenue De La Démocratie (ex-huillerie), Kinshasa-Gombe
+address_2: ""
+city: Kinshasa
+county: ""
+postal_code: ""
+country_code: CD
+latitude: -4.3117345
+longitude: 15.3036025
+address_notes: Campus numérique Francophone de Kinshasa
+phone: "+243851488888"
+email: info@lisungifablab.org
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - laser
+  - vinyl_cutting
+activity_status: active
+links:
+  - id: 6040
+    url: http://lisungifablab.org/
+  - id: 6041
+    url: https://www.facebook.com/lisungifablab/
+  - id: 6042
+    url: https://www.youtube.com/channel/UCmWTyPkYn-diRYz_5PCYZzQ

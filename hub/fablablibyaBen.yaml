@@ -1,0 +1,31 @@
+id: fablablibyaBen
+name: 'Fab Lab Libya '
+kind_name: fab_lab
+parent_id: null
+blurb: Fab Lab Libya is the first of its kind in Libya, as an open access electronics lab and training center. One of the main targets of our lab is introducing and developing STEAM education in Libya .
+description: "Our lab was founded by engineers who admired the idea and goals of a Fab Lab organization . It is registered as a civil society non-profit organization in Libya . Our lab basically provides public access to an adequately (but not fully) equipped Laboratory for digital fabrication and electronic innovation . It has been ,so far, focusing in hosting training courses for kids and youth in programming, electronics and robotics , as well as running supervised DIY clubs for kids , various workshops and participating in events such as the first National Robotics championship in Libya . Furthermore, in pursuing its role as a STEAM education promoter in Libya , the lab has developed a curriculum for teaching programming to kids and contracted with a number of private elementary schools in Benghazi for teaching the curriculum to their students . \r\n\r\nOne of the very successful projects carried out by the lab , so far , was the 100 youth engineers and the 100 youth programmers ; in which a large number of school students participated in a hands-on learning style training course on the basics of programming and electronics using Arduino development panel. At the end of the course ,the students were able to build their own Arduino projects or Android applications and participated in an end-of-course competition. \r\n\r\nThe lab has been providing the equipment required and the technical assistance for a number of more advanced college graduation projects. And this is the area which we want to work on further ,by encouraging people ,specially electronic engineers and IT graduates , to engage in building their own (advanced) prototypes. Ultimately, our lab aims to become a real research and innovation center. \r\n\r\nRecently , Fab Lab Libya has engaged on a project by Expertise France concerned with entrepreneurship . Through this project members of the Fab Lab are being trained in entrepreneur coaching,where the lab is required to train and coach female entrepreneurs to establish their businesses . In addition to carrying out workshops on entrepreneurship to youth and specifically to university students .  "
+slug: fablablibyaBen
+avatar_url: http://fablabs.io.s3.amazonaws.com/2019/01/01/10/54/58/28abac7f-bed5-4d61-b8b5-ac4b1ae8bfa5/fablab libya logo5.png
+header_url: null
+address_1: 'Al-Pepsi Street – Al Rahba '
+address_2: 'Near Al-Fuwaheat Secondary School for Boys '
+city: Benghazi
+county: Banghazi
+postal_code: "+218"
+country_code: LY
+latitude: 32.0793196
+longitude: 20.0710884
+address_notes: "on the first floor apartment in the building right next to Al-Breky supermarket .\r\n"
+phone: "00218911091929"
+email: ' info@fablablibya.org '
+capabilities:
+  - three_d_printing
+  - circuit_production
+  - laser
+  - precision_milling
+activity_status: active
+links:
+  - id: 6584
+    url: https://www.facebook.com/fablablibya/
+  - id: 6583
+    url: https://fablablibya.org/
