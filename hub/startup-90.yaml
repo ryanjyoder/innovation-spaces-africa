@@ -2,16 +2,18 @@ title: "Startup 90"
 date: 2021-06-12T15:35:07-04:00
 draft: true
 id: startup-90
-website:
+website: https://www.startup90.com
 website-inactive:
-twitter:
-facebook:
+twitter: startup90
+facebook: https://www.facebook.com/startup90
 linkedin:
+instagram: http://instagram.com/startup_90/
 location:
   lat:
   lng:
-  address: "Buchanan Square, Sir Lowry Road, Woodstock, Cape Town, 7925"
+  address: "Buchanan Square, Sir Lowry Road, Woodstock"
 city: Cape Town
+postal_code: 7925
 region:
 country: South Africa
 email:
