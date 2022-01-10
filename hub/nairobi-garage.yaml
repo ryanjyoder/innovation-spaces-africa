@@ -15,6 +15,8 @@ city: Nairobi
 region: Nairobi County
 country: Kenya
 email:
+description: |
+  Nairobi Garage is a co-working space that is focused on social impact and professional solutions.
 articles:
   - "https://disrupt-africa.com/2020/09/16/metta-nairobi-garage-partner-to-offer-kenyan-entrepreneurs-benefits-of-both/"
   - "https://nairobigarage.com/year-in-review-10-articles-that-piqued-interest/"
@@ -26,5 +28,4 @@ articles:
   - "https://www.kahawatungu.com/kenyan-innovators-entrepreneurs-benefit-nairobi-garage-metta-merger/"
   - "https://www.biztechafrica.com/article/nairobi-garage-launches-premium-flexible-working-h/15285/"
   - "https://www.techinafrica.com/nairobi-garage-and-metta-partner-to-dominate-the-innovation-space-in-kenya/"
-description: |
-  Nairobi Garage is a co-working space that is focused on social impact and professional solutions.
+  - "https://www.dw.com/en/the-future-of-work-how-have-our-workplaces-changed/a-60356512"

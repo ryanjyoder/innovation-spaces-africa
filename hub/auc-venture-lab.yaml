@@ -15,6 +15,8 @@ city: Cairo
 region:
 country: Egypt
 email:
+description: |
+  AUC V-Lab is the first university-based incubator in Egypt. It has been selected among the top five most promising university incubators in Africa in 2014.
 articles:
   - "https://startupswb.com/auc-vlab-is-looking-for-egypts-next-innovators-for-their-startup-accelerator-program.html"
   - "https://www.egypttoday.com/Article/3/94406/ITIDA-AUC-Venture-Lab-Kick-Off-Startup-Launchpad-to-Enrich"
@@ -24,5 +26,4 @@ articles:
   - "https://menafn.com/1101154617/Egypt-ITIDA-AUC-Venture-Lab-collaborate-on-Startup-Launchpad"
   - "http://www.africa-bi.info/en/article/actualite/egypt-itida-auc-venture-lab-kick-off-startup-launchpad-to-enrich-egyptian-entrepreneurship-ecosystem"
   - "https://www.aacsb.edu/about/advocacy-and-awareness/member-challenges/innovations-that-inspire/2020/the-american-university-in-cairo"
-description: |
-  AUC V-Lab is the first university-based incubator in Egypt. It has been selected among the top five most promising university incubators in Africa in 2014.
+  - "https://menafn.com/1103496772/AUC-VENTURE-LAB-NAMED-BEST-ACCELERATORINCUBATOR-PROGRAM-IN-NORTH-AFRICA"
