@@ -1,16 +1,9 @@
-title: "Reconstructed Living Lab (RLabs)"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: reconstructed-living-lab-rlabs
 website: http://rlabs.org/
 website-inactive:
 twitter: RLabs
 facebook:
 linkedin:
-location:
-  lat: -33.9538889
-  lng: 18.532508
-  address: "66 Tarentaal Rd, Bridgetown, Cape Town 7769, South Africa"
 city: Cape Town
 region: Western Cape
 country: South Africa
@@ -21,3 +14,7 @@ articles:
   - "https://www.weforum.org/agenda/2022/01/the-social-innovators-of-the-year-2022-are-building-trust-and-supporting-millions/"
 description: |
   Reconstructed Living Lab (RLabs) is a global movement and registered social enterprise that provides innovative solutions to address various complex problems.
+name: "Reconstructed Living Lab (RLabs)"
+lat: -33.9538889
+lng: 18.532508
+address_line1: "66 Tarentaal Rd, Bridgetown, Cape Town 7769, South Africa"

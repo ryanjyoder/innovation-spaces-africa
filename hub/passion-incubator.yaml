@@ -1,16 +1,9 @@
-title: "Passion Incubator"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: passion-incubator
 website: https://www.passionincubator.ng/
 website-inactive:
 twitter: P_Incubator
 facebook:
 linkedin:
-location:
-  lat: 6.4524039
-  lng: 3.39685350000002
-  address: "Lagos Island, Lagos, Nigeria"
 city: Lagos
 region: Lagos
 country: Nigeria
@@ -24,3 +17,7 @@ articles:
   - "https://www.techcityng.com/7-accelerators-incubators-nigerian-startups/"
   - "https://technext.ng/2018/08/14/passion-incubator-launches-startup-southwest-incubation-program/"
 description: "Passion Incubator is an innovation hub that focuses on job creation, skill acquisition and innovation. \n"
+name: "Passion Incubator"
+lat: 6.4524039
+lng: 3.39685350000002
+address_line1: "Lagos Island, Lagos, Nigeria"

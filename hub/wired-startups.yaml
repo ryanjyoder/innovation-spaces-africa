@@ -1,16 +1,9 @@
-title: "Wired Startups"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: wired-startups
 website: https://wiredstartups.business.site/
 website-inactive:
 twitter: WiredStartups
 facebook:
 linkedin:
-location:
-  lat: 31.791702
-  lng: -7.09262000000001
-  address: "Morocco"
 city:
 region:
 country: Morocco
@@ -20,3 +13,7 @@ articles:
   - "https://ventureburn.com/2019/09/everything-you-need-to-know-about-the-north-african-startup-landscape/"
 description: |
   Wired Startups is an Incubator/Accelerator that is focused on job creation, skill acquisition and innovation.
+name: "Wired Startups"
+lat: 31.791702
+lng: -7.09262000000001
+address_line1: "Morocco"

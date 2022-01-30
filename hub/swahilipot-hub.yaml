@@ -1,16 +1,9 @@
-title: "Swahilipot Hub"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: swahilipot-hub
 website: https://swahilipothub.co.ke/
 website-inactive: x
 twitter: swahilipothub
 facebook:
 linkedin:
-location:
-  lat: -4.0434771
-  lng: 39.6682065
-  address: "Mombasa, Kenya"
 city: Mombasa
 region: Mombasa County
 country: Kenya
@@ -24,3 +17,7 @@ articles:
   - "https://cellulant.com/blog/innovate-for-pwani-concept-hack-swahilipot-hub/"
   - "https://www.kenyanews.go.ke/mombasa-to-host-a-major-innovation-week-forum/"
 description: "Swahilipot Hub is an innovation hub that is focused on social impact, job creation, skill acquisition, youth engagement and innovation. \n"
+name: "Swahilipot Hub"
+lat: -4.0434771
+lng: 39.6682065
+address_line1: "Mombasa, Kenya"

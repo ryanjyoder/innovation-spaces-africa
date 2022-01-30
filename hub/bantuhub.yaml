@@ -1,16 +1,9 @@
-title: "BantuHub "
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: bantuhub
 website: http://www.bantuhub.com/
 website-inactive: x
 twitter:
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city: Brazzaville
 region:
 country: Congo
@@ -21,3 +14,7 @@ articles:
   - "https://www.afrikatech.com/start-business/verone-mankou-and-her-way-c-tablet/"
   - "https://www.biztechafrica.com/article/congo-brazzavilles-bantuhub-offers-ict-relief-loca/8861/"
 description: ""
+name: "BantuHub "
+lat:
+lng:
+address_line1: ""

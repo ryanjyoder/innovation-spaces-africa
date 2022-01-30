@@ -1,16 +1,9 @@
-title: "Kumasi Hive"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: kumasi-hive
 website: https://kumasihive.com
 website-inactive:
 twitter: KumasiHive
 facebook:
 linkedin:
-location:
-  lat: 7.946527
-  lng: -1.02319399999999
-  address: "Ghana"
 city:
 region:
 country: Ghana
@@ -27,3 +20,7 @@ articles:
   - "https://www.myjoyonline.com/over-30-unemployed-graduates-in-ashanti-trained-to-develop-mobile-app/"
 description: |
   Kumasi Hive
+name: "Kumasi Hive"
+lat: 7.946527
+lng: -1.02319399999999
+address_line1: "Ghana"

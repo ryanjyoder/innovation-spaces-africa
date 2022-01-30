@@ -13,8 +13,6 @@ city: Kimberley
 county: Northern Cape
 postal_code: "8301"
 country_code: ZA
-latitude: -28.72929
-longitude: 24.75404
 address_notes: 'GPS Coordinates: 28º 42’53.99“ 24º 42’39.35“'
 phone: 053 872 2615
 email: fabkimberley@gmail.com
@@ -23,3 +21,55 @@ activity_status: null
 links:
   - id: 253
     url: http://www.fablab.co.za/index.php?option=com_content&view=article&id=5&Itemid=29
+lat: -28.72929
+lng: 24.75404
+id: kimberly
+name: Kimberly FabLab
+kind_name: fab_lab
+parent_id: null
+blurb: null
+description: The Northern Cape FabLab situated in Kimberley is hosted by the National Institute of Higher Education (NIHE), and is the sixth FabLab to be commissioned and launched by the DST on the 06th August 2007.
+slug: kimberly
+avatar_url: null
+header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/13/47/18/e985095b-9997-4f6f-a2b2-334680795a15/Kimberly FabLab.jpg
+address_1: 1317 Solomon Mekgwe Street
+address_2: Old Kitsong Training Centre
+city: Kimberley
+county: Northern Cape
+postal_code: "8301"
+country_code: ZA
+address_notes: 'GPS Coordinates: 28º 42’53.99“ 24º 42’39.35“'
+phone: 053 872 2615
+email: fabkimberley@gmail.com
+capabilities: []
+activity_status: null
+links:
+  - id: 253
+    url: http://www.fablab.co.za/index.php?option=com_content&view=article&id=5&Itemid=29
+lat: -28.72929
+lng: 24.75404
+id: kimberly
+name: Kimberly FabLab
+kind_name: fab_lab
+parent_id: null
+blurb: null
+description: The Northern Cape FabLab situated in Kimberley is hosted by the National Institute of Higher Education (NIHE), and is the sixth FabLab to be commissioned and launched by the DST on the 06th August 2007.
+slug: kimberly
+avatar_url: null
+header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/13/47/18/e985095b-9997-4f6f-a2b2-334680795a15/Kimberly FabLab.jpg
+address_1: 1317 Solomon Mekgwe Street
+address_2: Old Kitsong Training Centre
+city: Kimberley
+county: Northern Cape
+postal_code: "8301"
+country_code: ZA
+address_notes: 'GPS Coordinates: 28º 42’53.99“ 24º 42’39.35“'
+phone: 053 872 2615
+email: fabkimberley@gmail.com
+capabilities: []
+activity_status: null
+links:
+  - id: 253
+    url: http://www.fablab.co.za/index.php?option=com_content&view=article&id=5&Itemid=29
+lat: -28.72929
+lng: 24.75404

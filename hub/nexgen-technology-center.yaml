@@ -1,16 +1,9 @@
-title: "NexGen Technology Center"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: nexgen-technology-center
 website: http://nexgentechs.org/
 website-inactive:
 twitter: NexGenTechC
 facebook:
 linkedin:
-location:
-  lat: 3.8480325
-  lng: 11.5020752
-  address: "Yaounde, Cameroon"
 city: Yaounde
 region: Centre
 country: Cameroon
@@ -25,3 +18,7 @@ articles:
   - "https://www.borgenmagazine.com/girls-education-in-cameroon/"
 description: |
   NexGen is an innovation hub that is focused on skill acquisition, youth engagement and innovation.
+name: "NexGen Technology Center"
+lat: 3.8480325
+lng: 11.5020752
+address_line1: "Yaounde, Cameroon"

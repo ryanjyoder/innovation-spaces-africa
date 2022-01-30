@@ -1,16 +1,9 @@
-title: "Impact Amplifier"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: impact-amplifier
 website: https://www.impactamplifier.co.za/
 website-inactive:
 twitter: ImpactAmplifier
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city: Johannesburg
 region:
 country: South Africa
@@ -24,3 +17,7 @@ articles:
   - "https://www.itweb.co.za/content/VgZey7Jo1gzMdjX9"
   - "https://mg.co.za/opinion/2021-03-30-non-profit-organisations-are-critical-to-redressing-structural-causes-of-poverty/"
 description: ""
+name: "Impact Amplifier"
+lat:
+lng:
+address_line1: ""

@@ -1,16 +1,9 @@
-title: "Habaka"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: habaka
 website:
 website-inactive:
 twitter:
 facebook: https://web.facebook.com/habakamg?_rdr
 linkedin:
-location:
-  lat: -18.9078944
-  lng: 47.5287605
-  address: "Lalana Rainandriamampandry, Antananarivo, Antananarivo Province, Madagascar"
 city: Antananarivo
 region: Antananarivo Province
 country: Madagascar
@@ -23,3 +16,7 @@ articles:
   - "https://arielwaldman.com/blog/2014/12/11/the-emergence-of-science-hacking-in-madagascar"
   - "https://ict.io/ouverture-fablab-habaka-a-madagascar/"
 description: "Habaka is a technology innovation space that brings together academicians, the private sector and investors to support the tech community and entrepreneurship. Its ambition is to hack local problems with ingenious technology solutions. \n"
+name: "Habaka"
+lat: -18.9078944
+lng: 47.5287605
+address_line1: "Lalana Rainandriamampandry, Antananarivo, Antananarivo Province, Madagascar"

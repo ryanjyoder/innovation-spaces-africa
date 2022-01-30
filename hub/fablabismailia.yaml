@@ -13,8 +13,6 @@ city: ismailia
 county: Egypt
 postal_code: ""
 country_code: EG
-latitude: 30.6214053807067
-longitude: 32.2288652208435
 address_notes: ""
 phone: "01224448985"
 email: eman.elshabrawy@ismailia.moe.edu.eg
@@ -27,3 +25,63 @@ capabilities:
   - vinyl_cutting
 activity_status: active
 links: []
+lat: 30.6214053807067
+lng: 32.2288652208435
+id: fablabismailia
+name: fab lab ismailia
+kind_name: fab_lab
+parent_id: 13
+blurb: machines, electronics and tools
+description: fabrication lab
+slug: fablabismailia
+avatar_url: null
+header_url: null
+address_1: 'complex education '
+address_2: ""
+city: ismailia
+county: Egypt
+postal_code: ""
+country_code: EG
+address_notes: ""
+phone: "01224448985"
+email: eman.elshabrawy@ismailia.moe.edu.eg
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links: []
+lat: 30.6214053807067
+lng: 32.2288652208435
+id: fablabismailia
+name: fab lab ismailia
+kind_name: fab_lab
+parent_id: 13
+blurb: machines, electronics and tools
+description: fabrication lab
+slug: fablabismailia
+avatar_url: null
+header_url: null
+address_1: 'complex education '
+address_2: ""
+city: ismailia
+county: Egypt
+postal_code: ""
+country_code: EG
+address_notes: ""
+phone: "01224448985"
+email: eman.elshabrawy@ismailia.moe.edu.eg
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links: []
+lat: 30.6214053807067
+lng: 32.2288652208435

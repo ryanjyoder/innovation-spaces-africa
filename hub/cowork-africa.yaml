@@ -1,16 +1,9 @@
-title: "Cowork.Africa"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: cowork-africa
 website: Co-work.africa
 website-inactive:
 twitter: coworkafrica
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city: Douala
 region:
 country: Cameroon
@@ -21,3 +14,7 @@ articles:
   - "https://www.afrohustler.com/cowork-africa-new-business-hub-douala/"
 description: |
   �Premium co-working space in Douala.�
+name: "Cowork.Africa"
+lat:
+lng:
+address_line1: ""

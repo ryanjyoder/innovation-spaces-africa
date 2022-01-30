@@ -1,16 +1,9 @@
-title: "Cairo Hackerspace"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: cairo-hackerspace
 website: https://cairohackerspace.org/
 website-inactive:
 twitter:
 facebook:
 linkedin:
-location:
-  lat: 30.0444196
-  lng: 31.2357116000001
-  address: "Cairo, Egypt"
 city: Cairo
 region: Cairo Governorate
 country: Egypt
@@ -24,3 +17,7 @@ articles:
   - "https://egyptianstreets.com/2016/12/24/the-egyptian-microbus-changing-the-meaning-of-innovation/"
   - "https://x-team.com/blog/x-volunteers-egypt/"
 description: "Cairo Hackerspace is an innovation hub that focuses on social impact and innovation.   \n"
+name: "Cairo Hackerspace"
+lat: 30.0444196
+lng: 31.2357116000001
+address_line1: "Cairo, Egypt"

@@ -13,8 +13,6 @@ city: Eldoret
 county: UASIN GISHU
 postal_code: "30100"
 country_code: KE
-latitude: 0.5173983
-longitude: 35.270895
 address_notes: ""
 phone: "+254728286873"
 email: evans.njagimwendia@gmail.com
@@ -26,3 +24,61 @@ activity_status: planned
 links:
   - id: 8049
     url: https://ousiatechnologies.com/
+lat: 0.5173983
+lng: 35.270895
+id: ousiafablabs
+name: OUSIA FABLABS
+kind_name: fab_lab
+parent_id: null
+blurb: 'A Fab Lab, or digital fabrication laboratory, is a place to play, to create, to mentor and to invent: a place for learning and innovation.'
+description: "A Fab Lab, or digital fabrication laboratory, is a place to play, to create, to mentor and to invent: a place for learning and innovation.\r\nFab Labs provide access to the environment, the skills, the materials and the advanced technology to allow anyone anywhere to make (almost) anything."
+slug: ousiafablabs
+avatar_url: null
+header_url: null
+address_1: Eldoret
+address_2: ""
+city: Eldoret
+county: UASIN GISHU
+postal_code: "30100"
+country_code: KE
+address_notes: ""
+phone: "+254728286873"
+email: evans.njagimwendia@gmail.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+activity_status: planned
+links:
+  - id: 8049
+    url: https://ousiatechnologies.com/
+lat: 0.5173983
+lng: 35.270895
+id: ousiafablabs
+name: OUSIA FABLABS
+kind_name: fab_lab
+parent_id: null
+blurb: 'A Fab Lab, or digital fabrication laboratory, is a place to play, to create, to mentor and to invent: a place for learning and innovation.'
+description: "A Fab Lab, or digital fabrication laboratory, is a place to play, to create, to mentor and to invent: a place for learning and innovation.\r\nFab Labs provide access to the environment, the skills, the materials and the advanced technology to allow anyone anywhere to make (almost) anything."
+slug: ousiafablabs
+avatar_url: null
+header_url: null
+address_1: Eldoret
+address_2: ""
+city: Eldoret
+county: UASIN GISHU
+postal_code: "30100"
+country_code: KE
+address_notes: ""
+phone: "+254728286873"
+email: evans.njagimwendia@gmail.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+activity_status: planned
+links:
+  - id: 8049
+    url: https://ousiatechnologies.com/
+lat: 0.5173983
+lng: 35.270895

@@ -1,16 +1,9 @@
-title: "Groupe ISM"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: groupe-ism
 website: https://www.ismincub.com/
 website-inactive:
 twitter:
 facebook: https://fr-fr.facebook.com/GroupeISM/
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city:
 region:
 country:
@@ -22,3 +15,7 @@ articles:
   - "https://www.seneplus.com/article/si-le-groupe-ism-m%E2%80%99%C3%A9tait-cont%C3%A9"
   - "https://etudiantsn.com/groupe-ism-institut-superieur-de-management/"
 description: ""
+name: "Groupe ISM"
+lat:
+lng:
+address_line1: ""

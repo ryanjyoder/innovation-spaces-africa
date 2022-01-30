@@ -13,8 +13,6 @@ city: Yaoundé
 county: Centre
 postal_code: ""
 country_code: CM
-latitude: 3.8680387
-longitude: 11.5475754
 address_notes: ""
 phone: +237 677 56 87 66 / 691 42 24 43
 email: contact@ecolialabs.org
@@ -33,3 +31,75 @@ links:
     url: http://www.ecolialabs.org
   - id: 2370
     url: http://www.instagram.com/ecolialabs
+lat: 3.8680387
+lng: 11.5475754
+id: ecolialabs
+name: Ecolia Labs
+kind_name: fab_lab
+parent_id: null
+blurb: ECOLIA Labs is a Non-profit leading accelerator and incubator focusing on technology startups.
+description: "ECOLIA Labs  aims to stimulate and support technological innovation by promoting the entrepreneurship of young people and women in Cameroon and Africa\r\n\r\nIt is an ecosystem that combines :\r\n\r\n • A project incubator : to support the project leaders in the creation, viability and sustainability of their startups.\r\n\r\n • A Fablab : to train disadvantaged young Cameroonians, in a situation of dropping out of school or just graduated, to the professions of digital manufacture and their uses in the fields of crafts, carpentry, electronics, energy , Environment, health and informatics;\r\n\r\n • A coworking space: to encourage collective emulation and catalyze innovation and technological entrepreneurship in Cameroon."
+slug: ecolialabs
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/33/12/a539e6f9-ec2a-47ca-b913-5143732ca488/Ecolia Labs.jpg
+header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/14/54/01/d6b4d0ea-d9f9-42a8-8f03-8d522fc4da32/Ecolia Labs.jpg
+address_1: Yaoundé
+address_2: Mimboman
+city: Yaoundé
+county: Centre
+postal_code: ""
+country_code: CM
+address_notes: ""
+phone: +237 677 56 87 66 / 691 42 24 43
+email: contact@ecolialabs.org
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - laser
+  - vinyl_cutting
+activity_status: null
+links:
+  - id: 2257
+    url: 'https://www.facebook.com/EcoliaLabs '
+  - id: 2258
+    url: https://www.twitter.com/EcoliaLabs
+  - id: 2369
+    url: http://www.ecolialabs.org
+  - id: 2370
+    url: http://www.instagram.com/ecolialabs
+lat: 3.8680387
+lng: 11.5475754
+id: ecolialabs
+name: Ecolia Labs
+kind_name: fab_lab
+parent_id: null
+blurb: ECOLIA Labs is a Non-profit leading accelerator and incubator focusing on technology startups.
+description: "ECOLIA Labs  aims to stimulate and support technological innovation by promoting the entrepreneurship of young people and women in Cameroon and Africa\r\n\r\nIt is an ecosystem that combines :\r\n\r\n • A project incubator : to support the project leaders in the creation, viability and sustainability of their startups.\r\n\r\n • A Fablab : to train disadvantaged young Cameroonians, in a situation of dropping out of school or just graduated, to the professions of digital manufacture and their uses in the fields of crafts, carpentry, electronics, energy , Environment, health and informatics;\r\n\r\n • A coworking space: to encourage collective emulation and catalyze innovation and technological entrepreneurship in Cameroon."
+slug: ecolialabs
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/33/12/a539e6f9-ec2a-47ca-b913-5143732ca488/Ecolia Labs.jpg
+header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/14/54/01/d6b4d0ea-d9f9-42a8-8f03-8d522fc4da32/Ecolia Labs.jpg
+address_1: Yaoundé
+address_2: Mimboman
+city: Yaoundé
+county: Centre
+postal_code: ""
+country_code: CM
+address_notes: ""
+phone: +237 677 56 87 66 / 691 42 24 43
+email: contact@ecolialabs.org
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - laser
+  - vinyl_cutting
+activity_status: null
+links:
+  - id: 2257
+    url: 'https://www.facebook.com/EcoliaLabs '
+  - id: 2258
+    url: https://www.twitter.com/EcoliaLabs
+  - id: 2369
+    url: http://www.ecolialabs.org
+  - id: 2370
+    url: http://www.instagram.com/ecolialabs
+lat: 3.8680387
+lng: 11.5475754

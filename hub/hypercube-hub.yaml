@@ -1,16 +1,9 @@
-title: "Hypercube Hub"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: hypercube-hub
 website: http://www.hypercubehub.co/en
 website-inactive:
 twitter: hypercubehub
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city: Harare
 region:
 country: Zimbabwe
@@ -26,3 +19,7 @@ articles:
   - "https://hivos.org/blog/hivos-southern-africa-hosts-creative-hub-think-tank/"
   - "https://en.reset.org/blog/times-pieces-%E2%80%98no-limits%E2%80%99-rejuvenating-youth-employment-zimbabwe-04262014"
 description: ""
+name: "Hypercube Hub"
+lat:
+lng:
+address_line1: ""

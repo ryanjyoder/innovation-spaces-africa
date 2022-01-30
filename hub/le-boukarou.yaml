@@ -1,16 +1,9 @@
-title: "Le Boukarou"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: le-boukarou
 website:
 website-inactive:
 twitter:
 facebook: https://www.facebook.com/LeboukarouOfficiel/
 linkedin:
-location:
-  lat:
-  lng:
-  address: "Douala, Cameroun"
 city:
 region:
 country:
@@ -23,3 +16,7 @@ articles:
   - "https://gomet.net/emerging-valley-relation-au-centre/4/"
 description: |
   Au boukarou vous �tes chez vous, venez et ensemble nous allons surmonter les d�fis qui s'imposent � vous !
+name: "Le Boukarou"
+lat:
+lng:
+address_line1: "Douala, Cameroun"

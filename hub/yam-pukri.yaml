@@ -1,16 +1,9 @@
-title: "Yam Pukri"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: yam-pukri
 website: http://www.yam-pukri.org/
 website-inactive:
 twitter: yam_pukri
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city: Ouagadougou
 region:
 country: Burkina Faso
@@ -21,3 +14,7 @@ articles:
   - "https://www.genderit.org/articles/dealing-fraud-and-internet-love-women-and-cybercrime-burkina-faso"
   - "http://www.fao.org/e-agriculture/news/making-icts-work-farmers-seven-case-studies"
 description: ""
+name: "Yam Pukri"
+lat:
+lng:
+address_line1: ""

@@ -1,16 +1,9 @@
-title: "AFP PME"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: afp-pme
 website: http://www.afppme.bf/
 website-inactive:
 twitter:
 facebook: https://web.facebook.com/AfpPme/
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city:
 region:
 country:
@@ -24,3 +17,7 @@ articles:
   - "http://news.aouaga.com/h/116628.html"
   - "none"
 description: ""
+name: "AFP PME"
+lat:
+lng:
+address_line1: ""

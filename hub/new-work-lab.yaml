@@ -1,16 +1,9 @@
-title: "New Work Lab"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: new-work-lab
 website: http://www.newworklab.com
 website-inactive:
 twitter: newworklab
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city: Casablanca
 region:
 country: Morocco
@@ -24,3 +17,7 @@ articles:
   - "https://www.atlanticcouncil.org/blogs/menasource/empowering-entrepreneurship-in-morocco-and-beyond/"
   - "https://www.voyages-d-affaires.com/interview-fatim-zahra-biaz-new-work-lab-20180627.html"
 description: ""
+name: "New Work Lab"
+lat:
+lng:
+address_line1: ""

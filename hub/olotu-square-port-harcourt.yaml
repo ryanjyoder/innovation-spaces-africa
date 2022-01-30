@@ -1,16 +1,9 @@
-title: "Olotu Square (Port Harcourt)"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: olotu-square-port-harcourt
 website: https://olotusquare.co/
 website-inactive:
 twitter: olotusquare
 facebook:
 linkedin:
-location:
-  lat: 4.815554
-  lng: 7.04984420000005
-  address: "Port Harcourt, Nigeria"
 city: Port Harcourt
 region: Rivers
 country: Nigeria
@@ -20,3 +13,7 @@ articles:
   - "https://techcultureng.com/2019/08/10/port-harcourt-to-host-global-women-startup-weekend/"
   - "https://techpoint.africa/2017/10/13/paq-session-2017-portharcourt/"
 description: "Olotu Square is an innovation center focused on social impact, youth engagement and innovation. \n"
+name: "Olotu Square (Port Harcourt)"
+lat: 4.815554
+lng: 7.04984420000005
+address_line1: "Port Harcourt, Nigeria"

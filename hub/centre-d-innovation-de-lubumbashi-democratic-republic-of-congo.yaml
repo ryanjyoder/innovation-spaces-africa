@@ -1,16 +1,9 @@
-title: "Centre d'innovation de Lubumbashi Democratic Republic of Congo"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: centre-d-innovation-de-lubumbashi-democratic-republic-of-congo
 website: http://cinolu.org/CIL/
 website-inactive:
 twitter:
 facebook: http://www.facebook.com/cinolu
 linkedin:
-location:
-  lat: 0.4990124
-  lng: 29.4527538
-  address: "Beni, North-Kivu, Democratic Republic of the Congo"
 city: Beni
 region: North-Kivu
 country: Democratic Republic of the Congo
@@ -21,3 +14,7 @@ articles:
   - "none"
 description: |
   Centre d'innovation de Lubumbashi Democratic Republic of Congo
+name: "Centre d'innovation de Lubumbashi Democratic Republic of Congo"
+lat: 0.4990124
+lng: 29.4527538
+address_line1: "Beni, North-Kivu, Democratic Republic of the Congo"

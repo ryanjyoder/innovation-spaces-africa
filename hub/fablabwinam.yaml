@@ -13,8 +13,6 @@ city: Kisumu
 county: NYANZA
 postal_code: "40100"
 country_code: KE
-latitude: -0.0768085
-longitude: 34.7925762
 address_notes: Opposite Huduma Centre, next to PC's Office (Nyanza Regional Commissioner's office)
 phone: "+254720355951"
 email: fablabwinam@gmail.com
@@ -35,3 +33,79 @@ links:
     url: http://@fablabwinam
   - id: 6760
     url: http://www.fablabwinam.org
+lat: -0.0768085
+lng: 34.7925762
+id: fablabwinam
+name: FABLAB WINAM
+kind_name: fab_lab
+parent_id: null
+blurb: Fablab Winam is a hub of innovation, local manufacturing, research and education, that uses the latest computer-assisted design software and Equipment for the creation of prototypes and products
+description: "Winam Fablab offers a hub for sharing ideas, tools and other resources by makers, Artisans (Jua Kali), professionals, educators, students, entrepreneurs, learning institutions, hobbyists, kids etc. It taps into gaps between classroom-learnt skills and market needs experiences to build products that address challenges and emphasizes on local manufacturing using emerging tech-based trends like IoT. Based in Western Kenya region in Kisumu where there are just a few industries, the Fablab Winam will be keen on using people-centred design approaches for socio-economic challenges and incubation\r\nCurrently Fablab Winam caries out the following programs\r\n1. Fab Academy - International MOOC course on Digital Fabrication. We have 5 students attending\r\n2. Fab Kids - a STEAM cause for kids an primary and early high school teaching hands-on skills \r\n3. Other short term courses on 3D Printing, Laser cutting. designing, CNC operation etc\r\n4. Innopreneur Bootcamp - a monthly bootcamp for makers and innovators in the region\r\n5. Fabrication, Prototyping,mentorship\r\n6. Contracting & Consultation"
+slug: fablabwinam
+avatar_url: http://fablabs.io.s3.amazonaws.com/2019/02/24/09/10/49/705c48da-9188-45d3-bfce-2fc0db619231/fab logoo.jpg
+header_url: http://fablabs.io.s3.amazonaws.com/2018/07/03/16/30/18/1d0fca60-d93a-4852-894e-144e99972fbd/IMG-20180630-WA0024.jpg
+address_1: 'Innovation Lane, off Achieng'' Oneko Rd, '
+address_2: "3188"
+city: Kisumu
+county: NYANZA
+postal_code: "40100"
+country_code: KE
+address_notes: Opposite Huduma Centre, next to PC's Office (Nyanza Regional Commissioner's office)
+phone: "+254720355951"
+email: fablabwinam@gmail.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links:
+  - id: 6763
+    url: https://twitter.com/FablabWinam
+  - id: 6762
+    url: https://web.facebook.com/fablabwinam
+  - id: 6761
+    url: http://@fablabwinam
+  - id: 6760
+    url: http://www.fablabwinam.org
+lat: -0.0768085
+lng: 34.7925762
+id: fablabwinam
+name: FABLAB WINAM
+kind_name: fab_lab
+parent_id: null
+blurb: Fablab Winam is a hub of innovation, local manufacturing, research and education, that uses the latest computer-assisted design software and Equipment for the creation of prototypes and products
+description: "Winam Fablab offers a hub for sharing ideas, tools and other resources by makers, Artisans (Jua Kali), professionals, educators, students, entrepreneurs, learning institutions, hobbyists, kids etc. It taps into gaps between classroom-learnt skills and market needs experiences to build products that address challenges and emphasizes on local manufacturing using emerging tech-based trends like IoT. Based in Western Kenya region in Kisumu where there are just a few industries, the Fablab Winam will be keen on using people-centred design approaches for socio-economic challenges and incubation\r\nCurrently Fablab Winam caries out the following programs\r\n1. Fab Academy - International MOOC course on Digital Fabrication. We have 5 students attending\r\n2. Fab Kids - a STEAM cause for kids an primary and early high school teaching hands-on skills \r\n3. Other short term courses on 3D Printing, Laser cutting. designing, CNC operation etc\r\n4. Innopreneur Bootcamp - a monthly bootcamp for makers and innovators in the region\r\n5. Fabrication, Prototyping,mentorship\r\n6. Contracting & Consultation"
+slug: fablabwinam
+avatar_url: http://fablabs.io.s3.amazonaws.com/2019/02/24/09/10/49/705c48da-9188-45d3-bfce-2fc0db619231/fab logoo.jpg
+header_url: http://fablabs.io.s3.amazonaws.com/2018/07/03/16/30/18/1d0fca60-d93a-4852-894e-144e99972fbd/IMG-20180630-WA0024.jpg
+address_1: 'Innovation Lane, off Achieng'' Oneko Rd, '
+address_2: "3188"
+city: Kisumu
+county: NYANZA
+postal_code: "40100"
+country_code: KE
+address_notes: Opposite Huduma Centre, next to PC's Office (Nyanza Regional Commissioner's office)
+phone: "+254720355951"
+email: fablabwinam@gmail.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links:
+  - id: 6763
+    url: https://twitter.com/FablabWinam
+  - id: 6762
+    url: https://web.facebook.com/fablabwinam
+  - id: 6761
+    url: http://@fablabwinam
+  - id: 6760
+    url: http://www.fablabwinam.org
+lat: -0.0768085
+lng: 34.7925762

@@ -1,16 +1,9 @@
-title: "Jokkolabs Dakar"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: jokkolabs-dakar
 website: https://www.jokkolabs.net/senegal/dakar
 website-inactive:
 twitter: JklDakar
 facebook: https://www.facebook.com/jokkolabsDakar/
 linkedin:
-location:
-  lat:
-  lng:
-  address: "Sacr� C�ur 3 villa 9653"
 city: Dakar
 region:
 country: Senegal
@@ -22,9 +15,13 @@ articles:
   - "https://trueafrica.co/article/karim-sy-taking-co-working-spaces-to-bamako-abidjan-dakar-cotonou-and-more/"
   - "https://www.lepoint.fr/afrique/dakar-a-la-conquete-de-lendemains-innovants-21-11-2019-2348814_3826.php"
   - "https://www.francetvinfo.fr/monde/afrique/societe-africaine/points-de-vue-sur-l-entrepreneuriat-au-senegal_3541195.html"
-description: |2-
+description: |-
   Just an example.
 
   Copy and pasted from : http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=7007
 
   Established in October 2010, Jokkolabs Dakar is part of a network of six co-working spaces in Mali, Burkina Faso, Senegal and France. Specifically focused on addressing social needs in Agriculture, Health, Governance and Primary School Education, leveraging open source is part of its culture.
+name: "Jokkolabs Dakar"
+lat:
+lng:
+address_line1: "Sacr� C�ur 3 villa 9653"

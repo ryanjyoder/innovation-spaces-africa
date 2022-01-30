@@ -1,16 +1,9 @@
-title: "Flat6Labs"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: flat6labs
 website: http://www.flat6labs.com
 website-inactive:
 twitter: Flat6LabsFR
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city: Cairo
 region:
 country: Egypt
@@ -31,3 +24,7 @@ articles:
   - "https://www.zawya.com/mena/en/business/story/Flat6labs_increases_FAC_fund_to_13mln_to_support_Egyptian_earlystage_startups-SNG_213058516/"
   - "https://disrupt-africa.com/2022/01/04/egypts-flat6labs-eslsca-university-launch-student-focused-incubation-programme/"
 description: ""
+name: "Flat6Labs"
+lat:
+lng:
+address_line1: ""

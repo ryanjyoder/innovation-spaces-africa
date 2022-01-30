@@ -1,16 +1,9 @@
-title: "Wiki Start Up"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: wiki-start-up
 website: http://www.wikistartup.tn/
 website-inactive:
 twitter: WIKISTARTUP
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city: Tunis
 region:
 country: Tunisia
@@ -22,3 +15,7 @@ articles:
   - "https://www.ilboursa.com/marches/carthage-business-angels-et-wiki-start-up-lancent-la-3eme-edition-de-startact_17698"
   - "https://www.wamda.com/2011/09/the-first-startup-incubator-launches-in-tunisia-wiki-start-up"
 description: ""
+name: "Wiki Start Up"
+lat:
+lng:
+address_line1: ""

@@ -1,16 +1,9 @@
-title: "iDEA Hub"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: idea-hub
 website: http://www.idea-nigeria.org/
 website-inactive: x
 twitter:
 facebook:
 linkedin:
-location:
-  lat: 9.081999
-  lng: 8.67527700000005
-  address: "Nigeria"
 city:
 region:
 country: Nigeria
@@ -22,3 +15,7 @@ articles:
   - "https://technext.ng/2020/06/15/huawei-launches-ideahub-to-offer-improved-remote-working-features-to-businesses-in-africa/"
   - "https://techcabal.com/2013/07/29/the-idea-hub-opens-their-second-centre-in-calabar-2nd-of-august/"
 description: "iDEA (Information Technology Developers Entrepreneurship Accelerator) provides essential support to entrepreneurs to build software skills.  \n"
+name: "iDEA Hub"
+lat: 9.081999
+lng: 8.67527700000005
+address_line1: "Nigeria"

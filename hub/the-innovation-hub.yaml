@@ -1,16 +1,9 @@
-title: "The Innovation Hub"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: the-innovation-hub
 website: https://theinnovationhub.com/
 website-inactive:
 twitter: InnovHub
 facebook:
 linkedin:
-location:
-  lat: -30.559482
-  lng: 22.937506
-  address: "South Africa"
 city:
 region:
 country: South Africa
@@ -21,3 +14,7 @@ articles:
   - "https://www.mdpi.com/2071-1050/12/5/1858/htm"
   - "https://www.dailymaverick.co.za/article/2022-01-21-first-flush-of-innovation-meet-the-start-ups-taking-the-gap-to-solve-real-life-problems/"
 description: "The Innovation Hub \n"
+name: "The Innovation Hub"
+lat: -30.559482
+lng: 22.937506
+address_line1: "South Africa"

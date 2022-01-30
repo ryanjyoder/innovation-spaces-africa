@@ -1,16 +1,9 @@
-title: "IMPACT, L'incubateur"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: impact-l-incubateur
 website:
 website-inactive:
 twitter: IMPACT_LabESS
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city:
 region:
 country:
@@ -20,3 +13,7 @@ articles:
   - "https://www.macaubusiness.com/angolan-state-forced-to-make-25pct-of-purchases-from-small-and-medium-sized-enterprises/"
 description: |
   L'incubateur IMPACT detecte, hrberge et accompagne des entreprises sociales tunisiennes.
+name: "IMPACT, L'incubateur"
+lat:
+lng:
+address_line1: ""

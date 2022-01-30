@@ -1,19 +1,16 @@
-title: "Sahara Ventures"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: sahara-ventures
 website: https://saharaventures.com/sahara-accelerator
 website-inactive:
 twitter: VenturesSahara
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: "Aldua Tower, Wing A, 6 Floor, New Bagamoyo Road"
 city: Dar-es-Salaam
 region:
-country: Tanzania 
+country: Tanzania
 email:
 articles:
 description: ""
+name: "Sahara Ventures"
+lat:
+lng:
+address_line1: "Aldua Tower, Wing A, 6 Floor, New Bagamoyo Road"

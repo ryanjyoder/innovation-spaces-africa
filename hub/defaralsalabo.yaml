@@ -13,8 +13,6 @@ city: Dakar
 county: ""
 postal_code: ""
 country_code: SN
-latitude: 14.7139787
-longitude: -17.4551477
 address_notes: Derrière la place du Jet d'eau, dans une des cantines à côté de la mosquée.
 phone: ""
 email: honou003@gmail.com
@@ -28,3 +26,65 @@ links:
     url: http://wiki.fablab.is/wiki/DefaralSaLabo_Dakar
   - id: 501
     url: http://www.ker-thiossane.org/spip.php?article137
+lat: 14.7139787
+lng: -17.4551477
+id: defaralsalabo
+name: Defaral Sa Labo
+kind_name: fab_lab
+parent_id: 17
+blurb: Primary focus on free electronics, textile and organic dye, wood, irrigation and urban gardening.
+description: Located at the heart of Dakar (Sicap Liberté II), this Lab is supported by the NGO Ker-Thiossane. It is the sequel of a series of DIY workshops held in 2013 (Defko Yaw Rek in wolof, a senegalese tongue). Our first public workshop on textile/knitting/PRocessing designed patterns will happen in the frame of the Afropixel festival, during the Dak'Art African Art Biennale, May 2014.
+slug: defaralsalabo
+avatar_url: null
+header_url: null
+address_1: S.I.C.A.P. Liberte 2
+address_2: ""
+city: Dakar
+county: ""
+postal_code: ""
+country_code: SN
+address_notes: Derrière la place du Jet d'eau, dans une des cantines à côté de la mosquée.
+phone: ""
+email: honou003@gmail.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - vinyl_cutting
+activity_status: planned
+links:
+  - id: 401
+    url: http://wiki.fablab.is/wiki/DefaralSaLabo_Dakar
+  - id: 501
+    url: http://www.ker-thiossane.org/spip.php?article137
+lat: 14.7139787
+lng: -17.4551477
+id: defaralsalabo
+name: Defaral Sa Labo
+kind_name: fab_lab
+parent_id: 17
+blurb: Primary focus on free electronics, textile and organic dye, wood, irrigation and urban gardening.
+description: Located at the heart of Dakar (Sicap Liberté II), this Lab is supported by the NGO Ker-Thiossane. It is the sequel of a series of DIY workshops held in 2013 (Defko Yaw Rek in wolof, a senegalese tongue). Our first public workshop on textile/knitting/PRocessing designed patterns will happen in the frame of the Afropixel festival, during the Dak'Art African Art Biennale, May 2014.
+slug: defaralsalabo
+avatar_url: null
+header_url: null
+address_1: S.I.C.A.P. Liberte 2
+address_2: ""
+city: Dakar
+county: ""
+postal_code: ""
+country_code: SN
+address_notes: Derrière la place du Jet d'eau, dans une des cantines à côté de la mosquée.
+phone: ""
+email: honou003@gmail.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - vinyl_cutting
+activity_status: planned
+links:
+  - id: 401
+    url: http://wiki.fablab.is/wiki/DefaralSaLabo_Dakar
+  - id: 501
+    url: http://www.ker-thiossane.org/spip.php?article137
+lat: 14.7139787
+lng: -17.4551477

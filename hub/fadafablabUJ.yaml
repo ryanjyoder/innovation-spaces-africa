@@ -13,8 +13,6 @@ city: Johannesburg
 county: Gauteng
 postal_code: "2092"
 country_code: ZA
-latitude: -26.188017
-longitude: 28.0170951
 address_notes: The security personal at the front entrance of FADA will kindly direct you to the FabLab on ground level at the rear of the building
 phone: +27 76 617 3504
 email: uj.fablab@gmail.com
@@ -33,3 +31,75 @@ links:
     url: https://www.instagram.com/fada_fablab/
   - id: 17390
     url: https://ujfablab.wixsite.com/fabrication-lab
+lat: -26.188017
+lng: 28.0170951
+id: fadafablabUJ
+name: FADA FabLab University of Johannesburg
+kind_name: fab_lab
+parent_id: null
+blurb: We are a FabLab based within the University of Johannesburg's Faculty of Art, Design and Architecture (FADA).
+description: 'We are a design centred Lab focussing on crosspollination and collaboration through multiple disciplines namely: Fashion, Jewellery, Industrial Design, Visual Arts, Multimedia, Graphic Design and Architecture. '
+slug: fadafablabUJ
+avatar_url: http://fablabs.io.s3.amazonaws.com/2020/09/30/15/23/59/e80b96f5-05a2-4e1c-bc61-5f69267a7890/WhatsApp Image 2020-09-28 at 20.00.47.jpeg
+header_url: null
+address_1: Faculty of Art, Design and Architecture
+address_2: Bunting Road
+city: Johannesburg
+county: Gauteng
+postal_code: "2092"
+country_code: ZA
+address_notes: The security personal at the front entrance of FADA will kindly direct you to the FabLab on ground level at the rear of the building
+phone: +27 76 617 3504
+email: uj.fablab@gmail.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links:
+  - id: 17392
+    url: https://www.tiktok.com/@fada_fablab
+  - id: 17391
+    url: https://www.instagram.com/fada_fablab/
+  - id: 17390
+    url: https://ujfablab.wixsite.com/fabrication-lab
+lat: -26.188017
+lng: 28.0170951
+id: fadafablabUJ
+name: FADA FabLab University of Johannesburg
+kind_name: fab_lab
+parent_id: null
+blurb: We are a FabLab based within the University of Johannesburg's Faculty of Art, Design and Architecture (FADA).
+description: 'We are a design centred Lab focussing on crosspollination and collaboration through multiple disciplines namely: Fashion, Jewellery, Industrial Design, Visual Arts, Multimedia, Graphic Design and Architecture. '
+slug: fadafablabUJ
+avatar_url: http://fablabs.io.s3.amazonaws.com/2020/09/30/15/23/59/e80b96f5-05a2-4e1c-bc61-5f69267a7890/WhatsApp Image 2020-09-28 at 20.00.47.jpeg
+header_url: null
+address_1: Faculty of Art, Design and Architecture
+address_2: Bunting Road
+city: Johannesburg
+county: Gauteng
+postal_code: "2092"
+country_code: ZA
+address_notes: The security personal at the front entrance of FADA will kindly direct you to the FabLab on ground level at the rear of the building
+phone: +27 76 617 3504
+email: uj.fablab@gmail.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links:
+  - id: 17392
+    url: https://www.tiktok.com/@fada_fablab
+  - id: 17391
+    url: https://www.instagram.com/fada_fablab/
+  - id: 17390
+    url: https://ujfablab.wixsite.com/fabrication-lab
+lat: -26.188017
+lng: 28.0170951

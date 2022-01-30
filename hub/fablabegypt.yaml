@@ -13,8 +13,6 @@ city: Cairo
 county: Cairo
 postal_code: ""
 country_code: EG
-latitude: 29.9592179
-longitude: 31.2527818
 address_notes: ""
 phone: "+201017465650"
 email: fablabegypt@san3atech.com
@@ -31,3 +29,71 @@ links:
     url: https://www.facebook.com/fablab.egypt
   - id: 47
     url: http://fablabegypt.com
+lat: 29.9592179
+lng: 31.2527818
+id: fablabegypt
+name: Fab Lab Egypt
+kind_name: fab_lab
+parent_id: null
+blurb: The first official fab lab and community-run makerspace in Egypt.
+description: Fab Lab Egypt (under the umbrella of San3a Tech) is a community-run public makerspace and digital fabrication lab where anyone in the community from young children to students, entrepreneurs and businesses can get together to share knowledge, and collaborate on projects and hands-on activities. It gives everyone the capability to turn their ideas and concepts into reality and to make “almost anything”. We share our machines, tools, skills, resources and ideas with the community to create new opportunities for economic and social benefit.
+slug: fablabegypt
+avatar_url: http://fablabs.io.s3.amazonaws.com/2018/03/02/12/55/07/ca027166-aa37-4494-b89f-912d33950cb6/13612116_805930696174614_4673316763532088645_n.png
+header_url: http://fablabs.io.s3.amazonaws.com/2021/01/19/16/39/24/382211c4-44ea-46b0-9d0b-c56ea93fb333/67795977_1996791253755213_7518231657694887936_n.jpg
+address_1: Villa 35 - 100 St. - Near Al Horia Square
+address_2: Maadi
+city: Cairo
+county: Cairo
+postal_code: ""
+country_code: EG
+address_notes: ""
+phone: "+201017465650"
+email: fablabegypt@san3atech.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links:
+  - id: 48
+    url: https://www.facebook.com/fablab.egypt
+  - id: 47
+    url: http://fablabegypt.com
+lat: 29.9592179
+lng: 31.2527818
+id: fablabegypt
+name: Fab Lab Egypt
+kind_name: fab_lab
+parent_id: null
+blurb: The first official fab lab and community-run makerspace in Egypt.
+description: Fab Lab Egypt (under the umbrella of San3a Tech) is a community-run public makerspace and digital fabrication lab where anyone in the community from young children to students, entrepreneurs and businesses can get together to share knowledge, and collaborate on projects and hands-on activities. It gives everyone the capability to turn their ideas and concepts into reality and to make “almost anything”. We share our machines, tools, skills, resources and ideas with the community to create new opportunities for economic and social benefit.
+slug: fablabegypt
+avatar_url: http://fablabs.io.s3.amazonaws.com/2018/03/02/12/55/07/ca027166-aa37-4494-b89f-912d33950cb6/13612116_805930696174614_4673316763532088645_n.png
+header_url: http://fablabs.io.s3.amazonaws.com/2021/01/19/16/39/24/382211c4-44ea-46b0-9d0b-c56ea93fb333/67795977_1996791253755213_7518231657694887936_n.jpg
+address_1: Villa 35 - 100 St. - Near Al Horia Square
+address_2: Maadi
+city: Cairo
+county: Cairo
+postal_code: ""
+country_code: EG
+address_notes: ""
+phone: "+201017465650"
+email: fablabegypt@san3atech.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links:
+  - id: 48
+    url: https://www.facebook.com/fablab.egypt
+  - id: 47
+    url: http://fablabegypt.com
+lat: 29.9592179
+lng: 31.2527818

@@ -1,16 +1,9 @@
-title: "Hadina Rimtic"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: hadina-rimtic
 website: http://www.hadinarimtic.com
 website-inactive: x
 twitter: HadinaRIMTIC
 facebook: https://www.facebook.com/hadinarimtic/about/?ref=page_internal
 linkedin:
-location:
-  lat:
-  lng:
-  address: "Nouakchott, Nouakchott, Mauritanie"
 city:
 region:
 country:
@@ -22,3 +15,7 @@ articles:
   - "https://www.lemonde.fr/afrique/article/2015/01/29/en-mauritanie-un-ecosysteme-start-up-prend-forme-lentement-mais-surement_4566242_3212.html"
   - "https://www.financialafrik.com/2017/07/18/mauritanie-lancement-de-la-semaine-de-lentrepreneuriat/"
 description: ""
+name: "Hadina Rimtic"
+lat:
+lng:
+address_line1: "Nouakchott, Nouakchott, Mauritanie"

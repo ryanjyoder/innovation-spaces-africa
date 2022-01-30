@@ -1,16 +1,9 @@
-title: "Green Innovation Hub (GiHUB)"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: green-innovation-hub-gihub
 website: http://www.gih.space/
 website-inactive: x
 twitter:
 facebook: https://www.facebook.com/GiHUBZim/
 linkedin:
-location:
-  lat: -17.8251657
-  lng: 31.03351
-  address: "Harare, Zimbabwe"
 city: Harare
 region: Harare Province
 country: Zimbabwe
@@ -21,3 +14,7 @@ articles:
   - "https://constructionreviewonline.com/news/zimbabwe/sweden-promotes-renewable-energy-in-zimbabwe/"
   - "https://www.techinafrica.com/details-youngest-african-win-africa-prize-engineering-innovation-2018/"
 description: "GiHUB is an innovation hub that is focused on social impact, job creation and innovation and get most of their funds from Africa. \n"
+name: "Green Innovation Hub (GiHUB)"
+lat: -17.8251657
+lng: 31.03351
+address_line1: "Harare, Zimbabwe"

@@ -13,8 +13,6 @@ city: Kigali
 county: Kigali
 postal_code: ""
 country_code: RW
-latitude: -1.9444501
-longitude: 30.0896764
 address_notes: ""
 phone: "+250781187555"
 email: info@fablab.rw
@@ -33,3 +31,75 @@ links:
     url: https://twitter.com/fablabrw
   - id: 4796
     url: http://fablab.rw/
+lat: -1.9444501
+lng: 30.0896764
+id: FabLabRwanda
+name: FabLab Rwanda
+kind_name: fab_lab
+parent_id: null
+blurb: FabLab Rwanda is a space for members to turn innovative ideas into products specifically in the hardware and electronics domain.
+description: "FabLab Rwanda was established in May 12th, 2016, by ICT Chamber in partnership with Rwanda\r\n\r\nDevelopment Board (RDB), Japan International Cooperation Agency (JICA), Ministry of\r\n\r\nEducation, SolidWorks Corporation MIT-CBA, and Gasabo3D who followed through taking\r\n\r\nlessons learnt from efforts of supporting Software Innovators (at KLAB) to execute on His\r\n\r\nExcellency’s recommendation to put in place a Fabrication Laboratory (FABLAB) to support\r\n\r\nHardware Innovators in Rwanda.\r\n\r\nFabLab Rwanda is a space for members to turn innovative ideas into products specifically in the\r\n\r\nhardware and electronics domain. The space provides a platform for capacity building and\r\n\r\nintegration of hardware skills with software knowledge and quickly bringing Rwandan\r\n\r\ninnovators closer to the Internet of Things era.\r\n\r\nThe space provides collaborative community, Knowledge base and innovation business model\r\n\r\nGuidance with a core focus to increase Rwanda’s competitiveness in the fields of Design,\r\n\r\nEngineering, Electronics, Fabrication and High-Tech innovative business.\r\n\r\nFABLAB Rwanda also serves as a model for the nation’s leaders in policy, government, and\r\n\r\nindustry, to experience, first hand, Fab Lab’s grass roots approach in developing technical\r\n\r\neducation and literacy, promoting innovation and launching inventions while transforming\r\n\r\ntraditional industries into digital fabrication agents."
+slug: FabLabRwanda
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/11/21/06/00/53/4eb8d527-221b-4f47-8d36-2fd2f6adcb1e/Fablab.png
+header_url: null
+address_1: Telecom House
+address_2: 6th Floor
+city: Kigali
+county: Kigali
+postal_code: ""
+country_code: RW
+address_notes: ""
+phone: "+250781187555"
+email: info@fablab.rw
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links:
+  - id: 4794
+    url: https://www.facebook.com/KigaliFabLab/
+  - id: 4795
+    url: https://twitter.com/fablabrw
+  - id: 4796
+    url: http://fablab.rw/
+lat: -1.9444501
+lng: 30.0896764
+id: FabLabRwanda
+name: FabLab Rwanda
+kind_name: fab_lab
+parent_id: null
+blurb: FabLab Rwanda is a space for members to turn innovative ideas into products specifically in the hardware and electronics domain.
+description: "FabLab Rwanda was established in May 12th, 2016, by ICT Chamber in partnership with Rwanda\r\n\r\nDevelopment Board (RDB), Japan International Cooperation Agency (JICA), Ministry of\r\n\r\nEducation, SolidWorks Corporation MIT-CBA, and Gasabo3D who followed through taking\r\n\r\nlessons learnt from efforts of supporting Software Innovators (at KLAB) to execute on His\r\n\r\nExcellency’s recommendation to put in place a Fabrication Laboratory (FABLAB) to support\r\n\r\nHardware Innovators in Rwanda.\r\n\r\nFabLab Rwanda is a space for members to turn innovative ideas into products specifically in the\r\n\r\nhardware and electronics domain. The space provides a platform for capacity building and\r\n\r\nintegration of hardware skills with software knowledge and quickly bringing Rwandan\r\n\r\ninnovators closer to the Internet of Things era.\r\n\r\nThe space provides collaborative community, Knowledge base and innovation business model\r\n\r\nGuidance with a core focus to increase Rwanda’s competitiveness in the fields of Design,\r\n\r\nEngineering, Electronics, Fabrication and High-Tech innovative business.\r\n\r\nFABLAB Rwanda also serves as a model for the nation’s leaders in policy, government, and\r\n\r\nindustry, to experience, first hand, Fab Lab’s grass roots approach in developing technical\r\n\r\neducation and literacy, promoting innovation and launching inventions while transforming\r\n\r\ntraditional industries into digital fabrication agents."
+slug: FabLabRwanda
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/11/21/06/00/53/4eb8d527-221b-4f47-8d36-2fd2f6adcb1e/Fablab.png
+header_url: null
+address_1: Telecom House
+address_2: 6th Floor
+city: Kigali
+county: Kigali
+postal_code: ""
+country_code: RW
+address_notes: ""
+phone: "+250781187555"
+email: info@fablab.rw
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links:
+  - id: 4794
+    url: https://www.facebook.com/KigaliFabLab/
+  - id: 4795
+    url: https://twitter.com/fablabrw
+  - id: 4796
+    url: http://fablab.rw/
+lat: -1.9444501
+lng: 30.0896764

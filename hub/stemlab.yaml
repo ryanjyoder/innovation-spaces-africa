@@ -13,8 +13,6 @@ city: Témara
 county: Skhirate-Témara
 postal_code: "12040"
 country_code: MA
-latitude: 33.92405
-longitude: -6.91848800000002
 address_notes: N°13 Résidence printemps II harhour
 phone: "+212661227381"
 email: stemlab@flexius.tech
@@ -26,3 +24,61 @@ links:
     url: https://www.facebook.com/steamLabClub/
   - id: 6264
     url: https://web.facebook.com/stemLabClub/
+lat: 33.92405
+lng: -6.91848800000002
+id: stemlab
+name: StemLAB
+kind_name: fab_lab
+parent_id: 1051
+blurb: Our LAB is promoting STEAM education in morocco. we believe that education should give it equal weight to the humanities, communication and languages, science, arts and physical education
+description: "The STEM LAB is sponsored by the Flexius education center which promote STEAM education that use Science, Technology, Engineering, Arts and Mathematics to prepare children for the futur\r\nSchools need to train our children with all the competencies they need to be autonomous, critical and happy citizens to tackle the challenges of their time.  We believe that with the addition of Arts to STEM curricula, we can engage people to learn, be curious about and creative with science and technology.\r\nTogether with the board of the Flexius Center, and a lot of believers we started up FabLab called \"STEMLAB\" in  2018. It is an independent non-profit organisation run by volunteers. 3 days a week it is used by the high school and embedded into the STEAM curriculum. Each Wednesday afternoon and -evening it is open and free for everybody. On Friday we organise workshops for pupils from all the primary schools in the neighbourhood and also teambuilding activities for businesses and organisations."
+slug: stemlab
+avatar_url: http://fablabs.io.s3.amazonaws.com/2018/01/06/20/52/46/de2b1ec1-8ed6-4019-bdcc-0127b00593de/StemLAb logo.png
+header_url: null
+address_1: N53 residence yasmina Avenue Hassane II
+address_2: ""
+city: Témara
+county: Skhirate-Témara
+postal_code: "12040"
+country_code: MA
+address_notes: N°13 Résidence printemps II harhour
+phone: "+212661227381"
+email: stemlab@flexius.tech
+capabilities:
+  - three_d_printing
+activity_status: planned
+links:
+  - id: 5267
+    url: https://www.facebook.com/steamLabClub/
+  - id: 6264
+    url: https://web.facebook.com/stemLabClub/
+lat: 33.92405
+lng: -6.91848800000002
+id: stemlab
+name: StemLAB
+kind_name: fab_lab
+parent_id: 1051
+blurb: Our LAB is promoting STEAM education in morocco. we believe that education should give it equal weight to the humanities, communication and languages, science, arts and physical education
+description: "The STEM LAB is sponsored by the Flexius education center which promote STEAM education that use Science, Technology, Engineering, Arts and Mathematics to prepare children for the futur\r\nSchools need to train our children with all the competencies they need to be autonomous, critical and happy citizens to tackle the challenges of their time.  We believe that with the addition of Arts to STEM curricula, we can engage people to learn, be curious about and creative with science and technology.\r\nTogether with the board of the Flexius Center, and a lot of believers we started up FabLab called \"STEMLAB\" in  2018. It is an independent non-profit organisation run by volunteers. 3 days a week it is used by the high school and embedded into the STEAM curriculum. Each Wednesday afternoon and -evening it is open and free for everybody. On Friday we organise workshops for pupils from all the primary schools in the neighbourhood and also teambuilding activities for businesses and organisations."
+slug: stemlab
+avatar_url: http://fablabs.io.s3.amazonaws.com/2018/01/06/20/52/46/de2b1ec1-8ed6-4019-bdcc-0127b00593de/StemLAb logo.png
+header_url: null
+address_1: N53 residence yasmina Avenue Hassane II
+address_2: ""
+city: Témara
+county: Skhirate-Témara
+postal_code: "12040"
+country_code: MA
+address_notes: N°13 Résidence printemps II harhour
+phone: "+212661227381"
+email: stemlab@flexius.tech
+capabilities:
+  - three_d_printing
+activity_status: planned
+links:
+  - id: 5267
+    url: https://www.facebook.com/steamLabClub/
+  - id: 6264
+    url: https://web.facebook.com/stemLabClub/
+lat: 33.92405
+lng: -6.91848800000002

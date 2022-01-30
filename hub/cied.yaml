@@ -1,16 +1,9 @@
-title: "Cied"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: cied
 website:
 website-inactive:
 twitter:
 facebook: https://web.facebook.com/AccompagnementCIED/
 linkedin:
-location:
-  lat:
-  lng:
-  address: "Abidjan, C�te-d&#039;Ivoire, Abidjan, C�te d&#039;Ivoire"
 city:
 region:
 country:
@@ -22,3 +15,7 @@ articles:
   - "https://www.afrikmag.com/cote-divoire-election-du-31-octobre-la-cied-appelle-a-un-environnement-preelectoral-apaise/"
   - "https://news.abidjan.net/h/688497.html"
 description: ""
+name: "Cied"
+lat:
+lng:
+address_line1: "Abidjan, C�te-d&#039;Ivoire, Abidjan, C�te d&#039;Ivoire"

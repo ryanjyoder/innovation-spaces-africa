@@ -1,16 +1,9 @@
-title: "Jokkolabs Abidjan"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: jokkolabs-abidjan
 website: http://jokkolabs.net/en/#jokkolabs
 website-inactive:
 twitter: JklAbidjan
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city: Abidjan
 region:
 country: C?te d?Ivoire
@@ -21,3 +14,7 @@ articles:
   - "https://www.jeuneafrique.com/6228/economie/jokkolabs-abidjan-et-casablanca/"
   - "https://www.africatopsuccess.com/jokkolabs-abidjan-and-casablanca-joining-the-network/"
 description: ""
+name: "Jokkolabs Abidjan"
+lat:
+lng:
+address_line1: ""

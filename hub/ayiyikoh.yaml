@@ -13,8 +13,6 @@ city: Abidjan
 county: Yopougon
 postal_code: "225"
 country_code: CI
-latitude: 5.316667
-longitude: -4.03333299999997
 address_notes: ""
 phone: "57583482"
 email: ayiyikoh@gmail.com
@@ -25,3 +23,59 @@ activity_status: null
 links:
   - id: 1400
     url: http://fb.com/ayiyikoh
+lat: 5.316667
+lng: -4.03333299999997
+id: ayiyikoh
+name: Ayiyikoh
+kind_name: fab_lab
+parent_id: 14
+blurb: ""
+description: ""
+slug: ayiyikoh
+avatar_url: null
+header_url: null
+address_1: Abidjan
+address_2: ""
+city: Abidjan
+county: Yopougon
+postal_code: "225"
+country_code: CI
+address_notes: ""
+phone: "57583482"
+email: ayiyikoh@gmail.com
+capabilities:
+  - circuit_production
+  - laser
+activity_status: null
+links:
+  - id: 1400
+    url: http://fb.com/ayiyikoh
+lat: 5.316667
+lng: -4.03333299999997
+id: ayiyikoh
+name: Ayiyikoh
+kind_name: fab_lab
+parent_id: 14
+blurb: ""
+description: ""
+slug: ayiyikoh
+avatar_url: null
+header_url: null
+address_1: Abidjan
+address_2: ""
+city: Abidjan
+county: Yopougon
+postal_code: "225"
+country_code: CI
+address_notes: ""
+phone: "57583482"
+email: ayiyikoh@gmail.com
+capabilities:
+  - circuit_production
+  - laser
+activity_status: null
+links:
+  - id: 1400
+    url: http://fb.com/ayiyikoh
+lat: 5.316667
+lng: -4.03333299999997

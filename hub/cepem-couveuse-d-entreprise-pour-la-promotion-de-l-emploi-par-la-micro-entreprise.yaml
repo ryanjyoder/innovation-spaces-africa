@@ -1,6 +1,3 @@
-title: "CEPEM Couveuse d'Entreprise pour la Promotion de l'Emploi par la Micro-entreprise"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: cepem-couveuse-d-entreprise-pour-la-promotion-de-l-emploi-par-la-micro-entreprise
 website: https://www.cepem.sn
 website-inactive:
@@ -71,11 +68,6 @@ angelNetworks:
     website:
 hubNetworks:
   - africinnov
-# Contact/location
-location:
-  lat:
-  lng:
-  address: "3 Rue Amadou Assane Ndoye, Dakar"
 city: Dakar
 region:
 country: Senegal
@@ -90,3 +82,7 @@ articles:
   - "https://www.aimf.asso.fr/Dakar-Inauguration-de-la-Couveuse-d-entreprise-pour-la-promotion-de-l-emploi.html"
   - "https://www.dakar24sn.com/2021/09/17/mourade-dieye-gueye-president-de-la-cepem-plus-de-65-des-entreprises-au-senegal-meurent-un-an-ou-deux-ans-apres/"
 description: "\n\n# Short description\nCEPEM is a business incubator run by the city of Dakar. It was created in partnership with the Association Internationale des Maire Francophone (AIMF), the city of Marseille, the city of Montreal, and L'ecole des Entrepreneurs du Quebec. The incubator provides training, mentoring, and assures a financing for the entrepreneurs at the end of the program. As of September 2021, the incubator is accepting applications for its third cohort of entrepreneurs. The incubator accepts business from any sector (excluding certain capital intensive sectors such as construction), however they have a focus on women and youth.\n\n# Basic history\nLaunched in 2018, CEPEM has incubated two cohorts of entrepreneurs. \n\n# Covid Response\nWas the 2020 program canceled? \n\n# Response to growing remote environment\n"
+name: "CEPEM Couveuse d'Entreprise pour la Promotion de l'Emploi par la Micro-entreprise"
+lat:
+lng:
+address_line1: "3 Rue Amadou Assane Ndoye, Dakar"

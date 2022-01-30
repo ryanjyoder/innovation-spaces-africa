@@ -1,16 +1,9 @@
-title: "iBiz Africa"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: ibiz-africa
 website: http://www.ibizafrica.co.ke/
 website-inactive:
 twitter: iBizAfrica
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city: Nairobi
 region:
 country: Kenya
@@ -23,3 +16,7 @@ articles:
   - "https://www.techinafrica.com/mtn-teams-with-ifc-in-2-million-agent-recruitment-drive-for-momo-service/"
   - "http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S2077-72132020000200004"
 description: ""
+name: "iBiz Africa"
+lat:
+lng:
+address_line1: ""

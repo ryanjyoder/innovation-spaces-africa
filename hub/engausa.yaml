@@ -1,30 +1,18 @@
-title: "Engausa Global Tech Hub"
 id: engausa-hub
 website: https://engausahub.com/
 website-inactive:
-twitter: 
+twitter:
 facebook: https://business.facebook.com/engausahub
 linkedin:
 youtube: https://www.youtube.com/channel/UCZar3cuUyRGirl-H2oMMtuQ
-location:
-  lat: 
-  lng: 
-  address: 
 city: Kano
-region: 
+region:
 country: Nigeria
-email: 
+email:
 articles:
-  - https://www.nationalaccordnewspaper.com/fgs-plan-to-attain-95-digital-literacy-by-2030-on-course-says-nitda-dg/ 
-description: |
- From their website 
- 
-  Who We Are?
-  We are a team of problem-solving, service providers, and long-hours working young people who pride themselves on a decent culture of work, hard work, integrity, and digital innovations.
-
-  What We Do?
-  We believe in the natural division of talents in our society. Therefore, we put a searching light to identify talented young people to inspire, mentor, and support them through their journey of life. We are frontline advocates of digital inclusion, digital awareness, and digital gender balance. 
-
-  How We Do It?
-  We believe in the power of teamwork. The greatest strength lies in our strong conviction of breaking barriers and bridging gaps. 
-
+  - https://www.nationalaccordnewspaper.com/fgs-plan-to-attain-95-digital-literacy-by-2030-on-course-says-nitda-dg/
+description: "From their website \n\n Who We Are?\n We are a team of problem-solving, service providers, and long-hours working young people who pride themselves on a decent culture of work, hard work, integrity, and digital innovations.\n\n What We Do?\n We believe in the natural division of talents in our society. Therefore, we put a searching light to identify talented young people to inspire, mentor, and support them through their journey of life. We are frontline advocates of digital inclusion, digital awareness, and digital gender balance. \n\n How We Do It?\n We believe in the power of teamwork. The greatest strength lies in our strong conviction of breaking barriers and bridging gaps. \n"
+name: "Engausa Global Tech Hub"
+lat:
+lng:
+address_line1:

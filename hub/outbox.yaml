@@ -1,16 +1,9 @@
-title: "Outbox"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: outbox
 website: http://www.outbox.co.ug/
 website-inactive:
 twitter: OutboxHub
 facebook:
 linkedin:
-location:
-  lat: 0.3229945
-  lng: 32.5766
-  address: "Soliz House, Kampala, Uganda"
 city: Kampala
 region: Central Region
 country: Uganda
@@ -25,3 +18,7 @@ articles:
   - "https://techjaja.com/why-startups-should-register-for-2019-kampala-innovation-week/"
   - "https://www.dw.com/en/innovation-a-country-in-the-starting-blocks/a-43623331"
 description: "Outbox is a Kampala-based incubation, collaboration and co-creation space that supports techies and entrepreneurs  to turn their ideas into businesses while leveraging mobile and web technologies. \n"
+name: "Outbox"
+lat: 0.3229945
+lng: 32.5766
+address_line1: "Soliz House, Kampala, Uganda"

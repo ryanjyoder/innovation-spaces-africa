@@ -1,16 +1,9 @@
-title: "KhulaTech"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: khulatech
 website: http://www.khulatech.com
 website-inactive:
 twitter: khulatech
 facebook: http://www.facebook.com/khulatech
 linkedin:
-location:
-  lat:
-  lng:
-  address: "Cotonou B�nin, Vedoko, von funai, immeuble MTN ,  Cotonou"
 city:
 region:
 country:
@@ -24,3 +17,7 @@ articles:
   - "https://irawotalents.com/hauts-lieux-economie-numerique-benin/"
   - "https://www.digitalbusiness.africa/revolution-numerique-se-prepare-benin-start-ups-incubateurs/"
 description: ""
+name: "KhulaTech"
+lat:
+lng:
+address_line1: "Cotonou B�nin, Vedoko, von funai, immeuble MTN ,  Cotonou"

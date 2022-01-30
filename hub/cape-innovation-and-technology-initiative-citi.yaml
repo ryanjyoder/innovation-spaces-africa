@@ -1,16 +1,9 @@
-title: "Cape Innovation and Technology Initiative (CITI)"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: cape-innovation-and-technology-initiative-citi
 website: http://www.citi.org.za/
 website-inactive:
 twitter: Cape_IT
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city: Cape Town
 region:
 country: South Africa
@@ -25,3 +18,7 @@ articles:
   - "https://www.gov.za/speeches/new-brand-launched-position-cape-town-and-western-cape-africa%E2%80%99s%C2%A0tech%C2%A0capital%C2%A0-5-nov-2020"
   - "https://smetoolkit.businesspartners.co.za/en/content/cape-innovation-and-technology-initiative-citi"
 description: ""
+name: "Cape Innovation and Technology Initiative (CITI)"
+lat:
+lng:
+address_line1: ""

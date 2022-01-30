@@ -13,8 +13,6 @@ city: ""
 county: ""
 postal_code: ""
 country_code: EG
-latitude: 29.9636527382043
-longitude: 31.311387299128
 address_notes: ""
 phone: "0221224569861"
 email: dr.ade.salah@stemmaadi.moe.edu.eg
@@ -27,3 +25,63 @@ capabilities:
   - vinyl_cutting
 activity_status: active
 links: []
+lat: 29.9636527382043
+lng: 31.311387299128
+id: maadistem
+name: FabLab Maadi STEM School
+kind_name: fab_lab
+parent_id: null
+blurb: ""
+description: ""
+slug: maadistem
+avatar_url: null
+header_url: null
+address_1: Maadi
+address_2: ""
+city: ""
+county: ""
+postal_code: ""
+country_code: EG
+address_notes: ""
+phone: "0221224569861"
+email: dr.ade.salah@stemmaadi.moe.edu.eg
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links: []
+lat: 29.9636527382043
+lng: 31.311387299128
+id: maadistem
+name: FabLab Maadi STEM School
+kind_name: fab_lab
+parent_id: null
+blurb: ""
+description: ""
+slug: maadistem
+avatar_url: null
+header_url: null
+address_1: Maadi
+address_2: ""
+city: ""
+county: ""
+postal_code: ""
+country_code: EG
+address_notes: ""
+phone: "0221224569861"
+email: dr.ade.salah@stemmaadi.moe.edu.eg
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links: []
+lat: 29.9636527382043
+lng: 31.311387299128

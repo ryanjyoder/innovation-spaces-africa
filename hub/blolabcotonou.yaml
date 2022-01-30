@@ -13,8 +13,6 @@ city: Cotonou
 county: Cotonou
 postal_code: "229"
 country_code: BJ
-latitude: 6.3704004
-longitude: 2.3921603
 address_notes: Quartier Kindonou, 2e immeuble après la pharmacie en quittant le CEG Le Nokoué, 3e étage.
 phone: (229) 97 38 31 74
 email: contact@blolab.org
@@ -24,3 +22,57 @@ activity_status: null
 links:
   - id: 1994
     url: http://www.blolab.org
+lat: 6.3704004
+lng: 2.3921603
+id: blolabcotonou
+name: Blolab Cotonou
+kind_name: fab_lab
+parent_id: 21
+blurb: Design and fabrication for spreading sciences and technologies through open source and open hardware projects.
+description: Design and fabrication for spreading sciences and technologies through open source and open hardware projects.
+slug: blolabcotonou
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/30/29/444b8fc2-0975-40f4-9831-63c05eb890cf/Blolab Cotonou.jpg
+header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/14/50/46/625c40a6-a14a-4efb-9820-4438d52256bc/Blolab Cotonou.jpg
+address_1: Cotonou
+address_2: ""
+city: Cotonou
+county: Cotonou
+postal_code: "229"
+country_code: BJ
+address_notes: Quartier Kindonou, 2e immeuble après la pharmacie en quittant le CEG Le Nokoué, 3e étage.
+phone: (229) 97 38 31 74
+email: contact@blolab.org
+capabilities:
+  - three_d_printing
+activity_status: null
+links:
+  - id: 1994
+    url: http://www.blolab.org
+lat: 6.3704004
+lng: 2.3921603
+id: blolabcotonou
+name: Blolab Cotonou
+kind_name: fab_lab
+parent_id: 21
+blurb: Design and fabrication for spreading sciences and technologies through open source and open hardware projects.
+description: Design and fabrication for spreading sciences and technologies through open source and open hardware projects.
+slug: blolabcotonou
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/30/29/444b8fc2-0975-40f4-9831-63c05eb890cf/Blolab Cotonou.jpg
+header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/14/50/46/625c40a6-a14a-4efb-9820-4438d52256bc/Blolab Cotonou.jpg
+address_1: Cotonou
+address_2: ""
+city: Cotonou
+county: Cotonou
+postal_code: "229"
+country_code: BJ
+address_notes: Quartier Kindonou, 2e immeuble après la pharmacie en quittant le CEG Le Nokoué, 3e étage.
+phone: (229) 97 38 31 74
+email: contact@blolab.org
+capabilities:
+  - three_d_printing
+activity_status: null
+links:
+  - id: 1994
+    url: http://www.blolab.org
+lat: 6.3704004
+lng: 2.3921603

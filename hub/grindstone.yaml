@@ -1,16 +1,9 @@
-title: "Grindstone"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: grindstone
 website:
 website-inactive:
 twitter:
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: "E5B Century Square Century City Cape Town"
 city: Cape Town
 region: Western Cape South Africa
 country: South Africa
@@ -24,3 +17,7 @@ articles:
   - "https://www.scholarshubafrica.com/52278/grindstone-competition-startups-south-africa/"
   - "https://www.bizcommunity.com/Article/196/708/189114.html"
 description: ""
+name: "Grindstone"
+lat:
+lng:
+address_line1: "E5B Century Square Century City Cape Town"

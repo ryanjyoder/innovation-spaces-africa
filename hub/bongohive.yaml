@@ -1,16 +1,9 @@
-title: "BongoHive"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: bongohive
 website: http://bongohive.co.zm/
 website-inactive:
 twitter: bongohive
 facebook:
 linkedin:
-location:
-  lat: -15.4186552
-  lng: 28.3099678
-  address: "Haile Selassie Ave, Lusaka, Zambia"
 city: Lusaka
 region: Lusaka Province
 country: Zambia
@@ -27,3 +20,7 @@ articles:
   - "https://aaeafrica.org/home/a-look-at-namibias-economy/"
   - "https://borgenproject.org/tag/bongohive/"
 description: "BongoHive, based in Lusaka, Zambia, provides a place for the local tech community to meet, swap experiences, and attend training, networking and hackathon events. \n"
+name: "BongoHive"
+lat: -15.4186552
+lng: 28.3099678
+address_line1: "Haile Selassie Ave, Lusaka, Zambia"

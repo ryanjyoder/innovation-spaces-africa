@@ -13,8 +13,6 @@ city: Cairo
 county: Egypt
 postal_code: "11477"
 country_code: EG
-latitude: 30.025623
-longitude: 31.4594529
 address_notes: In front of Copper Melt, Ground floor inside Giza systems building.
 phone: "+201092111434"
 email: fablab@gizasystems.com
@@ -27,3 +25,63 @@ capabilities:
   - vinyl_cutting
 activity_status: active
 links: []
+lat: 30.025623
+lng: 31.4594529
+id: fablabnewcairo
+name: Fab Lab in New Cairo (FLiNC)
+kind_name: fab_lab
+parent_id: 13
+blurb: Fab Lab New Cairo is an open-maker space & fabrication laboratory to help all makers to turn their ideas into prototypes. It's a part of a bigger Makerspace Program run by GSEF.
+description: 'Fab Lab New Cairo is an open-maker space and fabrication laboratory to help all makers to turn their ideas into prototypes, located in 5th Settlement, New Cairo, in Giza Systems Building. It''s a part of a bigger Makerspace Program run by Giza Systems Education Foundation, which goal is to target eastern Cairo, as there''s no accessible prototyping facility for the makers who live there. '
+slug: fablabnewcairo
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/03/05/13/55/51/e9aee512-297b-48e2-b19b-d1bdce19b7be/FLINC LOGO-01.png
+header_url: http://fablabs.io.s3.amazonaws.com/2017/03/05/13/55/52/5b402053-1942-4198-be0f-755bf4a1746b/FLINC LOGO-011.png
+address_1: Plot No. 176, Second Sector, 5th District, off El-Teseen st
+address_2: Beside Dusit Thani Hotel, Giza Systems Building
+city: Cairo
+county: Egypt
+postal_code: "11477"
+country_code: EG
+address_notes: In front of Copper Melt, Ground floor inside Giza systems building.
+phone: "+201092111434"
+email: fablab@gizasystems.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links: []
+lat: 30.025623
+lng: 31.4594529
+id: fablabnewcairo
+name: Fab Lab in New Cairo (FLiNC)
+kind_name: fab_lab
+parent_id: 13
+blurb: Fab Lab New Cairo is an open-maker space & fabrication laboratory to help all makers to turn their ideas into prototypes. It's a part of a bigger Makerspace Program run by GSEF.
+description: 'Fab Lab New Cairo is an open-maker space and fabrication laboratory to help all makers to turn their ideas into prototypes, located in 5th Settlement, New Cairo, in Giza Systems Building. It''s a part of a bigger Makerspace Program run by Giza Systems Education Foundation, which goal is to target eastern Cairo, as there''s no accessible prototyping facility for the makers who live there. '
+slug: fablabnewcairo
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/03/05/13/55/51/e9aee512-297b-48e2-b19b-d1bdce19b7be/FLINC LOGO-01.png
+header_url: http://fablabs.io.s3.amazonaws.com/2017/03/05/13/55/52/5b402053-1942-4198-be0f-755bf4a1746b/FLINC LOGO-011.png
+address_1: Plot No. 176, Second Sector, 5th District, off El-Teseen st
+address_2: Beside Dusit Thani Hotel, Giza Systems Building
+city: Cairo
+county: Egypt
+postal_code: "11477"
+country_code: EG
+address_notes: In front of Copper Melt, Ground floor inside Giza systems building.
+phone: "+201092111434"
+email: fablab@gizasystems.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links: []
+lat: 30.025623
+lng: 31.4594529

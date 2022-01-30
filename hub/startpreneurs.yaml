@@ -1,16 +1,9 @@
-title: "Startpreneurs"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: startpreneurs
 website: http://www.startpreneurs.com.ng/
 website-inactive:
 twitter: startpreneurs
 facebook:
 linkedin:
-location:
-  lat: 9.081999
-  lng: 8.67527700000005
-  address: "Nigeria"
 city:
 region:
 country: Nigeria
@@ -22,3 +15,7 @@ articles:
   - "https://techpoint.africa/2016/09/30/nigerian-tech-ecosystem-everything-you-need-to-know/"
   - "https://ventureburn.com/2018/06/heres-need-know-nigerias-tech-startup-ecosystem/"
 description: "Startpreneurs began operation in January, 2016 and was legally registered in December 2015 with a current staff strength of 20.  \n"
+name: "Startpreneurs"
+lat: 9.081999
+lng: 8.67527700000005
+address_line1: "Nigeria"

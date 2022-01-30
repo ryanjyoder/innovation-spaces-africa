@@ -1,16 +1,9 @@
-title: "Nairobi Garage"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: nairobi-garage
 website: https://nairobigarage.com/
 website-inactive:
 twitter: nairobigarage
 facebook:
 linkedin:
-location:
-  lat: -1.2920659
-  lng: 36.8219462
-  address: "Nairobi, Kenya"
 city: Nairobi
 region: Nairobi County
 country: Kenya
@@ -29,3 +22,7 @@ articles:
   - "https://www.biztechafrica.com/article/nairobi-garage-launches-premium-flexible-working-h/15285/"
   - "https://www.techinafrica.com/nairobi-garage-and-metta-partner-to-dominate-the-innovation-space-in-kenya/"
   - "https://www.dw.com/en/the-future-of-work-how-have-our-workplaces-changed/a-60356512"
+name: "Nairobi Garage"
+lat: -1.2920659
+lng: 36.8219462
+address_line1: "Nairobi, Kenya"

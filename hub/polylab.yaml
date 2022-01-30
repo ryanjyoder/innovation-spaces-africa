@@ -13,8 +13,6 @@ city: Thiès
 county: Sénégal
 postal_code: "22000"
 country_code: SN
-latitude: 14.7910052
-longitude: -16.9358604
 address_notes: ""
 phone: "+221775389880"
 email: igueye@ept.sn
@@ -32,3 +30,73 @@ links:
     url: http://www.fablab-ept.net
   - id: 5644
     url: http://www.ept.sn
+lat: 14.7910052
+lng: -16.9358604
+id: polylab
+name: Polylab
+kind_name: fab_lab
+parent_id: 16
+blurb: The Fablab Polylab is an open Faclab in Thies Polytechnic School (Senegal). It is an area of learning, expression and sharing open to the community.
+description: ""
+slug: polylab
+avatar_url: http://fablabs.io.s3.amazonaws.com/2018/04/12/11/32/13/c2a039a5-3707-475d-8d2b-888efc9fd375/logoPolylab.jpg
+header_url: http://fablabs.io.s3.amazonaws.com/2018/11/02/10/06/36/34c22436-3e3c-4b9a-bd9b-f2f58e1e31ae/CoverPolylab.png
+address_1: VCN, Route de la Base
+address_2: Ecole Polytehcnique de Thiès
+city: Thiès
+county: Sénégal
+postal_code: "22000"
+country_code: SN
+address_notes: ""
+phone: "+221775389880"
+email: igueye@ept.sn
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links:
+  - id: 5643
+    url: http://www.polylab-ept.net
+  - id: 5642
+    url: http://www.fablab-ept.net
+  - id: 5644
+    url: http://www.ept.sn
+lat: 14.7910052
+lng: -16.9358604
+id: polylab
+name: Polylab
+kind_name: fab_lab
+parent_id: 16
+blurb: The Fablab Polylab is an open Faclab in Thies Polytechnic School (Senegal). It is an area of learning, expression and sharing open to the community.
+description: ""
+slug: polylab
+avatar_url: http://fablabs.io.s3.amazonaws.com/2018/04/12/11/32/13/c2a039a5-3707-475d-8d2b-888efc9fd375/logoPolylab.jpg
+header_url: http://fablabs.io.s3.amazonaws.com/2018/11/02/10/06/36/34c22436-3e3c-4b9a-bd9b-f2f58e1e31ae/CoverPolylab.png
+address_1: VCN, Route de la Base
+address_2: Ecole Polytehcnique de Thiès
+city: Thiès
+county: Sénégal
+postal_code: "22000"
+country_code: SN
+address_notes: ""
+phone: "+221775389880"
+email: igueye@ept.sn
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links:
+  - id: 5643
+    url: http://www.polylab-ept.net
+  - id: 5642
+    url: http://www.fablab-ept.net
+  - id: 5644
+    url: http://www.ept.sn
+lat: 14.7910052
+lng: -16.9358604

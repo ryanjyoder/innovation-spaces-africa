@@ -13,8 +13,6 @@ city: بنغازي
 county: ""
 postal_code: ""
 country_code: LY
-latitude: 32.0793436
-longitude: 20.0710968
 address_notes: ""
 phone: "00218925562440"
 email: info@fablablibya.org
@@ -28,3 +26,65 @@ links:
     url: https://www.facebook.com/fablablibya/
   - id: 5937
     url: https://fablablibya.org/
+lat: 32.0793436
+lng: 20.0710968
+id: fablablibya
+name: FabLab Libya
+kind_name: fab_lab
+parent_id: null
+blurb: ""
+description: ""
+slug: fablablibya
+avatar_url: http://fablabs.io.s3.amazonaws.com/2018/08/13/10/57/13/6ed20c6c-1c26-40df-8fcd-a1d57d996652/fablab libya logo3.jpg
+header_url: null
+address_1: بنغازي
+address_2: ""
+city: بنغازي
+county: ""
+postal_code: ""
+country_code: LY
+address_notes: ""
+phone: "00218925562440"
+email: info@fablablibya.org
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+activity_status: active
+links:
+  - id: 5086
+    url: https://www.facebook.com/fablablibya/
+  - id: 5937
+    url: https://fablablibya.org/
+lat: 32.0793436
+lng: 20.0710968
+id: fablablibya
+name: FabLab Libya
+kind_name: fab_lab
+parent_id: null
+blurb: ""
+description: ""
+slug: fablablibya
+avatar_url: http://fablabs.io.s3.amazonaws.com/2018/08/13/10/57/13/6ed20c6c-1c26-40df-8fcd-a1d57d996652/fablab libya logo3.jpg
+header_url: null
+address_1: بنغازي
+address_2: ""
+city: بنغازي
+county: ""
+postal_code: ""
+country_code: LY
+address_notes: ""
+phone: "00218925562440"
+email: info@fablablibya.org
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+activity_status: active
+links:
+  - id: 5086
+    url: https://www.facebook.com/fablablibya/
+  - id: 5937
+    url: https://fablablibya.org/
+lat: 32.0793436
+lng: 20.0710968

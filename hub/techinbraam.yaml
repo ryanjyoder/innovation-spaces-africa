@@ -1,16 +1,9 @@
-title: "TechinBraam"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: techinbraam
 website: http://techinbraam.co.za
 website-inactive:
 twitter:
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city: Johannesburg
 region:
 country: South Africa
@@ -22,3 +15,7 @@ articles:
   - "https://www.ee.co.za/article/conversation-prof-barry-dwolatzky-dedication-passion-funding-lacking.html"
   - "https://ventureburn.com/2013/06/the-most-comprehensive-guide-to-the-sa-startup-landscape-ever-resource/"
 description: ""
+name: "TechinBraam"
+lat:
+lng:
+address_line1: ""

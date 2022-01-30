@@ -1,16 +1,9 @@
-title: "EtriLabs"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: etrilabs
 website: http://www.etrilabs.com/
 website-inactive:
 twitter: EtriLabs
 facebook: https://www.facebook.com/etrilabscotonou/
 linkedin:
-location:
-  lat: 6.3628451
-  lng: 2.42312849999996
-  address: "Rue 403, Cotonou, Benin"
 city: Cotonou
 region: Littoral Department
 country: Benin
@@ -22,3 +15,7 @@ articles:
   - "https://ictupdate.cta.int/en/article/insights-from-benin-s-etrilabs-sid06cb50360-7e47-4d92-8496-71ca88d654bd"
   - "https://blogs.worldbank.org/psd/why-providing-pre-seed-and-seed-capital-essential-step-bringing-west-africa-and-sahel-s"
 description: "EtriLabs is the first and only technology hub in Cotonou (Benin). It offers co-working, start-up incubation, training and outsourcing services. With a particular focus on economic development, EtriLabs helps NGOs, businesses and government use technology to achieve their goals. Local developers and entrepreneurs gravitate around the hub for resources and opportunities. \n"
+name: "EtriLabs"
+lat: 6.3628451
+lng: 2.42312849999996
+address_line1: "Rue 403, Cotonou, Benin"

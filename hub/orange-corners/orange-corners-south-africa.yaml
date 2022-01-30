@@ -1,24 +1,20 @@
-title: "Orange Corners South Africa"
-date: 2022-01-26T15:35:07-04:00
-draft: true
 id: orange-corners-south-africa
 website: https://www.orangecorners.com/country/south-africa/
-website-inactive: 
+website-inactive:
 twitter: OrangeCorners"
 facebook: https://www.facebook.com/OrangeCornersHQ
 linkedin:
 instagram: https://www.instagram.com/orange_corners
-location:
-  lat: 
-  lng:
-  address: "20 Kruger Street"
-  address_notes: "4th Floor, Mainchange Building"
 city: Johannesburg
 region:
 country: South Africa
-email: 
+email:
 articles:
   - "https://www.zawya.com/mena/en/press-releases/story/Orange_Corners_South_Africa_and_AstraZeneca_South_Africa_join_forces_in_a_new_partnership_to_bolster_support_for_young_entrepreneurs-AFPR2501202243980/"
 description: |
-    Orange Corners is managed by the Netherlands Enterprise Agency at the request of the Dutch Ministry of Foreign Affairs. Each Orange Corner is initiated by a local Dutch Embassy and in close corporation with local partners. Orange Corners aims to increase job prospects for youth, through building ecosystems for young entrepreneurship and youth employment. The scope is youth between the ages of 18 to 35 in Sub Sahara, Africa and the Middle East.
-    Orange Corners South Africa is an initiative of the Dutch Embassy in Pretoria, with special thanks to implementing partner Signature Support.
+  Orange Corners is managed by the Netherlands Enterprise Agency at the request of the Dutch Ministry of Foreign Affairs. Each Orange Corner is initiated by a local Dutch Embassy and in close corporation with local partners. Orange Corners aims to increase job prospects for youth, through building ecosystems for young entrepreneurship and youth employment. The scope is youth between the ages of 18 to 35 in Sub Sahara, Africa and the Middle East.
+  Orange Corners South Africa is an initiative of the Dutch Embassy in Pretoria, with special thanks to implementing partner Signature Support.
+name: "Orange Corners South Africa"
+lat:
+lng:
+address_line1: "20 Kruger Street"

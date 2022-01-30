@@ -13,8 +13,6 @@ city: ""
 county: ""
 postal_code: "1904"
 country_code: DJ
-latitude: 11.5391458
-longitude: 43.114056
 address_notes: ""
 phone: "0025377743872"
 email: creativespacedjibouti@hotmail.com
@@ -37,3 +35,83 @@ links:
     url: https://www.iom.int/news/iom-djiboutis-first-fab-lab-offers-young-migrants-tech-and-support
   - id: 12563
     url: https://www.facebook.com/fablabdjibouti
+lat: 11.5391458
+lng: 43.114056
+id: creativespacedjibouti
+name: FabLab Espace Créatif
+kind_name: fab_lab
+parent_id: null
+blurb: Creative Spaces is the result of an innovative partnership between IOM, the University of Djibouti and the Swiss-based humanitarian organization, Terre des Hommes.
+description: "The Fablab is located in the University of Djibouti and operates an open-door policy to offer digital, technology, and entrepreneurial skills training to university students, local community and young returnee, or potential migrants who have had varying access to higher education and training opportunities. \r\nThe Fablab aims to furnish an open space for collaboration and to provide users with the basic knowledge and assistance necessary for the creation of personal and participatory projects, thus to empower young people and their communities to engage more effectively in dialogue and action by leveraging digital tools and networks. \r\nThe dual role of the Creative Space, both educational and humanitarian promotes protection, employability, research, creation, and achievement.\r\n\r\n"
+slug: creativespacedjibouti
+avatar_url: http://fablabs.io.s3.amazonaws.com/2020/06/27/19/23/49/6553482b-35fb-4da6-9a42-df97bdf12b42/logo creative space white version.png
+header_url: http://fablabs.io.s3.amazonaws.com/2020/06/27/19/54/37/7bc1a6f7-a7ac-4c53-9ef1-e7bb780cc695/learn - make - share(2).png
+address_1: 'Université de Djibouti - Campus de Balbala '
+address_2: ""
+city: ""
+county: ""
+postal_code: "1904"
+country_code: DJ
+address_notes: ""
+phone: "0025377743872"
+email: creativespacedjibouti@hotmail.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - laser
+  - vinyl_cutting
+activity_status: active
+links:
+  - id: 12575
+    url: https://lanation.dj/zoom-sur-le-projet-fab-lab/
+  - id: 12574
+    url: https://lanation.dj/les-ministres-de-la-communication-et-de-lenseignement-superieur-visitent-le-fablab-de-la-faculte-dingenierie/
+  - id: 12573
+    url: https://www.africanews.com/2020/04/21/coronavirus-djibouti-digital-space-for-migrants-supplies-3d-printed-face-shields-to-hospitals-treating-covid-19-cases-in-djibouti/
+  - id: 12572
+    url: https://www.africanews.com/2020/04/21/coronavirus-djibouti-digital-space-for-migrants-supplies-3d-printed-face-shields-to-hospitals-treating-covid-19-cases-in-djibouti/
+  - id: 12571
+    url: https://www.iom.int/news/iom-djiboutis-first-fab-lab-offers-young-migrants-tech-and-support
+  - id: 12563
+    url: https://www.facebook.com/fablabdjibouti
+lat: 11.5391458
+lng: 43.114056
+id: creativespacedjibouti
+name: FabLab Espace Créatif
+kind_name: fab_lab
+parent_id: null
+blurb: Creative Spaces is the result of an innovative partnership between IOM, the University of Djibouti and the Swiss-based humanitarian organization, Terre des Hommes.
+description: "The Fablab is located in the University of Djibouti and operates an open-door policy to offer digital, technology, and entrepreneurial skills training to university students, local community and young returnee, or potential migrants who have had varying access to higher education and training opportunities. \r\nThe Fablab aims to furnish an open space for collaboration and to provide users with the basic knowledge and assistance necessary for the creation of personal and participatory projects, thus to empower young people and their communities to engage more effectively in dialogue and action by leveraging digital tools and networks. \r\nThe dual role of the Creative Space, both educational and humanitarian promotes protection, employability, research, creation, and achievement.\r\n\r\n"
+slug: creativespacedjibouti
+avatar_url: http://fablabs.io.s3.amazonaws.com/2020/06/27/19/23/49/6553482b-35fb-4da6-9a42-df97bdf12b42/logo creative space white version.png
+header_url: http://fablabs.io.s3.amazonaws.com/2020/06/27/19/54/37/7bc1a6f7-a7ac-4c53-9ef1-e7bb780cc695/learn - make - share(2).png
+address_1: 'Université de Djibouti - Campus de Balbala '
+address_2: ""
+city: ""
+county: ""
+postal_code: "1904"
+country_code: DJ
+address_notes: ""
+phone: "0025377743872"
+email: creativespacedjibouti@hotmail.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - laser
+  - vinyl_cutting
+activity_status: active
+links:
+  - id: 12575
+    url: https://lanation.dj/zoom-sur-le-projet-fab-lab/
+  - id: 12574
+    url: https://lanation.dj/les-ministres-de-la-communication-et-de-lenseignement-superieur-visitent-le-fablab-de-la-faculte-dingenierie/
+  - id: 12573
+    url: https://www.africanews.com/2020/04/21/coronavirus-djibouti-digital-space-for-migrants-supplies-3d-printed-face-shields-to-hospitals-treating-covid-19-cases-in-djibouti/
+  - id: 12572
+    url: https://www.africanews.com/2020/04/21/coronavirus-djibouti-digital-space-for-migrants-supplies-3d-printed-face-shields-to-hospitals-treating-covid-19-cases-in-djibouti/
+  - id: 12571
+    url: https://www.iom.int/news/iom-djiboutis-first-fab-lab-offers-young-migrants-tech-and-support
+  - id: 12563
+    url: https://www.facebook.com/fablabdjibouti
+lat: 11.5391458
+lng: 43.114056

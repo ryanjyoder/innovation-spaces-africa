@@ -1,16 +1,9 @@
-title: "Jiguene Tech Hub"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: jiguene-tech-hub
 website: http://jjiguenetech.com/
 website-inactive: x
 twitter:
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city: Dakar
 region:
 country: Senegal
@@ -22,9 +15,13 @@ articles:
   - "https://www.afrikatech.com/start-business/jjiguene-tech-hub-promotes-technology-for-women-and-for-women/"
   - "https://face2faceafrica.com/article/jjiguene-tech-hub-senegal"
   - "https://www.latinpost.com/articles/18776/20140807/group-of-senegalese-women-found-tech-hub-for-women.htm"
-description: |2-
+description: |-
   Just an example.
 
   Copy and pasted from : http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=7007
 
   Established by women in 2012, JJiguene Tech Senegal is the first woman's tech Hub in Senegal. It has the objective of encouraging, inspiring and training more women in the tech ecosystem in Senegal through networking, training, mentoring and sharing knowledge. It also aims to increase the number of women in technology and entrepreneurship by encouraging more girls to take STEM (Science, Technology, Engineering and Maths) subjects in school and university. Pre-incubation space is provided, with an emphasis on businesses with high social potential impact. JJiguene Tech Senegal organises monthly meetings, school and university outreach programs, a mentorship program and ICT and entrepreneurial skills training for girls between the ages of 13 - 25.
+name: "Jiguene Tech Hub"
+lat:
+lng:
+address_line1: ""

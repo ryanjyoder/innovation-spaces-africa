@@ -1,16 +1,9 @@
-title: "TECHNOPARK"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: technopark
 website: https://www.technopark.ma/s/
 website-inactive: x
 twitter: technopark
 facebook: https://web.facebook.com/pages/Technopark
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city:
 region:
 country: Morocco
@@ -20,3 +13,7 @@ articles:
   - "https://businesschief.eu/leadership-and-strategy/technopark-driving-innovation-morocco-through-ecosystem-entrepreneurial-growth"
   - "https://www.techinafrica.com/moroccos-agadir-technopark-for-startups-is-almost-completion/"
 description: ""
+name: "TECHNOPARK"
+lat:
+lng:
+address_line1: ""

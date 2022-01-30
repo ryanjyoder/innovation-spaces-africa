@@ -13,8 +13,6 @@ city: Nairobi
 county: Kenya
 postal_code: "00200"
 country_code: KE
-latitude: -1.3020349
-longitude: 36.8379325
 address_notes: Inside Avon center next to barclays bank
 phone: '(0)790.406.265             '
 email: iinfo@gearbox.co.ke
@@ -35,3 +33,79 @@ links:
     url: https://twitter.com/gearboxKE
   - id: 5706
     url: https://www.instagram.com/gearbox_ke/
+lat: -1.3020349
+lng: 36.8379325
+id: fablabgearbox
+name: Fablab Gearbox
+kind_name: fab_lab
+parent_id: 47
+blurb: Fablab Gearbox offers people access to prototyping equipment and Mentorship for members that want to build products or are in the research and development stage of their product development life cycle
+description: At Fablab Gearbox People can access membership and be trained on how to use different digital fabrication techniques to develop their prototypes. Being A member helps the people to plug into a community that is made up of a mix of industry professionals, artists, designers, inventors, entrepreneurs, engineers, makers, fabbers, potential partners, and creatives within an environment deliberately designed for designing and building. These individuals and businesses helps them realize their innovation / target without you having to worry. For Entrepreneurs, Gearbox offers co-working space and office space that they can sublet and have quick access to the tools needed for building their products. Finally for the fresh graduates and university students there are internship opportunities and trainning offered to build their skills and capacity to design and build products.
+slug: fablabgearbox
+avatar_url: http://fablabs.io.s3.amazonaws.com/2018/05/02/07/48/38/275adac5-7045-4efe-9b6d-5000fb169fa0/Fab_Lab_logo.svg.png
+header_url: http://fablabs.io.s3.amazonaws.com/2018/05/02/07/48/39/0f34e406-2e74-46f2-91f2-ea1043834a9c/gbox.JPG
+address_1: '   P.O Box 58275-0200'
+address_2: ""
+city: Nairobi
+county: Kenya
+postal_code: "00200"
+country_code: KE
+address_notes: Inside Avon center next to barclays bank
+phone: '(0)790.406.265             '
+email: iinfo@gearbox.co.ke
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links:
+  - id: 5703
+    url: http://www.gearbox.co.ke/
+  - id: 5704
+    url: https://www.facebook.com/gearboxKE/
+  - id: 5705
+    url: https://twitter.com/gearboxKE
+  - id: 5706
+    url: https://www.instagram.com/gearbox_ke/
+lat: -1.3020349
+lng: 36.8379325
+id: fablabgearbox
+name: Fablab Gearbox
+kind_name: fab_lab
+parent_id: 47
+blurb: Fablab Gearbox offers people access to prototyping equipment and Mentorship for members that want to build products or are in the research and development stage of their product development life cycle
+description: At Fablab Gearbox People can access membership and be trained on how to use different digital fabrication techniques to develop their prototypes. Being A member helps the people to plug into a community that is made up of a mix of industry professionals, artists, designers, inventors, entrepreneurs, engineers, makers, fabbers, potential partners, and creatives within an environment deliberately designed for designing and building. These individuals and businesses helps them realize their innovation / target without you having to worry. For Entrepreneurs, Gearbox offers co-working space and office space that they can sublet and have quick access to the tools needed for building their products. Finally for the fresh graduates and university students there are internship opportunities and trainning offered to build their skills and capacity to design and build products.
+slug: fablabgearbox
+avatar_url: http://fablabs.io.s3.amazonaws.com/2018/05/02/07/48/38/275adac5-7045-4efe-9b6d-5000fb169fa0/Fab_Lab_logo.svg.png
+header_url: http://fablabs.io.s3.amazonaws.com/2018/05/02/07/48/39/0f34e406-2e74-46f2-91f2-ea1043834a9c/gbox.JPG
+address_1: '   P.O Box 58275-0200'
+address_2: ""
+city: Nairobi
+county: Kenya
+postal_code: "00200"
+country_code: KE
+address_notes: Inside Avon center next to barclays bank
+phone: '(0)790.406.265             '
+email: iinfo@gearbox.co.ke
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links:
+  - id: 5703
+    url: http://www.gearbox.co.ke/
+  - id: 5704
+    url: https://www.facebook.com/gearboxKE/
+  - id: 5705
+    url: https://twitter.com/gearboxKE
+  - id: 5706
+    url: https://www.instagram.com/gearbox_ke/
+lat: -1.3020349
+lng: 36.8379325

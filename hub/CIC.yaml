@@ -13,8 +13,6 @@ city: Aba
 county: Abia
 postal_code: "450211"
 country_code: NG
-latitude: 5.11839380028521
-longitude: 7.36911204127807
 address_notes: 7 Factory Road by Eziukwu Road, Aba
 phone: 0806 890 2331
 email: clintonell001@yahoo.com
@@ -31,3 +29,71 @@ links:
     url: https://facebook.com/Clintonel.Innovation.Centre
   - id: 7335
     url: https://cic.clintonel.biz/
+lat: 5.11839380028521
+lng: 7.36911204127807
+id: CIC
+name: Clintonel Innovation Centre (CIC)
+kind_name: fab_lab
+parent_id: null
+blurb: Clintonel Innovation Centre (CIC) provides training, mentoring and equipment for young people to create engineering innovations, build indigenous products and startup new businesses.
+description: Clintonel Innovation Centre (CIC) is a solar powered learning and training environment which provides training, mentoring and equipment for people to create engineering innovations, build indigenous products and startup new businesses.
+slug: CIC
+avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/16/16/03/35/7803ce2d-affb-410d-9d98-841b50432c38/CIC logo main Cropped.jpg
+header_url: http://fablabs.io.s3.amazonaws.com/2019/07/16/16/03/35/c6898393-ed25-4244-8155-cab1f3a54537/u1.jpg
+address_1: 7 Factory Rd
+address_2: ""
+city: Aba
+county: Abia
+postal_code: "450211"
+country_code: NG
+address_notes: 7 Factory Road by Eziukwu Road, Aba
+phone: 0806 890 2331
+email: clintonell001@yahoo.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - precision_milling
+activity_status: active
+links:
+  - id: 7337
+    url: https://twitter.com/CIC_Makerspace
+  - id: 7336
+    url: https://facebook.com/Clintonel.Innovation.Centre
+  - id: 7335
+    url: https://cic.clintonel.biz/
+lat: 5.11839380028521
+lng: 7.36911204127807
+id: CIC
+name: Clintonel Innovation Centre (CIC)
+kind_name: fab_lab
+parent_id: null
+blurb: Clintonel Innovation Centre (CIC) provides training, mentoring and equipment for young people to create engineering innovations, build indigenous products and startup new businesses.
+description: Clintonel Innovation Centre (CIC) is a solar powered learning and training environment which provides training, mentoring and equipment for people to create engineering innovations, build indigenous products and startup new businesses.
+slug: CIC
+avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/16/16/03/35/7803ce2d-affb-410d-9d98-841b50432c38/CIC logo main Cropped.jpg
+header_url: http://fablabs.io.s3.amazonaws.com/2019/07/16/16/03/35/c6898393-ed25-4244-8155-cab1f3a54537/u1.jpg
+address_1: 7 Factory Rd
+address_2: ""
+city: Aba
+county: Abia
+postal_code: "450211"
+country_code: NG
+address_notes: 7 Factory Road by Eziukwu Road, Aba
+phone: 0806 890 2331
+email: clintonell001@yahoo.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - precision_milling
+activity_status: active
+links:
+  - id: 7337
+    url: https://twitter.com/CIC_Makerspace
+  - id: 7336
+    url: https://facebook.com/Clintonel.Innovation.Centre
+  - id: 7335
+    url: https://cic.clintonel.biz/
+lat: 5.11839380028521
+lng: 7.36911204127807

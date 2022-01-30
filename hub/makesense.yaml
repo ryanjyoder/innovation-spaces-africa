@@ -1,16 +1,9 @@
-title: "makesense"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: makesense
 website: http://africa.makesense.org
 website-inactive:
 twitter: africamakesense
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: "Rue Mermoz"
 city: Dakar
 region:
 country: Senegal
@@ -18,3 +11,7 @@ email:
 articles:
   - "https://vc4a.com/makesense/"
 description: ""
+name: "makesense"
+lat:
+lng:
+address_line1: "Rue Mermoz"

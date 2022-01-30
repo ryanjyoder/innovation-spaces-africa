@@ -13,8 +13,6 @@ city: منقباد
 county: ASSIUT
 postal_code: ""
 country_code: EG
-latitude: 27.1857515
-longitude: 31.0727519
 address_notes: ""
 phone: ""
 email: ""
@@ -27,3 +25,63 @@ capabilities:
   - vinyl_cutting
 activity_status: null
 links: []
+lat: 27.1857515
+lng: 31.0727519
+id: assiutstemfablab
+name: ASSIUT STEM FAB LAB
+kind_name: fab_lab
+parent_id: 13
+blurb: ""
+description: ""
+slug: assiutstemfablab
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/31/56/527f1d95-9cf0-4b03-b39e-04a38339b176/ASSIUT STEM FAB LAB.jpg
+header_url: null
+address_1: منقباد
+address_2: ""
+city: منقباد
+county: ASSIUT
+postal_code: ""
+country_code: EG
+address_notes: ""
+phone: ""
+email: ""
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: null
+links: []
+lat: 27.1857515
+lng: 31.0727519
+id: assiutstemfablab
+name: ASSIUT STEM FAB LAB
+kind_name: fab_lab
+parent_id: 13
+blurb: ""
+description: ""
+slug: assiutstemfablab
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/31/56/527f1d95-9cf0-4b03-b39e-04a38339b176/ASSIUT STEM FAB LAB.jpg
+header_url: null
+address_1: منقباد
+address_2: ""
+city: منقباد
+county: ASSIUT
+postal_code: ""
+country_code: EG
+address_notes: ""
+phone: ""
+email: ""
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: null
+links: []
+lat: 27.1857515
+lng: 31.0727519

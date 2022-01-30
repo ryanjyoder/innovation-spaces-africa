@@ -1,16 +1,9 @@
-title: "Botswana Innovation Hub"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: botswana-innovation-hub
 website: http://www.bih.co.bw/
 website-inactive:
 twitter: YourBIH
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city: Gaborone
 region:
 country: Botswana
@@ -27,3 +20,7 @@ articles:
   - "https://www.constructafrica.com/news/construction-botswana-innovation-hub-nearing-completion"
   - "https://www.dezeen.com/2020/07/21/botswana-innovation-hub-shop-architects-gaborone/"
 description: ""
+name: "Botswana Innovation Hub"
+lat:
+lng:
+address_line1: ""

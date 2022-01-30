@@ -1,16 +1,9 @@
-title: "dLab"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: dlab
 website: http://www.dlab.or.tz/
 website-inactive:
 twitter: dlabtz
 facebook:
 linkedin:
-location:
-  lat: -6.8234286
-  lng: 39.2680669
-  address: "Tanzania Breweries, Msimbazi Street, Dar es Salaam, Tanzania"
 city: Dar es Salaam
 region:
 country: Tanzania
@@ -22,3 +15,7 @@ articles:
   - "https://mabumbe.com/cmp/tanzania-data-lab-dlab/"
   - "https://blogs.worldbank.org/opendata/meet-four-women-leading-drive-open-data-africa"
 description: "dLab began operations in March, 2016 and was legally registered in the same month with a current staff strength of 35.  \n"
+name: "dLab"
+lat: -6.8234286
+lng: 39.2680669
+address_line1: "Tanzania Breweries, Msimbazi Street, Dar es Salaam, Tanzania"

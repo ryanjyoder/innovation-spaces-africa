@@ -1,16 +1,9 @@
-title: "Olotu Square (Lagos)"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: olotu-square-lagos
 website: https://olotusquare.co/
 website-inactive:
 twitter: olotusquare
 facebook:
 linkedin:
-location:
-  lat: 6.6623005
-  lng: 3.2833564
-  address: "Nigeria Newspapers, Lagos, Nigeria"
 city: Lagos
 region: Lagos
 country: Nigeria
@@ -20,3 +13,7 @@ articles:
   - "https://techpoint.africa/2017/11/09/techpoint-tours-2017-day-4/"
 description: |
   Olotu Square
+name: "Olotu Square (Lagos)"
+lat: 6.6623005
+lng: 3.2833564
+address_line1: "Nigeria Newspapers, Lagos, Nigeria"

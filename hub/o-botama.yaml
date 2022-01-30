@@ -1,16 +1,9 @@
-title: "OBotama"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: o-botama
 website: http://www.obotama.com
 website-inactive:
 twitter: OBotama_aic
 facebook: https://www.facebook.com/OBotama2018/
 linkedin:
-location:
-  lat:
-  lng:
-  address: "Biyem-Assi"
 city: Yaounde
 region: Center
 country: Cameroon
@@ -22,3 +15,7 @@ articles:
   - "https://oceans-news.com/cameroun-obotama-face-au-covid-19-benjamin-ngongang-repond-a-oceans-news/"
   - "https://www.auletch.com/le-club-awale-et-obotama-organise-son-1er-tournoi-de-songo-a-yaounde/"
 description: ""
+name: "OBotama"
+lat:
+lng:
+address_line1: "Biyem-Assi"

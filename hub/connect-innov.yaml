@@ -1,16 +1,9 @@
-title: "CONNECT�INNOV"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: connect-innov
 website: https://connect-innov.com/
 website-inactive:
 twitter:
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: "Rue Lac Victoria"
 city: Tunis 1053
 region:
 country: Tunsia
@@ -21,3 +14,7 @@ articles:
   - "https://upsat.tn/en/events-2/collaboration-with-connectinnov/"
   - "https://upsat.tn/en/events-2/collaboration-with-connectinnov/"
 description: ""
+name: "CONNECT�INNOV"
+lat:
+lng:
+address_line1: "Rue Lac Victoria"

@@ -1,16 +1,9 @@
-title: "OCP Entrepreneurship Network"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: ocp-entrepreneurship-network
 website: http://www.ocpentrepreneurship.org/
 website-inactive: x
 twitter:
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city: Casablanca
 region:
 country: Morocco
@@ -25,3 +18,7 @@ articles:
   - "https://www.afrikatech.com/start-business/africa-focus-on-the-startup-morocco-association-springboard-to-student-entrepreneurship/"
   - "https://ssir.org/articles/entry/whats_holding_back_entrepreneurs_in_the_middle_east_and_north_africa"
 description: ""
+name: "OCP Entrepreneurship Network"
+lat:
+lng:
+address_line1: ""

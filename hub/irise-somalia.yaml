@@ -1,16 +1,9 @@
-title: "iRise Somalia"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: irise-somalia
 website: https://irisehub.so/en/
 website-inactive:
 twitter: iRiseHub
 facebook:
 linkedin:
-location:
-  lat: 5.152149
-  lng: 46.199616
-  address: "Somalia"
 city:
 region:
 country: Somalia
@@ -23,3 +16,7 @@ articles:
   - "https://www.so.undp.org/content/somalia/en/home/presscenter/articles/2019/mogadishu-tech-summit-closes-with-attendance-of-thousands-and-mi.html"
 description: |
   iRise Somalia
+name: "iRise Somalia"
+lat: 5.152149
+lng: 46.199616
+address_line1: "Somalia"

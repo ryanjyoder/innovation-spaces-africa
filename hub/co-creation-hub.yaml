@@ -1,16 +1,9 @@
-title: "Co-creation Hub"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: co-creation-hub
 website: www.cchubnigeria.com
 website-inactive:
 twitter: Cc_HUB
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city: Lagos
 region:
 country: Nigeria
@@ -25,3 +18,7 @@ articles:
   - "https://www.irishtimes.com/news/world/africa/forging-nigeria-s-future-the-young-entrepreneurs-of-yabacon-valley-1.4771332"
   - "https://www.afdb.org/en/news-and-events/international-education-day-kenya-cameroon-students-find-root-stem-success-nigerian-institute-48577"
 description: ""
+name: "Co-creation Hub"
+lat:
+lng:
+address_line1: ""

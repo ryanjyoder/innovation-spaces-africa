@@ -1,16 +1,9 @@
-title: "ThoughtWorks"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: thoughtworks
 website: http://info.thoughtworks.com/
 website-inactive:
 twitter: thoughtworks
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city: Johannesburg
 region:
 country: South Africa
@@ -23,3 +16,7 @@ articles:
   - "https://www.thehindu.com/business/thoughtworks-raises-720mn-from-investors/article33582243.ece"
   - "https://allafrica.com/stories/201508311167.html"
 description: ""
+name: "ThoughtWorks"
+lat:
+lng:
+address_line1: ""

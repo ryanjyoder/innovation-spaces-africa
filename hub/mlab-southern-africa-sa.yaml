@@ -1,16 +1,9 @@
-title: "MLab Southern Africa (SA)"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: mlab-southern-africa-sa
 website: https://www.mlab.co.za/
 website-inactive:
 twitter: mlabsa
 facebook:
 linkedin:
-location:
-  lat: -25.7491488
-  lng: 28.2674629000001
-  address: "The Enterprise Building, Allan Cormack St, Pretoria 0020, South Africa"
 city: Pretoria
 region: Gauteng
 country: South Africa
@@ -23,3 +16,7 @@ articles:
   - "https://ventureburn.com/2019/02/comprehensive-guide-sa-startup-landscape/"
   - "https://mg.co.za/article/2017-05-19-00-science-technology-and-innovation-transforming-south-africa/"
 description: "mLab Southern Africa (SA) is a mobile solutions laboratory and startup accelerator that provides entrepreneurs and mobile developers with the support they need to develop innovative mobile applications and services.  \n"
+name: "MLab Southern Africa (SA)"
+lat: -25.7491488
+lng: 28.2674629000001
+address_line1: "The Enterprise Building, Allan Cormack St, Pretoria 0020, South Africa"

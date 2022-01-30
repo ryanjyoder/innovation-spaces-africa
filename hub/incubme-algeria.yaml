@@ -1,16 +1,9 @@
-title: "Incubme Algeria"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: incubme-algeria
 website: www.incubme.com
 website-inactive:
 twitter:
 facebook: https://www.facebook.com/IncubMeDz/
 linkedin:
-location:
-  lat: 28.033886
-  lng: 1.659626
-  address: "Algeria"
 city:
 region:
 country: Algeria
@@ -24,3 +17,7 @@ articles:
   - "https://www.indjazat.com/programme-africa-by-incubme-il-fera-de-lalgerie-un-pole-africain-de-linnovation/"
 description: |
   Incubme is an incubator and accelerator  that are focused on skill acquisition, job creation and innovation.
+name: "Incubme Algeria"
+lat: 28.033886
+lng: 1.659626
+address_line1: "Algeria"

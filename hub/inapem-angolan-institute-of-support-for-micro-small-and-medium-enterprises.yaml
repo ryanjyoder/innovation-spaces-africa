@@ -1,16 +1,9 @@
-title: "INAPEM--Angolan Institute of Support for Micro, Small and Medium Enterprises "
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: inapem-angolan-institute-of-support-for-micro-small-and-medium-enterprises
 website: http://www.portal.inapem.gov.ao/
 website-inactive:
 twitter:
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city: Luanda
 region:
 country: Angola
@@ -19,3 +12,7 @@ articles:
   - "https://www.afdb.org/en/documents/spn-angola-acquisition-hardware-and-software-implementation-inapem-information-management-system-angola"
   - "https://www.iledefrance.fr/innovup-laide-de-la-region-ile-de-france-en-faveur-de-linnovation-est-renforcee-et-simplifiee-pour"
 description: ""
+name: "INAPEM--Angolan Institute of Support for Micro, Small and Medium Enterprises "
+lat:
+lng:
+address_line1: ""

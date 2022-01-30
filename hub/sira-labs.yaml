@@ -1,16 +1,9 @@
-title: "Sira Labs"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: sira-labs
 website: https://www.sira-labs.com/
 website-inactive:
 twitter:
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: "Festival Des Glaces, Ouagadougou, Burkina Faso"
 city:
 region:
 country:
@@ -21,3 +14,7 @@ articles:
   - "https://lefaso.net/spip.php?article100228"
   - "https://eprevision.blog4ever.com/sira-labs-sante-de-lenfant-etat-des-lieux-au-burkina-faso-et-transformation-digitale"
 description: ""
+name: "Sira Labs"
+lat:
+lng:
+address_line1: "Festival Des Glaces, Ouagadougou, Burkina Faso"

@@ -1,19 +1,16 @@
-title: "Impact Hub Accra"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: hub-accra
 website: accra.impacthub.net
 website-inactive:
 twitter: impacthubaccra
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city: Accra
 region:
 country: Ghana
 email:
 articles:
 description: ""
+name: "Impact Hub Accra"
+lat:
+lng:
+address_line1: ""

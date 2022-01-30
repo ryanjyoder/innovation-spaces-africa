@@ -1,16 +1,9 @@
-title: "Ventures Platform"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: ventures-platform
 website: http://www.venturesplatform.com/
 website-inactive:
 twitter: vplatformhub
 facebook:
 linkedin:
-location:
-  lat: 9.0438014
-  lng: 7.49190239999996
-  address: "Abuja International Conference Centre, Herbert Macaulay Way, Abuja, Nigeria"
 city: Abuja
 region: Federal Capital Territory
 country: Nigeria
@@ -31,4 +24,7 @@ articles:
   - "https://techpoint.africa/2021/12/31/memorable-moments-for-african-tech/"
   - "https://www.bloomberg.com/news/articles/2021-12-31/u-s-investors-return-to-africa-aiding-startups-cap-record-year"
   - "https://african.business/2022/01/technology-information/nigerian-startup-bill-set-to-unlock-tech-potential/"
-
+name: "Ventures Platform"
+lat: 9.0438014
+lng: 7.49190239999996
+address_line1: "Abuja International Conference Centre, Herbert Macaulay Way, Abuja, Nigeria"

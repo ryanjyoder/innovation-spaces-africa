@@ -1,16 +1,9 @@
-title: "Oser Innover"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: oser-innover
 website: http://daretoinnovate.com/
 website-inactive:
 twitter: DaretoInnovate
 facebook: https://fr-fr.facebook.com/DaretoInnovate/
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city:
 region:
 country:
@@ -21,3 +14,7 @@ articles:
   - "https://www.actualites.uqam.ca/2020/concours-oser-innover"
   - "https://www.cio-online.com/actualites/lire-plaidoyer-pour-oser-innover-12927.html"
 description: ""
+name: "Oser Innover"
+lat:
+lng:
+address_line1: ""

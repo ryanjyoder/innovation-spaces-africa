@@ -1,19 +1,16 @@
-title: "The W Hub"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: the-w-hub
 website: http://www.thewhub.com/
 website-inactive: x
 twitter: thewhub
 facebook:
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city: Abidjan
 region:
 country: Cote d'Ivoire
 email:
 articles:
 description: ""
+name: "The W Hub"
+lat:
+lng:
+address_line1: ""

@@ -13,8 +13,6 @@ city: Beni Suef
 county: Beni Suef
 postal_code: ""
 country_code: EG
-latitude: 29.066135
-longitude: 31.099421
 address_notes: ""
 phone: "01100228893"
 email: hosam_ek_eg@yahoo.com
@@ -27,3 +25,63 @@ capabilities:
   - vinyl_cutting
 activity_status: active
 links: []
+lat: 29.066135
+lng: 31.099421
+id: fablabbenisuef
+name: Fab Lab Beni Suef STEM School
+kind_name: fab_lab
+parent_id: null
+blurb: The fablab stem school is start up fablab so is fab lab is new up date the fab lab
+description: The  fablab stem school is start up  fablab so is fab lab is new up date the fab lab
+slug: fablabbenisuef
+avatar_url: null
+header_url: null
+address_1: بياض العرب، بني سويف، محافظة بني سويف
+address_2: ""
+city: Beni Suef
+county: Beni Suef
+postal_code: ""
+country_code: EG
+address_notes: ""
+phone: "01100228893"
+email: hosam_ek_eg@yahoo.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links: []
+lat: 29.066135
+lng: 31.099421
+id: fablabbenisuef
+name: Fab Lab Beni Suef STEM School
+kind_name: fab_lab
+parent_id: null
+blurb: The fablab stem school is start up fablab so is fab lab is new up date the fab lab
+description: The  fablab stem school is start up  fablab so is fab lab is new up date the fab lab
+slug: fablabbenisuef
+avatar_url: null
+header_url: null
+address_1: بياض العرب، بني سويف، محافظة بني سويف
+address_2: ""
+city: Beni Suef
+county: Beni Suef
+postal_code: ""
+country_code: EG
+address_notes: ""
+phone: "01100228893"
+email: hosam_ek_eg@yahoo.com
+capabilities:
+  - three_d_printing
+  - cnc_milling
+  - circuit_production
+  - laser
+  - precision_milling
+  - vinyl_cutting
+activity_status: active
+links: []
+lat: 29.066135
+lng: 31.099421

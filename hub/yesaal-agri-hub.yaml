@@ -1,16 +1,9 @@
-title: "YESAAL AGRI HUB"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: yesaal-agri-hub
 website: http://yeesalhub.org/
 website-inactive:
 twitter:
 facebook: https://fr-fr.facebook.com/yeesalagrihub/
 linkedin:
-location:
-  lat:
-  lng:
-  address: ""
 city:
 region:
 country:
@@ -22,3 +15,7 @@ articles:
   - "https://www.journaluniversitaire.com/yeesal-agri-hub/"
   - "https://www.afrikatech.com/start-business/yeesal-agrihub-the-first-agri-techhub-at-the-service-of-agricultural-innovation-in-senegal/"
 description: ""
+name: "YESAAL AGRI HUB"
+lat:
+lng:
+address_line1: ""

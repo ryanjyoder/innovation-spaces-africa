@@ -1,16 +1,9 @@
-title: "Tentmaker"
-date: 2021-06-12T15:35:07-04:00
-draft: true
 id: tentmaker
 website: https://www.tentmakergh.com/
 website-inactive: x
 twitter: TentmakerGhana
 facebook:
 linkedin:
-location:
-  lat: 5.6004186
-  lng: -0.183411500000034
-  address: "accra, Ghana Airways Avenue, Accra, Ghana"
 city: Accra
 region: Greater Accra Region
 country: Ghana
@@ -21,3 +14,7 @@ articles:
   - "https://www.einnews.com/pr_news/491341123/john-maxwell-team-members-collaborating-to-host-a-conference-in-ghana"
   - "https://www.glitzafrica.com/zeepay-kantanka-automobile-and-more-win-2017-ghana-startup-awards/"
 description: "Tentmaker is a co-creation space  that is focused on social impact, job creation and innovation.  \n"
+name: "Tentmaker"
+lat: 5.6004186
+lng: -0.183411500000034
+address_line1: "accra, Ghana Airways Avenue, Accra, Ghana"
