@@ -1,5 +1,4 @@
 id: technipole-sup-valor
-facebook:
 linkedin:
 city:
 region:
@@ -19,7 +18,6 @@ lng:
 address_line1: "Yaound�, Cameroun"
 websiteUrl: http://www.technipole-supvalor.com
 id: technipole-sup-valor
-facebook:
 linkedin:
 city:
 region:
@@ -39,3 +37,4 @@ lng:
 address_line1: "Yaound�, Cameroun"
 websiteUrl: http://www.technipole-supvalor.com
 twitterHandle:
+facebookUrl:

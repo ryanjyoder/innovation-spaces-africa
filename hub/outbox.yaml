@@ -1,5 +1,4 @@
 id: outbox
-facebook:
 linkedin:
 city: Kampala
 region: Central Region
@@ -21,7 +20,6 @@ lng: 32.5766
 address_line1: "Soliz House, Kampala, Uganda"
 websiteUrl: http://www.outbox.co.ug/
 id: outbox
-facebook:
 linkedin:
 city: Kampala
 region: Central Region
@@ -43,3 +41,4 @@ lng: 32.5766
 address_line1: "Soliz House, Kampala, Uganda"
 websiteUrl: http://www.outbox.co.ug/
 twitterHandle: OutboxHub
+facebookUrl:

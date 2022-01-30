@@ -1,5 +1,4 @@
 id: technology-innovation-entrepreneurship-center
-facebook:
 linkedin:
 city: Cairo
 region:
@@ -19,7 +18,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.tiec.gov.eg/en-US/Pages/default.aspx
 id: technology-innovation-entrepreneurship-center
-facebook:
 linkedin:
 city: Cairo
 region:
@@ -39,3 +37,4 @@ lng:
 address_line1: ""
 websiteUrl: http://www.tiec.gov.eg/en-US/Pages/default.aspx
 twitterHandle:
+facebookUrl:

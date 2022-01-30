@@ -1,5 +1,4 @@
 id: total-startup-center
-facebook: http://facebook.com/TotalCongo
 linkedin: https://www.linkedin.com/company/incubateur-total-startup-center
 city:
 region:
@@ -13,7 +12,6 @@ lng:
 address_line1: "Avenue raymond Poincar�, 3�me �tage du b�timent Solemare"
 websiteUrl:
 id: total-startup-center
-facebook: http://facebook.com/TotalCongo
 linkedin: https://www.linkedin.com/company/incubateur-total-startup-center
 city:
 region:
@@ -27,3 +25,4 @@ lng:
 address_line1: "Avenue raymond Poincar�, 3�me �tage du b�timent Solemare"
 websiteUrl:
 twitterHandle:
+facebookUrl: http://facebook.com/TotalCongo

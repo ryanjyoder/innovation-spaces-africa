@@ -1,5 +1,4 @@
 id: donilab
-facebook: https://www.facebook.com/donilab.officiel/
 linkedin:
 city: Bamako
 region: District de Bamako
@@ -19,7 +18,6 @@ lng: -7.99483789999999
 address_line1: "SOTUBA"
 websiteUrl: http://www.donilab.net/
 id: donilab
-facebook: https://www.facebook.com/donilab.officiel/
 linkedin:
 city: Bamako
 region: District de Bamako
@@ -39,3 +37,4 @@ lng: -7.99483789999999
 address_line1: "SOTUBA"
 websiteUrl: http://www.donilab.net/
 twitterHandle:
+facebookUrl: https://www.facebook.com/donilab.officiel/

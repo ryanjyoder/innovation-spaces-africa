@@ -1,5 +1,4 @@
 id: alexandria-hackerspace
-facebook:
 linkedin:
 city: Alexandria
 region:
@@ -15,7 +14,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.alexhacker.com/
 id: alexandria-hackerspace
-facebook:
 linkedin:
 city: Alexandria
 region:
@@ -31,3 +29,4 @@ lng:
 address_line1: ""
 websiteUrl: http://www.alexhacker.com/
 twitterHandle:
+facebookUrl:

@@ -1,5 +1,4 @@
 id: impact-hub-dakar
-facebook: https://facebook.com/impacthubdakar
 linkedin: https://www.linkedin.com/company/impact-hub-dakar/
 city: Dakar
 region:
@@ -14,7 +13,6 @@ lng: -8.00288920000003
 address_line1: "Hamdallaye ACI 2000"
 websiteUrl: https://dakar.impacthub.net/
 id: impact-hub-dakar
-facebook: https://facebook.com/impacthubdakar
 linkedin: https://www.linkedin.com/company/impact-hub-dakar/
 city: Dakar
 region:
@@ -29,3 +27,4 @@ lng: -8.00288920000003
 address_line1: "Hamdallaye ACI 2000"
 websiteUrl: https://dakar.impacthub.net/
 twitterHandle: impacthubdakar
+facebookUrl: https://facebook.com/impacthubdakar

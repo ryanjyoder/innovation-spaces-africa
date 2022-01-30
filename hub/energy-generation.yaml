@@ -1,5 +1,4 @@
 id: energy-generation
-facebook: https://www.facebook.com/EnergyGeneration
 linkedin:
 city: Lomé
 region:
@@ -14,7 +13,6 @@ lng:
 address_line1: "Hédzranawoé, 2e Arrondissement"
 websiteUrl: https://www.energy-generation.org/
 id: energy-generation
-facebook: https://www.facebook.com/EnergyGeneration
 linkedin:
 city: Lomé
 region:
@@ -29,3 +27,4 @@ lng:
 address_line1: "Hédzranawoé, 2e Arrondissement"
 websiteUrl: https://www.energy-generation.org/
 twitterHandle: EnergyGenAfrica
+facebookUrl: https://www.facebook.com/EnergyGeneration

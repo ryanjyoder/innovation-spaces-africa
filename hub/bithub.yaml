@@ -1,5 +1,4 @@
 id: bithub
-facebook:
 linkedin:
 city: Nairobi
 region: Nairobi County
@@ -23,7 +22,6 @@ lng: 36.8142327
 address_line1: "Kenya Road, Nairobi, Kenya"
 websiteUrl: http://bithub.africa/
 id: bithub
-facebook:
 linkedin:
 city: Nairobi
 region: Nairobi County
@@ -47,3 +45,4 @@ lng: 36.8142327
 address_line1: "Kenya Road, Nairobi, Kenya"
 websiteUrl: http://bithub.africa/
 twitterHandle: bithubafrica
+facebookUrl:

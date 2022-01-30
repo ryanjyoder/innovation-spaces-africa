@@ -1,5 +1,4 @@
 id: angel-hub
-facebook:
 linkedin:
 city: Stellenbosch
 region:
@@ -17,7 +16,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.angelhub.co.za/
 id: angel-hub
-facebook:
 linkedin:
 city: Stellenbosch
 region:
@@ -35,3 +33,4 @@ lng:
 address_line1: ""
 websiteUrl: http://www.angelhub.co.za/
 twitterHandle:
+facebookUrl:

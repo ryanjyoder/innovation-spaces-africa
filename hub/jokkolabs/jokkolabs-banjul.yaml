@@ -1,5 +1,4 @@
 id: jokkolabs-banjul
-facebook:
 linkedin:
 city: Banjul
 region:
@@ -15,7 +14,6 @@ lng:
 address_line1: ""
 websiteUrl: http://jokkolabs.net
 id: jokkolabs-banjul
-facebook:
 linkedin:
 city: Banjul
 region:
@@ -31,3 +29,4 @@ lng:
 address_line1: ""
 websiteUrl: http://jokkolabs.net
 twitterHandle: JklBanjul
+facebookUrl:

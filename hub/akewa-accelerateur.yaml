@@ -1,5 +1,4 @@
 id: akewa-accelerateur
-facebook: https://www.facebook.com/akewacroissance/
 linkedin:
 city:
 region:
@@ -20,7 +19,6 @@ lng:
 address_line1: "Cit� Scherko/Angondje commune D&#039;Akanda ,  Libreville"
 websiteUrl: http://www.akewa.org
 id: akewa-accelerateur
-facebook: https://www.facebook.com/akewacroissance/
 linkedin:
 city:
 region:
@@ -41,3 +39,4 @@ lng:
 address_line1: "Cit� Scherko/Angondje commune D&#039;Akanda ,  Libreville"
 websiteUrl: http://www.akewa.org
 twitterHandle:
+facebookUrl: https://www.facebook.com/akewacroissance/

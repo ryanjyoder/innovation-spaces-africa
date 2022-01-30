@@ -1,5 +1,4 @@
 id: growthhub
-facebook:
 linkedin:
 city: Nairobi
 region:
@@ -16,7 +15,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.thegrowthhub.com/
 id: growthhub
-facebook:
 linkedin:
 city: Nairobi
 region:
@@ -33,3 +31,4 @@ lng:
 address_line1: ""
 websiteUrl: http://www.thegrowthhub.com/
 twitterHandle:
+facebookUrl:

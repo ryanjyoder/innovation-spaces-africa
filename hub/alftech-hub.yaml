@@ -1,5 +1,4 @@
 id: alftech-hub
-facebook: https://www.facebook.com/pg/alftechhub/services/
 linkedin:
 city: Ota
 region: Ogun State
@@ -15,7 +14,6 @@ lng: 3.23648539999999
 address_line1: "Ota, Nigeria"
 websiteUrl: http://alftechhub.com/
 id: alftech-hub
-facebook: https://www.facebook.com/pg/alftechhub/services/
 linkedin:
 city: Ota
 region: Ogun State
@@ -31,3 +29,4 @@ lng: 3.23648539999999
 address_line1: "Ota, Nigeria"
 websiteUrl: http://alftechhub.com/
 twitterHandle:
+facebookUrl: https://www.facebook.com/pg/alftechhub/services/

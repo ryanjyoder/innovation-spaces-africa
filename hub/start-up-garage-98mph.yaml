@@ -1,5 +1,4 @@
 id: start-up-garage-98mph
-facebook:
 linkedin:
 city: Capetown
 region:
@@ -13,7 +12,6 @@ lng:
 address_line1: ""
 websiteUrl: www.88mph.ac/capetown
 id: start-up-garage-98mph
-facebook:
 linkedin:
 city: Capetown
 region:
@@ -27,3 +25,4 @@ lng:
 address_line1: ""
 websiteUrl: www.88mph.ac/capetown
 twitterHandle: 88mph_Africa
+facebookUrl:

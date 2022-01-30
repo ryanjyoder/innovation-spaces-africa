@@ -1,5 +1,4 @@
 id: the-mawazo-innovation-hub-uganda
-facebook:
 linkedin:
 city: Kampala
 region: Central Region
@@ -16,7 +15,6 @@ lng: 32.5844634
 address_line1: "Uganda House, Kampala, Uganda"
 websiteUrl: https://mawazohub.com/
 id: the-mawazo-innovation-hub-uganda
-facebook:
 linkedin:
 city: Kampala
 region: Central Region
@@ -33,3 +31,4 @@ lng: 32.5844634
 address_line1: "Uganda House, Kampala, Uganda"
 websiteUrl: https://mawazohub.com/
 twitterHandle:
+facebookUrl:

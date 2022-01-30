@@ -1,5 +1,4 @@
 id: inapem-angolan-institute-of-support-for-micro-small-and-medium-enterprises
-facebook:
 linkedin:
 city: Luanda
 region:
@@ -15,7 +14,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.portal.inapem.gov.ao/
 id: inapem-angolan-institute-of-support-for-micro-small-and-medium-enterprises
-facebook:
 linkedin:
 city: Luanda
 region:
@@ -31,3 +29,4 @@ lng:
 address_line1: ""
 websiteUrl: http://www.portal.inapem.gov.ao/
 twitterHandle:
+facebookUrl:

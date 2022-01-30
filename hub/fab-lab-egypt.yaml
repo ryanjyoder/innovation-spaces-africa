@@ -1,5 +1,4 @@
 id: fab-lab-egypt
-facebook:
 linkedin:
 city: Cairo
 region:
@@ -18,7 +17,6 @@ lng:
 address_line1: ""
 websiteUrl: http://fablab-egypt.com/
 id: fab-lab-egypt
-facebook:
 linkedin:
 city: Cairo
 region:
@@ -37,3 +35,4 @@ lng:
 address_line1: ""
 websiteUrl: http://fablab-egypt.com/
 twitterHandle:
+facebookUrl:

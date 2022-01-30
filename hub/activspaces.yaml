@@ -1,5 +1,4 @@
 id: activspaces
-facebook: https://www.facebook.com/ActivSpaces
 linkedin:
 city: Buea
 region: Southwest
@@ -31,7 +30,6 @@ lng: 9.23278570000002
 address_line1: "Cefam Rd, Buea, Cameroon"
 websiteUrl: http://activspaces.com/
 id: activspaces
-facebook: https://www.facebook.com/ActivSpaces
 linkedin:
 city: Buea
 region: Southwest
@@ -63,3 +61,4 @@ lng: 9.23278570000002
 address_line1: "Cefam Rd, Buea, Cameroon"
 websiteUrl: http://activspaces.com/
 twitterHandle: activspaces
+facebookUrl: https://www.facebook.com/ActivSpaces

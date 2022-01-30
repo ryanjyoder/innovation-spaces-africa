@@ -1,5 +1,4 @@
 id: ocp-entrepreneurship-network
-facebook:
 linkedin:
 city: Casablanca
 region:
@@ -21,7 +20,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.ocpentrepreneurship.org/
 id: ocp-entrepreneurship-network
-facebook:
 linkedin:
 city: Casablanca
 region:
@@ -43,3 +41,4 @@ lng:
 address_line1: ""
 websiteUrl: http://www.ocpentrepreneurship.org/
 twitterHandle:
+facebookUrl:

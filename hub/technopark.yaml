@@ -1,5 +1,4 @@
 id: technopark
-facebook: https://web.facebook.com/pages/Technopark
 linkedin:
 city:
 region:
@@ -16,7 +15,6 @@ lng:
 address_line1: ""
 websiteUrl: https://www.technopark.ma/s/
 id: technopark
-facebook: https://web.facebook.com/pages/Technopark
 linkedin:
 city:
 region:
@@ -33,3 +31,4 @@ lng:
 address_line1: ""
 websiteUrl: https://www.technopark.ma/s/
 twitterHandle: technopark
+facebookUrl: https://web.facebook.com/pages/Technopark

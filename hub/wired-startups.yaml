@@ -1,5 +1,4 @@
 id: wired-startups
-facebook:
 linkedin:
 city:
 region:
@@ -16,7 +15,6 @@ lng: -7.09262000000001
 address_line1: "Morocco"
 websiteUrl: https://wiredstartups.business.site/
 id: wired-startups
-facebook:
 linkedin:
 city:
 region:
@@ -33,3 +31,4 @@ lng: -7.09262000000001
 address_line1: "Morocco"
 websiteUrl: https://wiredstartups.business.site/
 twitterHandle: WiredStartups
+facebookUrl:

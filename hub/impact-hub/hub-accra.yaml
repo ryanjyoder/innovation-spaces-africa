@@ -1,5 +1,4 @@
 id: hub-accra
-facebook:
 linkedin:
 city: Accra
 region:
@@ -13,7 +12,6 @@ lng:
 address_line1: ""
 websiteUrl: accra.impacthub.net
 id: hub-accra
-facebook:
 linkedin:
 city: Accra
 region:
@@ -27,3 +25,4 @@ lng:
 address_line1: ""
 websiteUrl: accra.impacthub.net
 twitterHandle: impacthubaccra
+facebookUrl:

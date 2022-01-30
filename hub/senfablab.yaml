@@ -1,5 +1,4 @@
 id: senfablab
-facebook: https://www.facebook.com/senfablab
 linkedin:
 city:
 region:
@@ -14,7 +13,6 @@ lng:
 address_line1: ""
 websiteUrl:
 id: senfablab
-facebook: https://www.facebook.com/senfablab
 linkedin:
 city:
 region:
@@ -29,3 +27,4 @@ lng:
 address_line1: ""
 websiteUrl:
 twitterHandle: senfablab
+facebookUrl: https://www.facebook.com/senfablab

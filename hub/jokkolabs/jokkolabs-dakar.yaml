@@ -1,5 +1,4 @@
 id: jokkolabs-dakar
-facebook: https://www.facebook.com/jokkolabsDakar/
 linkedin:
 city: Dakar
 region:
@@ -24,7 +23,6 @@ lng:
 address_line1: "Sacr� C�ur 3 villa 9653"
 websiteUrl: https://www.jokkolabs.net/senegal/dakar
 id: jokkolabs-dakar
-facebook: https://www.facebook.com/jokkolabsDakar/
 linkedin:
 city: Dakar
 region:
@@ -49,3 +47,4 @@ lng:
 address_line1: "Sacr� C�ur 3 villa 9653"
 websiteUrl: https://www.jokkolabs.net/senegal/dakar
 twitterHandle: JklDakar
+facebookUrl: https://www.facebook.com/jokkolabsDakar/

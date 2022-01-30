@@ -1,5 +1,4 @@
 id: mhub-malawi
-facebook:
 linkedin:
 city: Blantyre
 region: Southern Region
@@ -20,7 +19,6 @@ lng: 35.0042201
 address_line1: "Malawi Sun Hotel, Blantyre, Malawi"
 websiteUrl: http://www.mhubmw.com/
 id: mhub-malawi
-facebook:
 linkedin:
 city: Blantyre
 region: Southern Region
@@ -41,3 +39,4 @@ lng: 35.0042201
 address_line1: "Malawi Sun Hotel, Blantyre, Malawi"
 websiteUrl: http://www.mhubmw.com/
 twitterHandle: mHubMW
+facebookUrl:

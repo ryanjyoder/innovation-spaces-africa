@@ -1,5 +1,4 @@
 id: xhub
-facebook:
 linkedin:
 city: Addis Ababa
 region: Addis Ababa
@@ -23,7 +22,6 @@ lng: 38.7577605
 address_line1: "Addis Ababa, Ethiopia"
 websiteUrl: http://www.xhubaddis.com/
 id: xhub
-facebook:
 linkedin:
 city: Addis Ababa
 region: Addis Ababa
@@ -47,3 +45,4 @@ lng: 38.7577605
 address_line1: "Addis Ababa, Ethiopia"
 websiteUrl: http://www.xhubaddis.com/
 twitterHandle: xhubaddis
+facebookUrl:

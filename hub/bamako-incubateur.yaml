@@ -1,5 +1,4 @@
 id: bamako-incubateur
-facebook: https://www.facebook.com/BIncubateur/
 linkedin:
 city:
 region:
@@ -16,7 +15,6 @@ lng:
 address_line1: "Missira, Mali"
 websiteUrl: http://bamako-incubateur.com
 id: bamako-incubateur
-facebook: https://www.facebook.com/BIncubateur/
 linkedin:
 city:
 region:
@@ -33,3 +31,4 @@ lng:
 address_line1: "Missira, Mali"
 websiteUrl: http://bamako-incubateur.com
 twitterHandle: BIncubateur
+facebookUrl: https://www.facebook.com/BIncubateur/

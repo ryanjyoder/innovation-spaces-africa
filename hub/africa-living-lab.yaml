@@ -1,5 +1,4 @@
 id: africa-living-lab
-facebook:
 linkedin:
 city: Dakar
 region:
@@ -17,7 +16,6 @@ lng:
 address_line1: ""
 websiteUrl: https://isegcesmi.com/sample-page/
 id: africa-living-lab
-facebook:
 linkedin:
 city: Dakar
 region:
@@ -35,3 +33,4 @@ lng:
 address_line1: ""
 websiteUrl: https://isegcesmi.com/sample-page/
 twitterHandle:
+facebookUrl:

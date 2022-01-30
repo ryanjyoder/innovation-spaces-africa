@@ -1,5 +1,4 @@
 id: thehub
-facebook:
 linkedin:
 city: Kampala
 region:
@@ -15,7 +14,6 @@ lng:
 address_line1: ""
 websiteUrl: http://thehubkampala.com/
 id: thehub
-facebook:
 linkedin:
 city: Kampala
 region:
@@ -31,3 +29,4 @@ lng:
 address_line1: ""
 websiteUrl: http://thehubkampala.com/
 twitterHandle: HUBKampala
+facebookUrl:

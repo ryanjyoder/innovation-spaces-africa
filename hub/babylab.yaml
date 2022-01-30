@@ -1,5 +1,4 @@
 id: babylab
-facebook: http://Guiako OBIN
 linkedin:
 city: Abidjan
 region: Abidjan
@@ -18,7 +17,6 @@ lng: -4.01906439999993
 address_line1: "Abobo Habitat, Q 180"
 websiteUrl: http://www.baby-lab.org/
 id: babylab
-facebook: http://Guiako OBIN
 linkedin:
 city: Abidjan
 region: Abidjan
@@ -37,3 +35,4 @@ lng: -4.01906439999993
 address_line1: "Abobo Habitat, Q 180"
 websiteUrl: http://www.baby-lab.org/
 twitterHandle: BabyLabCI
+facebookUrl: http://Guiako OBIN

@@ -1,5 +1,4 @@
 id: think-technology-incubator
-facebook:
 linkedin:
 city: Kigali
 region:
@@ -15,7 +14,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.think.rw
 id: think-technology-incubator
-facebook:
 linkedin:
 city: Kigali
 region:
@@ -31,3 +29,4 @@ lng:
 address_line1: ""
 websiteUrl: http://www.think.rw
 twitterHandle:
+facebookUrl:

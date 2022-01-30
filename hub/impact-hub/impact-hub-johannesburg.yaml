@@ -1,5 +1,4 @@
 id: impact-hub-johannesburg
-facebook:
 linkedin:
 city: Johannesburg
 region:
@@ -15,7 +14,6 @@ lng:
 address_line1: ""
 websiteUrl: johannesburg.impacthub.net
 id: impact-hub-johannesburg
-facebook:
 linkedin:
 city: Johannesburg
 region:
@@ -31,3 +29,4 @@ lng:
 address_line1: ""
 websiteUrl: johannesburg.impacthub.net
 twitterHandle: ImpactHub
+facebookUrl:

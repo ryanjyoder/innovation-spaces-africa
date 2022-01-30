@@ -1,5 +1,4 @@
 id: sm-lab-co
-facebook: https://web.facebook.com/SMLabCO
 linkedin:
 city:
 region:
@@ -13,7 +12,6 @@ lng:
 address_line1: ""
 websiteUrl: http://smlab.cool/
 id: sm-lab-co
-facebook: https://web.facebook.com/SMLabCO
 linkedin:
 city:
 region:
@@ -27,3 +25,4 @@ lng:
 address_line1: ""
 websiteUrl: http://smlab.cool/
 twitterHandle: switch_maker
+facebookUrl: https://web.facebook.com/SMLabCO

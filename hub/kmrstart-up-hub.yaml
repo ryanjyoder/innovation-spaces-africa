@@ -1,5 +1,4 @@
 id: kmrstart-up-hub
-facebook:
 linkedin:
 city:
 region:
@@ -20,7 +19,6 @@ lng:
 address_line1: ""
 websiteUrl:
 id: kmrstart-up-hub
-facebook:
 linkedin:
 city:
 region:
@@ -41,3 +39,4 @@ lng:
 address_line1: ""
 websiteUrl:
 twitterHandle: kmrstartuphub
+facebookUrl:

@@ -1,5 +1,4 @@
 id: jokkolabs-douala
-facebook: https://www.facebook.com/JokkolabsDouala
 linkedin:
 city:
 region:
@@ -17,7 +16,6 @@ lng:
 address_line1: ""
 websiteUrl: http://jokkolabs.net
 id: jokkolabs-douala
-facebook: https://www.facebook.com/JokkolabsDouala
 linkedin:
 city:
 region:
@@ -35,3 +33,4 @@ lng:
 address_line1: ""
 websiteUrl: http://jokkolabs.net
 twitterHandle: JklDouala
+facebookUrl: https://www.facebook.com/JokkolabsDouala

@@ -1,5 +1,4 @@
 id: tanzict
-facebook:
 linkedin:
 city: Dar es Salaam
 region:
@@ -16,7 +15,6 @@ lng:
 address_line1: ""
 websiteUrl: http://tanzict.or.tz/
 id: tanzict
-facebook:
 linkedin:
 city: Dar es Salaam
 region:
@@ -33,3 +31,4 @@ lng:
 address_line1: ""
 websiteUrl: http://tanzict.or.tz/
 twitterHandle:
+facebookUrl:

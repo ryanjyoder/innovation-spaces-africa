@@ -1,5 +1,4 @@
 id: incubateur-ugb
-facebook: https://web.facebook.com/incubateurugb/
 linkedin:
 city:
 region:
@@ -15,7 +14,6 @@ lng:
 address_line1: "Sanar, Saint-Louis, Saint-Louis, S�n�gal"
 websiteUrl: http://incubation.ugb.sn
 id: incubateur-ugb
-facebook: https://web.facebook.com/incubateurugb/
 linkedin:
 city:
 region:
@@ -31,3 +29,4 @@ lng:
 address_line1: "Sanar, Saint-Louis, Saint-Louis, S�n�gal"
 websiteUrl: http://incubation.ugb.sn
 twitterHandle:
+facebookUrl: https://web.facebook.com/incubateurugb/

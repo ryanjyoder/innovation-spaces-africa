@@ -1,5 +1,4 @@
 id: the-tech-village
-facebook:
 linkedin:
 city:
 region:
@@ -16,7 +15,6 @@ lng: 29.154857
 address_line1: "Zimbabwe"
 websiteUrl: http://www.techvillage.org.zw/
 id: the-tech-village
-facebook:
 linkedin:
 city:
 region:
@@ -33,3 +31,4 @@ lng: 29.154857
 address_line1: "Zimbabwe"
 websiteUrl: http://www.techvillage.org.zw/
 twitterHandle: TechVillagezw
+facebookUrl:

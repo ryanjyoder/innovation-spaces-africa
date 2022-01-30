@@ -1,5 +1,4 @@
 id: c4dlab
-facebook:
 linkedin:
 city:
 region:
@@ -16,7 +15,6 @@ lng: 37.906193
 address_line1: "Kenya"
 websiteUrl: https://c4dlab.ac.ke/
 id: c4dlab
-facebook:
 linkedin:
 city:
 region:
@@ -33,3 +31,4 @@ lng: 37.906193
 address_line1: "Kenya"
 websiteUrl: https://c4dlab.ac.ke/
 twitterHandle: C4DLab
+facebookUrl:

@@ -1,5 +1,4 @@
 id: national-board-for-technology-incubation-tech-incubation-headquarters
-facebook:
 linkedin:
 city: Abuja
 region:
@@ -16,7 +15,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.nbti.gov.ng/
 id: national-board-for-technology-incubation-tech-incubation-headquarters
-facebook:
 linkedin:
 city: Abuja
 region:
@@ -33,3 +31,4 @@ lng:
 address_line1: ""
 websiteUrl: http://www.nbti.gov.ng/
 twitterHandle:
+facebookUrl:

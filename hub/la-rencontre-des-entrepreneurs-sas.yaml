@@ -1,5 +1,4 @@
 id: la-rencontre-des-entrepreneurs-sas
-facebook:
 linkedin:
 city:
 region:
@@ -14,7 +13,6 @@ lng:
 address_line1: "AGORA BUSINESS CENTER, VILLA N7 MERMOZ ,  DAKAR"
 websiteUrl: http://www.entrepreneursenegal.com
 id: la-rencontre-des-entrepreneurs-sas
-facebook:
 linkedin:
 city:
 region:
@@ -29,3 +27,4 @@ lng:
 address_line1: "AGORA BUSINESS CENTER, VILLA N7 MERMOZ ,  DAKAR"
 websiteUrl: http://www.entrepreneursenegal.com
 twitterHandle: RDEDAKAR
+facebookUrl:

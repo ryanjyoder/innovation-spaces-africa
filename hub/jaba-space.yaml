@@ -1,5 +1,4 @@
 id: jaba-space
-facebook: https://www.facebook.com/jabaspacecoworking/
 linkedin:
 city:
 region:
@@ -14,7 +13,6 @@ lng:
 address_line1: ""
 websiteUrl: https://jabaspace.co/
 id: jaba-space
-facebook: https://www.facebook.com/jabaspacecoworking/
 linkedin:
 city:
 region:
@@ -29,3 +27,4 @@ lng:
 address_line1: ""
 websiteUrl: https://jabaspace.co/
 twitterHandle: JabaSpace
+facebookUrl: https://www.facebook.com/jabaspacecoworking/

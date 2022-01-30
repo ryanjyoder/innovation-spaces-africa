@@ -1,5 +1,4 @@
 id: incubateur-rse-benin
-facebook:
 linkedin: https://www.linkedin.com/company/groupe-de-travail-rse-b%C3%A9nin/
 city:
 region:
@@ -16,7 +15,6 @@ lng:
 address_line1: "lot P1430 v�doko ,  Cotonou"
 websiteUrl:
 id: incubateur-rse-benin
-facebook:
 linkedin: https://www.linkedin.com/company/groupe-de-travail-rse-b%C3%A9nin/
 city:
 region:
@@ -33,3 +31,4 @@ lng:
 address_line1: "lot P1430 v�doko ,  Cotonou"
 websiteUrl:
 twitterHandle:
+facebookUrl:

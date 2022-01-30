@@ -1,5 +1,4 @@
 id: incubme-algeria
-facebook: https://www.facebook.com/IncubMeDz/
 linkedin:
 city:
 region:
@@ -20,7 +19,6 @@ lng: 1.659626
 address_line1: "Algeria"
 websiteUrl: www.incubme.com
 id: incubme-algeria
-facebook: https://www.facebook.com/IncubMeDz/
 linkedin:
 city:
 region:
@@ -41,3 +39,4 @@ lng: 1.659626
 address_line1: "Algeria"
 websiteUrl: www.incubme.com
 twitterHandle:
+facebookUrl: https://www.facebook.com/IncubMeDz/

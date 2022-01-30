@@ -1,5 +1,4 @@
 id: invo-tech-incubator
-facebook:
 linkedin:
 city: Durban
 region:
@@ -15,7 +14,6 @@ lng:
 address_line1: ""
 websiteUrl: www.invotech.dut.ac.za
 id: invo-tech-incubator
-facebook:
 linkedin:
 city: Durban
 region:
@@ -31,3 +29,4 @@ lng:
 address_line1: ""
 websiteUrl: www.invotech.dut.ac.za
 twitterHandle:
+facebookUrl:

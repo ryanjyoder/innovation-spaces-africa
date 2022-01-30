@@ -1,5 +1,4 @@
 id: namibia-business-innovation-centre-nbic
-facebook:
 linkedin:
 city: Windhoek
 region:
@@ -15,7 +14,6 @@ lng:
 address_line1: ""
 websiteUrl: http://nbic.polytechnic.edu.na/
 id: namibia-business-innovation-centre-nbic
-facebook:
 linkedin:
 city: Windhoek
 region:
@@ -31,3 +29,4 @@ lng:
 address_line1: ""
 websiteUrl: http://nbic.polytechnic.edu.na/
 twitterHandle: NBII_Namibia
+facebookUrl:

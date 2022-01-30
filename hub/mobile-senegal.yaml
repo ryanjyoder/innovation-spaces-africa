@@ -1,5 +1,4 @@
 id: mobile-senegal
-facebook: https://www.facebook.com/mobilesenegal
 linkedin:
 youtube: https://youtube.com/mobilesenegal
 city: Dakar
@@ -17,7 +16,6 @@ lng:
 address_line1: ""
 websiteUrl: http://mobilesenegal.org/
 id: mobile-senegal
-facebook: https://www.facebook.com/mobilesenegal
 linkedin:
 youtube: https://youtube.com/mobilesenegal
 city: Dakar
@@ -35,3 +33,4 @@ lng:
 address_line1: ""
 websiteUrl: http://mobilesenegal.org/
 twitterHandle: mobilesenegal
+facebookUrl: https://www.facebook.com/mobilesenegal

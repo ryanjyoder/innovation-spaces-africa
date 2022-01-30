@@ -1,5 +1,4 @@
 id: jokkolabs-cotonou
-facebook:
 linkedin:
 city: Cotonou
 region:
@@ -14,7 +13,6 @@ lng:
 address_line1: ""
 websiteUrl: http://jokkolabs.net
 id: jokkolabs-cotonou
-facebook:
 linkedin:
 city: Cotonou
 region:
@@ -29,3 +27,4 @@ lng:
 address_line1: ""
 websiteUrl: http://jokkolabs.net
 twitterHandle: JklCotonou
+facebookUrl:

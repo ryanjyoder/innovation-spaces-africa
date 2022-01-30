@@ -1,5 +1,4 @@
 id: shinga-entrepreneurship-and-learning-hub
-facebook: https://www.facebook.com/shingathespace/
 linkedin:
 city: Harare
 region: Harare Province
@@ -22,7 +21,6 @@ lng: 31.0855879000001
 address_line1: "Mutare Road, Harare, Zimbabwe"
 websiteUrl: http://www.shinga.co.zw/
 id: shinga-entrepreneurship-and-learning-hub
-facebook: https://www.facebook.com/shingathespace/
 linkedin:
 city: Harare
 region: Harare Province
@@ -45,3 +43,4 @@ lng: 31.0855879000001
 address_line1: "Mutare Road, Harare, Zimbabwe"
 websiteUrl: http://www.shinga.co.zw/
 twitterHandle: shingahub
+facebookUrl: https://www.facebook.com/shingathespace/

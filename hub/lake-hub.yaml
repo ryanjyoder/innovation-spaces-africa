@@ -1,5 +1,4 @@
 id: lake-hub
-facebook:
 linkedin:
 city: Kisumu
 region: Kisumu County
@@ -17,7 +16,6 @@ lng: 34.7525582999999
 address_line1: "Accra Street, Kisumu, Kenya"
 websiteUrl: http://www.lakehub.co.ke/
 id: lake-hub
-facebook:
 linkedin:
 city: Kisumu
 region: Kisumu County
@@ -35,3 +33,4 @@ lng: 34.7525582999999
 address_line1: "Accra Street, Kisumu, Kenya"
 websiteUrl: http://www.lakehub.co.ke/
 twitterHandle: LakeHub
+facebookUrl:

@@ -1,5 +1,4 @@
 id: tentmaker
-facebook:
 linkedin:
 city: Accra
 region: Greater Accra Region
@@ -17,7 +16,6 @@ lng: -0.183411500000034
 address_line1: "accra, Ghana Airways Avenue, Accra, Ghana"
 websiteUrl: https://www.tentmakergh.com/
 id: tentmaker
-facebook:
 linkedin:
 city: Accra
 region: Greater Accra Region
@@ -35,3 +33,4 @@ lng: -0.183411500000034
 address_line1: "accra, Ghana Airways Avenue, Accra, Ghana"
 websiteUrl: https://www.tentmakergh.com/
 twitterHandle: TentmakerGhana
+facebookUrl:

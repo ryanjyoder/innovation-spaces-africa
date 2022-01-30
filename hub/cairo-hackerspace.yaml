@@ -1,5 +1,4 @@
 id: cairo-hackerspace
-facebook:
 linkedin:
 city: Cairo
 region: Cairo Governorate
@@ -20,7 +19,6 @@ lng: 31.2357116000001
 address_line1: "Cairo, Egypt"
 websiteUrl: https://cairohackerspace.org/
 id: cairo-hackerspace
-facebook:
 linkedin:
 city: Cairo
 region: Cairo Governorate
@@ -41,3 +39,4 @@ lng: 31.2357116000001
 address_line1: "Cairo, Egypt"
 websiteUrl: https://cairohackerspace.org/
 twitterHandle:
+facebookUrl:

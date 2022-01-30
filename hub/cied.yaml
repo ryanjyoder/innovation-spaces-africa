@@ -1,5 +1,4 @@
 id: cied
-facebook: https://web.facebook.com/AccompagnementCIED/
 linkedin:
 city:
 region:
@@ -18,7 +17,6 @@ lng:
 address_line1: "Abidjan, C�te-d&#039;Ivoire, Abidjan, C�te d&#039;Ivoire"
 websiteUrl:
 id: cied
-facebook: https://web.facebook.com/AccompagnementCIED/
 linkedin:
 city:
 region:
@@ -37,3 +35,4 @@ lng:
 address_line1: "Abidjan, C�te-d&#039;Ivoire, Abidjan, C�te d&#039;Ivoire"
 websiteUrl:
 twitterHandle:
+facebookUrl: https://web.facebook.com/AccompagnementCIED/

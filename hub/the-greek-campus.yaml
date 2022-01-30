@@ -1,5 +1,4 @@
 id: the-greek-campus
-facebook:
 linkedin:
 city: Cairo
 region:
@@ -24,7 +23,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.thegreekcampus.com/#
 id: the-greek-campus
-facebook:
 linkedin:
 city: Cairo
 region:
@@ -49,3 +47,4 @@ lng:
 address_line1: ""
 websiteUrl: http://www.thegreekcampus.com/#
 twitterHandle: TheGrEEKCampus
+facebookUrl:

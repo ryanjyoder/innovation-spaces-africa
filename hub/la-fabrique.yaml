@@ -1,5 +1,4 @@
 id: la-fabrique
-facebook: https://www.facebook.com/lafabriquebf/
 linkedin:
 city:
 region:
@@ -18,7 +17,6 @@ lng:
 address_line1: "Ouagadougou, Burkina Faso"
 websiteUrl: http://www.lafabrique-bf.com
 id: la-fabrique
-facebook: https://www.facebook.com/lafabriquebf/
 linkedin:
 city:
 region:
@@ -37,3 +35,4 @@ lng:
 address_line1: "Ouagadougou, Burkina Faso"
 websiteUrl: http://www.lafabrique-bf.com
 twitterHandle:
+facebookUrl: https://www.facebook.com/lafabriquebf/

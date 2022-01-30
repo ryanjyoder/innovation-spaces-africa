@@ -1,5 +1,4 @@
 id: injini
-facebook:
 linkedin:
 city: Cape Town
 region: Western Cape
@@ -18,7 +17,6 @@ lng: 18.4240553
 address_line1: "Cape Town, South Africa"
 websiteUrl: http://injini.co.za/
 id: injini
-facebook:
 linkedin:
 city: Cape Town
 region: Western Cape
@@ -37,3 +35,4 @@ lng: 18.4240553
 address_line1: "Cape Town, South Africa"
 websiteUrl: http://injini.co.za/
 twitterHandle: injiniedtech
+facebookUrl:

@@ -1,5 +1,4 @@
 id: codedinbraam
-facebook:
 linkedin:
 city: Johannesburg
 region:
@@ -15,7 +14,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.meetup.com/CodedInBraam/
 id: codedinbraam
-facebook:
 linkedin:
 city: Johannesburg
 region:
@@ -31,3 +29,4 @@ lng:
 address_line1: ""
 websiteUrl: http://www.meetup.com/CodedInBraam/
 twitterHandle:
+facebookUrl:

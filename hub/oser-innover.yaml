@@ -1,5 +1,4 @@
 id: oser-innover
-facebook: https://fr-fr.facebook.com/DaretoInnovate/
 linkedin:
 city:
 region:
@@ -17,7 +16,6 @@ lng:
 address_line1: ""
 websiteUrl: http://daretoinnovate.com/
 id: oser-innover
-facebook: https://fr-fr.facebook.com/DaretoInnovate/
 linkedin:
 city:
 region:
@@ -35,3 +33,4 @@ lng:
 address_line1: ""
 websiteUrl: http://daretoinnovate.com/
 twitterHandle: DaretoInnovate
+facebookUrl: https://fr-fr.facebook.com/DaretoInnovate/

@@ -1,5 +1,4 @@
 id: mobile-web-ghana
-facebook:
 linkedin:
 city: Accra
 region: Greater Accra Region
@@ -15,7 +14,6 @@ lng: -0.146848299999988
 address_line1: "Ghana International Trade Fair Centre, Accra, Ghana"
 websiteUrl: http://www.mobilewebghana.org/
 id: mobile-web-ghana
-facebook:
 linkedin:
 city: Accra
 region: Greater Accra Region
@@ -31,3 +29,4 @@ lng: -0.146848299999988
 address_line1: "Ghana International Trade Fair Centre, Accra, Ghana"
 websiteUrl: http://www.mobilewebghana.org/
 twitterHandle: MobileWebGhana
+facebookUrl:

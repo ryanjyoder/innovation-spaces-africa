@@ -1,5 +1,4 @@
 id: mashinani-hub
-facebook: https://www.facebook.com/mashinanihub/
 linkedin:
 city: Kisii
 region: Kisii County
@@ -14,7 +13,6 @@ lng: 34.7771001
 address_line1: "Kisii Country Club, Kisii, Kenya"
 websiteUrl:
 id: mashinani-hub
-facebook: https://www.facebook.com/mashinanihub/
 linkedin:
 city: Kisii
 region: Kisii County
@@ -29,3 +27,4 @@ lng: 34.7771001
 address_line1: "Kisii Country Club, Kisii, Kenya"
 websiteUrl:
 twitterHandle:
+facebookUrl: https://www.facebook.com/mashinanihub/

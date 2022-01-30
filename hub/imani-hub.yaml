@@ -1,5 +1,4 @@
 id: imani-hub
-facebook:
 linkedin:
 city: Kinshasa
 region:
@@ -14,7 +13,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.imanihub.net/
 id: imani-hub
-facebook:
 linkedin:
 city: Kinshasa
 region:
@@ -29,3 +27,4 @@ lng:
 address_line1: ""
 websiteUrl: http://www.imanihub.net/
 twitterHandle:
+facebookUrl:

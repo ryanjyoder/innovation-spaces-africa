@@ -1,5 +1,4 @@
 id: it-kola
-facebook: https://www.facebook.com/itkola?_rdc=1&_rdr
 linkedin:
 city:
 region:
@@ -14,7 +13,6 @@ lng: 12.354722
 address_line1: "Cameroon"
 websiteUrl:
 id: it-kola
-facebook: https://www.facebook.com/itkola?_rdc=1&_rdr
 linkedin:
 city:
 region:
@@ -29,3 +27,4 @@ lng: 12.354722
 address_line1: "Cameroon"
 websiteUrl:
 twitterHandle:
+facebookUrl: https://www.facebook.com/itkola?_rdc=1&_rdr

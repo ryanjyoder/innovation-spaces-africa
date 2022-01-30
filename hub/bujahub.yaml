@@ -1,5 +1,4 @@
 id: bujahub
-facebook: https://www.facebook.com/bujahub/
 linkedin:
 city:
 region:
@@ -15,7 +14,6 @@ lng:
 address_line1: "Boulevard De La Liberte, Bujumbura, Burundi"
 websiteUrl: http://www.bujahub.com
 id: bujahub
-facebook: https://www.facebook.com/bujahub/
 linkedin:
 city:
 region:
@@ -31,3 +29,4 @@ lng:
 address_line1: "Boulevard De La Liberte, Bujumbura, Burundi"
 websiteUrl: http://www.bujahub.com
 twitterHandle:
+facebookUrl: https://www.facebook.com/bujahub/

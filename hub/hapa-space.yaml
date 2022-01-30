@@ -1,5 +1,4 @@
 id: hapa-space
-facebook:
 linkedin:
 city: Kumasi
 region: Ashanti Region
@@ -20,7 +19,6 @@ lng: -1.61401030000002
 address_line1: "Kumasi Ghana @ 50 Jubilee Park, Kumasi, Ghana"
 websiteUrl: http://www.haspace.com/
 id: hapa-space
-facebook:
 linkedin:
 city: Kumasi
 region: Ashanti Region
@@ -41,3 +39,4 @@ lng: -1.61401030000002
 address_line1: "Kumasi Ghana @ 50 Jubilee Park, Kumasi, Ghana"
 websiteUrl: http://www.haspace.com/
 twitterHandle:
+facebookUrl:

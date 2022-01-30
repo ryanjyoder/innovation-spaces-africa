@@ -1,5 +1,4 @@
 id: icode
-facebook:
 linkedin:
 city: Takoradi
 region: Western Region
@@ -17,7 +16,6 @@ lng: -1.79162220000001
 address_line1: "Apollo, Takoradi, Ghana"
 websiteUrl: http://icodegh.com/
 id: icode
-facebook:
 linkedin:
 city: Takoradi
 region: Western Region
@@ -35,3 +33,4 @@ lng: -1.79162220000001
 address_line1: "Apollo, Takoradi, Ghana"
 websiteUrl: http://icodegh.com/
 twitterHandle: icodeteam
+facebookUrl:

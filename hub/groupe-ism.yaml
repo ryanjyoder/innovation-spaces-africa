@@ -1,5 +1,4 @@
 id: groupe-ism
-facebook: https://fr-fr.facebook.com/GroupeISM/
 linkedin:
 city:
 region:
@@ -18,7 +17,6 @@ lng:
 address_line1: ""
 websiteUrl: https://www.ismincub.com/
 id: groupe-ism
-facebook: https://fr-fr.facebook.com/GroupeISM/
 linkedin:
 city:
 region:
@@ -37,3 +35,4 @@ lng:
 address_line1: ""
 websiteUrl: https://www.ismincub.com/
 twitterHandle:
+facebookUrl: https://fr-fr.facebook.com/GroupeISM/

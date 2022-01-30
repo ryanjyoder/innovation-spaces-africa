@@ -1,5 +1,4 @@
 id: dlab
-facebook:
 linkedin:
 city: Dar es Salaam
 region:
@@ -18,7 +17,6 @@ lng: 39.2680669
 address_line1: "Tanzania Breweries, Msimbazi Street, Dar es Salaam, Tanzania"
 websiteUrl: http://www.dlab.or.tz/
 id: dlab
-facebook:
 linkedin:
 city: Dar es Salaam
 region:
@@ -37,3 +35,4 @@ lng: 39.2680669
 address_line1: "Tanzania Breweries, Msimbazi Street, Dar es Salaam, Tanzania"
 websiteUrl: http://www.dlab.or.tz/
 twitterHandle: dlabtz
+facebookUrl:

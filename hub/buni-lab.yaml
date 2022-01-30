@@ -1,5 +1,4 @@
 id: buni-lab
-facebook:
 linkedin:
 city:
 region:
@@ -17,7 +16,6 @@ lng: 34.888822
 address_line1: "Tanzania"
 websiteUrl: http://buni.or.tz/
 id: buni-lab
-facebook:
 linkedin:
 city:
 region:
@@ -35,3 +33,4 @@ lng: 34.888822
 address_line1: "Tanzania"
 websiteUrl: http://buni.or.tz/
 twitterHandle: bunihub
+facebookUrl:

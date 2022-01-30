@@ -1,5 +1,4 @@
 id: i-f-entrepreneuriat
-facebook:
 linkedin:
 city:
 region:
@@ -18,7 +17,6 @@ lng:
 address_line1: "23, Avenue Kolo, Quartier Noki, Mbanza-Ngungu, Bas-Congo, RD Congo"
 websiteUrl: http://ifentrepreneuriat.org/
 id: i-f-entrepreneuriat
-facebook:
 linkedin:
 city:
 region:
@@ -37,3 +35,4 @@ lng:
 address_line1: "23, Avenue Kolo, Quartier Noki, Mbanza-Ngungu, Bas-Congo, RD Congo"
 websiteUrl: http://ifentrepreneuriat.org/
 twitterHandle:
+facebookUrl:

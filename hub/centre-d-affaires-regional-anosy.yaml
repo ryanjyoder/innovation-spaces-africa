@@ -1,5 +1,4 @@
 id: centre-d-affaires-regional-anosy
-facebook:
 linkedin:
 city:
 region: Fort-Dauphin
@@ -15,7 +14,6 @@ lng:
 address_line1: "Kathyana Car Rental - Bazaribe Fort Dauphin"
 websiteUrl: http://www.cara.mg
 id: centre-d-affaires-regional-anosy
-facebook:
 linkedin:
 city:
 region: Fort-Dauphin
@@ -31,3 +29,4 @@ lng:
 address_line1: "Kathyana Car Rental - Bazaribe Fort Dauphin"
 websiteUrl: http://www.cara.mg
 twitterHandle:
+facebookUrl:

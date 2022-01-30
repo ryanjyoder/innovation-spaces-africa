@@ -1,5 +1,4 @@
 id: cube
-facebook: https://www.facebook.com/SAEICUBE/
 linkedin:
 city:
 region:
@@ -15,7 +14,6 @@ lng:
 address_line1: "BP 4556, togo"
 websiteUrl: http://www.cubenter.com
 id: cube
-facebook: https://www.facebook.com/SAEICUBE/
 linkedin:
 city:
 region:
@@ -31,3 +29,4 @@ lng:
 address_line1: "BP 4556, togo"
 websiteUrl: http://www.cubenter.com
 twitterHandle: cube_togo
+facebookUrl: https://www.facebook.com/SAEICUBE/

@@ -1,5 +1,4 @@
 id: capetown-garage
-facebook:
 linkedin:
 city: Cape Town
 region:
@@ -14,7 +13,6 @@ lng:
 address_line1: ""
 websiteUrl: www.capetowngarage.com
 id: capetown-garage
-facebook:
 linkedin:
 city: Cape Town
 region:
@@ -29,3 +27,4 @@ lng:
 address_line1: ""
 websiteUrl: www.capetowngarage.com
 twitterHandle: capetowngarage
+facebookUrl:

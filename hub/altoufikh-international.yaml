@@ -1,5 +1,4 @@
 id: altoufikh-international
-facebook:
 linkedin:
 city: N'Djamena
 region: N'Djamena
@@ -17,7 +16,6 @@ lng: 15.0557415000001
 address_line1: "N'Djamena, Chad"
 websiteUrl:
 id: altoufikh-international
-facebook:
 linkedin:
 city: N'Djamena
 region: N'Djamena
@@ -35,3 +33,4 @@ lng: 15.0557415000001
 address_line1: "N'Djamena, Chad"
 websiteUrl:
 twitterHandle:
+facebookUrl:

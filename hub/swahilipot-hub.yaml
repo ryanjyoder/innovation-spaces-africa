@@ -1,5 +1,4 @@
 id: swahilipot-hub
-facebook:
 linkedin:
 city: Mombasa
 region: Mombasa County
@@ -20,7 +19,6 @@ lng: 39.6682065
 address_line1: "Mombasa, Kenya"
 websiteUrl: https://swahilipothub.co.ke/
 id: swahilipot-hub
-facebook:
 linkedin:
 city: Mombasa
 region: Mombasa County
@@ -41,3 +39,4 @@ lng: 39.6682065
 address_line1: "Mombasa, Kenya"
 websiteUrl: https://swahilipothub.co.ke/
 twitterHandle: swahilipothub
+facebookUrl:

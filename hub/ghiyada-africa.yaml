@@ -1,5 +1,4 @@
 id: ghiyada-africa
-facebook: https://www.facebook.com/ghiyadaafrica/
 linkedin:
 city:
 region:
@@ -15,7 +14,6 @@ lng:
 address_line1: "adidogome la pampa ,  lom�"
 websiteUrl: http://www.ghiyadaafrica.org
 id: ghiyada-africa
-facebook: https://www.facebook.com/ghiyadaafrica/
 linkedin:
 city:
 region:
@@ -31,3 +29,4 @@ lng:
 address_line1: "adidogome la pampa ,  lom�"
 websiteUrl: http://www.ghiyadaafrica.org
 twitterHandle:
+facebookUrl: https://www.facebook.com/ghiyadaafrica/

@@ -1,5 +1,4 @@
 id: makesense
-facebook:
 linkedin:
 city: Dakar
 region:
@@ -14,7 +13,6 @@ lng:
 address_line1: "Rue Mermoz"
 websiteUrl: http://africa.makesense.org
 id: makesense
-facebook:
 linkedin:
 city: Dakar
 region:
@@ -29,3 +27,4 @@ lng:
 address_line1: "Rue Mermoz"
 websiteUrl: http://africa.makesense.org
 twitterHandle: africamakesense
+facebookUrl:

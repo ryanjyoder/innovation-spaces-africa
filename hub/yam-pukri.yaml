@@ -1,5 +1,4 @@
 id: yam-pukri
-facebook:
 linkedin:
 city: Ouagadougou
 region:
@@ -17,7 +16,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.yam-pukri.org/
 id: yam-pukri
-facebook:
 linkedin:
 city: Ouagadougou
 region:
@@ -35,3 +33,4 @@ lng:
 address_line1: ""
 websiteUrl: http://www.yam-pukri.org/
 twitterHandle: yam_pukri
+facebookUrl:

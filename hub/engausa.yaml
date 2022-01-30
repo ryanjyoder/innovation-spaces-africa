@@ -1,5 +1,4 @@
 id: engausa-hub
-facebook: https://business.facebook.com/engausahub
 linkedin:
 youtube: https://www.youtube.com/channel/UCZar3cuUyRGirl-H2oMMtuQ
 city: Kano
@@ -15,7 +14,6 @@ lng:
 address_line1:
 websiteUrl: https://engausahub.com/
 id: engausa-hub
-facebook: https://business.facebook.com/engausahub
 linkedin:
 youtube: https://www.youtube.com/channel/UCZar3cuUyRGirl-H2oMMtuQ
 city: Kano
@@ -31,3 +29,4 @@ lng:
 address_line1:
 websiteUrl: https://engausahub.com/
 twitterHandle:
+facebookUrl: https://business.facebook.com/engausahub

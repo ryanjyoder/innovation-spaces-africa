@@ -1,5 +1,4 @@
 id: acse
-facebook: https://www.facebook.com/AlgerianCenterForSocialEntrepreneurship
 linkedin:
 city:
 region:
@@ -16,7 +15,6 @@ lng:
 address_line1: "107 Boulevard Des Martyrs, Sidi M&#039;Hamed, Alg�rie"
 websiteUrl:
 id: acse
-facebook: https://www.facebook.com/AlgerianCenterForSocialEntrepreneurship
 linkedin:
 city:
 region:
@@ -33,3 +31,4 @@ lng:
 address_line1: "107 Boulevard Des Martyrs, Sidi M&#039;Hamed, Alg�rie"
 websiteUrl:
 twitterHandle:
+facebookUrl: https://www.facebook.com/AlgerianCenterForSocialEntrepreneurship

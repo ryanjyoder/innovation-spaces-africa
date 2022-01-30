@@ -1,5 +1,4 @@
 id: ice-addis
-facebook:
 linkedin:
 city: Addis Ababa
 region: Addis Ababa
@@ -20,7 +19,6 @@ lng: 38.7328845
 address_line1: "Chad St, Addis Ababa, Ethiopia"
 websiteUrl: https://www.iceaddis.com/
 id: ice-addis
-facebook:
 linkedin:
 city: Addis Ababa
 region: Addis Ababa
@@ -41,3 +39,4 @@ lng: 38.7328845
 address_line1: "Chad St, Addis Ababa, Ethiopia"
 websiteUrl: https://www.iceaddis.com/
 twitterHandle: iceaddis
+facebookUrl:

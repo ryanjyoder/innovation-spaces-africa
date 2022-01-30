@@ -1,5 +1,4 @@
 id: trustee-sas
-facebook: https://www.facebook.com/TrusteeVC/
 linkedin:
 city:
 region:
@@ -14,7 +13,6 @@ lng:
 address_line1: "Tombo ,  Kaloum, Conakry"
 websiteUrl: http://www.trustees.fr
 id: trustee-sas
-facebook: https://www.facebook.com/TrusteeVC/
 linkedin:
 city:
 region:
@@ -29,3 +27,4 @@ lng:
 address_line1: "Tombo ,  Kaloum, Conakry"
 websiteUrl: http://www.trustees.fr
 twitterHandle: TrusteeVC
+facebookUrl: https://www.facebook.com/TrusteeVC/

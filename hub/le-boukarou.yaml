@@ -1,5 +1,4 @@
 id: le-boukarou
-facebook: https://www.facebook.com/LeboukarouOfficiel/
 linkedin:
 city:
 region:
@@ -19,7 +18,6 @@ lng:
 address_line1: "Douala, Cameroun"
 websiteUrl:
 id: le-boukarou
-facebook: https://www.facebook.com/LeboukarouOfficiel/
 linkedin:
 city:
 region:
@@ -39,3 +37,4 @@ lng:
 address_line1: "Douala, Cameroun"
 websiteUrl:
 twitterHandle:
+facebookUrl: https://www.facebook.com/LeboukarouOfficiel/

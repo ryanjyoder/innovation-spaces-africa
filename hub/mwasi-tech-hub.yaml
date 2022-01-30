@@ -1,5 +1,4 @@
 id: mwasi-tech-hub
-facebook: https://www.facebook.com/mwasitechhub
 linkedin:
 city: Kinshasa
 region:
@@ -14,7 +13,6 @@ lng:
 address_line1: ""
 websiteUrl:
 id: mwasi-tech-hub
-facebook: https://www.facebook.com/mwasitechhub
 linkedin:
 city: Kinshasa
 region:
@@ -29,3 +27,4 @@ lng:
 address_line1: ""
 websiteUrl:
 twitterHandle:
+facebookUrl: https://www.facebook.com/mwasitechhub

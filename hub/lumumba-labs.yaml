@@ -1,5 +1,4 @@
 id: lumumba-labs
-facebook: https://www.facebook.com/ZairInnov/
 linkedin:
 city: Kinshasa
 region:
@@ -14,7 +13,6 @@ lng: 21.758664
 address_line1: "253, Avenue Kimvula"
 websiteUrl: http://www.llab.cd/
 id: lumumba-labs
-facebook: https://www.facebook.com/ZairInnov/
 linkedin:
 city: Kinshasa
 region:
@@ -29,3 +27,4 @@ lng: 21.758664
 address_line1: "253, Avenue Kimvula"
 websiteUrl: http://www.llab.cd/
 twitterHandle: LabLumumba
+facebookUrl: https://www.facebook.com/ZairInnov/

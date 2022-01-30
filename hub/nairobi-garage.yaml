@@ -1,5 +1,4 @@
 id: nairobi-garage
-facebook:
 linkedin:
 city: Nairobi
 region: Nairobi County
@@ -25,7 +24,6 @@ lng: 36.8219462
 address_line1: "Nairobi, Kenya"
 websiteUrl: https://nairobigarage.com/
 id: nairobi-garage
-facebook:
 linkedin:
 city: Nairobi
 region: Nairobi County
@@ -51,3 +49,4 @@ lng: 36.8219462
 address_line1: "Nairobi, Kenya"
 websiteUrl: https://nairobigarage.com/
 twitterHandle: nairobigarage
+facebookUrl:

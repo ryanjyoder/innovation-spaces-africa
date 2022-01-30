@@ -1,5 +1,4 @@
 id: gspace
-facebook:
 linkedin:
 city: Accra
 region:
@@ -14,7 +13,6 @@ lng:
 address_line1: ""
 websiteUrl: http://gspace.addhen.org/
 id: gspace
-facebook:
 linkedin:
 city: Accra
 region:
@@ -29,3 +27,4 @@ lng:
 address_line1: ""
 websiteUrl: http://gspace.addhen.org/
 twitterHandle:
+facebookUrl:

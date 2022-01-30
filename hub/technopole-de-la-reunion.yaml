@@ -1,5 +1,4 @@
 id: technopole-de-la-reunion
-facebook:
 linkedin:
 city: Saint Denis (Sainte Clotilde)
 region:
@@ -17,7 +16,6 @@ lng:
 address_line1: ""
 websiteUrl: http://technopole-reunion.com
 id: technopole-de-la-reunion
-facebook:
 linkedin:
 city: Saint Denis (Sainte Clotilde)
 region:
@@ -35,3 +33,4 @@ lng:
 address_line1: ""
 websiteUrl: http://technopole-reunion.com
 twitterHandle:
+facebookUrl:

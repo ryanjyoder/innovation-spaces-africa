@@ -1,5 +1,4 @@
 id: ebene-accelerator
-facebook:
 linkedin:
 city: Ebene Cybercity
 region:
@@ -19,7 +18,6 @@ lng:
 address_line1: ""
 websiteUrl: http://ebeneaccelerator.mu
 id: ebene-accelerator
-facebook:
 linkedin:
 city: Ebene Cybercity
 region:
@@ -39,3 +37,4 @@ lng:
 address_line1: ""
 websiteUrl: http://ebeneaccelerator.mu
 twitterHandle: ebn_accelerator
+facebookUrl:

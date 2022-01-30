@@ -1,5 +1,4 @@
 id: olotu-square-lagos
-facebook:
 linkedin:
 city: Lagos
 region: Lagos
@@ -16,7 +15,6 @@ lng: 3.2833564
 address_line1: "Nigeria Newspapers, Lagos, Nigeria"
 websiteUrl: https://olotusquare.co/
 id: olotu-square-lagos
-facebook:
 linkedin:
 city: Lagos
 region: Lagos
@@ -33,3 +31,4 @@ lng: 3.2833564
 address_line1: "Nigeria Newspapers, Lagos, Nigeria"
 websiteUrl: https://olotusquare.co/
 twitterHandle: olotusquare
+facebookUrl:

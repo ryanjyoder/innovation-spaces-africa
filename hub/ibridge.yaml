@@ -1,5 +1,4 @@
 id: ibridge
-facebook:
 linkedin:
 city:
 region:
@@ -16,7 +15,6 @@ lng: 8.67527700000005
 address_line1: "Nigeria"
 websiteUrl: http://www.ibridgehub.com/
 id: ibridge
-facebook:
 linkedin:
 city:
 region:
@@ -33,3 +31,4 @@ lng: 8.67527700000005
 address_line1: "Nigeria"
 websiteUrl: http://www.ibridgehub.com/
 twitterHandle:
+facebookUrl:

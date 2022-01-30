@@ -1,5 +1,4 @@
 id: bantuhub
-facebook:
 linkedin:
 city: Brazzaville
 region:
@@ -17,7 +16,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.bantuhub.com/
 id: bantuhub
-facebook:
 linkedin:
 city: Brazzaville
 region:
@@ -35,3 +33,4 @@ lng:
 address_line1: ""
 websiteUrl: http://www.bantuhub.com/
 twitterHandle:
+facebookUrl:

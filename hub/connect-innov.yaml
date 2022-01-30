@@ -1,5 +1,4 @@
 id: connect-innov
-facebook:
 linkedin:
 city: Tunis 1053
 region:
@@ -17,7 +16,6 @@ lng:
 address_line1: "Rue Lac Victoria"
 websiteUrl: https://connect-innov.com/
 id: connect-innov
-facebook:
 linkedin:
 city: Tunis 1053
 region:
@@ -35,3 +33,4 @@ lng:
 address_line1: "Rue Lac Victoria"
 websiteUrl: https://connect-innov.com/
 twitterHandle:
+facebookUrl:

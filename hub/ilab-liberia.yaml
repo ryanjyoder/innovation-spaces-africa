@@ -1,5 +1,4 @@
 id: ilab-liberia
-facebook:
 linkedin:
 city: Monrovia
 region: Montserrado
@@ -21,7 +20,6 @@ lng: -10.7988739
 address_line1: "Camp Johnson Rd, Monrovia, Liberia"
 websiteUrl: http://ilabliberia.org/
 id: ilab-liberia
-facebook:
 linkedin:
 city: Monrovia
 region: Montserrado
@@ -43,3 +41,4 @@ lng: -10.7988739
 address_line1: "Camp Johnson Rd, Monrovia, Liberia"
 websiteUrl: http://ilabliberia.org/
 twitterHandle: iLabLiberia
+facebookUrl:

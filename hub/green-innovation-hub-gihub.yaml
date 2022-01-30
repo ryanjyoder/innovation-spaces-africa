@@ -1,5 +1,4 @@
 id: green-innovation-hub-gihub
-facebook: https://www.facebook.com/GiHUBZim/
 linkedin:
 city: Harare
 region: Harare Province
@@ -17,7 +16,6 @@ lng: 31.03351
 address_line1: "Harare, Zimbabwe"
 websiteUrl: http://www.gih.space/
 id: green-innovation-hub-gihub
-facebook: https://www.facebook.com/GiHUBZim/
 linkedin:
 city: Harare
 region: Harare Province
@@ -35,3 +33,4 @@ lng: 31.03351
 address_line1: "Harare, Zimbabwe"
 websiteUrl: http://www.gih.space/
 twitterHandle:
+facebookUrl: https://www.facebook.com/GiHUBZim/

@@ -1,5 +1,4 @@
 id: silicon-cape-initiative
-facebook:
 linkedin:
 city: Cape Town
 region:
@@ -22,7 +21,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.siliconcape.com/
 id: silicon-cape-initiative
-facebook:
 linkedin:
 city: Cape Town
 region:
@@ -45,3 +43,4 @@ lng:
 address_line1: ""
 websiteUrl: http://www.siliconcape.com/
 twitterHandle: siliconcape
+facebookUrl:

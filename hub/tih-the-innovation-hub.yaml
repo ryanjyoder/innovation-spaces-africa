@@ -1,5 +1,4 @@
 id: tih-the-innovation-hub
-facebook:
 linkedin:
 city: Pretoria
 region:
@@ -16,7 +15,6 @@ lng:
 address_line1: ""
 websiteUrl: www.theinnovationhub.com
 id: tih-the-innovation-hub
-facebook:
 linkedin:
 city: Pretoria
 region:
@@ -33,3 +31,4 @@ lng:
 address_line1: ""
 websiteUrl: www.theinnovationhub.com
 twitterHandle:
+facebookUrl:

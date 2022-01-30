@@ -1,5 +1,4 @@
 id: smart-xchange
-facebook:
 linkedin:
 city: Durban
 region:
@@ -15,7 +14,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.smartxchange.co.za/
 id: smart-xchange
-facebook:
 linkedin:
 city: Durban
 region:
@@ -31,3 +29,4 @@ lng:
 address_line1: ""
 websiteUrl: http://www.smartxchange.co.za/
 twitterHandle:
+facebookUrl:

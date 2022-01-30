@@ -1,5 +1,4 @@
 id: icecairo
-facebook:
 linkedin:
 city: Cairo
 region:
@@ -13,7 +12,6 @@ lng:
 address_line1: ""
 websiteUrl: http://icecairo.com/
 id: icecairo
-facebook:
 linkedin:
 city: Cairo
 region:
@@ -27,3 +25,4 @@ lng:
 address_line1: ""
 websiteUrl: http://icecairo.com/
 twitterHandle:
+facebookUrl:

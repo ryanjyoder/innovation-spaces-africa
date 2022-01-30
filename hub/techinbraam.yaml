@@ -1,5 +1,4 @@
 id: techinbraam
-facebook:
 linkedin:
 city: Johannesburg
 region:
@@ -18,7 +17,6 @@ lng:
 address_line1: ""
 websiteUrl: http://techinbraam.co.za
 id: techinbraam
-facebook:
 linkedin:
 city: Johannesburg
 region:
@@ -37,3 +35,4 @@ lng:
 address_line1: ""
 websiteUrl: http://techinbraam.co.za
 twitterHandle:
+facebookUrl:

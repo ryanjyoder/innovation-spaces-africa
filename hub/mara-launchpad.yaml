@@ -1,5 +1,4 @@
 id: mara-launchpad
-facebook:
 linkedin:
 city: Kampala
 region:
@@ -16,7 +15,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.mara-foundation.org/
 id: mara-launchpad
-facebook:
 linkedin:
 city: Kampala
 region:
@@ -33,3 +31,4 @@ lng:
 address_line1: ""
 websiteUrl: http://www.mara-foundation.org/
 twitterHandle: MaraPhones
+facebookUrl:

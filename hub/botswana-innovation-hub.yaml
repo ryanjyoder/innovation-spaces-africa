@@ -1,5 +1,4 @@
 id: botswana-innovation-hub
-facebook:
 linkedin:
 city: Gaborone
 region:
@@ -23,7 +22,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.bih.co.bw/
 id: botswana-innovation-hub
-facebook:
 linkedin:
 city: Gaborone
 region:
@@ -47,3 +45,4 @@ lng:
 address_line1: ""
 websiteUrl: http://www.bih.co.bw/
 twitterHandle: YourBIH
+facebookUrl:

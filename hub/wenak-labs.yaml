@@ -1,5 +1,4 @@
 id: wenak-labs
-facebook: https://www.facebook.com/wenaklabs
 linkedin:
 city:
 region: N�Djamena
@@ -20,7 +19,6 @@ lng: 14.4490398
 address_line1: "Immeuble BSIC, 2eme �tage"
 websiteUrl: http://www.wenaklabs.org/
 id: wenak-labs
-facebook: https://www.facebook.com/wenaklabs
 linkedin:
 city:
 region: N�Djamena
@@ -41,3 +39,4 @@ lng: 14.4490398
 address_line1: "Immeuble BSIC, 2eme �tage"
 websiteUrl: http://www.wenaklabs.org/
 twitterHandle: WenakLabs
+facebookUrl: https://www.facebook.com/wenaklabs

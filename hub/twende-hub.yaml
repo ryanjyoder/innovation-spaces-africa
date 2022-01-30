@@ -1,5 +1,4 @@
 id: twende-hub
-facebook:
 linkedin:
 city: Tanzania
 region: Western Region
@@ -15,7 +14,6 @@ lng: -3.17231800000002
 address_line1: "Tanzania, Western Region, Ghana"
 websiteUrl: http://www.twende-tanzania.org/
 id: twende-hub
-facebook:
 linkedin:
 city: Tanzania
 region: Western Region
@@ -31,3 +29,4 @@ lng: -3.17231800000002
 address_line1: "Tanzania, Western Region, Ghana"
 websiteUrl: http://www.twende-tanzania.org/
 twitterHandle:
+facebookUrl:

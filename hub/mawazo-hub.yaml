@@ -1,5 +1,4 @@
 id: mawazo-hub
-facebook:
 linkedin:
 city: Kampala
 region: Central Region
@@ -15,7 +14,6 @@ lng: 32.5844634
 address_line1: "Uganda House, Kampala, Uganda"
 websiteUrl: http://www.nftmawazo.com/
 id: mawazo-hub
-facebook:
 linkedin:
 city: Kampala
 region: Central Region
@@ -31,3 +29,4 @@ lng: 32.5844634
 address_line1: "Uganda House, Kampala, Uganda"
 websiteUrl: http://www.nftmawazo.com/
 twitterHandle:
+facebookUrl:

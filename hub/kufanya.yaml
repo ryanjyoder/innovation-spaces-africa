@@ -1,5 +1,4 @@
 id: kufanya
-facebook: https://www.facebook.com/kufanyaincub/
 linkedin:
 city:
 region:
@@ -13,7 +12,6 @@ lng:
 address_line1: "Rue Mongi Bali, Sfax"
 websiteUrl: https://www.facebook.com/kufanyaincub/
 id: kufanya
-facebook: https://www.facebook.com/kufanyaincub/
 linkedin:
 city:
 region:
@@ -27,3 +25,4 @@ lng:
 address_line1: "Rue Mongi Bali, Sfax"
 websiteUrl: https://www.facebook.com/kufanyaincub/
 twitterHandle:
+facebookUrl: https://www.facebook.com/kufanyaincub/

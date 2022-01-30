@@ -1,5 +1,4 @@
 id: expert-labs-mali
-facebook: https://www.facebook.com/ExpertLabsBamako/?ref=bookmarks
 linkedin:
 city: Bamako
 region:
@@ -14,7 +13,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.expertlabsmali.com
 id: expert-labs-mali
-facebook: https://www.facebook.com/ExpertLabsBamako/?ref=bookmarks
 linkedin:
 city: Bamako
 region:
@@ -29,3 +27,4 @@ lng:
 address_line1: ""
 websiteUrl: http://www.expertlabsmali.com
 twitterHandle:
+facebookUrl: https://www.facebook.com/ExpertLabsBamako/?ref=bookmarks

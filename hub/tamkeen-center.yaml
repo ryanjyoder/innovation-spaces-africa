@@ -1,5 +1,4 @@
 id: tamkeen-center
-facebook:
 linkedin:
 city:
 region:
@@ -16,7 +15,6 @@ lng:
 address_line1: "Oujda, Maroc"
 websiteUrl: http://www.tamkeen.ma
 id: tamkeen-center
-facebook:
 linkedin:
 city:
 region:
@@ -33,3 +31,4 @@ lng:
 address_line1: "Oujda, Maroc"
 websiteUrl: http://www.tamkeen.ma
 twitterHandle: CenterTamkeen
+facebookUrl:

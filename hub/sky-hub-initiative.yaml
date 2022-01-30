@@ -1,5 +1,4 @@
 id: sky-hub-initiative
-facebook:
 linkedin:
 city: Bulawayo
 region:
@@ -14,7 +13,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.skyhub.co.zw/
 id: sky-hub-initiative
-facebook:
 linkedin:
 city: Bulawayo
 region:
@@ -29,3 +27,4 @@ lng:
 address_line1: ""
 websiteUrl: http://www.skyhub.co.zw/
 twitterHandle:
+facebookUrl:

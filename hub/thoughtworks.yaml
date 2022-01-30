@@ -1,5 +1,4 @@
 id: thoughtworks
-facebook:
 linkedin:
 city: Johannesburg
 region:
@@ -19,7 +18,6 @@ lng:
 address_line1: ""
 websiteUrl: http://info.thoughtworks.com/
 id: thoughtworks
-facebook:
 linkedin:
 city: Johannesburg
 region:
@@ -39,3 +37,4 @@ lng:
 address_line1: ""
 websiteUrl: http://info.thoughtworks.com/
 twitterHandle: thoughtworks
+facebookUrl:

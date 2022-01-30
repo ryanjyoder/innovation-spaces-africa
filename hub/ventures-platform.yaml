@@ -1,5 +1,4 @@
 id: ventures-platform
-facebook:
 linkedin:
 city: Abuja
 region: Federal Capital Territory
@@ -27,7 +26,6 @@ lng: 7.49190239999996
 address_line1: "Abuja International Conference Centre, Herbert Macaulay Way, Abuja, Nigeria"
 websiteUrl: http://www.venturesplatform.com/
 id: ventures-platform
-facebook:
 linkedin:
 city: Abuja
 region: Federal Capital Territory
@@ -55,3 +53,4 @@ lng: 7.49190239999996
 address_line1: "Abuja International Conference Centre, Herbert Macaulay Way, Abuja, Nigeria"
 websiteUrl: http://www.venturesplatform.com/
 twitterHandle: vplatformhub
+facebookUrl:

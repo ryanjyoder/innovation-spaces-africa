@@ -1,5 +1,4 @@
 id: honode-hub
-facebook:
 linkedin:
 city: Dzodze
 region: Volta Region
@@ -15,7 +14,6 @@ lng: 0.996561700000029
 address_line1: "Ho - Denu Road, Dzodze, Ghana"
 websiteUrl: https://honode.org/
 id: honode-hub
-facebook:
 linkedin:
 city: Dzodze
 region: Volta Region
@@ -31,3 +29,4 @@ lng: 0.996561700000029
 address_line1: "Ho - Denu Road, Dzodze, Ghana"
 websiteUrl: https://honode.org/
 twitterHandle: Honodehub
+facebookUrl:

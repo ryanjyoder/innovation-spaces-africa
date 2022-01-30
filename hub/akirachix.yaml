@@ -1,5 +1,4 @@
 id: akirachix
-facebook:
 linkedin:
 city: Nakuru
 region: Nakuru County
@@ -28,7 +27,6 @@ lng: 36.0693113
 address_line1: "Kenyatta Avenue, Nakuru, Kenya"
 websiteUrl: http://akirachix.com/
 id: akirachix
-facebook:
 linkedin:
 city: Nakuru
 region: Nakuru County
@@ -57,3 +55,4 @@ lng: 36.0693113
 address_line1: "Kenyatta Avenue, Nakuru, Kenya"
 websiteUrl: http://akirachix.com/
 twitterHandle: akirachix
+facebookUrl:

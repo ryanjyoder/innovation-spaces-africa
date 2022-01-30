@@ -1,5 +1,4 @@
 id: the-innovation-hub
-facebook:
 linkedin:
 city:
 region:
@@ -17,7 +16,6 @@ lng: 22.937506
 address_line1: "South Africa"
 websiteUrl: https://theinnovationhub.com/
 id: the-innovation-hub
-facebook:
 linkedin:
 city:
 region:
@@ -35,3 +33,4 @@ lng: 22.937506
 address_line1: "South Africa"
 websiteUrl: https://theinnovationhub.com/
 twitterHandle: InnovHub
+facebookUrl:

@@ -1,5 +1,4 @@
 id: hypercube-hub
-facebook:
 linkedin:
 city: Harare
 region:
@@ -22,7 +21,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.hypercubehub.co/en
 id: hypercube-hub
-facebook:
 linkedin:
 city: Harare
 region:
@@ -45,3 +43,4 @@ lng:
 address_line1: ""
 websiteUrl: http://www.hypercubehub.co/en
 twitterHandle: hypercubehub
+facebookUrl:

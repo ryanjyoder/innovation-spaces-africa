@@ -1,5 +1,4 @@
 id: civic-foundation-for-innovation
-facebook:
 linkedin:
 city: Abuja
 region: Federal Capital Territory
@@ -16,7 +15,6 @@ lng: 7.39857400000005
 address_line1: "Abuja, Nigeria"
 websiteUrl: https://civicfoundationforinnovation.org/
 id: civic-foundation-for-innovation
-facebook:
 linkedin:
 city: Abuja
 region: Federal Capital Territory
@@ -33,3 +31,4 @@ lng: 7.39857400000005
 address_line1: "Abuja, Nigeria"
 websiteUrl: https://civicfoundationforinnovation.org/
 twitterHandle:
+facebookUrl:

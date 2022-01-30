@@ -1,5 +1,4 @@
 id: innov-up
-facebook: https://www.facebook.com/centreInnovupTogo/
 linkedin:
 city:
 region:
@@ -22,7 +21,6 @@ lng:
 address_line1: "innovup, Avenue Du 24 Janvier, Lom�, Togo"
 websiteUrl: http://innovup.fefa.tg/
 id: innov-up
-facebook: https://www.facebook.com/centreInnovupTogo/
 linkedin:
 city:
 region:
@@ -45,3 +43,4 @@ lng:
 address_line1: "innovup, Avenue Du 24 Janvier, Lom�, Togo"
 websiteUrl: http://innovup.fefa.tg/
 twitterHandle:
+facebookUrl: https://www.facebook.com/centreInnovupTogo/

@@ -1,5 +1,4 @@
 id: jokkolabs-bamako
-facebook:
 linkedin:
 city:
 region:
@@ -17,7 +16,6 @@ lng:
 address_line1: "Torokorobougou ,  Bamako"
 websiteUrl: http://www.jokkolabs.net/Bamako
 id: jokkolabs-bamako
-facebook:
 linkedin:
 city:
 region:
@@ -35,3 +33,4 @@ lng:
 address_line1: "Torokorobougou ,  Bamako"
 websiteUrl: http://www.jokkolabs.net/Bamako
 twitterHandle: JklBamako
+facebookUrl:

@@ -1,5 +1,4 @@
 id: jokkolabs-niamey
-facebook:
 linkedin:
 city:
 region:
@@ -16,7 +15,6 @@ lng:
 address_line1: ""
 websiteUrl:
 id: jokkolabs-niamey
-facebook:
 linkedin:
 city:
 region:
@@ -33,3 +31,4 @@ lng:
 address_line1: ""
 websiteUrl:
 twitterHandle: JokkolabsNiamey
+facebookUrl:

@@ -1,5 +1,4 @@
 id: northeast-innovation-hub
-facebook:
 linkedin:
 city:
 region: Adamawa
@@ -15,7 +14,6 @@ lng:
 address_line1: "NE Innovation Campus, No 3 Legom Close, Off Kashim Ibrahim Way, Jimeta 640221"
 websiteUrl: humanitarianihub.org
 id: northeast-innovation-hub
-facebook:
 linkedin:
 city:
 region: Adamawa
@@ -31,3 +29,4 @@ lng:
 address_line1: "NE Innovation Campus, No 3 Legom Close, Off Kashim Ibrahim Way, Jimeta 640221"
 websiteUrl: humanitarianihub.org
 twitterHandle: Northeast_iHub
+facebookUrl:

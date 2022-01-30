@@ -1,5 +1,4 @@
 id: bongohive
-facebook:
 linkedin:
 city: Lusaka
 region: Lusaka Province
@@ -23,7 +22,6 @@ lng: 28.3099678
 address_line1: "Haile Selassie Ave, Lusaka, Zambia"
 websiteUrl: http://bongohive.co.zm/
 id: bongohive
-facebook:
 linkedin:
 city: Lusaka
 region: Lusaka Province
@@ -47,3 +45,4 @@ lng: 28.3099678
 address_line1: "Haile Selassie Ave, Lusaka, Zambia"
 websiteUrl: http://bongohive.co.zm/
 twitterHandle: bongohive
+facebookUrl:

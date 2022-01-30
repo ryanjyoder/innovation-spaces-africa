@@ -1,5 +1,4 @@
 id: omedema
-facebook:
 linkedin:
 city:
 region:
@@ -15,7 +14,6 @@ lng:
 address_line1: "1 Rue de la Mare Adam, Chaville, France"
 websiteUrl: http://WWW.OMEDEMA.COM
 id: omedema
-facebook:
 linkedin:
 city:
 region:
@@ -31,3 +29,4 @@ lng:
 address_line1: "1 Rue de la Mare Adam, Chaville, France"
 websiteUrl: http://WWW.OMEDEMA.COM
 twitterHandle:
+facebookUrl:

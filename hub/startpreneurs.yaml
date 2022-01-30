@@ -1,5 +1,4 @@
 id: startpreneurs
-facebook:
 linkedin:
 city:
 region:
@@ -18,7 +17,6 @@ lng: 8.67527700000005
 address_line1: "Nigeria"
 websiteUrl: http://www.startpreneurs.com.ng/
 id: startpreneurs
-facebook:
 linkedin:
 city:
 region:
@@ -37,3 +35,4 @@ lng: 8.67527700000005
 address_line1: "Nigeria"
 websiteUrl: http://www.startpreneurs.com.ng/
 twitterHandle: startpreneurs
+facebookUrl:

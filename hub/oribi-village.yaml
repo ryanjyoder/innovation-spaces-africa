@@ -1,5 +1,4 @@
 id: oribi-village
-facebook: https://www.facebook.com/ORIBIVillage/
 linkedin:
 city:
 region:
@@ -18,7 +17,6 @@ lng:
 address_line1: "19 Park Road, Gardens, Cape Town, Afrique du Sud"
 websiteUrl: http://www.oribivillage.com
 id: oribi-village
-facebook: https://www.facebook.com/ORIBIVillage/
 linkedin:
 city:
 region:
@@ -37,3 +35,4 @@ lng:
 address_line1: "19 Park Road, Gardens, Cape Town, Afrique du Sud"
 websiteUrl: http://www.oribivillage.com
 twitterHandle: ORIBIv
+facebookUrl: https://www.facebook.com/ORIBIVillage/

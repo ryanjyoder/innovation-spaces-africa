@@ -1,5 +1,4 @@
 id: reconstructed-living-lab-rlabs
-facebook:
 linkedin:
 city: Cape Town
 region: Western Cape
@@ -17,7 +16,6 @@ lng: 18.532508
 address_line1: "66 Tarentaal Rd, Bridgetown, Cape Town 7769, South Africa"
 websiteUrl: http://rlabs.org/
 id: reconstructed-living-lab-rlabs
-facebook:
 linkedin:
 city: Cape Town
 region: Western Cape
@@ -35,3 +33,4 @@ lng: 18.532508
 address_line1: "66 Tarentaal Rd, Bridgetown, Cape Town 7769, South Africa"
 websiteUrl: http://rlabs.org/
 twitterHandle: RLabs
+facebookUrl:

@@ -1,5 +1,4 @@
 id: amn-coworking-space
-facebook:
 linkedin:
 city: Abidjan
 region: R�gion des lagunes
@@ -17,7 +16,6 @@ lng: -3.96637899999996
 address_line1: "E 128, Abidjan, C�te d'Ivoire"
 websiteUrl: https://wiki.hackerspaces.org/AMN_Co_Working_Space
 id: amn-coworking-space
-facebook:
 linkedin:
 city: Abidjan
 region: R�gion des lagunes
@@ -35,3 +33,4 @@ lng: -3.96637899999996
 address_line1: "E 128, Abidjan, C�te d'Ivoire"
 websiteUrl: https://wiki.hackerspaces.org/AMN_Co_Working_Space
 twitterHandle:
+facebookUrl:

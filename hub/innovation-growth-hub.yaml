@@ -1,5 +1,4 @@
 id: innovation-growth-hub
-facebook:
 linkedin:
 city:
 region: Abia
@@ -19,7 +18,6 @@ lng: 7.5247243
 address_line1: "Abia, Nigeria"
 websiteUrl: https://ighub.com.ng/
 id: innovation-growth-hub
-facebook:
 linkedin:
 city:
 region: Abia
@@ -39,3 +37,4 @@ lng: 7.5247243
 address_line1: "Abia, Nigeria"
 websiteUrl: https://ighub.com.ng/
 twitterHandle: theighubafrica
+facebookUrl:

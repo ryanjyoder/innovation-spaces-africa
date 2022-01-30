@@ -1,5 +1,4 @@
 id: the-nailab
-facebook:
 linkedin:
 city: Nairobi
 region: Nairobi County
@@ -20,7 +19,6 @@ lng: 36.6891955999999
 address_line1: "Ngong View Road, Nairobi, Kenya"
 websiteUrl: http://nailab.co.ke/
 id: the-nailab
-facebook:
 linkedin:
 city: Nairobi
 region: Nairobi County
@@ -41,3 +39,4 @@ lng: 36.6891955999999
 address_line1: "Ngong View Road, Nairobi, Kenya"
 websiteUrl: http://nailab.co.ke/
 twitterHandle: thenailab
+facebookUrl:

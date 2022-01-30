@@ -1,5 +1,4 @@
 id: congo-business-network
-facebook:
 linkedin:
 city:
 region:
@@ -16,7 +15,6 @@ lng:
 address_line1: "Concession Procoki, avenue de L&#039;OUA, Kinshasa, Democratic Republic of the Congo"
 websiteUrl: http://www.congobusinessnetwork.org
 id: congo-business-network
-facebook:
 linkedin:
 city:
 region:
@@ -33,3 +31,4 @@ lng:
 address_line1: "Concession Procoki, avenue de L&#039;OUA, Kinshasa, Democratic Republic of the Congo"
 websiteUrl: http://www.congobusinessnetwork.org
 twitterHandle: CongoBizNetwork
+facebookUrl:

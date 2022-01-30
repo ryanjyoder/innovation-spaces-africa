@@ -1,5 +1,4 @@
 id: auc-venture-lab
-facebook:
 linkedin:
 city: Cairo
 region:
@@ -24,7 +23,6 @@ lng:
 address_line1: ""
 websiteUrl: https://business.aucegypt.edu/centers/vlab/
 id: auc-venture-lab
-facebook:
 linkedin:
 city: Cairo
 region:
@@ -49,3 +47,4 @@ lng:
 address_line1: ""
 websiteUrl: https://business.aucegypt.edu/centers/vlab/
 twitterHandle: aucventurelab
+facebookUrl:

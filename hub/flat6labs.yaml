@@ -1,5 +1,4 @@
 id: flat6labs
-facebook:
 linkedin:
 city: Cairo
 region:
@@ -27,7 +26,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.flat6labs.com
 id: flat6labs
-facebook:
 linkedin:
 city: Cairo
 region:
@@ -55,3 +53,4 @@ lng:
 address_line1: ""
 websiteUrl: http://www.flat6labs.com
 twitterHandle: Flat6LabsFR
+facebookUrl:

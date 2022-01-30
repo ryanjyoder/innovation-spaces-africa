@@ -1,5 +1,4 @@
 id: etrilabs
-facebook: https://www.facebook.com/etrilabscotonou/
 linkedin:
 city: Cotonou
 region: Littoral Department
@@ -18,7 +17,6 @@ lng: 2.42312849999996
 address_line1: "Rue 403, Cotonou, Benin"
 websiteUrl: http://www.etrilabs.com/
 id: etrilabs
-facebook: https://www.facebook.com/etrilabscotonou/
 linkedin:
 city: Cotonou
 region: Littoral Department
@@ -37,3 +35,4 @@ lng: 2.42312849999996
 address_line1: "Rue 403, Cotonou, Benin"
 websiteUrl: http://www.etrilabs.com/
 twitterHandle: EtriLabs
+facebookUrl: https://www.facebook.com/etrilabscotonou/

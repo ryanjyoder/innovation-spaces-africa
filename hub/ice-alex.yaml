@@ -1,5 +1,4 @@
 id: ice-alex
-facebook:
 linkedin:
 city:
 region: Alexandria Governorate
@@ -13,7 +12,6 @@ lng: 29.6962677
 address_line1: "Alexandria Governorate, Egypt"
 websiteUrl: http://icealex.com/
 id: ice-alex
-facebook:
 linkedin:
 city:
 region: Alexandria Governorate
@@ -27,3 +25,4 @@ lng: 29.6962677
 address_line1: "Alexandria Governorate, Egypt"
 websiteUrl: http://icealex.com/
 twitterHandle: icealexHub
+facebookUrl:

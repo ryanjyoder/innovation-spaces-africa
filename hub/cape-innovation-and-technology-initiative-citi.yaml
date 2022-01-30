@@ -1,5 +1,4 @@
 id: cape-innovation-and-technology-initiative-citi
-facebook:
 linkedin:
 city: Cape Town
 region:
@@ -21,7 +20,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.citi.org.za/
 id: cape-innovation-and-technology-initiative-citi
-facebook:
 linkedin:
 city: Cape Town
 region:
@@ -43,3 +41,4 @@ lng:
 address_line1: ""
 websiteUrl: http://www.citi.org.za/
 twitterHandle: Cape_IT
+facebookUrl:

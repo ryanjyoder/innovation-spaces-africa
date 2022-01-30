@@ -1,5 +1,4 @@
 id: nexgen-technology-center
-facebook:
 linkedin:
 city: Yaounde
 region: Centre
@@ -21,7 +20,6 @@ lng: 11.5020752
 address_line1: "Yaounde, Cameroon"
 websiteUrl: http://nexgentechs.org/
 id: nexgen-technology-center
-facebook:
 linkedin:
 city: Yaounde
 region: Centre
@@ -43,3 +41,4 @@ lng: 11.5020752
 address_line1: "Yaounde, Cameroon"
 websiteUrl: http://nexgentechs.org/
 twitterHandle: NexGenTechC
+facebookUrl:

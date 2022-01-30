@@ -1,5 +1,4 @@
 id: hive-colab
-facebook:
 linkedin:
 city: Kampala
 region: Central Region
@@ -18,7 +17,6 @@ lng: 32.582343
 address_line1: "Uganda National Museum, Kampala, Uganda"
 websiteUrl: http://hivecolab.org/
 id: hive-colab
-facebook:
 linkedin:
 city: Kampala
 region: Central Region
@@ -37,3 +35,4 @@ lng: 32.582343
 address_line1: "Uganda National Museum, Kampala, Uganda"
 websiteUrl: http://hivecolab.org/
 twitterHandle: hivecolab
+facebookUrl:

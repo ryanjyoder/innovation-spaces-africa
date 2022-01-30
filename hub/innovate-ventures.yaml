@@ -1,5 +1,4 @@
 id: innovate-ventures
-facebook:
 linkedin:
 city: Hargeisa
 region: Woqooyi Galbeed
@@ -22,7 +21,6 @@ lng: 44.0770133999999
 address_line1: "Hargeisa, Somalia"
 websiteUrl: https://www.innovate.so/
 id: innovate-ventures
-facebook:
 linkedin:
 city: Hargeisa
 region: Woqooyi Galbeed
@@ -45,3 +43,4 @@ lng: 44.0770133999999
 address_line1: "Hargeisa, Somalia"
 websiteUrl: https://www.innovate.so/
 twitterHandle:
+facebookUrl:

@@ -1,5 +1,4 @@
 id: ctic-dakar
-facebook: https://www.facebook.com/cticdakar/
 linkedin:
 city: Dakar
 region:
@@ -25,7 +24,6 @@ lng: -17.4306432
 address_line1: "Rue Berenger Feraud"
 websiteUrl: http://www.cticdakar.com/fr/
 id: ctic-dakar
-facebook: https://www.facebook.com/cticdakar/
 linkedin:
 city: Dakar
 region:
@@ -51,3 +49,4 @@ lng: -17.4306432
 address_line1: "Rue Berenger Feraud"
 websiteUrl: http://www.cticdakar.com/fr/
 twitterHandle: cticdakar
+facebookUrl: https://www.facebook.com/cticdakar/
