@@ -1,6 +1,4 @@
 id: gspace
-website: http://gspace.addhen.org/
-website-inactive:
 twitter:
 facebook:
 linkedin:
@@ -15,3 +13,20 @@ name: "gSpace"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://gspace.addhen.org/
+id: gspace
+twitter:
+facebook:
+linkedin:
+city: Accra
+region:
+country: Ghana
+email:
+articles:
+  - "http://ecostartup.org/guerra-tech-hub-lincubateur-du-nord-mise-pour-une-industrie-numerique-inclusive-mixte-et-egalitaire/"
+description: ""
+name: "gSpace"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://gspace.addhen.org/

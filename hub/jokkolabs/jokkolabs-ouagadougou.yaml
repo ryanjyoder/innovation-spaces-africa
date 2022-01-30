@@ -1,6 +1,4 @@
 id: jokkolabs-ouagadougou
-website: http://ouaga.jokkolabs.net/
-website-inactive:
 twitter: JklOuaga
 facebook:
 linkedin:
@@ -15,3 +13,20 @@ name: "Jokkolabs Ouagadougou"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://ouaga.jokkolabs.net/
+id: jokkolabs-ouagadougou
+twitter: JklOuaga
+facebook:
+linkedin:
+city: Ouagadougou
+region:
+country: Burkina Faso
+email:
+articles:
+  - "https://www.appsafrica.com/jokkolabs-becomes-member-of-growing-afrilabs-network/"
+description: ""
+name: "Jokkolabs Ouagadougou"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://ouaga.jokkolabs.net/

@@ -1,6 +1,4 @@
 id: akendewa
-website: www.akendewa.org
-website-inactive: x
 twitter:
 facebook:
 linkedin:
@@ -16,3 +14,21 @@ name: "Akendewa"
 lat:
 lng:
 address_line1: ""
+websiteUrl: www.akendewa.org
+id: akendewa
+twitter:
+facebook:
+linkedin:
+city: Abidjan
+region:
+country: Cote D'Ivoire
+email:
+articles:
+  - "https://fi.co/insight/silicon-valley-based-founder-institute-launches-new-startup-program-in-ivory-coast"
+  - "https://www.bbc.com/news/world-africa-12986141"
+description: ""
+name: "Akendewa"
+lat:
+lng:
+address_line1: ""
+websiteUrl: www.akendewa.org

@@ -1,6 +1,4 @@
 id: fablab-namibia
-website: http://www.fablabnamibia.org/
-website-inactive:
 twitter:
 facebook:
 linkedin:
@@ -17,3 +15,22 @@ name: "Fablab Namibia"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://www.fablabnamibia.org/
+id: fablab-namibia
+twitter:
+facebook:
+linkedin:
+city: Windhoek
+region:
+country: Namibia
+email:
+articles:
+  - "https://www.we.com.na/news/fablab-to-shut-its-doors2018-05-16"
+  - "https://allafrica.com/stories/201612210749.html"
+  - "https://www.namibiansun.com/news/team-namibia-and-fablab-play-business-matchmakers"
+description: ""
+name: "Fablab Namibia"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://www.fablabnamibia.org/

@@ -1,6 +1,4 @@
 id: verde-ventures-ltd
-website: http://www.verdefrontier.mu/
-website-inactive:
 twitter:
 facebook:
 linkedin:
@@ -14,3 +12,19 @@ name: "VERDE VENTURES LTD"
 lat:
 lng:
 address_line1: "Eb�ne, Quatre Bornes, Maurice"
+websiteUrl: http://www.verdefrontier.mu/
+id: verde-ventures-ltd
+twitter:
+facebook:
+linkedin:
+city:
+region:
+country:
+email:
+articles:
+description: ""
+name: "VERDE VENTURES LTD"
+lat:
+lng:
+address_line1: "Eb�ne, Quatre Bornes, Maurice"
+websiteUrl: http://www.verdefrontier.mu/

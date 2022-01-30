@@ -1,6 +1,4 @@
 id: impact-hub-johannesburg
-website: johannesburg.impacthub.net
-website-inactive:
 twitter: ImpactHub
 facebook:
 linkedin:
@@ -16,3 +14,21 @@ name: "IMPACT HUB "
 lat:
 lng:
 address_line1: ""
+websiteUrl: johannesburg.impacthub.net
+id: impact-hub-johannesburg
+twitter: ImpactHub
+facebook:
+linkedin:
+city: Johannesburg
+region:
+country: South Africa
+email:
+articles:
+  - "https://disrupt-africa.com/2015/07/23/impact-hub-johannesburg-closes/"
+  - "https://africabusinesscommunities.com/news/liquid-telecom-rwanda-partners-with-impact-hub-kigali-to-nurture-digital-innovation/"
+description: ""
+name: "IMPACT HUB "
+lat:
+lng:
+address_line1: ""
+websiteUrl: johannesburg.impacthub.net

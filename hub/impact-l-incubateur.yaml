@@ -1,6 +1,4 @@
 id: impact-l-incubateur
-website:
-website-inactive:
 twitter: IMPACT_LabESS
 facebook:
 linkedin:
@@ -17,3 +15,22 @@ name: "IMPACT, L'incubateur"
 lat:
 lng:
 address_line1: ""
+websiteUrl:
+id: impact-l-incubateur
+twitter: IMPACT_LabESS
+facebook:
+linkedin:
+city:
+region:
+country:
+email:
+articles:
+  - "https://www.unido.org/stories/new-age-startups-how-tunisias-millennial-entrepreneurs-are-boosting-economy"
+  - "https://www.macaubusiness.com/angolan-state-forced-to-make-25pct-of-purchases-from-small-and-medium-sized-enterprises/"
+description: |
+  L'incubateur IMPACT detecte, hrberge et accompagne des entreprises sociales tunisiennes.
+name: "IMPACT, L'incubateur"
+lat:
+lng:
+address_line1: ""
+websiteUrl:

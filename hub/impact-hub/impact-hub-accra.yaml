@@ -1,6 +1,4 @@
 id: impact-hub-accra
-website: https://accra.impacthub.net/
-website-inactive:
 twitter: impacthubaccra
 facebook: https://www.facebook.com/impacthubaccra/
 linkedin:
@@ -17,3 +15,22 @@ name: "Impact Hub Accra"
 lat:
 lng:
 address_line1: "F393/4 Otswe St Osu, Ako-Adjei"
+websiteUrl: https://accra.impacthub.net/
+id: impact-hub-accra
+twitter: impacthubaccra
+facebook: https://www.facebook.com/impacthubaccra/
+linkedin:
+instagram: https://www.instagram.com/impacthubaccra/
+city: Accra
+region:
+country: Ghana
+email:
+articles:
+  - "https://www.myjoyonline.com/76-ghanaian-startups-to-compete-for-telecel-group-africa-startup-initiative-program/"
+description: |-
+  "At Impact Hub Accra, we believe that the world’s greatest challenges will never be solved by one person or organization alone. We need to work together. That’s why we set out to create a thriving innovation ecosystem where people collaborate across organizations, cultures and generations to solve the grand challenges of our time."
+name: "Impact Hub Accra"
+lat:
+lng:
+address_line1: "F393/4 Otswe St Osu, Ako-Adjei"
+websiteUrl: https://accra.impacthub.net/

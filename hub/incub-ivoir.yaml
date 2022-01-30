@@ -1,6 +1,4 @@
 id: incub-ivoir
-website: http://incubivoir.net/
-website-inactive:
 twitter: ivoirincub
 facebook: https://www.facebook.com/incubivoir1/
 linkedin:
@@ -18,3 +16,23 @@ name: "Incub’ivoir "
 lat:
 lng:
 address_line1: "zone 3 rue des carrossiers Bo�te Postale 10 Bp 1041 Abidjan 10"
+websiteUrl: http://incubivoir.net/
+id: incub-ivoir
+twitter: ivoirincub
+facebook: https://www.facebook.com/incubivoir1/
+linkedin:
+city: Abidjan
+region:
+country: Côte d’Ivoire
+email: incubinfo@caamonde.org
+articles:
+  - "https://www.afrikatech.com/start-business/incubivoir-environment-startup-project-caravan/"
+  - "https://stage.intracen.org/news/With-support-from-FastTrackTech-tech-hubs-boost-innovation-in-West-Africa/"
+  - "https://www.water-entrepreneurship-pact.org/2021/05/31/what-weve-been-up-to-in-west-africa-so-far/"
+  - "https://inafrik.com/incubivoir-la-passerelle-ideale-entre-porteurs-de-projets-et-investisseurs/"
+description: ""
+name: "Incub’ivoir "
+lat:
+lng:
+address_line1: "zone 3 rue des carrossiers Bo�te Postale 10 Bp 1041 Abidjan 10"
+websiteUrl: http://incubivoir.net/

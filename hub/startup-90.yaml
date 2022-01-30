@@ -1,6 +1,4 @@
 id: startup-90
-website: https://www.startup90.com
-website-inactive:
 twitter: startup90
 facebook: https://www.facebook.com/startup90
 linkedin:
@@ -18,3 +16,23 @@ name: "Startup 90"
 lat:
 lng:
 address_line1: "Buchanan Square, Sir Lowry Road, Woodstock"
+websiteUrl: https://www.startup90.com
+id: startup-90
+twitter: startup90
+facebook: https://www.facebook.com/startup90
+linkedin:
+instagram: http://instagram.com/startup_90/
+city: Cape Town
+postal_code: 7925
+region:
+country: South Africa
+email:
+articles:
+  - "https://ventureburn.com/2014/12/new-center-mpumalanga-foster-culture-entrepreneurship/"
+  - "https://ventureburn.com/2015/02/startup-90-reveals-second-cohort-keen-acceleration/"
+description: ""
+name: "Startup 90"
+lat:
+lng:
+address_line1: "Buchanan Square, Sir Lowry Road, Woodstock"
+websiteUrl: https://www.startup90.com

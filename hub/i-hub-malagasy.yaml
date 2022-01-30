@@ -1,6 +1,4 @@
 id: i-hub-malagasy
-website: http://www.i-hub.mg/
-website-inactive:
 twitter:
 facebook:
 linkedin:
@@ -15,3 +13,20 @@ name: "I-Hub Malagasy"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://www.i-hub.mg/
+id: i-hub-malagasy
+twitter:
+facebook:
+linkedin:
+city: Antananarivo
+region:
+country: Madagascar
+email:
+articles:
+  - "https://www.mbuguanjihia.com/tag/malagasy-i-hub"
+description: ""
+name: "I-Hub Malagasy"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://www.i-hub.mg/

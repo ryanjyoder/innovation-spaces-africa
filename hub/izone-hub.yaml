@@ -1,6 +1,4 @@
 id: izone-hub
-website: https://izonehub.org.zw/
-website-inactive:
 twitter: izonehub
 facebook: https://www.facebook.com/izonehub/
 linkedin:
@@ -17,3 +15,22 @@ name: "iZone Hub"
 lat: -17.8118106
 lng: 31.0895029000001
 address_line1: "Zimbabwe Cricket, Maiden Drive, Harare, Zimbabwe"
+websiteUrl: https://izonehub.org.zw/
+id: izone-hub
+twitter: izonehub
+facebook: https://www.facebook.com/izonehub/
+linkedin:
+city: Harare
+region: Harare Province
+country: Zimbabwe
+email:
+articles:
+  - "https://www.africanews.com/2020/12/09/survey-reveals-95-percent-of-african-small-and-medium-sized-enterprises-smes-did-not-receive-government-aid-during-covid-19-pandemic//"
+  - "https://www.globalinnovationgathering.org/2018/09/15/izone-hub-has-a-new-address/"
+description: |
+  iZone Hub is an incubator and accelerator that are focused on skill acquisition, job creation and innovation.
+name: "iZone Hub"
+lat: -17.8118106
+lng: 31.0895029000001
+address_line1: "Zimbabwe Cricket, Maiden Drive, Harare, Zimbabwe"
+websiteUrl: https://izonehub.org.zw/

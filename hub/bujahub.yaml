@@ -1,6 +1,4 @@
 id: bujahub
-website: http://www.bujahub.com
-website-inactive: x
 twitter:
 facebook: https://www.facebook.com/bujahub/
 linkedin:
@@ -16,3 +14,21 @@ name: "BujaHub"
 lat:
 lng:
 address_line1: "Boulevard De La Liberte, Bujumbura, Burundi"
+websiteUrl: http://www.bujahub.com
+id: bujahub
+twitter:
+facebook: https://www.facebook.com/bujahub/
+linkedin:
+city:
+region:
+country:
+email: info@bujahub.com
+articles:
+  - "https://www.jimbere.org/news/digital-entrepreneurship-unemployment-solution-youth-burundi/"
+  - "none"
+description: ""
+name: "BujaHub"
+lat:
+lng:
+address_line1: "Boulevard De La Liberte, Bujumbura, Burundi"
+websiteUrl: http://www.bujahub.com

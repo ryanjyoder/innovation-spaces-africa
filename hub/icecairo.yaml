@@ -1,6 +1,4 @@
 id: icecairo
-website: http://icecairo.com/
-website-inactive:
 twitter:
 facebook:
 linkedin:
@@ -14,3 +12,19 @@ name: "IceCairo"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://icecairo.com/
+id: icecairo
+twitter:
+facebook:
+linkedin:
+city: Cairo
+region:
+country: Egypt
+email:
+articles:
+description: ""
+name: "IceCairo"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://icecairo.com/

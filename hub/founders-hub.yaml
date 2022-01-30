@@ -1,6 +1,4 @@
 id: founders-hub
-website: http://foundershub.xyz/holder/
-website-inactive:
 twitter: foundershubng
 facebook:
 linkedin:
@@ -15,3 +13,20 @@ name: "Founders Hub"
 lat: 8.9847995
 lng: 4.56244259999994
 address_line1: "Kwara, Nigeria"
+websiteUrl: http://foundershub.xyz/holder/
+id: founders-hub
+twitter: foundershubng
+facebook:
+linkedin:
+city:
+region: Kwara
+country: Nigeria
+email:
+articles:
+description: |
+  Founders Hub is an innovation hub that is focused on skill acquisition, youth engagement and innovation.
+name: "Founders Hub"
+lat: 8.9847995
+lng: 4.56244259999994
+address_line1: "Kwara, Nigeria"
+websiteUrl: http://foundershub.xyz/holder/

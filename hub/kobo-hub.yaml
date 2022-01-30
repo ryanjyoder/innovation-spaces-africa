@@ -1,6 +1,4 @@
 id: kobo-hub
-website: http://www.kobo-hub.com
-website-inactive:
 twitter: kobo_hub
 facebook: http://facebook.com/kobohubrdc
 linkedin:
@@ -16,3 +14,21 @@ name: "Kobo hub"
 lat:
 lng:
 address_line1: "Immeuble 130, avenue Kwango, Kinshasa (Ref: INA)"
+websiteUrl: http://www.kobo-hub.com
+id: kobo-hub
+twitter: kobo_hub
+facebook: http://facebook.com/kobohubrdc
+linkedin:
+city:
+region:
+country:
+email: secretariat@kobo-hub.com
+articles:
+  - "https://www.platformafrica.com/2020/06/23/kobo-hub-a-community-of-congolese-entrepreneurs/"
+description: |
+  Kobo Hub est une plateforme congolaise d�di�e � l�acc�l�ration de startups et de jeunes entreprises en R�publique D�mocratique du Congo.  Kobo Hub participe � la formation et au mentorat de startups pour les aider � grandir.  Nous accompagnons les porteurs de projets en mettant � leur disposition un r�seau d�experts pluridisciplinaires, un acc�s aux comp�tences, aux ressources et aux infrastructures indispensables au succ�s et � la croissance de leurs projets.
+name: "Kobo hub"
+lat:
+lng:
+address_line1: "Immeuble 130, avenue Kwango, Kinshasa (Ref: INA)"
+websiteUrl: http://www.kobo-hub.com

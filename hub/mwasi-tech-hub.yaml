@@ -1,6 +1,4 @@
 id: mwasi-tech-hub
-website:
-website-inactive:
 twitter:
 facebook: https://www.facebook.com/mwasitechhub
 linkedin:
@@ -15,3 +13,20 @@ name: "Mwasi Tech Hub"
 lat:
 lng:
 address_line1: ""
+websiteUrl:
+id: mwasi-tech-hub
+twitter:
+facebook: https://www.facebook.com/mwasitechhub
+linkedin:
+city: Kinshasa
+region:
+country: Cote D'Ivoire
+email:
+articles:
+  - "https://sarahclavel.com/2014/07/14/hubs-in-africa-what-are-they-up-to/"
+description: ""
+name: "Mwasi Tech Hub"
+lat:
+lng:
+address_line1: ""
+websiteUrl:

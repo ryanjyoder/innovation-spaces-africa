@@ -1,6 +1,4 @@
 id: kinu-innovation-and-co-creation-space
-website: http://www.kinu.co.tz/
-website-inactive:
 twitter:
 facebook:
 linkedin:
@@ -17,3 +15,22 @@ name: "Kinu Innovation and Co-Creation Space"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://www.kinu.co.tz/
+id: kinu-innovation-and-co-creation-space
+twitter:
+facebook:
+linkedin:
+city: Dar es Salaam
+region:
+country: Tanzania
+email:
+articles:
+  - "https://afruturist.medium.com/what-you-need-to-know-about-tanzania-innovation-ecosystem-why-we-are-the-fastest-12ebfc7c32ef"
+  - "https://savannah.vc/2012/08/18/tanzania-tech-ecosystem-rising-kinu-innovation-workspace-competitive-mobile-money-mcommerce-kicks-off/#.YM6J3uhKhPY"
+  - "https://www.morningfuture.com/en/article/2019/07/12/cities-african-tech-hub/677/"
+description: ""
+name: "Kinu Innovation and Co-Creation Space"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://www.kinu.co.tz/

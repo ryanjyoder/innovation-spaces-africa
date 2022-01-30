@@ -2,8 +2,7 @@ title: "Black Girls Code South Africa"
 date: 2021-06-12T15:35:07-04:00
 draft: true
 id: black-girls-code
-website: https://blackgirlscode.com/chapter/sa/
-website-inactive:
+websiteUrl: https://blackgirlscode.com/chapter/sa/
 twitter: blackgirlscode
 facebook: https://www.facebook.com/BlackGirlsCodeJohannesburg
 linkedin:
@@ -29,5 +28,5 @@ articles:
   - "https://elsevierfoundation.org/black-girls-code-code-girl-club/"
   - "https://www.yahoo.com/now/black-girls-code-founder-ceo-172338197.html"
   - "https://techcrunch.com/2021/12/27/kimberly-bryant-suspended-black-girls-code/"
-description: ""
   - "https://techcrunch.com/2021/12/28/daily-crunch-109/"
+description: ""

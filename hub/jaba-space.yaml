@@ -1,6 +1,4 @@
 id: jaba-space
-website: https://jabaspace.co/
-website-inactive:
 twitter: JabaSpace
 facebook: https://www.facebook.com/jabaspacecoworking/
 linkedin:
@@ -15,3 +13,20 @@ name: "JABA SPACE"
 lat:
 lng:
 address_line1: ""
+websiteUrl: https://jabaspace.co/
+id: jaba-space
+twitter: JabaSpace
+facebook: https://www.facebook.com/jabaspacecoworking/
+linkedin:
+city:
+region:
+country:
+email: hello@jabaspace.co
+articles:
+  - "https://medium.com/@JabaSpace"
+description: ""
+name: "JABA SPACE"
+lat:
+lng:
+address_line1: ""
+websiteUrl: https://jabaspace.co/

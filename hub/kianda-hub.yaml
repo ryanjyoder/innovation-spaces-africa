@@ -1,6 +1,4 @@
 id: kianda-hub
-website: https://kiandahub.com/
-website-inactive:
 twitter: KiandaHUB
 facebook:
 linkedin:
@@ -19,3 +17,24 @@ name: "Kianda Hub"
 lat: -8.8249255
 lng: 13.2279833
 address_line1: "ANGOLA LNG, Rua Am�lcar Cabral, Luanda, Angola"
+websiteUrl: https://kiandahub.com/
+id: kianda-hub
+twitter: KiandaHUB
+facebook:
+linkedin:
+city: Luanda
+region: Luanda
+country: Angola
+email:
+articles:
+  - "https://disrupt-africa.com/2016/01/04/kiandahub-seeks-funding-to-become-centre-of-angolas-startup-community/"
+  - "https://www.dr-hempel-network.com/digital_health_contact_lists/key-technology-hubs-in-malawi-tanzania-zimbabwe-namibia-botswana-angola-lesotho/"
+  - "https://www.bizcommunity.com/Article/7/713/147356.html"
+  - "https://ventureburn.com/2019/09/roque-online-seedstars-luanda/"
+  - "https://ventureburn.com/2018/10/kubinga-wins-seedstars-luanda/"
+description: "Kianda Hub is an open space, coworking, co creation space and innovation center that focuses on social impact, job creation and innovation. \n"
+name: "Kianda Hub"
+lat: -8.8249255
+lng: 13.2279833
+address_line1: "ANGOLA LNG, Rua Am�lcar Cabral, Luanda, Angola"
+websiteUrl: https://kiandahub.com/

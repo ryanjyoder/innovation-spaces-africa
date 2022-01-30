@@ -1,6 +1,4 @@
 id: nlab
-website:
-website-inactive:
 twitter: nlabcameroon
 facebook:
 linkedin:
@@ -15,3 +13,20 @@ name: "Nlab"
 lat:
 lng:
 address_line1: ""
+websiteUrl:
+id: nlab
+twitter: nlabcameroon
+facebook:
+linkedin:
+city: Ngoumou
+region:
+country: Cameroon
+email:
+articles:
+description: |
+  Projet d'espace coworking & innovation au c�ur de la r�gion centre
+name: "Nlab"
+lat:
+lng:
+address_line1: ""
+websiteUrl:

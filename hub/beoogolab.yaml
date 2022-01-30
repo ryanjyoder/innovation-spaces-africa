@@ -1,6 +1,4 @@
 id: beoogolab
-website: http://www.beoogolab.org
-website-inactive:
 twitter: BeoogoLAB
 facebook:
 linkedin:
@@ -17,3 +15,22 @@ name: "BeoogoLAB"
 lat:
 lng:
 address_line1: "Somgand�, Secteur 19, Rue Dima Koon ,  Ouagadougou"
+websiteUrl: http://www.beoogolab.org
+id: beoogolab
+twitter: BeoogoLAB
+facebook:
+linkedin:
+city:
+region:
+country:
+email: info@beoogolab.org
+articles:
+  - "https://www.africinnov.com/fr/news/entretien_avec_mahamadi_rouamba_le_pionnier_de_la_startup_studio_au_burkina_faso"
+  - "https://www.burkina24.com/2019/02/05/burkina-beoogolab-seme-les-graines-du-e-commerce/"
+  - "none"
+description: ""
+name: "BeoogoLAB"
+lat:
+lng:
+address_line1: "Somgand�, Secteur 19, Rue Dima Koon ,  Ouagadougou"
+websiteUrl: http://www.beoogolab.org

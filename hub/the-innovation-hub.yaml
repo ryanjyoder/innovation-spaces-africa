@@ -1,6 +1,4 @@
 id: the-innovation-hub
-website: https://theinnovationhub.com/
-website-inactive:
 twitter: InnovHub
 facebook:
 linkedin:
@@ -18,3 +16,23 @@ name: "The Innovation Hub"
 lat: -30.559482
 lng: 22.937506
 address_line1: "South Africa"
+websiteUrl: https://theinnovationhub.com/
+id: the-innovation-hub
+twitter: InnovHub
+facebook:
+linkedin:
+city:
+region:
+country: South Africa
+email: info@theinnovationhub.com
+articles:
+  - "https://www.brandsouthafrica.com/investments-immigration/business/trends/innovations/innovationhub"
+  - "https://www.centralbanking.com/fintech/7523676/new-fintech-innovation-hub-goes-live-in-south-africa"
+  - "https://www.mdpi.com/2071-1050/12/5/1858/htm"
+  - "https://www.dailymaverick.co.za/article/2022-01-21-first-flush-of-innovation-meet-the-start-ups-taking-the-gap-to-solve-real-life-problems/"
+description: "The Innovation Hub \n"
+name: "The Innovation Hub"
+lat: -30.559482
+lng: 22.937506
+address_line1: "South Africa"
+websiteUrl: https://theinnovationhub.com/

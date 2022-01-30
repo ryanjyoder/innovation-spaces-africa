@@ -1,6 +1,4 @@
 id: cyclotron-r-union-indian-ocean-cyroi-gip
-website: http://www.cyroi.fr/category/pepiniere-entreprise/
-website-inactive:
 twitter:
 facebook:
 linkedin:
@@ -17,3 +15,22 @@ name: "Cyclotron R?union Indian Ocean (CYROI GIP)"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://www.cyroi.fr/category/pepiniere-entreprise/
+id: cyclotron-r-union-indian-ocean-cyroi-gip
+twitter:
+facebook:
+linkedin:
+city: Saint Denis
+region:
+country: Reunion
+email:
+articles:
+  - "https://umr-astre.cirad.fr/en/research/teams/research-and-surveillance-in-the-indian-ocean-crvoi"
+  - "http://ecoaustral.com/comment-le-cyroi-fait-de-la-reunion-une-terre-de-recherche"
+  - "https://www.ipreunion.com/cinor-actualite/reportage/2021/04/02/cinor-cyroi-visite-au-coeur-de-la-recherche,133207.html"
+description: ""
+name: "Cyclotron R?union Indian Ocean (CYROI GIP)"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://www.cyroi.fr/category/pepiniere-entreprise/

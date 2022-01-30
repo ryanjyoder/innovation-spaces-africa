@@ -1,6 +1,4 @@
 id: dira-partners
-website: http://www.dirapartners.com
-website-inactive:
 twitter:
 facebook:
 linkedin:
@@ -14,3 +12,19 @@ name: "Dira Partners"
 lat:
 lng:
 address_line1: "80 R�sidences Hacienda, dakar , S�n�gal"
+websiteUrl: http://www.dirapartners.com
+id: dira-partners
+twitter:
+facebook:
+linkedin:
+city:
+region:
+country:
+email: contact@dirapartners.com
+articles:
+description: ""
+name: "Dira Partners"
+lat:
+lng:
+address_line1: "80 R�sidences Hacienda, dakar , S�n�gal"
+websiteUrl: http://www.dirapartners.com

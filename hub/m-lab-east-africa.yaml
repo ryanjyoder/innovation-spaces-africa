@@ -1,6 +1,4 @@
 id: m-lab-east-africa
-website: http://mlab.co.ke/
-website-inactive: not hub website
 twitter:
 facebook:
 linkedin:
@@ -17,3 +15,22 @@ name: "m:Lab East Africa"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://mlab.co.ke/
+id: m-lab-east-africa
+twitter:
+facebook:
+linkedin:
+city: Nairobi
+region:
+country: Kenya
+email:
+articles:
+  - "https://www.biztechafrica.com/article/mlab-east-africa-officially-opened/809/"
+  - "https://disrupt-africa.com/2014/12/17/kenyan-startups-earn-5k-investment-mlab-east-africa/"
+  - "https://thenextweb.com/news/kenya-launches-africas-first-mobile-apps-lab"
+description: ""
+name: "m:Lab East Africa"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://mlab.co.ke/

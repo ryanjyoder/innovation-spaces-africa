@@ -1,6 +1,4 @@
 id: tamkeen-center
-website: http://www.tamkeen.ma
-website-inactive:
 twitter: CenterTamkeen
 facebook:
 linkedin:
@@ -17,3 +15,22 @@ name: "Tamkeen Center"
 lat:
 lng:
 address_line1: "Oujda, Maroc"
+websiteUrl: http://www.tamkeen.ma
+id: tamkeen-center
+twitter: CenterTamkeen
+facebook:
+linkedin:
+city:
+region:
+country:
+email: contact@tamkeen.ma
+articles:
+  - "https://www.bicworld.com/en/moroccan-center-innovation-and-social-entrepreneurship-mcise-tamkeen-initiative"
+  - "https://menafn.com/1101210786/Qatar-Charity-concludes-first-phase-of-Tamkeen-programme"
+description: |
+  Tamkeen Center est une initiatve priv�e et apolitique, mais accueille toute contribution et appui technique et financiers pour favoriser le d�ploiement de son activit� � plus grande �chelle.&nbsp;
+name: "Tamkeen Center"
+lat:
+lng:
+address_line1: "Oujda, Maroc"
+websiteUrl: http://www.tamkeen.ma

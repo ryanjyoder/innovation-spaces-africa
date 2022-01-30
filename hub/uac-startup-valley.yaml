@@ -1,6 +1,4 @@
 id: uac-startup-valley
-website: http://www.uacstartupvalley.com
-website-inactive:
 twitter:
 facebook: https://www.facebook.com/uacstartupvalley/
 linkedin:
@@ -14,3 +12,19 @@ name: "UAC Startup Valley"
 lat:
 lng:
 address_line1: "Abomey Calavi, B�nin"
+websiteUrl: http://www.uacstartupvalley.com
+id: uac-startup-valley
+twitter:
+facebook: https://www.facebook.com/uacstartupvalley/
+linkedin:
+city:
+region:
+country:
+email: uacstartupvalley@uacstartupvalley.com
+articles:
+description: ""
+name: "UAC Startup Valley"
+lat:
+lng:
+address_line1: "Abomey Calavi, B�nin"
+websiteUrl: http://www.uacstartupvalley.com

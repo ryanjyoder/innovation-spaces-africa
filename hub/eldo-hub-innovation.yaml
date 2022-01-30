@@ -1,6 +1,4 @@
 id: eldo-hub-innovation
-website: https://www.eldohub.co.ke/
-website-inactive:
 twitter: eldohub
 facebook:
 linkedin:
@@ -22,3 +20,27 @@ name: "Eldo Hub Innovation"
 lat: -0.2849853
 lng: 36.0693113
 address_line1: "Kenyatta Avenue, Nakuru, Kenya"
+websiteUrl: https://www.eldohub.co.ke/
+id: eldo-hub-innovation
+twitter: eldohub
+facebook:
+linkedin:
+city: Nakuru
+region: Nakuru County
+country: Kenya
+email:
+description: |
+  Eldo Hub Innovation
+articles:
+  - "https://africa.cgtn.com/2021/05/25/kenyan-tech-hub-inspires-women-youth-into-stem-careers/"
+  - "https://ventureburn.com/2018/09/kenya-tech-startup-ecosystem/"
+  - "https://disrupt-africa.com/2018/06/12/afrilabs-adds-40-new-members-to-hit-100-hub-mark/"
+  - "https://techcabal.com/2020/10/22/afrilabs-gives-over-e250000-in-grants-to-20-innovation-hubs-across-africa-launches-insights-report/"
+  - "https://biz4afrika.microsoft.com/News-details?Id=44"
+  - "https://www.the-star.co.ke/business/kenya/2022-01-07-eldohub-founder-elected-tech-hubs-chairperson/"
+  - "https://www.kbc.co.ke/eldohub-founder-magdaline-chepkemoi-elected-tech-hubs-chairperson/"
+name: "Eldo Hub Innovation"
+lat: -0.2849853
+lng: 36.0693113
+address_line1: "Kenyatta Avenue, Nakuru, Kenya"
+websiteUrl: https://www.eldohub.co.ke/

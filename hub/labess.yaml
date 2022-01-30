@@ -1,6 +1,4 @@
 id: labess
-website: https://www.labess.tn
-website-inactive:
 twitter: LabessTN
 facebook: https://www.facebook.com/LabessTunisie/
 linkedin:
@@ -15,3 +13,20 @@ name: "Labess"
 lat:
 lng:
 address_line1: "7 Rue du Docteur Alphonse Laveran"
+websiteUrl: https://www.labess.tn
+id: labess
+twitter: LabessTN
+facebook: https://www.facebook.com/LabessTunisie/
+linkedin:
+city: Tunis
+region:
+country: Tunisie
+email: contact@labess.tn
+articles:
+  - "https://meshkal.org/?p=248"
+description: ""
+name: "Labess"
+lat:
+lng:
+address_line1: "7 Rue du Docteur Alphonse Laveran"
+websiteUrl: https://www.labess.tn

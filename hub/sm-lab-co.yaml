@@ -1,6 +1,4 @@
 id: sm-lab-co
-website: http://smlab.cool/
-website-inactive:
 twitter: switch_maker
 facebook: https://web.facebook.com/SMLabCO
 linkedin:
@@ -14,3 +12,19 @@ name: "SM LAB & CO"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://smlab.cool/
+id: sm-lab-co
+twitter: switch_maker
+facebook: https://web.facebook.com/SMLabCO
+linkedin:
+city:
+region:
+country: Burkina Faso
+email: contact@smlab.cool
+articles:
+description: ""
+name: "SM LAB & CO"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://smlab.cool/

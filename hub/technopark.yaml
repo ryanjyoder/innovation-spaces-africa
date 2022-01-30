@@ -1,6 +1,4 @@
 id: technopark
-website: https://www.technopark.ma/s/
-website-inactive: x
 twitter: technopark
 facebook: https://web.facebook.com/pages/Technopark
 linkedin:
@@ -17,3 +15,22 @@ name: "TECHNOPARK"
 lat:
 lng:
 address_line1: ""
+websiteUrl: https://www.technopark.ma/s/
+id: technopark
+twitter: technopark
+facebook: https://web.facebook.com/pages/Technopark
+linkedin:
+city:
+region:
+country: Morocco
+email: contact@technopark.ma
+articles:
+  - "https://www.thehindu.com/news/national/kerala/game-changer/article32473407.ece"
+  - "https://businesschief.eu/leadership-and-strategy/technopark-driving-innovation-morocco-through-ecosystem-entrepreneurial-growth"
+  - "https://www.techinafrica.com/moroccos-agadir-technopark-for-startups-is-almost-completion/"
+description: ""
+name: "TECHNOPARK"
+lat:
+lng:
+address_line1: ""
+websiteUrl: https://www.technopark.ma/s/

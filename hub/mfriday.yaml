@@ -1,6 +1,4 @@
 id: mfriday
-website: http://www.mfriday.org/
-website-inactive: x
 twitter: mfridays
 facebook:
 linkedin:
@@ -14,3 +12,19 @@ name: "mFriday"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://www.mfriday.org/
+id: mfriday
+twitter: mfridays
+facebook:
+linkedin:
+city: Kumasi
+region:
+country: Ghana
+email:
+articles:
+description: ""
+name: "mFriday"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://www.mfriday.org/

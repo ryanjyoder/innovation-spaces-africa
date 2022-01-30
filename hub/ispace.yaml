@@ -1,6 +1,4 @@
 id: ispace
-website: http://ispacegh.com/
-website-inactive:
 twitter: iSpaceGh
 facebook:
 linkedin:
@@ -17,3 +15,22 @@ name: "iSpace"
 lat: 5.5712984
 lng: -0.146848299999988
 address_line1: "Ghana International Trade Fair Centre, Accra, Ghana"
+websiteUrl: http://ispacegh.com/
+id: ispace
+twitter: iSpaceGh
+facebook:
+linkedin:
+city: Accra
+region: Greater Accra Region
+country: Ghana
+email: info@ispacegh.com
+articles:
+  - "https://ventureburn.com/2013/09/ispace-ghana-the-story-behind-accras-newest-innovation-centre-and-tech-hub/"
+  - "https://thebftonline.com/14/09/2020/ispace-rewards-3-startups-for-excelling-at-accra-spintex-startup-summit-hub/"
+  - "https://www.pioneerspost.com/news-views/20141127/tech-savvy-generation-has-ghana-their-fingertips"
+description: "The iSpace Foundation is a coworking tech and creative innovation space for startups, innovators, social entrepreneurs & developers..  \n"
+name: "iSpace"
+lat: 5.5712984
+lng: -0.146848299999988
+address_line1: "Ghana International Trade Fair Centre, Accra, Ghana"
+websiteUrl: http://ispacegh.com/

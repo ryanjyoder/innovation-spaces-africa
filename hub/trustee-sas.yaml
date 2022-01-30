@@ -1,6 +1,4 @@
 id: trustee-sas
-website: http://www.trustees.fr
-website-inactive:
 twitter: TrusteeVC
 facebook: https://www.facebook.com/TrusteeVC/
 linkedin:
@@ -15,3 +13,20 @@ name: "Trustee sas"
 lat:
 lng:
 address_line1: "Tombo ,  Kaloum, Conakry"
+websiteUrl: http://www.trustees.fr
+id: trustee-sas
+twitter: TrusteeVC
+facebook: https://www.facebook.com/TrusteeVC/
+linkedin:
+city:
+region:
+country:
+email: contact@trustees.fr
+articles:
+description: |
+  Trustee est une soci�t� qui accompagne et investit en position minoritaire dans les startups innovantes. Trustee intervient �galement � divers stades de d�veloppement dans des Startups et Pme  � fort potentiel de croissance. Nous offrons �galement un espace de travail partag� (Coworking) et d'autres prestations � la carte pour mieux repondre au besoin des porteurs de projet. �
+name: "Trustee sas"
+lat:
+lng:
+address_line1: "Tombo ,  Kaloum, Conakry"
+websiteUrl: http://www.trustees.fr

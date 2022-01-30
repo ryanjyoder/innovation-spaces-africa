@@ -1,6 +1,4 @@
 id: thehub
-website: http://thehubkampala.com/
-website-inactive:
 twitter: HUBKampala
 facebook:
 linkedin:
@@ -16,3 +14,21 @@ name: "TheHub"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://thehubkampala.com/
+id: thehub
+twitter: HUBKampala
+facebook:
+linkedin:
+city: Kampala
+region:
+country: Uganda
+email:
+articles:
+  - "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3827263/"
+  - "https://www.routesonline.com/news/29/breaking-news/208457/routes-africa-korongo-plans-link-to-uganda-following-fleet-growth/"
+description: ""
+name: "TheHub"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://thehubkampala.com/

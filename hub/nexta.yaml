@@ -1,6 +1,4 @@
 id: nexta
-website: http://www.nexta.mg
-website-inactive: x
 twitter: http://www.nexta.mg
 facebook: https://www.facebook.com/nextA.mg/
 linkedin:
@@ -15,3 +13,20 @@ name: "NextA"
 lat:
 lng:
 address_line1: "Immeuble Tana Shore - Enceinte Futura Andranomena Antananarivo"
+websiteUrl: http://www.nexta.mg
+id: nexta
+twitter: http://www.nexta.mg
+facebook: https://www.facebook.com/nextA.mg/
+linkedin:
+city:
+region:
+country:
+email: contact@nexta.mg
+articles:
+description: |
+  <b>NextA</b> est b�tit sur 7 axes d'accompagnement:<ul><li>Mentoring/Coaching</li><li>Formations</li><li>R�seautage </li><li>Activit�s </li><li>Financement </li><li>Employabilit� </li><li>Lieu </li></ul>
+name: "NextA"
+lat:
+lng:
+address_line1: "Immeuble Tana Shore - Enceinte Futura Andranomena Antananarivo"
+websiteUrl: http://www.nexta.mg

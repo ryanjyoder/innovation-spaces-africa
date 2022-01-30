@@ -1,6 +1,4 @@
 id: tanzict
-website: http://tanzict.or.tz/
-website-inactive:
 twitter:
 facebook:
 linkedin:
@@ -17,3 +15,22 @@ name: "TANZICT"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://tanzict.or.tz/
+id: tanzict
+twitter:
+facebook:
+linkedin:
+city: Dar es Salaam
+region:
+country: Tanzania
+email:
+articles:
+  - "https://www.infodev.org/articles/cutting-edge-ict-incubator-set-unleash-technology-entrepreneurship-tanzania"
+  - "https://www.howwemadeitinafrica.com/will-tanzanias-two-new-innovation-hubs-boost-the-countrys-tech-scene/20416/"
+  - "https://blogs.worldbank.org/digital-development/weve-updated-africa-tech-hub-map-using-your-suggestions"
+description: ""
+name: "TANZICT"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://tanzict.or.tz/

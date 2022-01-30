@@ -1,6 +1,4 @@
 id: ja-gabon
-website: https://www.jagabon.org/
-website-inactive:
 twitter: ja_gabon
 facebook: https://www.facebook.com/Juniorachievementgabon/
 linkedin:
@@ -18,3 +16,23 @@ name: "JA Gabon"
 lat:
 lng:
 address_line1: "JA Gabon, Libreville, Gabon"
+websiteUrl: https://www.jagabon.org/
+id: ja-gabon
+twitter: ja_gabon
+facebook: https://www.facebook.com/Juniorachievementgabon/
+linkedin:
+city:
+region:
+country:
+email: info@jagabon.org
+articles:
+  - "https://www.banquemondiale.org/fr/news/feature/2019/03/08/radia-garrigues-ceo-of-an-incubator-providing-gabons-youth-with-skills-for-the-future"
+  - "https://directinfosgabon.com/ja-gabon-ou-sont-les-retombees/"
+  - "https://www.union.sonapresse.com/gabon-economie/ja-gabon-competition-nationale-les-laureats-2017-16151"
+  - "https://www.banquemondiale.org/fr/news/feature/2019/03/08/radia-garrigues-ceo-of-an-incubator-providing-gabons-youth-with-skills-for-the-future"
+description: ""
+name: "JA Gabon"
+lat:
+lng:
+address_line1: "JA Gabon, Libreville, Gabon"
+websiteUrl: https://www.jagabon.org/

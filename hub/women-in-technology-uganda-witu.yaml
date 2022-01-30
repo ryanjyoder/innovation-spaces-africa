@@ -1,6 +1,4 @@
 id: women-in-technology-uganda-witu
-website: http://witug.org/
-website-inactive:
 twitter: wituganda
 facebook:
 linkedin:
@@ -15,3 +13,20 @@ name: "Women in Technology Uganda (WITU)"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://witug.org/
+id: women-in-technology-uganda-witu
+twitter: wituganda
+facebook:
+linkedin:
+city: Kampala
+region:
+country: Uganda
+email:
+articles:
+  - "https://techjaja.com/top-5-women-in-tech-programs-in-uganda/"
+description: ""
+name: "Women in Technology Uganda (WITU)"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://witug.org/

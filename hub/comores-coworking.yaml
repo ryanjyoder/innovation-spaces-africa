@@ -1,6 +1,4 @@
 id: comores-coworking
-website: http://www.comorescoworking.com
-website-inactive:
 twitter: comwork_km
 facebook: http://Com&#039
 linkedin: Work
@@ -16,3 +14,21 @@ name: "Comores Coworking"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://www.comorescoworking.com
+id: comores-coworking
+twitter: comwork_km
+facebook: http://Com&#039
+linkedin: Work
+city: Boulevard Karthala, Moroni, Comores
+region:
+country:
+email: contact@comorescoworking.com
+articles:
+  - "https://alwatwan.net/societe/projet-int%C3%A9gr%C3%A9-des-cha%C3%AEnes-de-valeurs-i-lancement-officiel-du-concours-de-plan-d%E2%80%99affaires.html"
+  - "none"
+description: ""
+name: "Comores Coworking"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://www.comorescoworking.com

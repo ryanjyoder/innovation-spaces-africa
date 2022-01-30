@@ -1,6 +1,4 @@
 id: lumumba-labs
-website: http://www.llab.cd/
-website-inactive:
 twitter: LabLumumba
 facebook: https://www.facebook.com/ZairInnov/
 linkedin:
@@ -15,3 +13,20 @@ name: "Lumumba Labs"
 lat: -4.038333
 lng: 21.758664
 address_line1: "253, Avenue Kimvula"
+websiteUrl: http://www.llab.cd/
+id: lumumba-labs
+twitter: LabLumumba
+facebook: https://www.facebook.com/ZairInnov/
+linkedin:
+city: Kinshasa
+region:
+country: Democratic Republic of the Congo
+email: start@llab.cd
+articles:
+description: |
+  Lumumba Labs began operation in October, 2014, and was officially registered in May, 2015 with a staff strength of 4.
+name: "Lumumba Labs"
+lat: -4.038333
+lng: 21.758664
+address_line1: "253, Avenue Kimvula"
+websiteUrl: http://www.llab.cd/

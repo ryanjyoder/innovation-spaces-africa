@@ -1,6 +1,4 @@
 id: congo-business-network
-website: http://www.congobusinessnetwork.org
-website-inactive:
 twitter: CongoBizNetwork
 facebook:
 linkedin:
@@ -17,3 +15,22 @@ name: "Congo Business Network"
 lat:
 lng:
 address_line1: "Concession Procoki, avenue de L&#039;OUA, Kinshasa, Democratic Republic of the Congo"
+websiteUrl: http://www.congobusinessnetwork.org
+id: congo-business-network
+twitter: CongoBizNetwork
+facebook:
+linkedin:
+city:
+region:
+country:
+email:
+articles:
+  - "https://www.africanews.com/2019/07/11/the-congo-business-network-for-economic-development-the-morning-call//"
+  - "https://www.kapitalafrik.com/2018/12/13/drc-congo-business-network-plans-an-online-event-on-business-registration-in-congo/"
+  - "https://www.fmdrc-zambia.com/congo-business-network-to-focus-on-the-digital-ecosystem/"
+description: ""
+name: "Congo Business Network"
+lat:
+lng:
+address_line1: "Concession Procoki, avenue de L&#039;OUA, Kinshasa, Democratic Republic of the Congo"
+websiteUrl: http://www.congobusinessnetwork.org

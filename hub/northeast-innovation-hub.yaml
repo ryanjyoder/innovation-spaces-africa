@@ -1,6 +1,4 @@
 id: northeast-innovation-hub
-website: humanitarianihub.org
-website-inactive:
 twitter: Northeast_iHub
 facebook:
 linkedin:
@@ -16,3 +14,21 @@ name: "NorthEast Innovation Hub"
 lat:
 lng:
 address_line1: "NE Innovation Campus, No 3 Legom Close, Off Kashim Ibrahim Way, Jimeta 640221"
+websiteUrl: humanitarianihub.org
+id: northeast-innovation-hub
+twitter: Northeast_iHub
+facebook:
+linkedin:
+city:
+region: Adamawa
+country: Nigeria
+email: info@humanitarianihub.org
+articles:
+  - "https://allafrica.com/stories/202008280057.html"
+description: |
+  NorthEast Innovation Hub is a dynamic community of creative minds and game changers collaborating on innovative solutions to the challenges faced by communities in North-Eastern part of Nigeria and the World as a whole.
+name: "NorthEast Innovation Hub"
+lat:
+lng:
+address_line1: "NE Innovation Campus, No 3 Legom Close, Off Kashim Ibrahim Way, Jimeta 640221"
+websiteUrl: humanitarianihub.org

@@ -1,6 +1,4 @@
 id: capetown-garage
-website: www.capetowngarage.com
-website-inactive:
 twitter: capetowngarage
 facebook:
 linkedin:
@@ -15,3 +13,20 @@ name: "Capetown Garage"
 lat:
 lng:
 address_line1: ""
+websiteUrl: www.capetowngarage.com
+id: capetown-garage
+twitter: capetowngarage
+facebook:
+linkedin:
+city: Cape Town
+region:
+country: South Africa
+email:
+articles:
+  - "https://baronscapetown.co.za/"
+description: ""
+name: "Capetown Garage"
+lat:
+lng:
+address_line1: ""
+websiteUrl: www.capetowngarage.com

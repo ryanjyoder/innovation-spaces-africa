@@ -1,6 +1,4 @@
 id: alexandria-hackerspace
-website: http://www.alexhacker.com/
-website-inactive: x
 twitter:
 facebook:
 linkedin:
@@ -16,3 +14,21 @@ name: "Alexandria Hackerspace"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://www.alexhacker.com/
+id: alexandria-hackerspace
+twitter:
+facebook:
+linkedin:
+city: Alexandria
+region:
+country: Egypt
+email:
+articles:
+  - "https://dailynewsegypt.com/2014/09/14/hacking-like-egyptians/"
+  - "https://www.wamda.com/2013/04/9-hackerspaces-changing-the-arab-world"
+description: ""
+name: "Alexandria Hackerspace"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://www.alexhacker.com/

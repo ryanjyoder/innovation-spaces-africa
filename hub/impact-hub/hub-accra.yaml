@@ -1,6 +1,4 @@
 id: hub-accra
-website: accra.impacthub.net
-website-inactive:
 twitter: impacthubaccra
 facebook:
 linkedin:
@@ -14,3 +12,19 @@ name: "Impact Hub Accra"
 lat:
 lng:
 address_line1: ""
+websiteUrl: accra.impacthub.net
+id: hub-accra
+twitter: impacthubaccra
+facebook:
+linkedin:
+city: Accra
+region:
+country: Ghana
+email:
+articles:
+description: ""
+name: "Impact Hub Accra"
+lat:
+lng:
+address_line1: ""
+websiteUrl: accra.impacthub.net

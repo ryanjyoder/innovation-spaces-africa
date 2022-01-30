@@ -1,6 +1,4 @@
 id: jozihub
-website: http://jozihub.org/
-website-inactive:
 twitter: JoziHub
 facebook:
 linkedin:
@@ -17,3 +15,22 @@ name: "JoziHub"
 lat: -26.1934093
 lng: 27.9849379
 address_line1: "South Africa Islam, Johannesburg, Gauteng, South Africa"
+websiteUrl: http://jozihub.org/
+id: jozihub
+twitter: JoziHub
+facebook:
+linkedin:
+city: Johannesburg
+region: Gauteng
+country: South Africa
+email: info@jozihub.org
+articles:
+  - "https://www.itweb.co.za/content/5rW1xL75ayQ7Rk6m"
+  - "https://ventureburn.com/2013/02/praekelt-foundation-launches-innovation-hub-jozihub/"
+  - "https://businesstech.co.za/news/internet/32141/jozihub-tech-incubator-unveiled/"
+description: "JoziHub is a co-creation space in Johannesburg dedicated to creating sustainable change in Africa 44 Stanley Ave, Milpark, Johannesburg, 2092, South Africa. \n"
+name: "JoziHub"
+lat: -26.1934093
+lng: 27.9849379
+address_line1: "South Africa Islam, Johannesburg, Gauteng, South Africa"
+websiteUrl: http://jozihub.org/

@@ -1,6 +1,4 @@
 id: amn-coworking-space
-website: https://wiki.hackerspaces.org/AMN_Co_Working_Space
-website-inactive:
 twitter:
 facebook:
 linkedin:
@@ -18,3 +16,23 @@ name: "AMN Coworking Space"
 lat: 5.3553063
 lng: -3.96637899999996
 address_line1: "E 128, Abidjan, C�te d'Ivoire"
+websiteUrl: https://wiki.hackerspaces.org/AMN_Co_Working_Space
+id: amn-coworking-space
+twitter:
+facebook:
+linkedin:
+city: Abidjan
+region: R�gion des lagunes
+country: C�te d'Ivoire
+email:
+articles:
+  - "https://techafrique.startupbrics.com/coworking-ecosysteme-startup-cote-ivoire/"
+  - "https://www.jeuneafrique.com/28875/economie/un-bureau-pour-deux-trois-vingt-cinq/"
+  - "https://itweb.africa/content/Gb3BwMWoGRpM2k6V"
+description: |
+  AMN Coworking Space focuses on web, design, media and cultural entrepreneurs, leveraging mobile and web solutions to address a business need. Technologists, media professionals, investors and doers are welcomed to the space.
+name: "AMN Coworking Space"
+lat: 5.3553063
+lng: -3.96637899999996
+address_line1: "E 128, Abidjan, C�te d'Ivoire"
+websiteUrl: https://wiki.hackerspaces.org/AMN_Co_Working_Space

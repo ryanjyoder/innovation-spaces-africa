@@ -1,6 +1,4 @@
 id: focus-hub
-website: http://focushub.net/
-website-inactive: x
 twitter:
 facebook:
 linkedin:
@@ -15,3 +13,20 @@ name: "Focus Hub"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://focushub.net/
+id: focus-hub
+twitter:
+facebook:
+linkedin:
+city: Port Harcourt
+region:
+country: Nigeria
+email:
+articles:
+  - "https://techpoint.africa/2015/10/05/niger-delta-based-focus-hub-opens-incubation-program-for-entrepreneurs-and-startups/"
+description: ""
+name: "Focus Hub"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://focushub.net/

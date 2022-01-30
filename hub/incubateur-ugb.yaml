@@ -1,6 +1,4 @@
 id: incubateur-ugb
-website: http://incubation.ugb.sn
-website-inactive:
 twitter:
 facebook: https://web.facebook.com/incubateurugb/
 linkedin:
@@ -16,3 +14,21 @@ name: "Incubateur UGB"
 lat:
 lng:
 address_line1: "Sanar, Saint-Louis, Saint-Louis, S�n�gal"
+websiteUrl: http://incubation.ugb.sn
+id: incubateur-ugb
+twitter:
+facebook: https://web.facebook.com/incubateurugb/
+linkedin:
+city:
+region:
+country:
+email: incubateur@ugb.edu.sn
+articles:
+  - "https://entrepreneuriatsn.com/incubateur-ugb-recrutement-de-30-jeunes-en-pre-incubation/"
+  - "http://entreprendre.reverberelemag.com/directory/incubateur-ugb/"
+description: ""
+name: "Incubateur UGB"
+lat:
+lng:
+address_line1: "Sanar, Saint-Louis, Saint-Louis, S�n�gal"
+websiteUrl: http://incubation.ugb.sn

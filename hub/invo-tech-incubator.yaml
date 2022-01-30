@@ -1,6 +1,4 @@
 id: invo-tech-incubator
-website: www.invotech.dut.ac.za
-website-inactive: not hub website
 twitter:
 facebook:
 linkedin:
@@ -16,3 +14,21 @@ name: "Invo Tech incubator"
 lat:
 lng:
 address_line1: ""
+websiteUrl: www.invotech.dut.ac.za
+id: invo-tech-incubator
+twitter:
+facebook:
+linkedin:
+city: Durban
+region:
+country: South Africa
+email:
+articles:
+  - "https://ventureburn.com/2019/07/university-incubators-african-entrepreneurs/"
+  - "https://www.entrepreneur.com/article/327566"
+description: ""
+name: "Invo Tech incubator"
+lat:
+lng:
+address_line1: ""
+websiteUrl: www.invotech.dut.ac.za

@@ -1,6 +1,4 @@
 id: tribe
-website:
-website-inactive:
 twitter:
 facebook:
 linkedin:
@@ -15,3 +13,20 @@ name: "Tribe"
 lat: 6.2757656
 lng: 7.00683930000002
 address_line1: "Anambra, Nigeria"
+websiteUrl:
+id: tribe
+twitter:
+facebook:
+linkedin:
+city:
+region: Anambra
+country: Nigeria
+email:
+articles:
+  - "https://ventureburn.com/2018/06/heres-need-know-nigerias-tech-startup-ecosystem/"
+description: "Tribe is an innovation centre that is focuses on skill acquisition, social impact and innovation.  \n"
+name: "Tribe"
+lat: 6.2757656
+lng: 7.00683930000002
+address_line1: "Anambra, Nigeria"
+websiteUrl:

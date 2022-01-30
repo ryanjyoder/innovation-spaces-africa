@@ -2,8 +2,7 @@ title: "WYF Labs"
 date: 2021-06-12T15:35:07-04:00
 draft: true
 id: wyf-labs
-website: https://wyfegypt.com/wyf_labs.php
-website-inactive:
+websiteUrl: https://wyfegypt.com/wyf_labs.php
 twitter: wyfegypt
 facebook: https://www.facebook.com/wyfegypt
 linkedin:
@@ -17,5 +16,5 @@ region:
 country: Egypt
 email: 
 articles:
-  - ""https://www.egypttoday.com/Article/1/111657/Workshops-of-WYF-Labs-tackle-innovation-as-core-of-start
+  - "https://www.egypttoday.com/Article/1/111657/Workshops-of-WYF-Labs-tackle-innovation-as-core-of-start"
 description: ""

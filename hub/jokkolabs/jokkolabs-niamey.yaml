@@ -1,6 +1,4 @@
 id: jokkolabs-niamey
-website:
-website-inactive:
 twitter: JokkolabsNiamey
 facebook:
 linkedin:
@@ -17,3 +15,22 @@ name: "Jokkolabs Niamey"
 lat:
 lng:
 address_line1: ""
+websiteUrl:
+id: jokkolabs-niamey
+twitter: JokkolabsNiamey
+facebook:
+linkedin:
+city:
+region:
+country:
+email:
+articles:
+  - "https://rebranding-africa.com/en/2017/09/26/karim-sy/"
+  - "https://www.jeuneafrique.com/3751/economie/r-ussite-avec-jokkolabs-karim-sy-parie-sur-le-co-working/"
+  - "https://www.gsma.com/mobilefordevelopment/english/things-learned-tech-hubs-africa-asia/"
+description: ""
+name: "Jokkolabs Niamey"
+lat:
+lng:
+address_line1: ""
+websiteUrl:

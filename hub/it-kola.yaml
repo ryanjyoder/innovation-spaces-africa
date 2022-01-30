@@ -1,6 +1,4 @@
 id: it-kola
-website:
-website-inactive:
 twitter:
 facebook: https://www.facebook.com/itkola?_rdc=1&_rdr
 linkedin:
@@ -15,3 +13,20 @@ name: "IT Kola"
 lat: 7.369722
 lng: 12.354722
 address_line1: "Cameroon"
+websiteUrl:
+id: it-kola
+twitter:
+facebook: https://www.facebook.com/itkola?_rdc=1&_rdr
+linkedin:
+city:
+region:
+country: Cameroon
+email:
+articles:
+  - "https://vc4a.com/it-kola/"
+description: "IT Kola stands for innovation and use of sustainable technologies for Africa. It is a collaborative platform where ideas, inspiration & commitment  \n"
+name: "IT Kola"
+lat: 7.369722
+lng: 12.354722
+address_line1: "Cameroon"
+websiteUrl:

@@ -1,6 +1,4 @@
 id: centre-d-affaires-regional-anosy
-website: http://www.cara.mg
-website-inactive:
 twitter:
 facebook:
 linkedin:
@@ -16,3 +14,21 @@ name: "CENTRE D�AFFAIRES REGIONAL ANOSY"
 lat:
 lng:
 address_line1: "Kathyana Car Rental - Bazaribe Fort Dauphin"
+websiteUrl: http://www.cara.mg
+id: centre-d-affaires-regional-anosy
+twitter:
+facebook:
+linkedin:
+city:
+region: Fort-Dauphin
+country: Madagascar
+email: cara.anosy@gmail.com
+articles:
+  - "https://www.newsmada.com/2019/07/03/artisanat-secteur-populaire-avec-un-potentiel-de-developpement/"
+  - "none"
+description: ""
+name: "CENTRE D�AFFAIRES REGIONAL ANOSY"
+lat:
+lng:
+address_line1: "Kathyana Car Rental - Bazaribe Fort Dauphin"
+websiteUrl: http://www.cara.mg

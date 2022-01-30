@@ -1,6 +1,4 @@
 id: mara-launchpad
-website: http://www.mara-foundation.org/
-website-inactive:
 twitter: MaraPhones
 facebook:
 linkedin:
@@ -17,3 +15,22 @@ name: "Mara Launchpad"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://www.mara-foundation.org/
+id: mara-launchpad
+twitter: MaraPhones
+facebook:
+linkedin:
+city: Kampala
+region:
+country: Togo
+email:
+articles:
+  - "https://www.bizcommunity.com/Article/220/422/78959.html"
+  - "https://www.forbes.com/sites/mfonobongnsehe/2012/08/07/young-african-millionaire-launches-mara-com-africas-first-online-mentorship-network/?sh=582552df2fbc"
+  - "https://www.africardv.com/developpement/le-togo-parmi-les-champions-africains-de-tech-hubs/"
+description: ""
+name: "Mara Launchpad"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://www.mara-foundation.org/

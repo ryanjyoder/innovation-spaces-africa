@@ -1,6 +1,4 @@
 id: imani-hub
-website: http://www.imanihub.net/
-website-inactive: x
 twitter:
 facebook:
 linkedin:
@@ -15,3 +13,20 @@ name: "Imani Hub"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://www.imanihub.net/
+id: imani-hub
+twitter:
+facebook:
+linkedin:
+city: Kinshasa
+region:
+country: DRC
+email:
+articles:
+  - "https://www.contrepoints.org/2014/11/23/189103-imani-hub-premier-espace-de-coworking-en-rdc"
+description: ""
+name: "Imani Hub"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://www.imanihub.net/

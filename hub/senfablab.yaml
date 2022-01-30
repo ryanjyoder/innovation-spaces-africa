@@ -1,6 +1,4 @@
 id: senfablab
-website:
-website-inactive:
 twitter: senfablab
 facebook: https://www.facebook.com/senfablab
 linkedin:
@@ -15,3 +13,20 @@ name: "senfablab"
 lat:
 lng:
 address_line1: ""
+websiteUrl:
+id: senfablab
+twitter: senfablab
+facebook: https://www.facebook.com/senfablab
+linkedin:
+city:
+region:
+country: Senegal
+country: Senegal
+email:
+articles:
+description: ""
+name: "senfablab"
+lat:
+lng:
+address_line1: ""
+websiteUrl:

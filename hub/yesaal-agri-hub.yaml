@@ -1,6 +1,4 @@
 id: yesaal-agri-hub
-website: http://yeesalhub.org/
-website-inactive:
 twitter:
 facebook: https://fr-fr.facebook.com/yeesalagrihub/
 linkedin:
@@ -19,3 +17,24 @@ name: "YESAAL AGRI HUB"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://yeesalhub.org/
+id: yesaal-agri-hub
+twitter:
+facebook: https://fr-fr.facebook.com/yeesalagrihub/
+linkedin:
+city:
+region:
+country:
+email: yeesalagrihub@gmail.com
+articles:
+  - "https://www.rfi.fr/fr/emission/20180512-yeesal-agri-hub-le-premier-agri-tech-hub-senegal"
+  - "http://www.senjob.com/news/entry/115/24/Yeesal-Agri-hub-les-agriculteurs-peuvent-cultiver-l%E2%80%99espoir-au-S%C3%A9n%C3%A9gal"
+  - "https://afrotribune.com/yeesal-agri-hub-les-agriculteurs-peuvent-cultiver-lespoir-au-senegal/"
+  - "https://www.journaluniversitaire.com/yeesal-agri-hub/"
+  - "https://www.afrikatech.com/start-business/yeesal-agrihub-the-first-agri-techhub-at-the-service-of-agricultural-innovation-in-senegal/"
+description: ""
+name: "YESAAL AGRI HUB"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://yeesalhub.org/

@@ -1,6 +1,4 @@
 id: the-house-4-hack
-website: www.house4hack.co.za
-website-inactive:
 twitter:
 facebook:
 linkedin:
@@ -14,3 +12,19 @@ name: "The House 4 Hack"
 lat:
 lng:
 address_line1: ""
+websiteUrl: www.house4hack.co.za
+id: the-house-4-hack
+twitter:
+facebook:
+linkedin:
+city: Pretoria
+region:
+country: South Africa
+email:
+articles:
+description: ""
+name: "The House 4 Hack"
+lat:
+lng:
+address_line1: ""
+websiteUrl: www.house4hack.co.za

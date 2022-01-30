@@ -1,6 +1,4 @@
 id: createam
-website: https://www.createam.ml/
-website-inactive:
 twitter: createam2015
 facebook: https://web.facebook.com/Lincubateur-Createam-927943447313058/?_rdc=1&amp
 linkedin: _rdr
@@ -15,3 +13,20 @@ name: "CREATEAM"
 lat:
 lng:
 address_line1: ""
+websiteUrl: https://www.createam.ml/
+id: createam
+twitter: createam2015
+facebook: https://web.facebook.com/Lincubateur-Createam-927943447313058/?_rdc=1&amp
+linkedin: _rdr
+city:
+region:
+country:
+email: contact@createam.ml
+articles:
+  - "https://blogs.worldbank.org/psd/giving-francophone-african-incubators-keys-accelerate-growth-entrepreneurship"
+description: ""
+name: "CREATEAM"
+lat:
+lng:
+address_line1: ""
+websiteUrl: https://www.createam.ml/

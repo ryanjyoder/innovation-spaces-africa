@@ -1,6 +1,4 @@
 id: ghana-multimedia-incubator-centre
-website: http://gmic.gov.gh/
-website-inactive: x
 twitter:
 facebook:
 linkedin:
@@ -17,3 +15,22 @@ name: "Ghana Multimedia Incubator Centre"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://gmic.gov.gh/
+id: ghana-multimedia-incubator-centre
+twitter:
+facebook:
+linkedin:
+city: Accra
+region:
+country: Ghana
+email:
+articles:
+  - "https://newsghana.com.gh/mtn-gmic-equips-young-entrepreneurs-in-ghana/"
+  - "https://www.biztechafrica.com/article/mtn-partners-ghana-multimedia-incubator-center/7695/"
+  - "https://www.ghanabusinessnews.com/2010/12/08/incubators-management-training-workshop-opens/"
+description: ""
+name: "Ghana Multimedia Incubator Centre"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://gmic.gov.gh/

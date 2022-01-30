@@ -1,6 +1,4 @@
 id: hive-colab
-website: http://hivecolab.org/
-website-inactive:
 twitter: hivecolab
 facebook:
 linkedin:
@@ -19,3 +17,24 @@ name: "Hive Colab"
 lat: 0.3355622
 lng: 32.582343
 address_line1: "Uganda National Museum, Kampala, Uganda"
+websiteUrl: http://hivecolab.org/
+id: hive-colab
+twitter: hivecolab
+facebook:
+linkedin:
+city: Kampala
+region: Central Region
+country: Uganda
+email:
+articles:
+  - "https://www.dignited.com/27502/hive-colab-opens-mbarara-branch/"
+  - "https://itweb.africa/content/xA9PO7NYnwPvo4J8"
+  - "https://creativeconomy.britishcouncil.org/blog/16/08/16/trying-survive-broken-system/"
+  - "https://pctechmag.com/2018/01/hive-colab-sets-up-a-new-incubation-campus-in-mbarara/"
+description: |
+  The Hive Colab is a community-owned, collaborative and co-working space for Uganda�s technology based community
+name: "Hive Colab"
+lat: 0.3355622
+lng: 32.582343
+address_line1: "Uganda National Museum, Kampala, Uganda"
+websiteUrl: http://hivecolab.org/

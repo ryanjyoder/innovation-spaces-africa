@@ -1,6 +1,4 @@
 id: the-w-hub
-website: http://www.thewhub.com/
-website-inactive: x
 twitter: thewhub
 facebook:
 linkedin:
@@ -14,3 +12,19 @@ name: "The W Hub"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://www.thewhub.com/
+id: the-w-hub
+twitter: thewhub
+facebook:
+linkedin:
+city: Abidjan
+region:
+country: Cote d'Ivoire
+email:
+articles:
+description: ""
+name: "The W Hub"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://www.thewhub.com/

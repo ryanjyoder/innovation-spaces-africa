@@ -1,6 +1,4 @@
 id: namibia-business-innovation-centre-nbic
-website: http://nbic.polytechnic.edu.na/
-website-inactive:
 twitter: NBII_Namibia
 facebook:
 linkedin:
@@ -16,3 +14,21 @@ name: "Namibia Business Innovation Centre (NBIC)"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://nbic.polytechnic.edu.na/
+id: namibia-business-innovation-centre-nbic
+twitter: NBII_Namibia
+facebook:
+linkedin:
+city: Windhoek
+region:
+country: Namibia
+email:
+articles:
+  - "http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=6999"
+  - "https://www.opportunitiesforafricans.com/namibia-business-innovation-centre-business-plan-competition-2013/"
+description: ""
+name: "Namibia Business Innovation Centre (NBIC)"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://nbic.polytechnic.edu.na/

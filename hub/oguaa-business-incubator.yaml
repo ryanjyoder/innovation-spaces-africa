@@ -1,6 +1,4 @@
 id: oguaa-business-incubator
-website:
-website-inactive:
 twitter:
 facebook:
 linkedin:
@@ -15,3 +13,20 @@ name: "Oguaa Business Incubator"
 lat:
 lng:
 address_line1: ""
+websiteUrl:
+id: oguaa-business-incubator
+twitter:
+facebook:
+linkedin:
+city: Cape Coast
+region:
+country: Ghana
+email:
+articles:
+  - "http://geniusghana.blogspot.com/2007/05/?m=1"
+description: ""
+name: "Oguaa Business Incubator"
+lat:
+lng:
+address_line1: ""
+websiteUrl:

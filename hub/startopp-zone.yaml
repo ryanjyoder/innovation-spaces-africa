@@ -1,6 +1,4 @@
 id: startopp-zone
-website: http://startoppzone.com
-website-inactive:
 twitter:
 facebook: http://https
 linkedin: //facebook.com/startoppzone
@@ -15,3 +13,20 @@ name: "StartOpp Zone"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://startoppzone.com
+id: startopp-zone
+twitter:
+facebook: http://https
+linkedin: //facebook.com/startoppzone
+city: 22/121 Atron, N&#039;Djamena
+region:
+country:
+email: startoppzone@rjdlt.com
+articles:
+  - "https://www.digitaltimes.africa/afrilab-welcomes-27-new-members/"
+description: ""
+name: "StartOpp Zone"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://startoppzone.com

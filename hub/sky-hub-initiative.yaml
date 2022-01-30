@@ -1,6 +1,4 @@
 id: sky-hub-initiative
-website: http://www.skyhub.co.zw/
-website-inactive:
 twitter:
 facebook:
 linkedin:
@@ -15,3 +13,20 @@ name: "Sky Hub Initiative"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://www.skyhub.co.zw/
+id: sky-hub-initiative
+twitter:
+facebook:
+linkedin:
+city: Bulawayo
+region:
+country: Zimbabwe
+email:
+articles:
+  - "https://www.oii.ox.ac.uk/blog/harares-hubs-excitement-experimentation-and-many-open-questions-2/"
+description: ""
+name: "Sky Hub Initiative"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://www.skyhub.co.zw/

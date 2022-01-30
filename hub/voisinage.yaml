@@ -1,6 +1,4 @@
 id: voisinage
-website: https://www.uvci.edu.ci/
-website-inactive:
 twitter:
 facebook: https://www.facebook.com/uvciv/
 linkedin:
@@ -14,3 +12,19 @@ name: "VOISINAGE"
 lat:
 lng:
 address_line1: ""
+websiteUrl: https://www.uvci.edu.ci/
+id: voisinage
+twitter:
+facebook: https://www.facebook.com/uvciv/
+linkedin:
+city:
+region:
+country:
+email: muhamad.adebayo@uvci.edu.ci&gt
+articles:
+description: ""
+name: "VOISINAGE"
+lat:
+lng:
+address_line1: ""
+websiteUrl: https://www.uvci.edu.ci/

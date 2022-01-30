@@ -1,6 +1,4 @@
 id: startpreneurs
-website: http://www.startpreneurs.com.ng/
-website-inactive:
 twitter: startpreneurs
 facebook:
 linkedin:
@@ -19,3 +17,24 @@ name: "Startpreneurs"
 lat: 9.081999
 lng: 8.67527700000005
 address_line1: "Nigeria"
+websiteUrl: http://www.startpreneurs.com.ng/
+id: startpreneurs
+twitter: startpreneurs
+facebook:
+linkedin:
+city:
+region:
+country: Nigeria
+email: info@startpreneurs.com.ng
+articles:
+  - "https://guardian.ng/business-services/jennifer-chizuainconsistency-poor-policy-implementation-bane-of-businesses/"
+  - "http://www.chinagoabroad.com/en/article/afrilabs-welcomes-new-hubs-into-its-pan-african-network"
+  - "https://techpoint.africa/2017/07/12/opportunities-weekly-3/"
+  - "https://techpoint.africa/2016/09/30/nigerian-tech-ecosystem-everything-you-need-to-know/"
+  - "https://ventureburn.com/2018/06/heres-need-know-nigerias-tech-startup-ecosystem/"
+description: "Startpreneurs began operation in January, 2016 and was legally registered in December 2015 with a current staff strength of 20.  \n"
+name: "Startpreneurs"
+lat: 9.081999
+lng: 8.67527700000005
+address_line1: "Nigeria"
+websiteUrl: http://www.startpreneurs.com.ng/

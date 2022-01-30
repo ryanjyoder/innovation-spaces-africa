@@ -1,6 +1,4 @@
 id: expert-labs-mali
-website: http://www.expertlabsmali.com
-website-inactive: x
 twitter:
 facebook: https://www.facebook.com/ExpertLabsBamako/?ref=bookmarks
 linkedin:
@@ -15,3 +13,20 @@ name: "Expert Labs Mali"
 lat:
 lng:
 address_line1: ""
+websiteUrl: http://www.expertlabsmali.com
+id: expert-labs-mali
+twitter:
+facebook: https://www.facebook.com/ExpertLabsBamako/?ref=bookmarks
+linkedin:
+city: Bamako
+region:
+country: Mali
+email: expertlabsmali@gmail.com
+articles:
+description: |-
+  Offrir des opportunit�s de d�veloppement �conomique aux jeunes maliens � travers le secteur priv�  La cr�ation d�un bon environnement de d�veloppement des entreprises jeunes au Mali  La facilitation de l�interconnexion des entrepreneurs au Mali et dans le monde
+name: "Expert Labs Mali"
+lat:
+lng:
+address_line1: ""
+websiteUrl: http://www.expertlabsmali.com
