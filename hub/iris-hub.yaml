@@ -1,5 +1,4 @@
 id: iris-hub
-linkedin:
 city: Kigali
 region: Kigali City
 country: Rwanda
@@ -12,10 +11,8 @@ description: "Iris Hub is an incubator and accelerator focused on job creation, 
 name: "Iris Hub"
 lat: -1.9705786
 lng: 30.1044288000001
-address_line1: "Kigali, Rwanda"
 websiteUrl: https://www.irishub.rw/
 id: iris-hub
-linkedin:
 city: Kigali
 region: Kigali City
 country: Rwanda
@@ -28,7 +25,8 @@ description: "Iris Hub is an incubator and accelerator focused on job creation, 
 name: "Iris Hub"
 lat: -1.9705786
 lng: 30.1044288000001
-address_line1: "Kigali, Rwanda"
 websiteUrl: https://www.irishub.rw/
 twitterHandle: irishub_rw
 facebookUrl:
+linkedUrl:
+addressLine1: "Kigali, Rwanda"

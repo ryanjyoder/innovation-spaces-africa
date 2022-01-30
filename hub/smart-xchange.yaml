@@ -1,5 +1,4 @@
 id: smart-xchange
-linkedin:
 city: Durban
 region:
 country: South Africa
@@ -11,10 +10,8 @@ description: ""
 name: "Smart Xchange"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.smartxchange.co.za/
 id: smart-xchange
-linkedin:
 city: Durban
 region:
 country: South Africa
@@ -26,7 +23,8 @@ description: ""
 name: "Smart Xchange"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.smartxchange.co.za/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

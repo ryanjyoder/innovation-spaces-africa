@@ -1,5 +1,4 @@
 id: muzinda
-linkedin:
 city: Harare
 region: Harare Province
 country: Zimbabwe
@@ -13,10 +12,8 @@ description: |
 name: "Muzinda"
 lat: -17.8118106
 lng: 31.0895029000001
-address_line1: "Zimbabwe Cricket, Maiden Drive, Harare, Zimbabwe"
 websiteUrl: https://muzindahub.com/
 id: muzinda
-linkedin:
 city: Harare
 region: Harare Province
 country: Zimbabwe
@@ -30,7 +27,8 @@ description: |
 name: "Muzinda"
 lat: -17.8118106
 lng: 31.0895029000001
-address_line1: "Zimbabwe Cricket, Maiden Drive, Harare, Zimbabwe"
 websiteUrl: https://muzindahub.com/
 twitterHandle: MuzindaHub
 facebookUrl: https://www.facebook.com/muzindahub/
+linkedUrl:
+addressLine1: "Zimbabwe Cricket, Maiden Drive, Harare, Zimbabwe"

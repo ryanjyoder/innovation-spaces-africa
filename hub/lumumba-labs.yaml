@@ -1,5 +1,4 @@
 id: lumumba-labs
-linkedin:
 city: Kinshasa
 region:
 country: Democratic Republic of the Congo
@@ -10,10 +9,8 @@ description: |
 name: "Lumumba Labs"
 lat: -4.038333
 lng: 21.758664
-address_line1: "253, Avenue Kimvula"
 websiteUrl: http://www.llab.cd/
 id: lumumba-labs
-linkedin:
 city: Kinshasa
 region:
 country: Democratic Republic of the Congo
@@ -24,7 +21,8 @@ description: |
 name: "Lumumba Labs"
 lat: -4.038333
 lng: 21.758664
-address_line1: "253, Avenue Kimvula"
 websiteUrl: http://www.llab.cd/
 twitterHandle: LabLumumba
 facebookUrl: https://www.facebook.com/ZairInnov/
+linkedUrl:
+addressLine1: "253, Avenue Kimvula"

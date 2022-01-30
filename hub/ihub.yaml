@@ -1,5 +1,4 @@
 id: ihub
-linkedin:
 city:
 region:
 country: Kenya
@@ -14,10 +13,8 @@ description: "iHub is Nairobi�s innovation hub for the technology community an
 name: "iHub"
 lat: -0.023559
 lng: 37.906193
-address_line1: "Kenya"
 websiteUrl: https://ihub.co.ke/
 id: ihub
-linkedin:
 city:
 region:
 country: Kenya
@@ -32,7 +29,8 @@ description: "iHub is Nairobi�s innovation hub for the technology community an
 name: "iHub"
 lat: -0.023559
 lng: 37.906193
-address_line1: "Kenya"
 websiteUrl: https://ihub.co.ke/
 twitterHandle: iHub
 facebookUrl:
+linkedUrl:
+addressLine1: "Kenya"

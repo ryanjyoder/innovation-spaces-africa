@@ -1,5 +1,4 @@
 id: the-house-4-hack
-linkedin:
 city: Pretoria
 region:
 country: South Africa
@@ -9,10 +8,8 @@ description: ""
 name: "The House 4 Hack"
 lat:
 lng:
-address_line1: ""
 websiteUrl: www.house4hack.co.za
 id: the-house-4-hack
-linkedin:
 city: Pretoria
 region:
 country: South Africa
@@ -22,7 +19,8 @@ description: ""
 name: "The House 4 Hack"
 lat:
 lng:
-address_line1: ""
 websiteUrl: www.house4hack.co.za
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

@@ -1,5 +1,4 @@
 id: jiguene-tech-hub
-linkedin:
 city: Dakar
 region:
 country: Senegal
@@ -20,10 +19,8 @@ description: |-
 name: "Jiguene Tech Hub"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://jjiguenetech.com/
 id: jiguene-tech-hub
-linkedin:
 city: Dakar
 region:
 country: Senegal
@@ -44,7 +41,8 @@ description: |-
 name: "Jiguene Tech Hub"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://jjiguenetech.com/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

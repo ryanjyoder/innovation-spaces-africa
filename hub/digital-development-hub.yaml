@@ -1,5 +1,4 @@
 id: digital-development-hub
-linkedin: https://ng.linkedin.com/company/ddhubng
 city: Kano
 region: Kano
 country: Nigeria
@@ -12,10 +11,8 @@ description: "Digital Hub is a co-working space, incubation/acceleration and an 
 name: "Digital Development Hub"
 lat: 12.0049303
 lng: 8.51169030000006
-address_line1: "Kano City, Kano, Nigeria"
 websiteUrl: https://ddhub.org.ng
 id: digital-development-hub
-linkedin: https://ng.linkedin.com/company/ddhubng
 city: Kano
 region: Kano
 country: Nigeria
@@ -28,7 +25,8 @@ description: "Digital Hub is a co-working space, incubation/acceleration and an 
 name: "Digital Development Hub"
 lat: 12.0049303
 lng: 8.51169030000006
-address_line1: "Kano City, Kano, Nigeria"
 websiteUrl: https://ddhub.org.ng
 twitterHandle:
 facebookUrl:
+linkedUrl: https://ng.linkedin.com/company/ddhubng
+addressLine1: "Kano City, Kano, Nigeria"

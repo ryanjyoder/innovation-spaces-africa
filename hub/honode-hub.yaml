@@ -1,5 +1,4 @@
 id: honode-hub
-linkedin:
 city: Dzodze
 region: Volta Region
 country: Ghana
@@ -11,10 +10,8 @@ description: "Honode Hub is an incubator and accelerator  that are focused on sk
 name: "Honode Hub"
 lat: 6.2330852
 lng: 0.996561700000029
-address_line1: "Ho - Denu Road, Dzodze, Ghana"
 websiteUrl: https://honode.org/
 id: honode-hub
-linkedin:
 city: Dzodze
 region: Volta Region
 country: Ghana
@@ -26,7 +23,8 @@ description: "Honode Hub is an incubator and accelerator  that are focused on sk
 name: "Honode Hub"
 lat: 6.2330852
 lng: 0.996561700000029
-address_line1: "Ho - Denu Road, Dzodze, Ghana"
 websiteUrl: https://honode.org/
 twitterHandle: Honodehub
 facebookUrl:
+linkedUrl:
+addressLine1: "Ho - Denu Road, Dzodze, Ghana"

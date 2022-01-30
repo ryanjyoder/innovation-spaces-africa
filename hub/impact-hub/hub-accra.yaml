@@ -1,5 +1,4 @@
 id: hub-accra
-linkedin:
 city: Accra
 region:
 country: Ghana
@@ -9,10 +8,8 @@ description: ""
 name: "Impact Hub Accra"
 lat:
 lng:
-address_line1: ""
 websiteUrl: accra.impacthub.net
 id: hub-accra
-linkedin:
 city: Accra
 region:
 country: Ghana
@@ -22,7 +19,8 @@ description: ""
 name: "Impact Hub Accra"
 lat:
 lng:
-address_line1: ""
 websiteUrl: accra.impacthub.net
 twitterHandle: impacthubaccra
 facebookUrl:
+linkedUrl:
+addressLine1: ""

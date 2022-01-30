@@ -1,5 +1,4 @@
 id: startpreneurs
-linkedin:
 city:
 region:
 country: Nigeria
@@ -14,10 +13,8 @@ description: "Startpreneurs began operation in January, 2016 and was legally reg
 name: "Startpreneurs"
 lat: 9.081999
 lng: 8.67527700000005
-address_line1: "Nigeria"
 websiteUrl: http://www.startpreneurs.com.ng/
 id: startpreneurs
-linkedin:
 city:
 region:
 country: Nigeria
@@ -32,7 +29,8 @@ description: "Startpreneurs began operation in January, 2016 and was legally reg
 name: "Startpreneurs"
 lat: 9.081999
 lng: 8.67527700000005
-address_line1: "Nigeria"
 websiteUrl: http://www.startpreneurs.com.ng/
 twitterHandle: startpreneurs
 facebookUrl:
+linkedUrl:
+addressLine1: "Nigeria"

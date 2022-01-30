@@ -1,5 +1,4 @@
 id: founders-hub
-linkedin:
 city:
 region: Kwara
 country: Nigeria
@@ -10,10 +9,8 @@ description: |
 name: "Founders Hub"
 lat: 8.9847995
 lng: 4.56244259999994
-address_line1: "Kwara, Nigeria"
 websiteUrl: http://foundershub.xyz/holder/
 id: founders-hub
-linkedin:
 city:
 region: Kwara
 country: Nigeria
@@ -24,7 +21,8 @@ description: |
 name: "Founders Hub"
 lat: 8.9847995
 lng: 4.56244259999994
-address_line1: "Kwara, Nigeria"
 websiteUrl: http://foundershub.xyz/holder/
 twitterHandle: foundershubng
 facebookUrl:
+linkedUrl:
+addressLine1: "Kwara, Nigeria"

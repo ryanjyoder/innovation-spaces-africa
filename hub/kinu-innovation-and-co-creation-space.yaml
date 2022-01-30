@@ -1,5 +1,4 @@
 id: kinu-innovation-and-co-creation-space
-linkedin:
 city: Dar es Salaam
 region:
 country: Tanzania
@@ -12,10 +11,8 @@ description: ""
 name: "Kinu Innovation and Co-Creation Space"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.kinu.co.tz/
 id: kinu-innovation-and-co-creation-space
-linkedin:
 city: Dar es Salaam
 region:
 country: Tanzania
@@ -28,7 +25,8 @@ description: ""
 name: "Kinu Innovation and Co-Creation Space"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.kinu.co.tz/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

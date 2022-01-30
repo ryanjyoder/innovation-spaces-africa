@@ -1,5 +1,4 @@
 id: tih-the-innovation-hub
-linkedin:
 city: Pretoria
 region:
 country: South Africa
@@ -12,10 +11,8 @@ description: ""
 name: "TIH-The Innovation Hub "
 lat:
 lng:
-address_line1: ""
 websiteUrl: www.theinnovationhub.com
 id: tih-the-innovation-hub
-linkedin:
 city: Pretoria
 region:
 country: South Africa
@@ -28,7 +25,8 @@ description: ""
 name: "TIH-The Innovation Hub "
 lat:
 lng:
-address_line1: ""
 websiteUrl: www.theinnovationhub.com
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

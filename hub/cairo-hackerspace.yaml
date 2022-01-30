@@ -1,5 +1,4 @@
 id: cairo-hackerspace
-linkedin:
 city: Cairo
 region: Cairo Governorate
 country: Egypt
@@ -16,10 +15,8 @@ description: "Cairo Hackerspace is an innovation hub that focuses on social impa
 name: "Cairo Hackerspace"
 lat: 30.0444196
 lng: 31.2357116000001
-address_line1: "Cairo, Egypt"
 websiteUrl: https://cairohackerspace.org/
 id: cairo-hackerspace
-linkedin:
 city: Cairo
 region: Cairo Governorate
 country: Egypt
@@ -36,7 +33,8 @@ description: "Cairo Hackerspace is an innovation hub that focuses on social impa
 name: "Cairo Hackerspace"
 lat: 30.0444196
 lng: 31.2357116000001
-address_line1: "Cairo, Egypt"
 websiteUrl: https://cairohackerspace.org/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: "Cairo, Egypt"

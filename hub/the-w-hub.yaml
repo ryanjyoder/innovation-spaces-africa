@@ -1,5 +1,4 @@
 id: the-w-hub
-linkedin:
 city: Abidjan
 region:
 country: Cote d'Ivoire
@@ -9,10 +8,8 @@ description: ""
 name: "The W Hub"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.thewhub.com/
 id: the-w-hub
-linkedin:
 city: Abidjan
 region:
 country: Cote d'Ivoire
@@ -22,7 +19,8 @@ description: ""
 name: "The W Hub"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.thewhub.com/
 twitterHandle: thewhub
 facebookUrl:
+linkedUrl:
+addressLine1: ""

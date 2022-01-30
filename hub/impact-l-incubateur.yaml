@@ -1,5 +1,4 @@
 id: impact-l-incubateur
-linkedin:
 city:
 region:
 country:
@@ -12,10 +11,8 @@ description: |
 name: "IMPACT, L'incubateur"
 lat:
 lng:
-address_line1: ""
 websiteUrl:
 id: impact-l-incubateur
-linkedin:
 city:
 region:
 country:
@@ -28,7 +25,8 @@ description: |
 name: "IMPACT, L'incubateur"
 lat:
 lng:
-address_line1: ""
 websiteUrl:
 twitterHandle: IMPACT_LabESS
 facebookUrl:
+linkedUrl:
+addressLine1: ""

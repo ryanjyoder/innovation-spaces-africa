@@ -1,5 +1,4 @@
 id: incub-ivoir
-linkedin:
 city: Abidjan
 region:
 country: Côte d’Ivoire
@@ -13,10 +12,8 @@ description: ""
 name: "Incub’ivoir "
 lat:
 lng:
-address_line1: "zone 3 rue des carrossiers Bo�te Postale 10 Bp 1041 Abidjan 10"
 websiteUrl: http://incubivoir.net/
 id: incub-ivoir
-linkedin:
 city: Abidjan
 region:
 country: Côte d’Ivoire
@@ -30,7 +27,8 @@ description: ""
 name: "Incub’ivoir "
 lat:
 lng:
-address_line1: "zone 3 rue des carrossiers Bo�te Postale 10 Bp 1041 Abidjan 10"
 websiteUrl: http://incubivoir.net/
 twitterHandle: ivoirincub
 facebookUrl: https://www.facebook.com/incubivoir1/
+linkedUrl:
+addressLine1: "zone 3 rue des carrossiers Bo�te Postale 10 Bp 1041 Abidjan 10"

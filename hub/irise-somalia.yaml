@@ -1,5 +1,4 @@
 id: irise-somalia
-linkedin:
 city:
 region:
 country: Somalia
@@ -15,10 +14,8 @@ description: |
 name: "iRise Somalia"
 lat: 5.152149
 lng: 46.199616
-address_line1: "Somalia"
 websiteUrl: https://irisehub.so/en/
 id: irise-somalia
-linkedin:
 city:
 region:
 country: Somalia
@@ -34,7 +31,8 @@ description: |
 name: "iRise Somalia"
 lat: 5.152149
 lng: 46.199616
-address_line1: "Somalia"
 websiteUrl: https://irisehub.so/en/
 twitterHandle: iRiseHub
 facebookUrl:
+linkedUrl:
+addressLine1: "Somalia"

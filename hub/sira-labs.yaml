@@ -1,5 +1,4 @@
 id: sira-labs
-linkedin:
 city:
 region:
 country:
@@ -13,10 +12,8 @@ description: ""
 name: "Sira Labs"
 lat:
 lng:
-address_line1: "Festival Des Glaces, Ouagadougou, Burkina Faso"
 websiteUrl: https://www.sira-labs.com/
 id: sira-labs
-linkedin:
 city:
 region:
 country:
@@ -30,7 +27,8 @@ description: ""
 name: "Sira Labs"
 lat:
 lng:
-address_line1: "Festival Des Glaces, Ouagadougou, Burkina Faso"
 websiteUrl: https://www.sira-labs.com/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: "Festival Des Glaces, Ouagadougou, Burkina Faso"

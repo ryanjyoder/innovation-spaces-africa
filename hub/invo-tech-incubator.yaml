@@ -1,5 +1,4 @@
 id: invo-tech-incubator
-linkedin:
 city: Durban
 region:
 country: South Africa
@@ -11,10 +10,8 @@ description: ""
 name: "Invo Tech incubator"
 lat:
 lng:
-address_line1: ""
 websiteUrl: www.invotech.dut.ac.za
 id: invo-tech-incubator
-linkedin:
 city: Durban
 region:
 country: South Africa
@@ -26,7 +23,8 @@ description: ""
 name: "Invo Tech incubator"
 lat:
 lng:
-address_line1: ""
 websiteUrl: www.invotech.dut.ac.za
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

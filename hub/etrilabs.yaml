@@ -1,5 +1,4 @@
 id: etrilabs
-linkedin:
 city: Cotonou
 region: Littoral Department
 country: Benin
@@ -14,10 +13,8 @@ description: "EtriLabs is the first and only technology hub in Cotonou (Benin). 
 name: "EtriLabs"
 lat: 6.3628451
 lng: 2.42312849999996
-address_line1: "Rue 403, Cotonou, Benin"
 websiteUrl: http://www.etrilabs.com/
 id: etrilabs
-linkedin:
 city: Cotonou
 region: Littoral Department
 country: Benin
@@ -32,7 +29,8 @@ description: "EtriLabs is the first and only technology hub in Cotonou (Benin). 
 name: "EtriLabs"
 lat: 6.3628451
 lng: 2.42312849999996
-address_line1: "Rue 403, Cotonou, Benin"
 websiteUrl: http://www.etrilabs.com/
 twitterHandle: EtriLabs
 facebookUrl: https://www.facebook.com/etrilabscotonou/
+linkedUrl:
+addressLine1: "Rue 403, Cotonou, Benin"

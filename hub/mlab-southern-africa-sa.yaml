@@ -1,5 +1,4 @@
 id: mlab-southern-africa-sa
-linkedin:
 city: Pretoria
 region: Gauteng
 country: South Africa
@@ -15,10 +14,8 @@ description: "mLab Southern Africa (SA) is a mobile solutions laboratory and sta
 name: "MLab Southern Africa (SA)"
 lat: -25.7491488
 lng: 28.2674629000001
-address_line1: "The Enterprise Building, Allan Cormack St, Pretoria 0020, South Africa"
 websiteUrl: https://www.mlab.co.za/
 id: mlab-southern-africa-sa
-linkedin:
 city: Pretoria
 region: Gauteng
 country: South Africa
@@ -34,7 +31,8 @@ description: "mLab Southern Africa (SA) is a mobile solutions laboratory and sta
 name: "MLab Southern Africa (SA)"
 lat: -25.7491488
 lng: 28.2674629000001
-address_line1: "The Enterprise Building, Allan Cormack St, Pretoria 0020, South Africa"
 websiteUrl: https://www.mlab.co.za/
 twitterHandle: mlabsa
 facebookUrl:
+linkedUrl:
+addressLine1: "The Enterprise Building, Allan Cormack St, Pretoria 0020, South Africa"

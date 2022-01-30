@@ -1,5 +1,4 @@
 id: colab
-linkedin:
 city: Kaduna
 region: Kaduna
 country: Nigeria
@@ -16,10 +15,8 @@ description: "CoLabs is a co-creation space, incubator/accelerator and an innova
 name: "CoLab"
 lat: 10.4548808
 lng: 7.4056928
-address_line1: "kaduna South, Kaduna, Nigeria"
 websiteUrl: https://colab.com.ng/
 id: colab
-linkedin:
 city: Kaduna
 region: Kaduna
 country: Nigeria
@@ -36,7 +33,8 @@ description: "CoLabs is a co-creation space, incubator/accelerator and an innova
 name: "CoLab"
 lat: 10.4548808
 lng: 7.4056928
-address_line1: "kaduna South, Kaduna, Nigeria"
 websiteUrl: https://colab.com.ng/
 twitterHandle: CoLab_kd
 facebookUrl:
+linkedUrl:
+addressLine1: "kaduna South, Kaduna, Nigeria"

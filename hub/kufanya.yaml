@@ -1,5 +1,4 @@
 id: kufanya
-linkedin:
 city:
 region:
 country: Tunisia
@@ -9,10 +8,8 @@ description: "<b>  Kufanya </b>est un partenaire d�impl�mentation de l�org
 name: "Kufanya"
 lat:
 lng:
-address_line1: "Rue Mongi Bali, Sfax"
 websiteUrl: https://www.facebook.com/kufanyaincub/
 id: kufanya
-linkedin:
 city:
 region:
 country: Tunisia
@@ -22,7 +19,8 @@ description: "<b>  Kufanya </b>est un partenaire d�impl�mentation de l�org
 name: "Kufanya"
 lat:
 lng:
-address_line1: "Rue Mongi Bali, Sfax"
 websiteUrl: https://www.facebook.com/kufanyaincub/
 twitterHandle:
 facebookUrl: https://www.facebook.com/kufanyaincub/
+linkedUrl:
+addressLine1: "Rue Mongi Bali, Sfax"

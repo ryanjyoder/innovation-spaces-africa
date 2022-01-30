@@ -1,5 +1,4 @@
 id: cepem-couveuse-d-entreprise-pour-la-promotion-de-l-emploi-par-la-micro-entreprise
-linkedin:
 # Basics
 legalEntity: governmental
 founded: 2018
@@ -81,10 +80,8 @@ description: "\n\n# Short description\nCEPEM is a business incubator run by the 
 name: "CEPEM Couveuse d'Entreprise pour la Promotion de l'Emploi par la Micro-entreprise"
 lat:
 lng:
-address_line1: "3 Rue Amadou Assane Ndoye, Dakar"
 websiteUrl: https://www.cepem.sn
 id: cepem-couveuse-d-entreprise-pour-la-promotion-de-l-emploi-par-la-micro-entreprise
-linkedin:
 # Basics
 legalEntity: governmental
 founded: 2018
@@ -166,7 +163,8 @@ description: "\n\n# Short description\nCEPEM is a business incubator run by the 
 name: "CEPEM Couveuse d'Entreprise pour la Promotion de l'Emploi par la Micro-entreprise"
 lat:
 lng:
-address_line1: "3 Rue Amadou Assane Ndoye, Dakar"
 websiteUrl: https://www.cepem.sn
 twitterHandle: cepemcouveuse
 facebookUrl: https://web.facebook.com/cepemsn
+linkedUrl:
+addressLine1: "3 Rue Amadou Assane Ndoye, Dakar"

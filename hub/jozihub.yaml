@@ -1,5 +1,4 @@
 id: jozihub
-linkedin:
 city: Johannesburg
 region: Gauteng
 country: South Africa
@@ -12,10 +11,8 @@ description: "JoziHub is a co-creation space in Johannesburg dedicated to creati
 name: "JoziHub"
 lat: -26.1934093
 lng: 27.9849379
-address_line1: "South Africa Islam, Johannesburg, Gauteng, South Africa"
 websiteUrl: http://jozihub.org/
 id: jozihub
-linkedin:
 city: Johannesburg
 region: Gauteng
 country: South Africa
@@ -28,7 +25,8 @@ description: "JoziHub is a co-creation space in Johannesburg dedicated to creati
 name: "JoziHub"
 lat: -26.1934093
 lng: 27.9849379
-address_line1: "South Africa Islam, Johannesburg, Gauteng, South Africa"
 websiteUrl: http://jozihub.org/
 twitterHandle: JoziHub
 facebookUrl:
+linkedUrl:
+addressLine1: "South Africa Islam, Johannesburg, Gauteng, South Africa"

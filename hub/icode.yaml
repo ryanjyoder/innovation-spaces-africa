@@ -1,5 +1,4 @@
 id: icode
-linkedin:
 city: Takoradi
 region: Western Region
 country: Ghana
@@ -13,10 +12,8 @@ description: "iCODE is an innovation hub that is focused on skill acquisition, y
 name: "iCODE"
 lat: 4.9028537
 lng: -1.79162220000001
-address_line1: "Apollo, Takoradi, Ghana"
 websiteUrl: http://icodegh.com/
 id: icode
-linkedin:
 city: Takoradi
 region: Western Region
 country: Ghana
@@ -30,7 +27,8 @@ description: "iCODE is an innovation hub that is focused on skill acquisition, y
 name: "iCODE"
 lat: 4.9028537
 lng: -1.79162220000001
-address_line1: "Apollo, Takoradi, Ghana"
 websiteUrl: http://icodegh.com/
 twitterHandle: icodeteam
 facebookUrl:
+linkedUrl:
+addressLine1: "Apollo, Takoradi, Ghana"

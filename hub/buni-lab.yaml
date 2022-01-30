@@ -1,5 +1,4 @@
 id: buni-lab
-linkedin:
 city:
 region:
 country: Tanzania
@@ -13,10 +12,8 @@ description: "Buni is a technology hub that fosters innovation and technology en
 name: "Buni Lab"
 lat: -6.369028
 lng: 34.888822
-address_line1: "Tanzania"
 websiteUrl: http://buni.or.tz/
 id: buni-lab
-linkedin:
 city:
 region:
 country: Tanzania
@@ -30,7 +27,8 @@ description: "Buni is a technology hub that fosters innovation and technology en
 name: "Buni Lab"
 lat: -6.369028
 lng: 34.888822
-address_line1: "Tanzania"
 websiteUrl: http://buni.or.tz/
 twitterHandle: bunihub
 facebookUrl:
+linkedUrl:
+addressLine1: "Tanzania"

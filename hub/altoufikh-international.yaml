@@ -1,5 +1,4 @@
 id: altoufikh-international
-linkedin:
 city: N'Djamena
 region: N'Djamena
 country: Chad
@@ -13,10 +12,8 @@ description: "Altoufikh International is an open space focused on social impact,
 name: "Altoufikh International"
 lat: 12.1348457
 lng: 15.0557415000001
-address_line1: "N'Djamena, Chad"
 websiteUrl:
 id: altoufikh-international
-linkedin:
 city: N'Djamena
 region: N'Djamena
 country: Chad
@@ -30,7 +27,8 @@ description: "Altoufikh International is an open space focused on social impact,
 name: "Altoufikh International"
 lat: 12.1348457
 lng: 15.0557415000001
-address_line1: "N'Djamena, Chad"
 websiteUrl:
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: "N'Djamena, Chad"

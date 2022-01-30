@@ -1,5 +1,4 @@
 id: capetown-garage
-linkedin:
 city: Cape Town
 region:
 country: South Africa
@@ -10,10 +9,8 @@ description: ""
 name: "Capetown Garage"
 lat:
 lng:
-address_line1: ""
 websiteUrl: www.capetowngarage.com
 id: capetown-garage
-linkedin:
 city: Cape Town
 region:
 country: South Africa
@@ -24,7 +21,8 @@ description: ""
 name: "Capetown Garage"
 lat:
 lng:
-address_line1: ""
 websiteUrl: www.capetowngarage.com
 twitterHandle: capetowngarage
 facebookUrl:
+linkedUrl:
+addressLine1: ""

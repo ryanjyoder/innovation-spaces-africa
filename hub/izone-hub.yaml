@@ -1,5 +1,4 @@
 id: izone-hub
-linkedin:
 city: Harare
 region: Harare Province
 country: Zimbabwe
@@ -12,10 +11,8 @@ description: |
 name: "iZone Hub"
 lat: -17.8118106
 lng: 31.0895029000001
-address_line1: "Zimbabwe Cricket, Maiden Drive, Harare, Zimbabwe"
 websiteUrl: https://izonehub.org.zw/
 id: izone-hub
-linkedin:
 city: Harare
 region: Harare Province
 country: Zimbabwe
@@ -28,7 +25,8 @@ description: |
 name: "iZone Hub"
 lat: -17.8118106
 lng: 31.0895029000001
-address_line1: "Zimbabwe Cricket, Maiden Drive, Harare, Zimbabwe"
 websiteUrl: https://izonehub.org.zw/
 twitterHandle: izonehub
 facebookUrl: https://www.facebook.com/izonehub/
+linkedUrl:
+addressLine1: "Zimbabwe Cricket, Maiden Drive, Harare, Zimbabwe"

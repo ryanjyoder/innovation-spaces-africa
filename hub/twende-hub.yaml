@@ -1,5 +1,4 @@
 id: twende-hub
-linkedin:
 city: Tanzania
 region: Western Region
 country: Ghana
@@ -11,10 +10,8 @@ description: "Twende hub was founded in 2007 to identify local needs & engineer 
 name: "Twende Hub"
 lat: 6.3335725
 lng: -3.17231800000002
-address_line1: "Tanzania, Western Region, Ghana"
 websiteUrl: http://www.twende-tanzania.org/
 id: twende-hub
-linkedin:
 city: Tanzania
 region: Western Region
 country: Ghana
@@ -26,7 +23,8 @@ description: "Twende hub was founded in 2007 to identify local needs & engineer 
 name: "Twende Hub"
 lat: 6.3335725
 lng: -3.17231800000002
-address_line1: "Tanzania, Western Region, Ghana"
 websiteUrl: http://www.twende-tanzania.org/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: "Tanzania, Western Region, Ghana"

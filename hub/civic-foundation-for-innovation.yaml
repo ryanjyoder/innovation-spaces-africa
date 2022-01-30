@@ -1,5 +1,4 @@
 id: civic-foundation-for-innovation
-linkedin:
 city: Abuja
 region: Federal Capital Territory
 country: Nigeria
@@ -12,10 +11,8 @@ description: "Civic Innovation hub is a co-creation space and innovation center 
 name: "Civic Foundation for Innovation"
 lat: 9.0764785
 lng: 7.39857400000005
-address_line1: "Abuja, Nigeria"
 websiteUrl: https://civicfoundationforinnovation.org/
 id: civic-foundation-for-innovation
-linkedin:
 city: Abuja
 region: Federal Capital Territory
 country: Nigeria
@@ -28,7 +25,8 @@ description: "Civic Innovation hub is a co-creation space and innovation center 
 name: "Civic Foundation for Innovation"
 lat: 9.0764785
 lng: 7.39857400000005
-address_line1: "Abuja, Nigeria"
 websiteUrl: https://civicfoundationforinnovation.org/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: "Abuja, Nigeria"

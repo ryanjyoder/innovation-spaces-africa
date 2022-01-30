@@ -1,5 +1,4 @@
 id: ogooue-labs
-linkedin:
 city: Libreville
 region: Estuaire
 country: Gabon
@@ -16,10 +15,8 @@ description: "Ogooue Labs is the first coworking space in Gabon for entrepreneur
 name: "Ogooue Labs"
 lat: 0.3606914
 lng: 9.46803190000003
-address_line1: "Gabon Libreville, Libreville, Estuaire, Gabon"
 websiteUrl: https://about.me/ogoouelabs
 id: ogooue-labs
-linkedin:
 city: Libreville
 region: Estuaire
 country: Gabon
@@ -36,7 +33,8 @@ description: "Ogooue Labs is the first coworking space in Gabon for entrepreneur
 name: "Ogooue Labs"
 lat: 0.3606914
 lng: 9.46803190000003
-address_line1: "Gabon Libreville, Libreville, Estuaire, Gabon"
 websiteUrl: https://about.me/ogoouelabs
 twitterHandle: OgooueLabs
 facebookUrl:
+linkedUrl:
+addressLine1: "Gabon Libreville, Libreville, Estuaire, Gabon"

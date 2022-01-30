@@ -1,5 +1,4 @@
 id: dtbi-dar-tekinohama-business-incubator
-linkedin:
 city: Dar es Salaam
 region:
 country: Tanzania
@@ -13,10 +12,8 @@ description: ""
 name: "DTBI-Dar Tekinohama Business Incubator "
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.teknohama.or.tz/
 id: dtbi-dar-tekinohama-business-incubator
-linkedin:
 city: Dar es Salaam
 region:
 country: Tanzania
@@ -30,7 +27,8 @@ description: ""
 name: "DTBI-Dar Tekinohama Business Incubator "
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.teknohama.or.tz/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

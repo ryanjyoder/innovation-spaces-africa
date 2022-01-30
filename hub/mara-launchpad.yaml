@@ -1,5 +1,4 @@
 id: mara-launchpad
-linkedin:
 city: Kampala
 region:
 country: Togo
@@ -12,10 +11,8 @@ description: ""
 name: "Mara Launchpad"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.mara-foundation.org/
 id: mara-launchpad
-linkedin:
 city: Kampala
 region:
 country: Togo
@@ -28,7 +25,8 @@ description: ""
 name: "Mara Launchpad"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.mara-foundation.org/
 twitterHandle: MaraPhones
 facebookUrl:
+linkedUrl:
+addressLine1: ""

@@ -1,5 +1,4 @@
 id: tamkeen-center
-linkedin:
 city:
 region:
 country:
@@ -12,10 +11,8 @@ description: |
 name: "Tamkeen Center"
 lat:
 lng:
-address_line1: "Oujda, Maroc"
 websiteUrl: http://www.tamkeen.ma
 id: tamkeen-center
-linkedin:
 city:
 region:
 country:
@@ -28,7 +25,8 @@ description: |
 name: "Tamkeen Center"
 lat:
 lng:
-address_line1: "Oujda, Maroc"
 websiteUrl: http://www.tamkeen.ma
 twitterHandle: CenterTamkeen
 facebookUrl:
+linkedUrl:
+addressLine1: "Oujda, Maroc"

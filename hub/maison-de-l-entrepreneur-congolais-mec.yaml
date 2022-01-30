@@ -1,5 +1,4 @@
 id: maison-de-l-entrepreneur-congolais-mec
-linkedin:
 city:
 region:
 country: Democratic Republic of the Congo
@@ -10,10 +9,8 @@ description: |
 name: "Maison de l�entrepreneur Congolais � MEC"
 lat:
 lng:
-address_line1: "8 Avenue de l&#039;Eglise , Quartier Gambela ,  Lubumbashi"
 websiteUrl: http://www.maisondelentrepreneur.org
 id: maison-de-l-entrepreneur-congolais-mec
-linkedin:
 city:
 region:
 country: Democratic Republic of the Congo
@@ -24,7 +21,8 @@ description: |
 name: "Maison de l�entrepreneur Congolais � MEC"
 lat:
 lng:
-address_line1: "8 Avenue de l&#039;Eglise , Quartier Gambela ,  Lubumbashi"
 websiteUrl: http://www.maisondelentrepreneur.org
 twitterHandle:
 facebookUrl: https://www.facebook.com/maisondelentrepreneurcongolais
+linkedUrl:
+addressLine1: "8 Avenue de l&#039;Eglise , Quartier Gambela ,  Lubumbashi"

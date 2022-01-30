@@ -1,5 +1,4 @@
 id: ctic-dakar
-linkedin:
 city: Dakar
 region:
 country: Senegal
@@ -21,10 +20,8 @@ description: |
 name: "CTIC Dakar"
 lat: 14.6691984
 lng: -17.4306432
-address_line1: "Rue Berenger Feraud"
 websiteUrl: http://www.cticdakar.com/fr/
 id: ctic-dakar
-linkedin:
 city: Dakar
 region:
 country: Senegal
@@ -46,7 +43,8 @@ description: |
 name: "CTIC Dakar"
 lat: 14.6691984
 lng: -17.4306432
-address_line1: "Rue Berenger Feraud"
 websiteUrl: http://www.cticdakar.com/fr/
 twitterHandle: cticdakar
 facebookUrl: https://www.facebook.com/cticdakar/
+linkedUrl:
+addressLine1: "Rue Berenger Feraud"

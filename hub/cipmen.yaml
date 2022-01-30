@@ -1,5 +1,4 @@
 id: cipmen
-linkedin:
 city:
 region:
 country: Niger
@@ -17,10 +16,8 @@ description: |
 name: "CIPMEN"
 lat: 17.607789
 lng: 8.08166600000004
-address_line1: "Niamey"
 websiteUrl: http://www.cipmen.org
 id: cipmen
-linkedin:
 city:
 region:
 country: Niger
@@ -38,7 +35,8 @@ description: |
 name: "CIPMEN"
 lat: 17.607789
 lng: 8.08166600000004
-address_line1: "Niamey"
 websiteUrl: http://www.cipmen.org
 twitterHandle: Cipmen
 facebookUrl: https://www.facebook.com/incubateurCIPMEN/
+linkedUrl:
+addressLine1: "Niamey"

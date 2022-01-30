@@ -1,5 +1,4 @@
 id: softstart-business-and-technology-incubator
-linkedin:
 city: Johannesburg
 region: Gauteng
 country: South Africa
@@ -11,10 +10,8 @@ description: "Softstart Incubator is an innovation hub that is focused on social
 name: "Softstart Business and Technology Incubator"
 lat: -26.2041028
 lng: 28.0473051
-address_line1: "Johannesburg, South Africa"
 websiteUrl: https://softstartbti.co.za/
 id: softstart-business-and-technology-incubator
-linkedin:
 city: Johannesburg
 region: Gauteng
 country: South Africa
@@ -26,7 +23,8 @@ description: "Softstart Incubator is an innovation hub that is focused on social
 name: "Softstart Business and Technology Incubator"
 lat: -26.2041028
 lng: 28.0473051
-address_line1: "Johannesburg, South Africa"
 websiteUrl: https://softstartbti.co.za/
 twitterHandle: SoftstartBTI
 facebookUrl:
+linkedUrl:
+addressLine1: "Johannesburg, South Africa"

@@ -1,5 +1,4 @@
 id: acse
-linkedin:
 city:
 region:
 country:
@@ -12,10 +11,8 @@ description: |
 name: "ACSE"
 lat:
 lng:
-address_line1: "107 Boulevard Des Martyrs, Sidi M&#039;Hamed, Alg�rie"
 websiteUrl:
 id: acse
-linkedin:
 city:
 region:
 country:
@@ -28,7 +25,8 @@ description: |
 name: "ACSE"
 lat:
 lng:
-address_line1: "107 Boulevard Des Martyrs, Sidi M&#039;Hamed, Alg�rie"
 websiteUrl:
 twitterHandle:
 facebookUrl: https://www.facebook.com/AlgerianCenterForSocialEntrepreneurship
+linkedUrl:
+addressLine1: "107 Boulevard Des Martyrs, Sidi M&#039;Hamed, Alg�rie"

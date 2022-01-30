@@ -1,5 +1,4 @@
 id: cube
-linkedin:
 city:
 region:
 country:
@@ -11,10 +10,8 @@ description: |
 name: "CUBE"
 lat:
 lng:
-address_line1: "BP 4556, togo"
 websiteUrl: http://www.cubenter.com
 id: cube
-linkedin:
 city:
 region:
 country:
@@ -26,7 +23,8 @@ description: |
 name: "CUBE"
 lat:
 lng:
-address_line1: "BP 4556, togo"
 websiteUrl: http://www.cubenter.com
 twitterHandle: cube_togo
 facebookUrl: https://www.facebook.com/SAEICUBE/
+linkedUrl:
+addressLine1: "BP 4556, togo"

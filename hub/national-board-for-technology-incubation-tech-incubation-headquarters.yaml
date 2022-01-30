@@ -1,5 +1,4 @@
 id: national-board-for-technology-incubation-tech-incubation-headquarters
-linkedin:
 city: Abuja
 region:
 country: Nigeria
@@ -12,10 +11,8 @@ description: ""
 name: "National Board for Technology Incubation-Tech Incubation Headquarters"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.nbti.gov.ng/
 id: national-board-for-technology-incubation-tech-incubation-headquarters
-linkedin:
 city: Abuja
 region:
 country: Nigeria
@@ -28,7 +25,8 @@ description: ""
 name: "National Board for Technology Incubation-Tech Incubation Headquarters"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.nbti.gov.ng/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

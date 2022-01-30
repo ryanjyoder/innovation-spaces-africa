@@ -1,5 +1,4 @@
 id: alftech-hub
-linkedin:
 city: Ota
 region: Ogun State
 country: Nigeria
@@ -11,10 +10,8 @@ description: "ALFTech Hub is  an innovation hub that is focused on social impact
 name: "ALFTech Hub"
 lat: 6.6927446
 lng: 3.23648539999999
-address_line1: "Ota, Nigeria"
 websiteUrl: http://alftechhub.com/
 id: alftech-hub
-linkedin:
 city: Ota
 region: Ogun State
 country: Nigeria
@@ -26,7 +23,8 @@ description: "ALFTech Hub is  an innovation hub that is focused on social impact
 name: "ALFTech Hub"
 lat: 6.6927446
 lng: 3.23648539999999
-address_line1: "Ota, Nigeria"
 websiteUrl: http://alftechhub.com/
 twitterHandle:
 facebookUrl: https://www.facebook.com/pg/alftechhub/services/
+linkedUrl:
+addressLine1: "Ota, Nigeria"

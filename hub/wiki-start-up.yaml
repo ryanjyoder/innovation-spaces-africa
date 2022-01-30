@@ -1,5 +1,4 @@
 id: wiki-start-up
-linkedin:
 city: Tunis
 region:
 country: Tunisia
@@ -14,10 +13,8 @@ description: ""
 name: "Wiki Start Up"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.wikistartup.tn/
 id: wiki-start-up
-linkedin:
 city: Tunis
 region:
 country: Tunisia
@@ -32,7 +29,8 @@ description: ""
 name: "Wiki Start Up"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.wikistartup.tn/
 twitterHandle: WIKISTARTUP
 facebookUrl:
+linkedUrl:
+addressLine1: ""

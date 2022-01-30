@@ -1,5 +1,4 @@
 id: cied
-linkedin:
 city:
 region:
 country:
@@ -14,10 +13,8 @@ description: ""
 name: "Cied"
 lat:
 lng:
-address_line1: "Abidjan, C�te-d&#039;Ivoire, Abidjan, C�te d&#039;Ivoire"
 websiteUrl:
 id: cied
-linkedin:
 city:
 region:
 country:
@@ -32,7 +29,8 @@ description: ""
 name: "Cied"
 lat:
 lng:
-address_line1: "Abidjan, C�te-d&#039;Ivoire, Abidjan, C�te d&#039;Ivoire"
 websiteUrl:
 twitterHandle:
 facebookUrl: https://web.facebook.com/AccompagnementCIED/
+linkedUrl:
+addressLine1: "Abidjan, C�te-d&#039;Ivoire, Abidjan, C�te d&#039;Ivoire"

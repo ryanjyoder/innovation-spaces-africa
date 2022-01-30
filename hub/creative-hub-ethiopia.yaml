@@ -1,5 +1,4 @@
 id: creative-hub-ethiopia
-linkedin:
 city:
 region:
 country:
@@ -14,10 +13,8 @@ description: |
 name: "Creative Hub Ethiopia"
 lat:
 lng:
-address_line1: ""
 websiteUrl: https://creativehub.et/
 id: creative-hub-ethiopia
-linkedin:
 city:
 region:
 country:
@@ -32,7 +29,8 @@ description: |
 name: "Creative Hub Ethiopia"
 lat:
 lng:
-address_line1: ""
 websiteUrl: https://creativehub.et/
 twitterHandle: creativehubet
 facebookUrl:
+linkedUrl:
+addressLine1: ""

@@ -1,5 +1,4 @@
 id: women-in-technology-uganda-witu
-linkedin:
 city: Kampala
 region:
 country: Uganda
@@ -10,10 +9,8 @@ description: ""
 name: "Women in Technology Uganda (WITU)"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://witug.org/
 id: women-in-technology-uganda-witu
-linkedin:
 city: Kampala
 region:
 country: Uganda
@@ -24,7 +21,8 @@ description: ""
 name: "Women in Technology Uganda (WITU)"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://witug.org/
 twitterHandle: wituganda
 facebookUrl:
+linkedUrl:
+addressLine1: ""

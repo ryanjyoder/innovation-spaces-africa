@@ -1,5 +1,4 @@
 id: diaspo-hub
-linkedin: https://ng.linkedin.com/company/ddhubng
 city: Bamako
 region: District de Bamako
 country: Mali
@@ -12,10 +11,8 @@ description: |
 name: "Diaspo Hub"
 lat: 12.6250651
 lng: -7.98821799999996
-address_line1: "Ambassade d'Allemagne, Rue 14"
 websiteUrl:
 id: diaspo-hub
-linkedin: https://ng.linkedin.com/company/ddhubng
 city: Bamako
 region: District de Bamako
 country: Mali
@@ -28,7 +25,8 @@ description: |
 name: "Diaspo Hub"
 lat: 12.6250651
 lng: -7.98821799999996
-address_line1: "Ambassade d'Allemagne, Rue 14"
 websiteUrl:
 twitterHandle:
 facebookUrl: https://www.facebook.com/DiaspoHub/
+linkedUrl: https://ng.linkedin.com/company/ddhubng
+addressLine1: "Ambassade d'Allemagne, Rue 14"

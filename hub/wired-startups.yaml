@@ -1,5 +1,4 @@
 id: wired-startups
-linkedin:
 city:
 region:
 country: Morocco
@@ -12,10 +11,8 @@ description: |
 name: "Wired Startups"
 lat: 31.791702
 lng: -7.09262000000001
-address_line1: "Morocco"
 websiteUrl: https://wiredstartups.business.site/
 id: wired-startups
-linkedin:
 city:
 region:
 country: Morocco
@@ -28,7 +25,8 @@ description: |
 name: "Wired Startups"
 lat: 31.791702
 lng: -7.09262000000001
-address_line1: "Morocco"
 websiteUrl: https://wiredstartups.business.site/
 twitterHandle: WiredStartups
 facebookUrl:
+linkedUrl:
+addressLine1: "Morocco"

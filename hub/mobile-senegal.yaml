@@ -1,5 +1,4 @@
 id: mobile-senegal
-linkedin:
 youtube: https://youtube.com/mobilesenegal
 city: Dakar
 region:
@@ -13,10 +12,8 @@ description: |-
 name: "Mobile Senegal "
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://mobilesenegal.org/
 id: mobile-senegal
-linkedin:
 youtube: https://youtube.com/mobilesenegal
 city: Dakar
 region:
@@ -30,7 +27,8 @@ description: |-
 name: "Mobile Senegal "
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://mobilesenegal.org/
 twitterHandle: mobilesenegal
 facebookUrl: https://www.facebook.com/mobilesenegal
+linkedUrl:
+addressLine1: ""

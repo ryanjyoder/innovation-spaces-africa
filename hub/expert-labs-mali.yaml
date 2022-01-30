@@ -1,5 +1,4 @@
 id: expert-labs-mali
-linkedin:
 city: Bamako
 region:
 country: Mali
@@ -10,10 +9,8 @@ description: |-
 name: "Expert Labs Mali"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.expertlabsmali.com
 id: expert-labs-mali
-linkedin:
 city: Bamako
 region:
 country: Mali
@@ -24,7 +21,8 @@ description: |-
 name: "Expert Labs Mali"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.expertlabsmali.com
 twitterHandle:
 facebookUrl: https://www.facebook.com/ExpertLabsBamako/?ref=bookmarks
+linkedUrl:
+addressLine1: ""

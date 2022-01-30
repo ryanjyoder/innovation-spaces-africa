@@ -1,5 +1,4 @@
 id: ispace
-linkedin:
 city: Accra
 region: Greater Accra Region
 country: Ghana
@@ -12,10 +11,8 @@ description: "The iSpace Foundation is a coworking tech and creative innovation 
 name: "iSpace"
 lat: 5.5712984
 lng: -0.146848299999988
-address_line1: "Ghana International Trade Fair Centre, Accra, Ghana"
 websiteUrl: http://ispacegh.com/
 id: ispace
-linkedin:
 city: Accra
 region: Greater Accra Region
 country: Ghana
@@ -28,7 +25,8 @@ description: "The iSpace Foundation is a coworking tech and creative innovation 
 name: "iSpace"
 lat: 5.5712984
 lng: -0.146848299999988
-address_line1: "Ghana International Trade Fair Centre, Accra, Ghana"
 websiteUrl: http://ispacegh.com/
 twitterHandle: iSpaceGh
 facebookUrl:
+linkedUrl:
+addressLine1: "Ghana International Trade Fair Centre, Accra, Ghana"

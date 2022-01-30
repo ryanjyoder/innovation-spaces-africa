@@ -1,5 +1,4 @@
 id: le-boukarou
-linkedin:
 city:
 region:
 country:
@@ -15,10 +14,8 @@ description: |
 name: "Le Boukarou"
 lat:
 lng:
-address_line1: "Douala, Cameroun"
 websiteUrl:
 id: le-boukarou
-linkedin:
 city:
 region:
 country:
@@ -34,7 +31,8 @@ description: |
 name: "Le Boukarou"
 lat:
 lng:
-address_line1: "Douala, Cameroun"
 websiteUrl:
 twitterHandle:
 facebookUrl: https://www.facebook.com/LeboukarouOfficiel/
+linkedUrl:
+addressLine1: "Douala, Cameroun"

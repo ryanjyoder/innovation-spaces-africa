@@ -1,5 +1,4 @@
 id: saboutech
-linkedin:
 city:
 region:
 country:
@@ -17,10 +16,8 @@ description: ""
 name: "Saboutech"
 lat:
 lng:
-address_line1: "Bluezone De Dixinn, Conakry, Guin�e"
 websiteUrl:
 id: saboutech
-linkedin:
 city:
 region:
 country:
@@ -38,7 +35,8 @@ description: ""
 name: "Saboutech"
 lat:
 lng:
-address_line1: "Bluezone De Dixinn, Conakry, Guin�e"
 websiteUrl:
 twitterHandle:
 facebookUrl: https://www.facebook.com/saboutech/
+linkedUrl:
+addressLine1: "Bluezone De Dixinn, Conakry, Guin�e"

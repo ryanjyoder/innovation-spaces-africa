@@ -1,5 +1,4 @@
 id: cape-innovation-and-technology-initiative-citi
-linkedin:
 city: Cape Town
 region:
 country: South Africa
@@ -17,10 +16,8 @@ description: ""
 name: "Cape Innovation and Technology Initiative (CITI)"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.citi.org.za/
 id: cape-innovation-and-technology-initiative-citi
-linkedin:
 city: Cape Town
 region:
 country: South Africa
@@ -38,7 +35,8 @@ description: ""
 name: "Cape Innovation and Technology Initiative (CITI)"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.citi.org.za/
 twitterHandle: Cape_IT
 facebookUrl:
+linkedUrl:
+addressLine1: ""

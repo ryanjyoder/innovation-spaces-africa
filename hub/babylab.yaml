@@ -1,5 +1,4 @@
 id: babylab
-linkedin:
 city: Abidjan
 region: Abidjan
 country: C�te d'Ivoire
@@ -14,10 +13,8 @@ description: |
 name: "BabyLab"
 lat: 5.3173556
 lng: -4.01906439999993
-address_line1: "Abobo Habitat, Q 180"
 websiteUrl: http://www.baby-lab.org/
 id: babylab
-linkedin:
 city: Abidjan
 region: Abidjan
 country: C�te d'Ivoire
@@ -32,7 +29,8 @@ description: |
 name: "BabyLab"
 lat: 5.3173556
 lng: -4.01906439999993
-address_line1: "Abobo Habitat, Q 180"
 websiteUrl: http://www.baby-lab.org/
 twitterHandle: BabyLabCI
 facebookUrl: http://Guiako OBIN
+linkedUrl:
+addressLine1: "Abobo Habitat, Q 180"

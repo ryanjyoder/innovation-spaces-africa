@@ -1,5 +1,4 @@
 id: incubateur-ugb
-linkedin:
 city:
 region:
 country:
@@ -11,10 +10,8 @@ description: ""
 name: "Incubateur UGB"
 lat:
 lng:
-address_line1: "Sanar, Saint-Louis, Saint-Louis, S�n�gal"
 websiteUrl: http://incubation.ugb.sn
 id: incubateur-ugb
-linkedin:
 city:
 region:
 country:
@@ -26,7 +23,8 @@ description: ""
 name: "Incubateur UGB"
 lat:
 lng:
-address_line1: "Sanar, Saint-Louis, Saint-Louis, S�n�gal"
 websiteUrl: http://incubation.ugb.sn
 twitterHandle:
 facebookUrl: https://web.facebook.com/incubateurugb/
+linkedUrl:
+addressLine1: "Sanar, Saint-Louis, Saint-Louis, S�n�gal"

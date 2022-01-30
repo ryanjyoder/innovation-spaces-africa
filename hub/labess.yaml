@@ -1,5 +1,4 @@
 id: labess
-linkedin:
 city: Tunis
 region:
 country: Tunisie
@@ -10,10 +9,8 @@ description: ""
 name: "Labess"
 lat:
 lng:
-address_line1: "7 Rue du Docteur Alphonse Laveran"
 websiteUrl: https://www.labess.tn
 id: labess
-linkedin:
 city: Tunis
 region:
 country: Tunisie
@@ -24,7 +21,8 @@ description: ""
 name: "Labess"
 lat:
 lng:
-address_line1: "7 Rue du Docteur Alphonse Laveran"
 websiteUrl: https://www.labess.tn
 twitterHandle: LabessTN
 facebookUrl: https://www.facebook.com/LabessTunisie/
+linkedUrl:
+addressLine1: "7 Rue du Docteur Alphonse Laveran"

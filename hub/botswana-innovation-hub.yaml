@@ -1,5 +1,4 @@
 id: botswana-innovation-hub
-linkedin:
 city: Gaborone
 region:
 country: Botswana
@@ -19,10 +18,8 @@ description: ""
 name: "Botswana Innovation Hub"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.bih.co.bw/
 id: botswana-innovation-hub
-linkedin:
 city: Gaborone
 region:
 country: Botswana
@@ -42,7 +39,8 @@ description: ""
 name: "Botswana Innovation Hub"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.bih.co.bw/
 twitterHandle: YourBIH
 facebookUrl:
+linkedUrl:
+addressLine1: ""

@@ -1,5 +1,4 @@
 id: imani-hub
-linkedin:
 city: Kinshasa
 region:
 country: DRC
@@ -10,10 +9,8 @@ description: ""
 name: "Imani Hub"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.imanihub.net/
 id: imani-hub
-linkedin:
 city: Kinshasa
 region:
 country: DRC
@@ -24,7 +21,8 @@ description: ""
 name: "Imani Hub"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.imanihub.net/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

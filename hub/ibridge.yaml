@@ -1,5 +1,4 @@
 id: ibridge
-linkedin:
 city:
 region:
 country: Nigeria
@@ -12,10 +11,8 @@ description: |
 name: "iBridge"
 lat: 9.081999
 lng: 8.67527700000005
-address_line1: "Nigeria"
 websiteUrl: http://www.ibridgehub.com/
 id: ibridge
-linkedin:
 city:
 region:
 country: Nigeria
@@ -28,7 +25,8 @@ description: |
 name: "iBridge"
 lat: 9.081999
 lng: 8.67527700000005
-address_line1: "Nigeria"
 websiteUrl: http://www.ibridgehub.com/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: "Nigeria"

@@ -1,5 +1,4 @@
 id: the-innovation-hub
-linkedin:
 city:
 region:
 country: South Africa
@@ -13,10 +12,8 @@ description: "The Innovation Hub \n"
 name: "The Innovation Hub"
 lat: -30.559482
 lng: 22.937506
-address_line1: "South Africa"
 websiteUrl: https://theinnovationhub.com/
 id: the-innovation-hub
-linkedin:
 city:
 region:
 country: South Africa
@@ -30,7 +27,8 @@ description: "The Innovation Hub \n"
 name: "The Innovation Hub"
 lat: -30.559482
 lng: 22.937506
-address_line1: "South Africa"
 websiteUrl: https://theinnovationhub.com/
 twitterHandle: InnovHub
 facebookUrl:
+linkedUrl:
+addressLine1: "South Africa"

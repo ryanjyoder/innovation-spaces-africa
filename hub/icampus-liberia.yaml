@@ -1,5 +1,4 @@
 id: icampus-liberia
-linkedin:
 city: Monrovia
 region:
 country: Liberia
@@ -15,10 +14,8 @@ description: |
 name: "iCampus Liberia"
 lat:
 lng:
-address_line1: ""
 websiteUrl: https://www.icampus.io/
 id: icampus-liberia
-linkedin:
 city: Monrovia
 region:
 country: Liberia
@@ -34,7 +31,8 @@ description: |
 name: "iCampus Liberia"
 lat:
 lng:
-address_line1: ""
 websiteUrl: https://www.icampus.io/
 twitterHandle: icampuslib
 facebookUrl:
+linkedUrl:
+addressLine1: ""

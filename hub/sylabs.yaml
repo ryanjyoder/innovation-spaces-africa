@@ -1,5 +1,4 @@
 id: sylabs
-linkedin:
 city:
 region:
 country: Algeria
@@ -12,10 +11,8 @@ description: |
 name: "Sylabs"
 lat: 28.033886
 lng: 1.659626
-address_line1: "Algeria"
 websiteUrl: http://sylabs-dz.com/
 id: sylabs
-linkedin:
 city:
 region:
 country: Algeria
@@ -28,7 +25,8 @@ description: |
 name: "Sylabs"
 lat: 28.033886
 lng: 1.659626
-address_line1: "Algeria"
 websiteUrl: http://sylabs-dz.com/
 twitterHandle: sylabsdz
 facebookUrl:
+linkedUrl:
+addressLine1: "Algeria"

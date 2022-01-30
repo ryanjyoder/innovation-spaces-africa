@@ -1,5 +1,4 @@
 id: cyclotron-r-union-indian-ocean-cyroi-gip
-linkedin:
 city: Saint Denis
 region:
 country: Reunion
@@ -12,10 +11,8 @@ description: ""
 name: "Cyclotron R?union Indian Ocean (CYROI GIP)"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.cyroi.fr/category/pepiniere-entreprise/
 id: cyclotron-r-union-indian-ocean-cyroi-gip
-linkedin:
 city: Saint Denis
 region:
 country: Reunion
@@ -28,7 +25,8 @@ description: ""
 name: "Cyclotron R?union Indian Ocean (CYROI GIP)"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.cyroi.fr/category/pepiniere-entreprise/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

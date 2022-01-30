@@ -1,5 +1,4 @@
 id: engausa-hub
-linkedin:
 youtube: https://www.youtube.com/channel/UCZar3cuUyRGirl-H2oMMtuQ
 city: Kano
 region:
@@ -11,10 +10,8 @@ description: "From their website \n\n Who We Are?\n We are a team of problem-sol
 name: "Engausa Global Tech Hub"
 lat:
 lng:
-address_line1:
 websiteUrl: https://engausahub.com/
 id: engausa-hub
-linkedin:
 youtube: https://www.youtube.com/channel/UCZar3cuUyRGirl-H2oMMtuQ
 city: Kano
 region:
@@ -26,7 +23,8 @@ description: "From their website \n\n Who We Are?\n We are a team of problem-sol
 name: "Engausa Global Tech Hub"
 lat:
 lng:
-address_line1:
 websiteUrl: https://engausahub.com/
 twitterHandle:
 facebookUrl: https://business.facebook.com/engausahub
+linkedUrl:
+addressLine1:

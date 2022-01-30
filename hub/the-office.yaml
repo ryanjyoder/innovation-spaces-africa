@@ -1,5 +1,4 @@
 id: the-office
-linkedin:
 city: Kigali
 region: Kigali City
 country: Rwanda
@@ -10,10 +9,8 @@ description: "The Office is a coworking space, a community innovation hub, a phy
 name: "The Office"
 lat: -1.9517449
 lng: 30.0610748
-address_line1: "26 KN 3 Road, Kigali, Rwanda"
 websiteUrl: http://theoffice.rw/
 id: the-office
-linkedin:
 city: Kigali
 region: Kigali City
 country: Rwanda
@@ -24,7 +21,8 @@ description: "The Office is a coworking space, a community innovation hub, a phy
 name: "The Office"
 lat: -1.9517449
 lng: 30.0610748
-address_line1: "26 KN 3 Road, Kigali, Rwanda"
 websiteUrl: http://theoffice.rw/
 twitterHandle: TheOfficeRW
 facebookUrl: https://facebook.com/TheOfficeRW/?__tn__=%2AsH-R
+linkedUrl:
+addressLine1: "26 KN 3 Road, Kigali, Rwanda"

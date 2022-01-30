@@ -1,5 +1,4 @@
 id: shinga-entrepreneurship-and-learning-hub
-linkedin:
 city: Harare
 region: Harare Province
 country: Zimbabwe
@@ -18,10 +17,8 @@ description: |
 name: "Shinga Entrepreneurship and Learning Hub"
 lat: -17.8330168
 lng: 31.0855879000001
-address_line1: "Mutare Road, Harare, Zimbabwe"
 websiteUrl: http://www.shinga.co.zw/
 id: shinga-entrepreneurship-and-learning-hub
-linkedin:
 city: Harare
 region: Harare Province
 country: Zimbabwe
@@ -40,7 +37,8 @@ description: |
 name: "Shinga Entrepreneurship and Learning Hub"
 lat: -17.8330168
 lng: 31.0855879000001
-address_line1: "Mutare Road, Harare, Zimbabwe"
 websiteUrl: http://www.shinga.co.zw/
 twitterHandle: shingahub
 facebookUrl: https://www.facebook.com/shingathespace/
+linkedUrl:
+addressLine1: "Mutare Road, Harare, Zimbabwe"

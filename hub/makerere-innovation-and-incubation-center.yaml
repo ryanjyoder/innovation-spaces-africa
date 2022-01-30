@@ -1,5 +1,4 @@
 id: makerere-innovation-and-incubation-center
-linkedin:
 city: Kampala
 region:
 country: Uganda
@@ -14,10 +13,8 @@ description: |
 name: "Makerere Innovation and Incubation Center"
 lat:
 lng:
-address_line1: ""
 websiteUrl: https://miichub.com/
 id: makerere-innovation-and-incubation-center
-linkedin:
 city: Kampala
 region:
 country: Uganda
@@ -32,7 +29,8 @@ description: |
 name: "Makerere Innovation and Incubation Center"
 lat:
 lng:
-address_line1: ""
 websiteUrl: https://miichub.com/
 twitterHandle: miic_ug
 facebookUrl:
+linkedUrl:
+addressLine1: ""

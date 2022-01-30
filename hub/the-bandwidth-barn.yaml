@@ -1,5 +1,4 @@
 id: the-bandwidth-barn
-linkedin:
 city:
 region:
 country: South Africa
@@ -15,10 +14,8 @@ description: "Cape Town�s The Bandwidth Barn (TheBarn) enables people to start
 name: "The Bandwidth Barn"
 lat: -30.559482
 lng: 22.937506
-address_line1: "South Africa"
 websiteUrl: https://www.citi.org.za/spaces/
 id: the-bandwidth-barn
-linkedin:
 city:
 region:
 country: South Africa
@@ -34,7 +31,8 @@ description: "Cape Town�s The Bandwidth Barn (TheBarn) enables people to start
 name: "The Bandwidth Barn"
 lat: -30.559482
 lng: 22.937506
-address_line1: "South Africa"
 websiteUrl: https://www.citi.org.za/spaces/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: "South Africa"

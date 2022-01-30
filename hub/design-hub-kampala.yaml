@@ -1,5 +1,4 @@
 id: design-hub-kampala
-linkedin:
 city: Kampala
 region:
 country: Uganda
@@ -16,10 +15,8 @@ description: "Design Hub Kampala is a co-creation and co-working space in Kampal
 name: "Design Hub Kampala"
 lat:
 lng:
-address_line1: "Plot 3 Bata Close, 5th Street Industrial Area PO Box 7381,"
 websiteUrl: https://designhubkampala.com/
 id: design-hub-kampala
-linkedin:
 city: Kampala
 region:
 country: Uganda
@@ -36,7 +33,8 @@ description: "Design Hub Kampala is a co-creation and co-working space in Kampal
 name: "Design Hub Kampala"
 lat:
 lng:
-address_line1: "Plot 3 Bata Close, 5th Street Industrial Area PO Box 7381,"
 websiteUrl: https://designhubkampala.com/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: "Plot 3 Bata Close, 5th Street Industrial Area PO Box 7381,"

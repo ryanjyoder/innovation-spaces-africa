@@ -1,5 +1,4 @@
 id: orange-corners-south-africa
-linkedin:
 city: Johannesburg
 region:
 country: South Africa
@@ -12,10 +11,8 @@ description: |
 name: "Orange Corners South Africa"
 lat:
 lng:
-address_line1: "20 Kruger Street"
 websiteUrl: https://www.orangecorners.com/country/south-africa/
 id: orange-corners-south-africa
-linkedin:
 city: Johannesburg
 region:
 country: South Africa
@@ -28,8 +25,9 @@ description: |
 name: "Orange Corners South Africa"
 lat:
 lng:
-address_line1: "20 Kruger Street"
 websiteUrl: https://www.orangecorners.com/country/south-africa/
 twitterHandle: OrangeCorners"
 facebookUrl: https://www.facebook.com/OrangeCornersHQ
 instagramHandle: https://www.instagram.com/orange_corners
+linkedUrl:
+addressLine1: "20 Kruger Street"

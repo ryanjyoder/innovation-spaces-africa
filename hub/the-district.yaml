@@ -1,5 +1,4 @@
 id: the-district
-linkedin:
 city:
 region:
 country: Egypt
@@ -9,10 +8,8 @@ description: "The District is an inspiring coworking space for game-changing ent
 name: "The District"
 lat: 26.820553
 lng: 30.802498
-address_line1: "Egypt"
 websiteUrl: http://district-egypt.com/
 id: the-district
-linkedin:
 city:
 region:
 country: Egypt
@@ -22,7 +19,8 @@ description: "The District is an inspiring coworking space for game-changing ent
 name: "The District"
 lat: 26.820553
 lng: 30.802498
-address_line1: "Egypt"
 websiteUrl: http://district-egypt.com/
 twitterHandle: District_Egy
 facebookUrl:
+linkedUrl:
+addressLine1: "Egypt"

@@ -1,5 +1,4 @@
 id: lisungi-fablab
-linkedin:
 city:
 region:
 country:
@@ -15,10 +14,8 @@ description: |
 name: "Lisungi Fablab"
 lat:
 lng:
-address_line1: "44 Avenue De La D�mocratie, Kinshasa, R�publique d�mocratique du Congo"
 websiteUrl: http://lisungifablab.org
 id: lisungi-fablab
-linkedin:
 city:
 region:
 country:
@@ -34,7 +31,8 @@ description: |
 name: "Lisungi Fablab"
 lat:
 lng:
-address_line1: "44 Avenue De La D�mocratie, Kinshasa, R�publique d�mocratique du Congo"
 websiteUrl: http://lisungifablab.org
 twitterHandle:
 facebookUrl: http://lisungi fablab
+linkedUrl:
+addressLine1: "44 Avenue De La D�mocratie, Kinshasa, R�publique d�mocratique du Congo"

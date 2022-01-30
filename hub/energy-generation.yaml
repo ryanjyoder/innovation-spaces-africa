@@ -1,5 +1,4 @@
 id: energy-generation
-linkedin:
 city: Lomé
 region:
 country: Togo
@@ -10,10 +9,8 @@ description: |
 name: "Energy Generation"
 lat:
 lng:
-address_line1: "Hédzranawoé, 2e Arrondissement"
 websiteUrl: https://www.energy-generation.org/
 id: energy-generation
-linkedin:
 city: Lomé
 region:
 country: Togo
@@ -24,7 +21,8 @@ description: |
 name: "Energy Generation"
 lat:
 lng:
-address_line1: "Hédzranawoé, 2e Arrondissement"
 websiteUrl: https://www.energy-generation.org/
 twitterHandle: EnergyGenAfrica
 facebookUrl: https://www.facebook.com/EnergyGeneration
+linkedUrl:
+addressLine1: "Hédzranawoé, 2e Arrondissement"

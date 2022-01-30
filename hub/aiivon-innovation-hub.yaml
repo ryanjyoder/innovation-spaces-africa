@@ -1,5 +1,4 @@
 id: aiivon-innovation-hub
-linkedin:
 city: Abuja
 region: Federal Capital Territory
 country: Nigeria
@@ -17,10 +16,8 @@ description: "Aiivon Hub is an innovation hub that is focused on social impact, 
 name: "Aiivon innovation hub"
 lat: 9.0764785
 lng: 7.39857400000005
-address_line1: "Abuja, Nigeria"
 websiteUrl: https://hub.aiivon.com
 id: aiivon-innovation-hub
-linkedin:
 city: Abuja
 region: Federal Capital Territory
 country: Nigeria
@@ -38,7 +35,8 @@ description: "Aiivon Hub is an innovation hub that is focused on social impact, 
 name: "Aiivon innovation hub"
 lat: 9.0764785
 lng: 7.39857400000005
-address_line1: "Abuja, Nigeria"
 websiteUrl: https://hub.aiivon.com
 twitterHandle: AiivonHub
 facebookUrl:
+linkedUrl:
+addressLine1: "Abuja, Nigeria"

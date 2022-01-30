@@ -1,5 +1,4 @@
 id: bantuhub
-linkedin:
 city: Brazzaville
 region:
 country: Congo
@@ -13,10 +12,8 @@ description: ""
 name: "BantuHub "
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.bantuhub.com/
 id: bantuhub
-linkedin:
 city: Brazzaville
 region:
 country: Congo
@@ -30,7 +27,8 @@ description: ""
 name: "BantuHub "
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.bantuhub.com/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

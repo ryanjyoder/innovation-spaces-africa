@@ -1,5 +1,4 @@
 id: fablab-nairobi
-linkedin:
 city: Nairobi
 region:
 country: Kenya
@@ -15,10 +14,8 @@ description: ""
 name: "FabLab Nairobi"
 lat:
 lng:
-address_line1: ""
 websiteUrl: www.fablab.uonbi.or.ke/#
 id: fablab-nairobi
-linkedin:
 city: Nairobi
 region:
 country: Kenya
@@ -34,7 +31,8 @@ description: ""
 name: "FabLab Nairobi"
 lat:
 lng:
-address_line1: ""
 websiteUrl: www.fablab.uonbi.or.ke/#
 twitterHandle: fablabnairobi
 facebookUrl:
+linkedUrl:
+addressLine1: ""

@@ -1,5 +1,4 @@
 id: sote-hub
-linkedin:
 city:
 region:
 country: Kenya
@@ -17,10 +16,8 @@ description: |
 name: "Sote hub"
 lat: -0.023559
 lng: 37.906193
-address_line1: "Kenya"
 websiteUrl: http://www.sotehub.com/
 id: sote-hub
-linkedin:
 city:
 region:
 country: Kenya
@@ -38,7 +35,8 @@ description: |
 name: "Sote hub"
 lat: -0.023559
 lng: 37.906193
-address_line1: "Kenya"
 websiteUrl: http://www.sotehub.com/
 twitterHandle: Sote_Hub
 facebookUrl:
+linkedUrl:
+addressLine1: "Kenya"

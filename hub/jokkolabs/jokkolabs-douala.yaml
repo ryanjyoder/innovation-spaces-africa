@@ -1,5 +1,4 @@
 id: jokkolabs-douala
-linkedin:
 city:
 region:
 country:
@@ -13,10 +12,8 @@ description: ""
 name: "Jokkolabs Douala"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://jokkolabs.net
 id: jokkolabs-douala
-linkedin:
 city:
 region:
 country:
@@ -30,7 +27,8 @@ description: ""
 name: "Jokkolabs Douala"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://jokkolabs.net
 twitterHandle: JklDouala
 facebookUrl: https://www.facebook.com/JokkolabsDouala
+linkedUrl:
+addressLine1: ""

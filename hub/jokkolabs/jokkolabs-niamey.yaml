@@ -1,5 +1,4 @@
 id: jokkolabs-niamey
-linkedin:
 city:
 region:
 country:
@@ -12,10 +11,8 @@ description: ""
 name: "Jokkolabs Niamey"
 lat:
 lng:
-address_line1: ""
 websiteUrl:
 id: jokkolabs-niamey
-linkedin:
 city:
 region:
 country:
@@ -28,7 +25,8 @@ description: ""
 name: "Jokkolabs Niamey"
 lat:
 lng:
-address_line1: ""
 websiteUrl:
 twitterHandle: JokkolabsNiamey
 facebookUrl:
+linkedUrl:
+addressLine1: ""

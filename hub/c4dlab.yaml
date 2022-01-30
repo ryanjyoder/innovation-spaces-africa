@@ -1,5 +1,4 @@
 id: c4dlab
-linkedin:
 city:
 region:
 country: Kenya
@@ -12,10 +11,8 @@ description: "C4DLab is a research & development, prototyping and innovation sta
 name: "C4DLab"
 lat: -0.023559
 lng: 37.906193
-address_line1: "Kenya"
 websiteUrl: https://c4dlab.ac.ke/
 id: c4dlab
-linkedin:
 city:
 region:
 country: Kenya
@@ -28,7 +25,8 @@ description: "C4DLab is a research & development, prototyping and innovation sta
 name: "C4DLab"
 lat: -0.023559
 lng: 37.906193
-address_line1: "Kenya"
 websiteUrl: https://c4dlab.ac.ke/
 twitterHandle: C4DLab
 facebookUrl:
+linkedUrl:
+addressLine1: "Kenya"

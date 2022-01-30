@@ -1,5 +1,4 @@
 id: obuntu-hub
-linkedin:
 city:
 region:
 country: Tanzania
@@ -10,10 +9,8 @@ description: "Obuntu Hub is inspired by the notion of �obuntu� which can be 
 name: "Obuntu Hub"
 lat:
 lng:
-address_line1: "Mega Complex-Arusha"
 websiteUrl: https://obuntuhub.co.tz/
 id: obuntu-hub
-linkedin:
 city:
 region:
 country: Tanzania
@@ -24,7 +21,8 @@ description: "Obuntu Hub is inspired by the notion of �obuntu� which can be 
 name: "Obuntu Hub"
 lat:
 lng:
-address_line1: "Mega Complex-Arusha"
 websiteUrl: https://obuntuhub.co.tz/
 twitterHandle: obuntuhub
 facebookUrl: https://web.facebook.com/obuntuhub/?_rdc=1&_rdr
+linkedUrl:
+addressLine1: "Mega Complex-Arusha"

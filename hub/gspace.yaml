@@ -1,5 +1,4 @@
 id: gspace
-linkedin:
 city: Accra
 region:
 country: Ghana
@@ -10,10 +9,8 @@ description: ""
 name: "gSpace"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://gspace.addhen.org/
 id: gspace
-linkedin:
 city: Accra
 region:
 country: Ghana
@@ -24,7 +21,8 @@ description: ""
 name: "gSpace"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://gspace.addhen.org/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

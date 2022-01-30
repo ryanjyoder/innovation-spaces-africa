@@ -1,5 +1,4 @@
 id: the-tech-village
-linkedin:
 city:
 region:
 country: Zimbabwe
@@ -12,10 +11,8 @@ description: "The Tech Village began operations in May, 2016 and was legally reg
 name: "The Tech Village"
 lat: -19.015438
 lng: 29.154857
-address_line1: "Zimbabwe"
 websiteUrl: http://www.techvillage.org.zw/
 id: the-tech-village
-linkedin:
 city:
 region:
 country: Zimbabwe
@@ -28,7 +25,8 @@ description: "The Tech Village began operations in May, 2016 and was legally reg
 name: "The Tech Village"
 lat: -19.015438
 lng: 29.154857
-address_line1: "Zimbabwe"
 websiteUrl: http://www.techvillage.org.zw/
 twitterHandle: TechVillagezw
 facebookUrl:
+linkedUrl:
+addressLine1: "Zimbabwe"

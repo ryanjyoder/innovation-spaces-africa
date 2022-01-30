@@ -1,5 +1,4 @@
 id: khulatech
-linkedin:
 city:
 region:
 country:
@@ -16,10 +15,8 @@ description: ""
 name: "KhulaTech"
 lat:
 lng:
-address_line1: "Cotonou B�nin, Vedoko, von funai, immeuble MTN ,  Cotonou"
 websiteUrl: http://www.khulatech.com
 id: khulatech
-linkedin:
 city:
 region:
 country:
@@ -36,7 +33,8 @@ description: ""
 name: "KhulaTech"
 lat:
 lng:
-address_line1: "Cotonou B�nin, Vedoko, von funai, immeuble MTN ,  Cotonou"
 websiteUrl: http://www.khulatech.com
 twitterHandle: khulatech
 facebookUrl: http://www.facebook.com/khulatech
+linkedUrl:
+addressLine1: "Cotonou B�nin, Vedoko, von funai, immeuble MTN ,  Cotonou"

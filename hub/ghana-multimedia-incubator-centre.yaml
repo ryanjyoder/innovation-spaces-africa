@@ -1,5 +1,4 @@
 id: ghana-multimedia-incubator-centre
-linkedin:
 city: Accra
 region:
 country: Ghana
@@ -12,10 +11,8 @@ description: ""
 name: "Ghana Multimedia Incubator Centre"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://gmic.gov.gh/
 id: ghana-multimedia-incubator-centre
-linkedin:
 city: Accra
 region:
 country: Ghana
@@ -28,7 +25,8 @@ description: ""
 name: "Ghana Multimedia Incubator Centre"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://gmic.gov.gh/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

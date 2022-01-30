@@ -1,5 +1,4 @@
 id: jokkolabs-abidjan
-linkedin:
 city: Abidjan
 region:
 country: C?te d?Ivoire
@@ -13,10 +12,8 @@ description: ""
 name: "Jokkolabs Abidjan"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://jokkolabs.net/en/#jokkolabs
 id: jokkolabs-abidjan
-linkedin:
 city: Abidjan
 region:
 country: C?te d?Ivoire
@@ -30,7 +27,8 @@ description: ""
 name: "Jokkolabs Abidjan"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://jokkolabs.net/en/#jokkolabs
 twitterHandle: JklAbidjan
 facebookUrl:
+linkedUrl:
+addressLine1: ""

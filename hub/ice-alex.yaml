@@ -1,5 +1,4 @@
 id: ice-alex
-linkedin:
 city:
 region: Alexandria Governorate
 country: Egypt
@@ -9,10 +8,8 @@ description: "Ice Alex is an ever-growing international network of hubs and node
 name: "Ice Alex"
 lat: 30.7622959
 lng: 29.6962677
-address_line1: "Alexandria Governorate, Egypt"
 websiteUrl: http://icealex.com/
 id: ice-alex
-linkedin:
 city:
 region: Alexandria Governorate
 country: Egypt
@@ -22,7 +19,8 @@ description: "Ice Alex is an ever-growing international network of hubs and node
 name: "Ice Alex"
 lat: 30.7622959
 lng: 29.6962677
-address_line1: "Alexandria Governorate, Egypt"
 websiteUrl: http://icealex.com/
 twitterHandle: icealexHub
 facebookUrl:
+linkedUrl:
+addressLine1: "Alexandria Governorate, Egypt"

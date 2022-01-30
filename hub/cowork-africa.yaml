@@ -1,5 +1,4 @@
 id: cowork-africa
-linkedin:
 city: Douala
 region:
 country: Cameroon
@@ -13,10 +12,8 @@ description: |
 name: "Cowork.Africa"
 lat:
 lng:
-address_line1: ""
 websiteUrl: Co-work.africa
 id: cowork-africa
-linkedin:
 city: Douala
 region:
 country: Cameroon
@@ -30,7 +27,8 @@ description: |
 name: "Cowork.Africa"
 lat:
 lng:
-address_line1: ""
 websiteUrl: Co-work.africa
 twitterHandle: coworkafrica
 facebookUrl:
+linkedUrl:
+addressLine1: ""

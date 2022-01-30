@@ -1,5 +1,4 @@
 id: thehub
-linkedin:
 city: Kampala
 region:
 country: Uganda
@@ -11,10 +10,8 @@ description: ""
 name: "TheHub"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://thehubkampala.com/
 id: thehub
-linkedin:
 city: Kampala
 region:
 country: Uganda
@@ -26,7 +23,8 @@ description: ""
 name: "TheHub"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://thehubkampala.com/
 twitterHandle: HUBKampala
 facebookUrl:
+linkedUrl:
+addressLine1: ""

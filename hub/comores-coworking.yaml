@@ -1,5 +1,4 @@
 id: comores-coworking
-linkedin: Work
 city: Boulevard Karthala, Moroni, Comores
 region:
 country:
@@ -11,10 +10,8 @@ description: ""
 name: "Comores Coworking"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.comorescoworking.com
 id: comores-coworking
-linkedin: Work
 city: Boulevard Karthala, Moroni, Comores
 region:
 country:
@@ -26,7 +23,8 @@ description: ""
 name: "Comores Coworking"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.comorescoworking.com
 twitterHandle: comwork_km
 facebookUrl: http://Com&#039
+linkedUrl: Work
+addressLine1: ""

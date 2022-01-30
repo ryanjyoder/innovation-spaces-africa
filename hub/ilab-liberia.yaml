@@ -1,5 +1,4 @@
 id: ilab-liberia
-linkedin:
 city: Monrovia
 region: Montserrado
 country: Liberia
@@ -17,10 +16,8 @@ description: "iLab Liberia is a non-profit computer laboratory providing access 
 name: "iLab Liberia"
 lat: 6.306069
 lng: -10.7988739
-address_line1: "Camp Johnson Rd, Monrovia, Liberia"
 websiteUrl: http://ilabliberia.org/
 id: ilab-liberia
-linkedin:
 city: Monrovia
 region: Montserrado
 country: Liberia
@@ -38,7 +35,8 @@ description: "iLab Liberia is a non-profit computer laboratory providing access 
 name: "iLab Liberia"
 lat: 6.306069
 lng: -10.7988739
-address_line1: "Camp Johnson Rd, Monrovia, Liberia"
 websiteUrl: http://ilabliberia.org/
 twitterHandle: iLabLiberia
 facebookUrl:
+linkedUrl:
+addressLine1: "Camp Johnson Rd, Monrovia, Liberia"

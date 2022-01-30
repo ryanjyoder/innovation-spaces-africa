@@ -1,5 +1,4 @@
 id: inapem-angolan-institute-of-support-for-micro-small-and-medium-enterprises
-linkedin:
 city: Luanda
 region:
 country: Angola
@@ -11,10 +10,8 @@ description: ""
 name: "INAPEM--Angolan Institute of Support for Micro, Small and Medium Enterprises "
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.portal.inapem.gov.ao/
 id: inapem-angolan-institute-of-support-for-micro-small-and-medium-enterprises
-linkedin:
 city: Luanda
 region:
 country: Angola
@@ -26,7 +23,8 @@ description: ""
 name: "INAPEM--Angolan Institute of Support for Micro, Small and Medium Enterprises "
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.portal.inapem.gov.ao/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

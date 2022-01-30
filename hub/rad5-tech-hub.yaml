@@ -1,5 +1,4 @@
 id: rad5-tech-hub
-linkedin:
 city: Aba
 region:
 country: Nigeria
@@ -13,10 +12,8 @@ description: |
 name: "RAD5 Tech Hub"
 lat:
 lng:
-address_line1: ""
 websiteUrl: https://rad5.com.ng/
 id: rad5-tech-hub
-linkedin:
 city: Aba
 region:
 country: Nigeria
@@ -30,7 +27,8 @@ description: |
 name: "RAD5 Tech Hub"
 lat:
 lng:
-address_line1: ""
 websiteUrl: https://rad5.com.ng/
 twitterHandle: rad5techhub
 facebookUrl:
+linkedUrl:
+addressLine1: ""

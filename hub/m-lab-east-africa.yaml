@@ -1,5 +1,4 @@
 id: m-lab-east-africa
-linkedin:
 city: Nairobi
 region:
 country: Kenya
@@ -12,10 +11,8 @@ description: ""
 name: "m:Lab East Africa"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://mlab.co.ke/
 id: m-lab-east-africa
-linkedin:
 city: Nairobi
 region:
 country: Kenya
@@ -28,7 +25,8 @@ description: ""
 name: "m:Lab East Africa"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://mlab.co.ke/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

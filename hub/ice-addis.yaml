@@ -1,5 +1,4 @@
 id: ice-addis
-linkedin:
 city: Addis Ababa
 region: Addis Ababa
 country: Ethiopia
@@ -16,10 +15,8 @@ description: "iceaddis is a self-sufficient business incubation and innovation c
 name: "Ice Addis"
 lat: 9.0118214
 lng: 38.7328845
-address_line1: "Chad St, Addis Ababa, Ethiopia"
 websiteUrl: https://www.iceaddis.com/
 id: ice-addis
-linkedin:
 city: Addis Ababa
 region: Addis Ababa
 country: Ethiopia
@@ -36,7 +33,8 @@ description: "iceaddis is a self-sufficient business incubation and innovation c
 name: "Ice Addis"
 lat: 9.0118214
 lng: 38.7328845
-address_line1: "Chad St, Addis Ababa, Ethiopia"
 websiteUrl: https://www.iceaddis.com/
 twitterHandle: iceaddis
 facebookUrl:
+linkedUrl:
+addressLine1: "Chad St, Addis Ababa, Ethiopia"

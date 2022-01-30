@@ -1,5 +1,4 @@
 id: mwasi-tech-hub
-linkedin:
 city: Kinshasa
 region:
 country: Cote D'Ivoire
@@ -10,10 +9,8 @@ description: ""
 name: "Mwasi Tech Hub"
 lat:
 lng:
-address_line1: ""
 websiteUrl:
 id: mwasi-tech-hub
-linkedin:
 city: Kinshasa
 region:
 country: Cote D'Ivoire
@@ -24,7 +21,8 @@ description: ""
 name: "Mwasi Tech Hub"
 lat:
 lng:
-address_line1: ""
 websiteUrl:
 twitterHandle:
 facebookUrl: https://www.facebook.com/mwasitechhub
+linkedUrl:
+addressLine1: ""

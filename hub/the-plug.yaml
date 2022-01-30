@@ -1,5 +1,4 @@
 id: the-plug
-linkedin:
 city:
 region:
 country:
@@ -10,10 +9,8 @@ description: |
 name: "THE PLUG"
 lat:
 lng:
-address_line1: "R�sidence les Terrasses D&#039;Oran, Bir El Djir, Oran"
 websiteUrl: http://www.theplugbybo.com
 id: the-plug
-linkedin:
 city:
 region:
 country:
@@ -24,7 +21,8 @@ description: |
 name: "THE PLUG"
 lat:
 lng:
-address_line1: "R�sidence les Terrasses D&#039;Oran, Bir El Djir, Oran"
 websiteUrl: http://www.theplugbybo.com
 twitterHandle:
 facebookUrl: https://www.facebook.com/the.plug.by.bo
+linkedUrl:
+addressLine1: "R�sidence les Terrasses D&#039;Oran, Bir El Djir, Oran"

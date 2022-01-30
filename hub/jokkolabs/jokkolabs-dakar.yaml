@@ -1,5 +1,4 @@
 id: jokkolabs-dakar
-linkedin:
 city: Dakar
 region:
 country: Senegal
@@ -20,10 +19,8 @@ description: |-
 name: "Jokkolabs Dakar"
 lat:
 lng:
-address_line1: "Sacr� C�ur 3 villa 9653"
 websiteUrl: https://www.jokkolabs.net/senegal/dakar
 id: jokkolabs-dakar
-linkedin:
 city: Dakar
 region:
 country: Senegal
@@ -44,7 +41,8 @@ description: |-
 name: "Jokkolabs Dakar"
 lat:
 lng:
-address_line1: "Sacr� C�ur 3 villa 9653"
 websiteUrl: https://www.jokkolabs.net/senegal/dakar
 twitterHandle: JklDakar
 facebookUrl: https://www.facebook.com/jokkolabsDakar/
+linkedUrl:
+addressLine1: "Sacr� C�ur 3 villa 9653"

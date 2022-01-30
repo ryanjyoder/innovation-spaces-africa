@@ -1,5 +1,4 @@
 id: ja-gabon
-linkedin:
 city:
 region:
 country:
@@ -13,10 +12,8 @@ description: ""
 name: "JA Gabon"
 lat:
 lng:
-address_line1: "JA Gabon, Libreville, Gabon"
 websiteUrl: https://www.jagabon.org/
 id: ja-gabon
-linkedin:
 city:
 region:
 country:
@@ -30,7 +27,8 @@ description: ""
 name: "JA Gabon"
 lat:
 lng:
-address_line1: "JA Gabon, Libreville, Gabon"
 websiteUrl: https://www.jagabon.org/
 twitterHandle: ja_gabon
 facebookUrl: https://www.facebook.com/Juniorachievementgabon/
+linkedUrl:
+addressLine1: "JA Gabon, Libreville, Gabon"

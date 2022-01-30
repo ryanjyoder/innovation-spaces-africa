@@ -1,5 +1,4 @@
 id: impact-hub-johannesburg
-linkedin:
 city: Johannesburg
 region:
 country: South Africa
@@ -11,10 +10,8 @@ description: ""
 name: "IMPACT HUB "
 lat:
 lng:
-address_line1: ""
 websiteUrl: johannesburg.impacthub.net
 id: impact-hub-johannesburg
-linkedin:
 city: Johannesburg
 region:
 country: South Africa
@@ -26,7 +23,8 @@ description: ""
 name: "IMPACT HUB "
 lat:
 lng:
-address_line1: ""
 websiteUrl: johannesburg.impacthub.net
 twitterHandle: ImpactHub
 facebookUrl:
+linkedUrl:
+addressLine1: ""

@@ -1,5 +1,4 @@
 id: i-hub-malagasy
-linkedin:
 city: Antananarivo
 region:
 country: Madagascar
@@ -10,10 +9,8 @@ description: ""
 name: "I-Hub Malagasy"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.i-hub.mg/
 id: i-hub-malagasy
-linkedin:
 city: Antananarivo
 region:
 country: Madagascar
@@ -24,7 +21,8 @@ description: ""
 name: "I-Hub Malagasy"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.i-hub.mg/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

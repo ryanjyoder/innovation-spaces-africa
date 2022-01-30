@@ -1,5 +1,4 @@
 id: bidaya
-linkedin:
 city:
 region:
 country:
@@ -13,10 +12,8 @@ description: |
 name: "Bidaya"
 lat:
 lng:
-address_line1: "33 bis rue le titien Val fleuri ,  Casablanca"
 websiteUrl: http://www.bidaya.io
 id: bidaya
-linkedin:
 city:
 region:
 country:
@@ -30,7 +27,8 @@ description: |
 name: "Bidaya"
 lat:
 lng:
-address_line1: "33 bis rue le titien Val fleuri ,  Casablanca"
 websiteUrl: http://www.bidaya.io
 twitterHandle: Bidaya_io
 facebookUrl: https://www.facebook.com/Bidaya.io/
+linkedUrl:
+addressLine1: "33 bis rue le titien Val fleuri ,  Casablanca"

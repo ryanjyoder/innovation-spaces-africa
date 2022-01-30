@@ -1,5 +1,4 @@
 id: playlab
-linkedin:
 city: Dakar
 region:
 country: Senegal
@@ -10,10 +9,8 @@ description: ""
 name: "Playlab"
 lat:
 lng:
-address_line1: "Villa Mamelles Aviation LOT num�ro 3 TF"
 websiteUrl: https://www.play-international.org/le-playlab
 id: playlab
-linkedin:
 city: Dakar
 region:
 country: Senegal
@@ -24,7 +21,8 @@ description: ""
 name: "Playlab"
 lat:
 lng:
-address_line1: "Villa Mamelles Aviation LOT num�ro 3 TF"
 websiteUrl: https://www.play-international.org/le-playlab
 twitterHandle: pl4y
 facebookUrl:
+linkedUrl:
+addressLine1: "Villa Mamelles Aviation LOT num�ro 3 TF"

@@ -1,14 +1,9 @@
-title: "Black Girls Code South Africa"
-date: 2021-06-12T15:35:07-04:00
-draft: true
+name: "Black Girls Code South Africa"
 id: black-girls-code
 websiteUrl: https://blackgirlscode.com/chapter/sa/
-linkedin:
 phone: "+510 398 0880"
-location:
-  lat:
-  lng:
-  address: ""
+lat:
+lng:
 city: Johannesburg
 region:
 country: South Africa
@@ -30,3 +25,5 @@ articles:
 description: ""
 twitterHandle: blackgirlscode
 facebookUrl: https://www.facebook.com/BlackGirlsCodeJohannesburg
+linkedUrl:
+addressLine1: ""

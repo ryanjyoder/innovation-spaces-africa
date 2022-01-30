@@ -1,5 +1,4 @@
 id: afp-pme
-linkedin:
 city:
 region:
 country:
@@ -16,10 +15,8 @@ description: ""
 name: "AFP PME"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.afppme.bf/
 id: afp-pme
-linkedin:
 city:
 region:
 country:
@@ -36,7 +33,8 @@ description: ""
 name: "AFP PME"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.afppme.bf/
 twitterHandle:
 facebookUrl: https://web.facebook.com/AfpPme/
+linkedUrl:
+addressLine1: ""

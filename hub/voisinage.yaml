@@ -1,5 +1,4 @@
 id: voisinage
-linkedin:
 city:
 region:
 country:
@@ -9,10 +8,8 @@ description: ""
 name: "VOISINAGE"
 lat:
 lng:
-address_line1: ""
 websiteUrl: https://www.uvci.edu.ci/
 id: voisinage
-linkedin:
 city:
 region:
 country:
@@ -22,7 +19,8 @@ description: ""
 name: "VOISINAGE"
 lat:
 lng:
-address_line1: ""
 websiteUrl: https://www.uvci.edu.ci/
 twitterHandle:
 facebookUrl: https://www.facebook.com/uvciv/
+linkedUrl:
+addressLine1: ""

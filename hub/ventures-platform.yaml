@@ -1,5 +1,4 @@
 id: ventures-platform
-linkedin:
 city: Abuja
 region: Federal Capital Territory
 country: Nigeria
@@ -23,10 +22,8 @@ articles:
 name: "Ventures Platform"
 lat: 9.0438014
 lng: 7.49190239999996
-address_line1: "Abuja International Conference Centre, Herbert Macaulay Way, Abuja, Nigeria"
 websiteUrl: http://www.venturesplatform.com/
 id: ventures-platform
-linkedin:
 city: Abuja
 region: Federal Capital Territory
 country: Nigeria
@@ -50,7 +47,8 @@ articles:
 name: "Ventures Platform"
 lat: 9.0438014
 lng: 7.49190239999996
-address_line1: "Abuja International Conference Centre, Herbert Macaulay Way, Abuja, Nigeria"
 websiteUrl: http://www.venturesplatform.com/
 twitterHandle: vplatformhub
 facebookUrl:
+linkedUrl:
+addressLine1: "Abuja International Conference Centre, Herbert Macaulay Way, Abuja, Nigeria"

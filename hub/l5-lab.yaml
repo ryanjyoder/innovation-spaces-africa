@@ -1,5 +1,4 @@
 id: l5-lab
-linkedin:
 city: Lagos
 region:
 country: Nigeria
@@ -11,10 +10,8 @@ description: ""
 name: "L5 Lab"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.l5lab.com/
 id: l5-lab
-linkedin:
 city: Lagos
 region:
 country: Nigeria
@@ -26,7 +23,8 @@ description: ""
 name: "L5 Lab"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.l5lab.com/
 twitterHandle: L5Lab
 facebookUrl:
+linkedUrl:
+addressLine1: ""

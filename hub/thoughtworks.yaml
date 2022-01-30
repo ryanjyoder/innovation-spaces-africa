@@ -1,5 +1,4 @@
 id: thoughtworks
-linkedin:
 city: Johannesburg
 region:
 country: South Africa
@@ -15,10 +14,8 @@ description: ""
 name: "ThoughtWorks"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://info.thoughtworks.com/
 id: thoughtworks
-linkedin:
 city: Johannesburg
 region:
 country: South Africa
@@ -34,7 +31,8 @@ description: ""
 name: "ThoughtWorks"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://info.thoughtworks.com/
 twitterHandle: thoughtworks
 facebookUrl:
+linkedUrl:
+addressLine1: ""

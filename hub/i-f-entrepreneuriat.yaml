@@ -1,5 +1,4 @@
 id: i-f-entrepreneuriat
-linkedin:
 city:
 region:
 country:
@@ -14,10 +13,8 @@ description: "I&Fentrepreneuriat est riche d�une exp�rience de 10 ans (2007 
 name: "I&F Entrepreneuriat"
 lat:
 lng:
-address_line1: "23, Avenue Kolo, Quartier Noki, Mbanza-Ngungu, Bas-Congo, RD Congo"
 websiteUrl: http://ifentrepreneuriat.org/
 id: i-f-entrepreneuriat
-linkedin:
 city:
 region:
 country:
@@ -32,7 +29,8 @@ description: "I&Fentrepreneuriat est riche d�une exp�rience de 10 ans (2007 
 name: "I&F Entrepreneuriat"
 lat:
 lng:
-address_line1: "23, Avenue Kolo, Quartier Noki, Mbanza-Ngungu, Bas-Congo, RD Congo"
 websiteUrl: http://ifentrepreneuriat.org/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: "23, Avenue Kolo, Quartier Noki, Mbanza-Ngungu, Bas-Congo, RD Congo"

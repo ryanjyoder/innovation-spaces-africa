@@ -1,5 +1,4 @@
 id: outbox
-linkedin:
 city: Kampala
 region: Central Region
 country: Uganda
@@ -17,10 +16,8 @@ description: "Outbox is a Kampala-based incubation, collaboration and co-creatio
 name: "Outbox"
 lat: 0.3229945
 lng: 32.5766
-address_line1: "Soliz House, Kampala, Uganda"
 websiteUrl: http://www.outbox.co.ug/
 id: outbox
-linkedin:
 city: Kampala
 region: Central Region
 country: Uganda
@@ -38,7 +35,8 @@ description: "Outbox is a Kampala-based incubation, collaboration and co-creatio
 name: "Outbox"
 lat: 0.3229945
 lng: 32.5766
-address_line1: "Soliz House, Kampala, Uganda"
 websiteUrl: http://www.outbox.co.ug/
 twitterHandle: OutboxHub
 facebookUrl:
+linkedUrl:
+addressLine1: "Soliz House, Kampala, Uganda"

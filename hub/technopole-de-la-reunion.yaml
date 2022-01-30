@@ -1,5 +1,4 @@
 id: technopole-de-la-reunion
-linkedin:
 city: Saint Denis (Sainte Clotilde)
 region:
 country: Reunion
@@ -13,10 +12,8 @@ description: ""
 name: "Technopole de la Reunion "
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://technopole-reunion.com
 id: technopole-de-la-reunion
-linkedin:
 city: Saint Denis (Sainte Clotilde)
 region:
 country: Reunion
@@ -30,7 +27,8 @@ description: ""
 name: "Technopole de la Reunion "
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://technopole-reunion.com
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

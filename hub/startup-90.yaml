@@ -1,5 +1,4 @@
 id: startup-90
-linkedin:
 city: Cape Town
 postal_code: 7925
 region:
@@ -12,10 +11,8 @@ description: ""
 name: "Startup 90"
 lat:
 lng:
-address_line1: "Buchanan Square, Sir Lowry Road, Woodstock"
 websiteUrl: https://www.startup90.com
 id: startup-90
-linkedin:
 city: Cape Town
 postal_code: 7925
 region:
@@ -28,8 +25,9 @@ description: ""
 name: "Startup 90"
 lat:
 lng:
-address_line1: "Buchanan Square, Sir Lowry Road, Woodstock"
 websiteUrl: https://www.startup90.com
 twitterHandle: startup90
 facebookUrl: https://www.facebook.com/startup90
 instagramHandle: http://instagram.com/startup_90/
+linkedUrl:
+addressLine1: "Buchanan Square, Sir Lowry Road, Woodstock"

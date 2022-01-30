@@ -1,5 +1,4 @@
 id: nlab
-linkedin:
 city: Ngoumou
 region:
 country: Cameroon
@@ -10,10 +9,8 @@ description: |
 name: "Nlab"
 lat:
 lng:
-address_line1: ""
 websiteUrl:
 id: nlab
-linkedin:
 city: Ngoumou
 region:
 country: Cameroon
@@ -24,7 +21,8 @@ description: |
 name: "Nlab"
 lat:
 lng:
-address_line1: ""
 websiteUrl:
 twitterHandle: nlabcameroon
 facebookUrl:
+linkedUrl:
+addressLine1: ""

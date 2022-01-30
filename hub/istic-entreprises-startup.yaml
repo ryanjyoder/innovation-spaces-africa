@@ -1,5 +1,4 @@
 id: istic-entreprises-startup
-linkedin:
 city:
 region:
 country:
@@ -11,10 +10,8 @@ description: "ISTIC Entreprises Startup se propose comme une passerelle entre le
 name: "ISTIC Entreprises Startup"
 lat:
 lng:
-address_line1: "Technopole Ecopark Borj-c�dria, Borj C�dria, Tunisie"
 websiteUrl: http://www.istic.rnu.tn
 id: istic-entreprises-startup
-linkedin:
 city:
 region:
 country:
@@ -26,7 +23,8 @@ description: "ISTIC Entreprises Startup se propose comme une passerelle entre le
 name: "ISTIC Entreprises Startup"
 lat:
 lng:
-address_line1: "Technopole Ecopark Borj-c�dria, Borj C�dria, Tunisie"
 websiteUrl: http://www.istic.rnu.tn
 twitterHandle: istic_tunisie
 facebookUrl: http://ISTIC Entreprises Startup
+linkedUrl:
+addressLine1: "Technopole Ecopark Borj-c�dria, Borj C�dria, Tunisie"

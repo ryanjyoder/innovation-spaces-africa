@@ -1,5 +1,4 @@
 id: ocp-entrepreneurship-network
-linkedin:
 city: Casablanca
 region:
 country: Morocco
@@ -17,10 +16,8 @@ description: ""
 name: "OCP Entrepreneurship Network"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.ocpentrepreneurship.org/
 id: ocp-entrepreneurship-network
-linkedin:
 city: Casablanca
 region:
 country: Morocco
@@ -38,7 +35,8 @@ description: ""
 name: "OCP Entrepreneurship Network"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.ocpentrepreneurship.org/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

@@ -1,5 +1,4 @@
 id: solidarit
-linkedin:
 city: Cotonou
 region:
 country: Benin
@@ -11,10 +10,8 @@ description: |-
 name: "SolidarIT"
 lat:
 lng:
-address_line1: "Solidar&#039;it, Boulevard Steinmetz"
 websiteUrl: https://solidarit-hub.org
 id: solidarit
-linkedin:
 city: Cotonou
 region:
 country: Benin
@@ -26,7 +23,8 @@ description: |-
 name: "SolidarIT"
 lat:
 lng:
-address_line1: "Solidar&#039;it, Boulevard Steinmetz"
 websiteUrl: https://solidarit-hub.org
 twitterHandle: SolidaritHub
 facebookUrl: https://www.facebook.com/SolidarItHub/
+linkedUrl:
+addressLine1: "Solidar&#039;it, Boulevard Steinmetz"

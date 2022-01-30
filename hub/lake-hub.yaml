@@ -1,5 +1,4 @@
 id: lake-hub
-linkedin:
 city: Kisumu
 region: Kisumu County
 country: Kenya
@@ -13,10 +12,8 @@ description: "LakeHub is bringing together the tech-enthusiasts of Western Kenya
 name: "Lake Hub"
 lat: -0.0974903
 lng: 34.7525582999999
-address_line1: "Accra Street, Kisumu, Kenya"
 websiteUrl: http://www.lakehub.co.ke/
 id: lake-hub
-linkedin:
 city: Kisumu
 region: Kisumu County
 country: Kenya
@@ -30,7 +27,8 @@ description: "LakeHub is bringing together the tech-enthusiasts of Western Kenya
 name: "Lake Hub"
 lat: -0.0974903
 lng: 34.7525582999999
-address_line1: "Accra Street, Kisumu, Kenya"
 websiteUrl: http://www.lakehub.co.ke/
 twitterHandle: LakeHub
 facebookUrl:
+linkedUrl:
+addressLine1: "Accra Street, Kisumu, Kenya"

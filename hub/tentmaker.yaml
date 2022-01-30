@@ -1,5 +1,4 @@
 id: tentmaker
-linkedin:
 city: Accra
 region: Greater Accra Region
 country: Ghana
@@ -13,10 +12,8 @@ description: "Tentmaker is a co-creation space  that is focused on social impact
 name: "Tentmaker"
 lat: 5.6004186
 lng: -0.183411500000034
-address_line1: "accra, Ghana Airways Avenue, Accra, Ghana"
 websiteUrl: https://www.tentmakergh.com/
 id: tentmaker
-linkedin:
 city: Accra
 region: Greater Accra Region
 country: Ghana
@@ -30,7 +27,8 @@ description: "Tentmaker is a co-creation space  that is focused on social impact
 name: "Tentmaker"
 lat: 5.6004186
 lng: -0.183411500000034
-address_line1: "accra, Ghana Airways Avenue, Accra, Ghana"
 websiteUrl: https://www.tentmakergh.com/
 twitterHandle: TentmakerGhana
 facebookUrl:
+linkedUrl:
+addressLine1: "accra, Ghana Airways Avenue, Accra, Ghana"

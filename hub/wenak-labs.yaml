@@ -1,5 +1,4 @@
 id: wenak-labs
-linkedin:
 city:
 region: N�Djamena
 country: Chad
@@ -16,10 +15,8 @@ description: |
 name: "Wenak Labs"
 lat: 13.1078947
 lng: 14.4490398
-address_line1: "Immeuble BSIC, 2eme �tage"
 websiteUrl: http://www.wenaklabs.org/
 id: wenak-labs
-linkedin:
 city:
 region: N�Djamena
 country: Chad
@@ -36,7 +33,8 @@ description: |
 name: "Wenak Labs"
 lat: 13.1078947
 lng: 14.4490398
-address_line1: "Immeuble BSIC, 2eme �tage"
 websiteUrl: http://www.wenaklabs.org/
 twitterHandle: WenakLabs
 facebookUrl: https://www.facebook.com/wenaklabs
+linkedUrl:
+addressLine1: "Immeuble BSIC, 2eme �tage"

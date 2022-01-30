@@ -1,14 +1,9 @@
-title: "WYF Labs"
-date: 2021-06-12T15:35:07-04:00
-draft: true
+name: "WYF Labs"
 id: wyf-labs
 websiteUrl: https://wyfegypt.com/wyf_labs.php
-linkedin:
 youtube: https://www.youtube.com/c/WorldYouthForum
-location:
-  lat:
-  lng:
-  address:
+lat:
+lng:
 city: Cairo
 region:
 country: Egypt
@@ -18,3 +13,5 @@ articles:
 description: ""
 twitterHandle: wyfegypt
 facebookUrl: https://www.facebook.com/wyfegypt
+linkedUrl:
+addressLine1:

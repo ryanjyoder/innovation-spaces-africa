@@ -1,5 +1,4 @@
 id: wennovation-hub
-linkedin:
 city:
 region:
 country: Nigeria
@@ -16,10 +15,8 @@ description: "The Wennovation Hub was founded in August 2010, to accelerate HIGH
 name: "Wennovation Hub"
 lat: 9.081999
 lng: 8.67527700000005
-address_line1: "Nigeria"
 websiteUrl: http://www.wennovationhub.org/
 id: wennovation-hub
-linkedin:
 city:
 region:
 country: Nigeria
@@ -36,7 +33,8 @@ description: "The Wennovation Hub was founded in August 2010, to accelerate HIGH
 name: "Wennovation Hub"
 lat: 9.081999
 lng: 8.67527700000005
-address_line1: "Nigeria"
 websiteUrl: http://www.wennovationhub.org/
 twitterHandle: wennovation
 facebookUrl:
+linkedUrl:
+addressLine1: "Nigeria"

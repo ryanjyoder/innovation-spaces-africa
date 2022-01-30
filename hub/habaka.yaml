@@ -1,5 +1,4 @@
 id: habaka
-linkedin:
 city: Antananarivo
 region: Antananarivo Province
 country: Madagascar
@@ -15,10 +14,8 @@ description: "Habaka is a technology innovation space that brings together acade
 name: "Habaka"
 lat: -18.9078944
 lng: 47.5287605
-address_line1: "Lalana Rainandriamampandry, Antananarivo, Antananarivo Province, Madagascar"
 websiteUrl:
 id: habaka
-linkedin:
 city: Antananarivo
 region: Antananarivo Province
 country: Madagascar
@@ -34,7 +31,8 @@ description: "Habaka is a technology innovation space that brings together acade
 name: "Habaka"
 lat: -18.9078944
 lng: 47.5287605
-address_line1: "Lalana Rainandriamampandry, Antananarivo, Antananarivo Province, Madagascar"
 websiteUrl:
 twitterHandle:
 facebookUrl: https://web.facebook.com/habakamg?_rdr
+linkedUrl:
+addressLine1: "Lalana Rainandriamampandry, Antananarivo, Antananarivo Province, Madagascar"

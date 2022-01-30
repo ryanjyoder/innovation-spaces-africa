@@ -1,5 +1,4 @@
 id: uplift-hub
-linkedin:
 city: Bauchi
 region: Bauchi
 country: Nigeria
@@ -13,10 +12,8 @@ description: |
 name: "Uplift Hub"
 lat: 10.3009641
 lng: 9.82365329999993
-address_line1: "Bauchi, Nigeria"
 websiteUrl: https://uplift.ng/
 id: uplift-hub
-linkedin:
 city: Bauchi
 region: Bauchi
 country: Nigeria
@@ -30,7 +27,8 @@ description: |
 name: "Uplift Hub"
 lat: 10.3009641
 lng: 9.82365329999993
-address_line1: "Bauchi, Nigeria"
 websiteUrl: https://uplift.ng/
 twitterHandle: uplifthubng
 facebookUrl:
+linkedUrl:
+addressLine1: "Bauchi, Nigeria"

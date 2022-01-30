@@ -1,5 +1,4 @@
 id: jokkolabs-banjul
-linkedin:
 city: Banjul
 region:
 country: Gambia
@@ -11,10 +10,8 @@ description: ""
 name: "Jokkolabs Banjul"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://jokkolabs.net
 id: jokkolabs-banjul
-linkedin:
 city: Banjul
 region:
 country: Gambia
@@ -26,7 +23,8 @@ description: ""
 name: "Jokkolabs Banjul"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://jokkolabs.net
 twitterHandle: JklBanjul
 facebookUrl:
+linkedUrl:
+addressLine1: ""

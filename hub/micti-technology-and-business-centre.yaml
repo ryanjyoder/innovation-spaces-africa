@@ -1,5 +1,4 @@
 id: micti-technology-and-business-centre
-linkedin:
 city: Maputo
 region:
 country: Mozambique
@@ -10,10 +9,8 @@ description: ""
 name: "MICTI Technology and Business Centre"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.micti.co.mz/
 id: micti-technology-and-business-centre
-linkedin:
 city: Maputo
 region:
 country: Mozambique
@@ -24,7 +21,8 @@ description: ""
 name: "MICTI Technology and Business Centre"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.micti.co.mz/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

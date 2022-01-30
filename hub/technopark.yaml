@@ -1,5 +1,4 @@
 id: technopark
-linkedin:
 city:
 region:
 country: Morocco
@@ -12,10 +11,8 @@ description: ""
 name: "TECHNOPARK"
 lat:
 lng:
-address_line1: ""
 websiteUrl: https://www.technopark.ma/s/
 id: technopark
-linkedin:
 city:
 region:
 country: Morocco
@@ -28,7 +25,8 @@ description: ""
 name: "TECHNOPARK"
 lat:
 lng:
-address_line1: ""
 websiteUrl: https://www.technopark.ma/s/
 twitterHandle: technopark
 facebookUrl: https://web.facebook.com/pages/Technopark
+linkedUrl:
+addressLine1: ""

@@ -1,5 +1,4 @@
 id: oser-innover
-linkedin:
 city:
 region:
 country:
@@ -13,10 +12,8 @@ description: ""
 name: "Oser Innover"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://daretoinnovate.com/
 id: oser-innover
-linkedin:
 city:
 region:
 country:
@@ -30,7 +27,8 @@ description: ""
 name: "Oser Innover"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://daretoinnovate.com/
 twitterHandle: DaretoInnovate
 facebookUrl: https://fr-fr.facebook.com/DaretoInnovate/
+linkedUrl:
+addressLine1: ""

@@ -1,5 +1,4 @@
 id: miawodo
-linkedin:
 city:
 region:
 country:
@@ -13,10 +12,8 @@ description: "Miawodo identifie les femmes et jeunes qui poss�dent des id�es
 name: "MIAWODO"
 lat:
 lng:
-address_line1: "Carrefour de la rue 71 et de la rue 232 � Aflao Gakli ,  Lom�"
 websiteUrl: http://www.entrepreneursdumonde.org
 id: miawodo
-linkedin:
 city:
 region:
 country:
@@ -30,7 +27,8 @@ description: "Miawodo identifie les femmes et jeunes qui poss�dent des id�es
 name: "MIAWODO"
 lat:
 lng:
-address_line1: "Carrefour de la rue 71 et de la rue 232 � Aflao Gakli ,  Lom�"
 websiteUrl: http://www.entrepreneursdumonde.org
 twitterHandle: entrep_monde
 facebookUrl: https://www.facebook.com/miawodo/
+linkedUrl:
+addressLine1: "Carrefour de la rue 71 et de la rue 232 � Aflao Gakli ,  Lom�"

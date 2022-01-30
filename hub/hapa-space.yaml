@@ -1,5 +1,4 @@
 id: hapa-space
-linkedin:
 city: Kumasi
 region: Ashanti Region
 country: Ghana
@@ -16,10 +15,8 @@ description: "Hapaweb Solutions is an Information Technology (IT) company based 
 name: "Hapa Space"
 lat: 6.6934285
 lng: -1.61401030000002
-address_line1: "Kumasi Ghana @ 50 Jubilee Park, Kumasi, Ghana"
 websiteUrl: http://www.haspace.com/
 id: hapa-space
-linkedin:
 city: Kumasi
 region: Ashanti Region
 country: Ghana
@@ -36,7 +33,8 @@ description: "Hapaweb Solutions is an Information Technology (IT) company based 
 name: "Hapa Space"
 lat: 6.6934285
 lng: -1.61401030000002
-address_line1: "Kumasi Ghana @ 50 Jubilee Park, Kumasi, Ghana"
 websiteUrl: http://www.haspace.com/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: "Kumasi Ghana @ 50 Jubilee Park, Kumasi, Ghana"

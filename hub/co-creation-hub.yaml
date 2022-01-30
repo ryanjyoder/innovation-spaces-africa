@@ -1,5 +1,4 @@
 id: co-creation-hub
-linkedin:
 city: Lagos
 region:
 country: Nigeria
@@ -17,10 +16,8 @@ description: ""
 name: "Co-creation Hub"
 lat:
 lng:
-address_line1: ""
 websiteUrl: www.cchubnigeria.com
 id: co-creation-hub
-linkedin:
 city: Lagos
 region:
 country: Nigeria
@@ -38,7 +35,8 @@ description: ""
 name: "Co-creation Hub"
 lat:
 lng:
-address_line1: ""
 websiteUrl: www.cchubnigeria.com
 twitterHandle: Cc_HUB
 facebookUrl:
+linkedUrl:
+addressLine1: ""

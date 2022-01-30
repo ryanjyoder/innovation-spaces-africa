@@ -1,5 +1,4 @@
 id: yesaal-agri-hub
-linkedin:
 city:
 region:
 country:
@@ -14,10 +13,8 @@ description: ""
 name: "YESAAL AGRI HUB"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://yeesalhub.org/
 id: yesaal-agri-hub
-linkedin:
 city:
 region:
 country:
@@ -32,7 +29,8 @@ description: ""
 name: "YESAAL AGRI HUB"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://yeesalhub.org/
 twitterHandle:
 facebookUrl: https://fr-fr.facebook.com/yeesalagrihub/
+linkedUrl:
+addressLine1: ""

@@ -1,5 +1,4 @@
 id: mawazo-hub
-linkedin:
 city: Kampala
 region: Central Region
 country: Uganda
@@ -11,10 +10,8 @@ description: "The Mawazo Innovation Hub, a division of NFT Consult, was establis
 name: "Mawazo Hub"
 lat: 0.3119942
 lng: 32.5844634
-address_line1: "Uganda House, Kampala, Uganda"
 websiteUrl: http://www.nftmawazo.com/
 id: mawazo-hub
-linkedin:
 city: Kampala
 region: Central Region
 country: Uganda
@@ -26,7 +23,8 @@ description: "The Mawazo Innovation Hub, a division of NFT Consult, was establis
 name: "Mawazo Hub"
 lat: 0.3119942
 lng: 32.5844634
-address_line1: "Uganda House, Kampala, Uganda"
 websiteUrl: http://www.nftmawazo.com/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: "Uganda House, Kampala, Uganda"

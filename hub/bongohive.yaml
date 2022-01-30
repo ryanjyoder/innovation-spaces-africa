@@ -1,5 +1,4 @@
 id: bongohive
-linkedin:
 city: Lusaka
 region: Lusaka Province
 country: Zambia
@@ -19,10 +18,8 @@ description: "BongoHive, based in Lusaka, Zambia, provides a place for the local
 name: "BongoHive"
 lat: -15.4186552
 lng: 28.3099678
-address_line1: "Haile Selassie Ave, Lusaka, Zambia"
 websiteUrl: http://bongohive.co.zm/
 id: bongohive
-linkedin:
 city: Lusaka
 region: Lusaka Province
 country: Zambia
@@ -42,7 +39,8 @@ description: "BongoHive, based in Lusaka, Zambia, provides a place for the local
 name: "BongoHive"
 lat: -15.4186552
 lng: 28.3099678
-address_line1: "Haile Selassie Ave, Lusaka, Zambia"
 websiteUrl: http://bongohive.co.zm/
 twitterHandle: bongohive
 facebookUrl:
+linkedUrl:
+addressLine1: "Haile Selassie Ave, Lusaka, Zambia"

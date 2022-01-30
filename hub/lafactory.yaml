@@ -1,5 +1,4 @@
 id: lafactory
-linkedin:
 city:
 region:
 country:
@@ -19,10 +18,8 @@ description: ""
 name: "LaFactory"
 lat:
 lng:
-address_line1: "Casablanca, Maroc"
 websiteUrl: http://www.lafactory.co/
 id: lafactory
-linkedin:
 city:
 region:
 country:
@@ -42,7 +39,8 @@ description: ""
 name: "LaFactory"
 lat:
 lng:
-address_line1: "Casablanca, Maroc"
 websiteUrl: http://www.lafactory.co/
 twitterHandle: lafactory_co
 facebookUrl: https://www.facebook.com/LaFactoryByScreenDy/?ref=br_rs
+linkedUrl:
+addressLine1: "Casablanca, Maroc"

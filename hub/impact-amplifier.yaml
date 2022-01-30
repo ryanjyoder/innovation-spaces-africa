@@ -1,5 +1,4 @@
 id: impact-amplifier
-linkedin:
 city: Johannesburg
 region:
 country: South Africa
@@ -16,10 +15,8 @@ description: ""
 name: "Impact Amplifier"
 lat:
 lng:
-address_line1: ""
 websiteUrl: https://www.impactamplifier.co.za/
 id: impact-amplifier
-linkedin:
 city: Johannesburg
 region:
 country: South Africa
@@ -36,7 +33,8 @@ description: ""
 name: "Impact Amplifier"
 lat:
 lng:
-address_line1: ""
 websiteUrl: https://www.impactamplifier.co.za/
 twitterHandle: ImpactAmplifier
 facebookUrl:
+linkedUrl:
+addressLine1: ""

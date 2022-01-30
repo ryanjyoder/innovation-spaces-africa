@@ -1,5 +1,4 @@
 id: it-kola
-linkedin:
 city:
 region:
 country: Cameroon
@@ -10,10 +9,8 @@ description: "IT Kola stands for innovation and use of sustainable technologies 
 name: "IT Kola"
 lat: 7.369722
 lng: 12.354722
-address_line1: "Cameroon"
 websiteUrl:
 id: it-kola
-linkedin:
 city:
 region:
 country: Cameroon
@@ -24,7 +21,8 @@ description: "IT Kola stands for innovation and use of sustainable technologies 
 name: "IT Kola"
 lat: 7.369722
 lng: 12.354722
-address_line1: "Cameroon"
 websiteUrl:
 twitterHandle:
 facebookUrl: https://www.facebook.com/itkola?_rdc=1&_rdr
+linkedUrl:
+addressLine1: "Cameroon"

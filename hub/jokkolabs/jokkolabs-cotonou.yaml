@@ -1,5 +1,4 @@
 id: jokkolabs-cotonou
-linkedin:
 city: Cotonou
 region:
 country: Benin
@@ -10,10 +9,8 @@ description: |
 name: "Jokkolabs Cotonou"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://jokkolabs.net
 id: jokkolabs-cotonou
-linkedin:
 city: Cotonou
 region:
 country: Benin
@@ -24,7 +21,8 @@ description: |
 name: "Jokkolabs Cotonou"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://jokkolabs.net
 twitterHandle: JklCotonou
 facebookUrl:
+linkedUrl:
+addressLine1: ""

@@ -1,5 +1,4 @@
 id: uac-startup-valley
-linkedin:
 city:
 region:
 country:
@@ -9,10 +8,8 @@ description: ""
 name: "UAC Startup Valley"
 lat:
 lng:
-address_line1: "Abomey Calavi, B�nin"
 websiteUrl: http://www.uacstartupvalley.com
 id: uac-startup-valley
-linkedin:
 city:
 region:
 country:
@@ -22,7 +19,8 @@ description: ""
 name: "UAC Startup Valley"
 lat:
 lng:
-address_line1: "Abomey Calavi, B�nin"
 websiteUrl: http://www.uacstartupvalley.com
 twitterHandle:
 facebookUrl: https://www.facebook.com/uacstartupvalley/
+linkedUrl:
+addressLine1: "Abomey Calavi, B�nin"

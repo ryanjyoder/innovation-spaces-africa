@@ -1,5 +1,4 @@
 id: centre-swahilipot-hub
-linkedin:
 city: Eldoret
 region: Uasin Gishu County
 country: Kenya
@@ -18,10 +17,8 @@ description: |
 name: "Centre Swahilipot hub"
 lat: 0.5157743
 lng: 35.2747495
-address_line1: "Kenyatta Street, Eldoret, Kenya"
 websiteUrl:
 id: centre-swahilipot-hub
-linkedin:
 city: Eldoret
 region: Uasin Gishu County
 country: Kenya
@@ -40,7 +37,8 @@ description: |
 name: "Centre Swahilipot hub"
 lat: 0.5157743
 lng: 35.2747495
-address_line1: "Kenyatta Street, Eldoret, Kenya"
 websiteUrl:
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: "Kenyatta Street, Eldoret, Kenya"

@@ -1,5 +1,4 @@
 id: donilab
-linkedin:
 city: Bamako
 region: District de Bamako
 country: Mali
@@ -15,10 +14,8 @@ description: |
 name: "DoniLab"
 lat: 12.6363899
 lng: -7.99483789999999
-address_line1: "SOTUBA"
 websiteUrl: http://www.donilab.net/
 id: donilab
-linkedin:
 city: Bamako
 region: District de Bamako
 country: Mali
@@ -34,7 +31,8 @@ description: |
 name: "DoniLab"
 lat: 12.6363899
 lng: -7.99483789999999
-address_line1: "SOTUBA"
 websiteUrl: http://www.donilab.net/
 twitterHandle:
 facebookUrl: https://www.facebook.com/donilab.officiel/
+linkedUrl:
+addressLine1: "SOTUBA"

@@ -1,5 +1,4 @@
 id: activspaces
-linkedin:
 city: Buea
 region: Southwest
 country: Cameroon
@@ -27,10 +26,8 @@ description: "ActivSpaces is an open collaboration space, innovation hub and sta
 name: "ActivSpaces"
 lat: 4.1515548
 lng: 9.23278570000002
-address_line1: "Cefam Rd, Buea, Cameroon"
 websiteUrl: http://activspaces.com/
 id: activspaces
-linkedin:
 city: Buea
 region: Southwest
 country: Cameroon
@@ -58,7 +55,8 @@ description: "ActivSpaces is an open collaboration space, innovation hub and sta
 name: "ActivSpaces"
 lat: 4.1515548
 lng: 9.23278570000002
-address_line1: "Cefam Rd, Buea, Cameroon"
 websiteUrl: http://activspaces.com/
 twitterHandle: activspaces
 facebookUrl: https://www.facebook.com/ActivSpaces
+linkedUrl:
+addressLine1: "Cefam Rd, Buea, Cameroon"

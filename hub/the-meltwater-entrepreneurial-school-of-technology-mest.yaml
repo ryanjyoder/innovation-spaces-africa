@@ -1,5 +1,4 @@
 id: the-meltwater-entrepreneurial-school-of-technology-mest
-linkedin:
 city: Accra
 region: Greater Accra Region
 country: Ghana
@@ -25,10 +24,8 @@ description: |
 name: "The Meltwater Entrepreneurial School of Technology (MEST)"
 lat: 5.6446677
 lng: -0.152526599999987
-address_line1: "Aluguntugui St, Accra, Ghana"
 websiteUrl: http://meltwater.org/
 id: the-meltwater-entrepreneurial-school-of-technology-mest
-linkedin:
 city: Accra
 region: Greater Accra Region
 country: Ghana
@@ -54,7 +51,8 @@ description: |
 name: "The Meltwater Entrepreneurial School of Technology (MEST)"
 lat: 5.6446677
 lng: -0.152526599999987
-address_line1: "Aluguntugui St, Accra, Ghana"
 websiteUrl: http://meltwater.org/
 twitterHandle: MESTAfrica
 facebookUrl:
+linkedUrl:
+addressLine1: "Aluguntugui St, Accra, Ghana"

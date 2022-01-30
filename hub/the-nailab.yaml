@@ -1,5 +1,4 @@
 id: the-nailab
-linkedin:
 city: Nairobi
 region: Nairobi County
 country: Kenya
@@ -16,10 +15,8 @@ description: "The NaiLab is a startup accelerator that focuses on early stage bu
 name: "The NaiLab"
 lat: -1.3373892
 lng: 36.6891955999999
-address_line1: "Ngong View Road, Nairobi, Kenya"
 websiteUrl: http://nailab.co.ke/
 id: the-nailab
-linkedin:
 city: Nairobi
 region: Nairobi County
 country: Kenya
@@ -36,7 +33,8 @@ description: "The NaiLab is a startup accelerator that focuses on early stage bu
 name: "The NaiLab"
 lat: -1.3373892
 lng: 36.6891955999999
-address_line1: "Ngong View Road, Nairobi, Kenya"
 websiteUrl: http://nailab.co.ke/
 twitterHandle: thenailab
 facebookUrl:
+linkedUrl:
+addressLine1: "Ngong View Road, Nairobi, Kenya"

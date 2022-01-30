@@ -1,5 +1,4 @@
 id: start-up-garage-98mph
-linkedin:
 city: Capetown
 region:
 country: South Africa
@@ -9,10 +8,8 @@ description: ""
 name: "Start-up Garage/ 98MPH"
 lat:
 lng:
-address_line1: ""
 websiteUrl: www.88mph.ac/capetown
 id: start-up-garage-98mph
-linkedin:
 city: Capetown
 region:
 country: South Africa
@@ -22,7 +19,8 @@ description: ""
 name: "Start-up Garage/ 98MPH"
 lat:
 lng:
-address_line1: ""
 websiteUrl: www.88mph.ac/capetown
 twitterHandle: 88mph_Africa
 facebookUrl:
+linkedUrl:
+addressLine1: ""

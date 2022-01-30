@@ -1,5 +1,4 @@
 id: senfablab
-linkedin:
 city:
 region:
 country: Senegal
@@ -10,10 +9,8 @@ description: ""
 name: "senfablab"
 lat:
 lng:
-address_line1: ""
 websiteUrl:
 id: senfablab
-linkedin:
 city:
 region:
 country: Senegal
@@ -24,7 +21,8 @@ description: ""
 name: "senfablab"
 lat:
 lng:
-address_line1: ""
 websiteUrl:
 twitterHandle: senfablab
 facebookUrl: https://www.facebook.com/senfablab
+linkedUrl:
+addressLine1: ""

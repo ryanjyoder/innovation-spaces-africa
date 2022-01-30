@@ -1,5 +1,4 @@
 id: fablab-namibia
-linkedin:
 city: Windhoek
 region:
 country: Namibia
@@ -12,10 +11,8 @@ description: ""
 name: "Fablab Namibia"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.fablabnamibia.org/
 id: fablab-namibia
-linkedin:
 city: Windhoek
 region:
 country: Namibia
@@ -28,7 +25,8 @@ description: ""
 name: "Fablab Namibia"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.fablabnamibia.org/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

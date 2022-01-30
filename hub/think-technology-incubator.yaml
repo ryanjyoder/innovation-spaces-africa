@@ -1,5 +1,4 @@
 id: think-technology-incubator
-linkedin:
 city: Kigali
 region:
 country: Rwanda
@@ -11,10 +10,8 @@ description: ""
 name: "THINK Technology Incubator "
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.think.rw
 id: think-technology-incubator
-linkedin:
 city: Kigali
 region:
 country: Rwanda
@@ -26,7 +23,8 @@ description: ""
 name: "THINK Technology Incubator "
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.think.rw
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

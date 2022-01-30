@@ -1,5 +1,4 @@
 id: startopp-zone
-linkedin: //facebook.com/startoppzone
 city: 22/121 Atron, N&#039;Djamena
 region:
 country:
@@ -10,10 +9,8 @@ description: ""
 name: "StartOpp Zone"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://startoppzone.com
 id: startopp-zone
-linkedin: //facebook.com/startoppzone
 city: 22/121 Atron, N&#039;Djamena
 region:
 country:
@@ -24,7 +21,8 @@ description: ""
 name: "StartOpp Zone"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://startoppzone.com
 twitterHandle:
 facebookUrl: http://https
+linkedUrl: //facebook.com/startoppzone
+addressLine1: ""

@@ -1,5 +1,4 @@
 id: la-rencontre-des-entrepreneurs-sas
-linkedin:
 city:
 region:
 country:
@@ -10,10 +9,8 @@ description: "La  Rencontre Des Entrepreneurs (RDE) est le 1�r Acc�l�rateu
 name: "LA RENCONTRE DES ENTREPRENEURS-SAS"
 lat:
 lng:
-address_line1: "AGORA BUSINESS CENTER, VILLA N7 MERMOZ ,  DAKAR"
 websiteUrl: http://www.entrepreneursenegal.com
 id: la-rencontre-des-entrepreneurs-sas
-linkedin:
 city:
 region:
 country:
@@ -24,7 +21,8 @@ description: "La  Rencontre Des Entrepreneurs (RDE) est le 1�r Acc�l�rateu
 name: "LA RENCONTRE DES ENTREPRENEURS-SAS"
 lat:
 lng:
-address_line1: "AGORA BUSINESS CENTER, VILLA N7 MERMOZ ,  DAKAR"
 websiteUrl: http://www.entrepreneursenegal.com
 twitterHandle: RDEDAKAR
 facebookUrl:
+linkedUrl:
+addressLine1: "AGORA BUSINESS CENTER, VILLA N7 MERMOZ ,  DAKAR"

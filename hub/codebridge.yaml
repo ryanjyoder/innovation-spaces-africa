@@ -1,5 +1,4 @@
 id: codebridge
-linkedin:
 city: Cape Town
 region:
 country: South Africa
@@ -15,10 +14,8 @@ description: ""
 name: "Codebridge"
 lat:
 lng:
-address_line1: ""
 websiteUrl: www.codebridge.co.za/
 id: codebridge
-linkedin:
 city: Cape Town
 region:
 country: South Africa
@@ -34,7 +31,8 @@ description: ""
 name: "Codebridge"
 lat:
 lng:
-address_line1: ""
 websiteUrl: www.codebridge.co.za/
 twitterHandle: codebridge
 facebookUrl:
+linkedUrl:
+addressLine1: ""

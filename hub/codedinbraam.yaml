@@ -1,5 +1,4 @@
 id: codedinbraam
-linkedin:
 city: Johannesburg
 region:
 country: South Africa
@@ -11,10 +10,8 @@ description: ""
 name: "CodedinBraam"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.meetup.com/CodedInBraam/
 id: codedinbraam
-linkedin:
 city: Johannesburg
 region:
 country: South Africa
@@ -26,7 +23,8 @@ description: ""
 name: "CodedinBraam"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.meetup.com/CodedInBraam/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

@@ -1,5 +1,4 @@
 id: new-work-lab
-linkedin:
 city: Casablanca
 region:
 country: Morocco
@@ -16,10 +15,8 @@ description: ""
 name: "New Work Lab"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.newworklab.com
 id: new-work-lab
-linkedin:
 city: Casablanca
 region:
 country: Morocco
@@ -36,7 +33,8 @@ description: ""
 name: "New Work Lab"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.newworklab.com
 twitterHandle: newworklab
 facebookUrl:
+linkedUrl:
+addressLine1: ""

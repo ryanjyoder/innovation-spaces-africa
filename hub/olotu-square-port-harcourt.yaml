@@ -1,5 +1,4 @@
 id: olotu-square-port-harcourt
-linkedin:
 city: Port Harcourt
 region: Rivers
 country: Nigeria
@@ -12,10 +11,8 @@ description: "Olotu Square is an innovation center focused on social impact, you
 name: "Olotu Square (Port Harcourt)"
 lat: 4.815554
 lng: 7.04984420000005
-address_line1: "Port Harcourt, Nigeria"
 websiteUrl: https://olotusquare.co/
 id: olotu-square-port-harcourt
-linkedin:
 city: Port Harcourt
 region: Rivers
 country: Nigeria
@@ -28,7 +25,8 @@ description: "Olotu Square is an innovation center focused on social impact, you
 name: "Olotu Square (Port Harcourt)"
 lat: 4.815554
 lng: 7.04984420000005
-address_line1: "Port Harcourt, Nigeria"
 websiteUrl: https://olotusquare.co/
 twitterHandle: olotusquare
 facebookUrl:
+linkedUrl:
+addressLine1: "Port Harcourt, Nigeria"

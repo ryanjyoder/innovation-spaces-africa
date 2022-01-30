@@ -1,5 +1,4 @@
 id: tribe
-linkedin:
 city:
 region: Anambra
 country: Nigeria
@@ -10,10 +9,8 @@ description: "Tribe is an innovation centre that is focuses on skill acquisition
 name: "Tribe"
 lat: 6.2757656
 lng: 7.00683930000002
-address_line1: "Anambra, Nigeria"
 websiteUrl:
 id: tribe
-linkedin:
 city:
 region: Anambra
 country: Nigeria
@@ -24,7 +21,8 @@ description: "Tribe is an innovation centre that is focuses on skill acquisition
 name: "Tribe"
 lat: 6.2757656
 lng: 7.00683930000002
-address_line1: "Anambra, Nigeria"
 websiteUrl:
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: "Anambra, Nigeria"

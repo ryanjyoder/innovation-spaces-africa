@@ -1,5 +1,4 @@
 id: grindstone
-linkedin:
 city: Cape Town
 region: Western Cape South Africa
 country: South Africa
@@ -16,10 +15,8 @@ description: ""
 name: "Grindstone"
 lat:
 lng:
-address_line1: "E5B Century Square Century City Cape Town"
 websiteUrl:
 id: grindstone
-linkedin:
 city: Cape Town
 region: Western Cape South Africa
 country: South Africa
@@ -36,7 +33,8 @@ description: ""
 name: "Grindstone"
 lat:
 lng:
-address_line1: "E5B Century Square Century City Cape Town"
 websiteUrl:
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: "E5B Century Square Century City Cape Town"

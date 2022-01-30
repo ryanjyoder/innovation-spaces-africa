@@ -1,5 +1,4 @@
 id: girls-in-tech-git-morocco-chapter
-linkedin:
 city: Casablanca
 region:
 country: Morocco
@@ -10,10 +9,8 @@ description: ""
 name: "Girls in Tech (GIT)-Morocco Chapter"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://morocco.girlsintech.org/
 id: girls-in-tech-git-morocco-chapter
-linkedin:
 city: Casablanca
 region:
 country: Morocco
@@ -24,7 +21,8 @@ description: ""
 name: "Girls in Tech (GIT)-Morocco Chapter"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://morocco.girlsintech.org/
 twitterHandle: girlsintech
 facebookUrl:
+linkedUrl:
+addressLine1: ""

@@ -1,5 +1,4 @@
 id: technology-innovation-entrepreneurship-center
-linkedin:
 city: Cairo
 region:
 country: Egypt
@@ -15,10 +14,8 @@ description: ""
 name: "Technology Innovation Entrepreneurship Center"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.tiec.gov.eg/en-US/Pages/default.aspx
 id: technology-innovation-entrepreneurship-center
-linkedin:
 city: Cairo
 region:
 country: Egypt
@@ -34,7 +31,8 @@ description: ""
 name: "Technology Innovation Entrepreneurship Center"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.tiec.gov.eg/en-US/Pages/default.aspx
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

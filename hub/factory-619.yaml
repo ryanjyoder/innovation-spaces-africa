@@ -1,5 +1,4 @@
 id: factory-619
-linkedin:
 city:
 region:
 country:
@@ -11,10 +10,8 @@ description: ""
 name: "FACTORY 619"
 lat:
 lng:
-address_line1: ""
 websiteUrl: https://factory619.com
 id: factory-619
-linkedin:
 city:
 region:
 country:
@@ -26,7 +23,8 @@ description: ""
 name: "FACTORY 619"
 lat:
 lng:
-address_line1: ""
 websiteUrl: https://factory619.com
 twitterHandle:
 facebookUrl: https://www.facebook.com/factory619
+linkedUrl:
+addressLine1: ""

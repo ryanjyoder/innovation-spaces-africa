@@ -1,5 +1,4 @@
 id: nairobi-garage
-linkedin:
 city: Nairobi
 region: Nairobi County
 country: Kenya
@@ -21,10 +20,8 @@ articles:
 name: "Nairobi Garage"
 lat: -1.2920659
 lng: 36.8219462
-address_line1: "Nairobi, Kenya"
 websiteUrl: https://nairobigarage.com/
 id: nairobi-garage
-linkedin:
 city: Nairobi
 region: Nairobi County
 country: Kenya
@@ -46,7 +43,8 @@ articles:
 name: "Nairobi Garage"
 lat: -1.2920659
 lng: 36.8219462
-address_line1: "Nairobi, Kenya"
 websiteUrl: https://nairobigarage.com/
 twitterHandle: nairobigarage
 facebookUrl:
+linkedUrl:
+addressLine1: "Nairobi, Kenya"

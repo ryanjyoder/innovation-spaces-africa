@@ -1,5 +1,4 @@
 id: sm-lab-co
-linkedin:
 city:
 region:
 country: Burkina Faso
@@ -9,10 +8,8 @@ description: ""
 name: "SM LAB & CO"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://smlab.cool/
 id: sm-lab-co
-linkedin:
 city:
 region:
 country: Burkina Faso
@@ -22,7 +19,8 @@ description: ""
 name: "SM LAB & CO"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://smlab.cool/
 twitterHandle: switch_maker
 facebookUrl: https://web.facebook.com/SMLabCO
+linkedUrl:
+addressLine1: ""

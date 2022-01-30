@@ -1,5 +1,4 @@
 id: nhub
-linkedin:
 city:
 region:
 country: Nigeria
@@ -13,10 +12,8 @@ description: "nHub began operation in November, 2015 and was legally registered 
 name: "nHub"
 lat: 9.081999
 lng: 8.67527700000005
-address_line1: "Nigeria"
 websiteUrl: http://www.nhubnigeria.com/
 id: nhub
-linkedin:
 city:
 region:
 country: Nigeria
@@ -30,7 +27,8 @@ description: "nHub began operation in November, 2015 and was legally registered 
 name: "nHub"
 lat: 9.081999
 lng: 8.67527700000005
-address_line1: "Nigeria"
 websiteUrl: http://www.nhubnigeria.com/
 twitterHandle: nHubNG
 facebookUrl:
+linkedUrl:
+addressLine1: "Nigeria"

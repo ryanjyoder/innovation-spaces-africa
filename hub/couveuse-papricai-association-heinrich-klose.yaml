@@ -1,5 +1,4 @@
 id: couveuse-papricai-association-heinrich-klose
-linkedin:
 city:
 region:
 country:
@@ -14,10 +13,8 @@ description: |
 name: "Couveuse PAPRICAI / Association Heinrich Klose"
 lat:
 lng:
-address_line1: "Lom�, quartier Av�dji, Carrefour Margot, Lom�, Togo"
 websiteUrl: http://couveuse-papricai.org/
 id: couveuse-papricai-association-heinrich-klose
-linkedin:
 city:
 region:
 country:
@@ -32,7 +29,8 @@ description: |
 name: "Couveuse PAPRICAI / Association Heinrich Klose"
 lat:
 lng:
-address_line1: "Lom�, quartier Av�dji, Carrefour Margot, Lom�, Togo"
 websiteUrl: http://couveuse-papricai.org/
 twitterHandle: papricai
 facebookUrl: https://www.facebook.com/papricai/
+linkedUrl:
+addressLine1: "Lom�, quartier Av�dji, Carrefour Margot, Lom�, Togo"

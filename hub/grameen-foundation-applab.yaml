@@ -1,5 +1,4 @@
 id: grameen-foundation-applab
-linkedin:
 city: Kampala
 region:
 country: Uganda
@@ -13,10 +12,8 @@ description: ""
 name: "Grameen Foundation AppLab"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://grameen.skipso.us/en/page/grameen-foundation-applab-in-action
 id: grameen-foundation-applab
-linkedin:
 city: Kampala
 region:
 country: Uganda
@@ -30,7 +27,8 @@ description: ""
 name: "Grameen Foundation AppLab"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://grameen.skipso.us/en/page/grameen-foundation-applab-in-action
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

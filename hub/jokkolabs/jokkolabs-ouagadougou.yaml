@@ -1,5 +1,4 @@
 id: jokkolabs-ouagadougou
-linkedin:
 city: Ouagadougou
 region:
 country: Burkina Faso
@@ -10,10 +9,8 @@ description: ""
 name: "Jokkolabs Ouagadougou"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://ouaga.jokkolabs.net/
 id: jokkolabs-ouagadougou
-linkedin:
 city: Ouagadougou
 region:
 country: Burkina Faso
@@ -24,7 +21,8 @@ description: ""
 name: "Jokkolabs Ouagadougou"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://ouaga.jokkolabs.net/
 twitterHandle: JklOuaga
 facebookUrl:
+linkedUrl:
+addressLine1: ""

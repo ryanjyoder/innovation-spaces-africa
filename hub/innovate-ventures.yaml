@@ -1,5 +1,4 @@
 id: innovate-ventures
-linkedin:
 city: Hargeisa
 region: Woqooyi Galbeed
 country: Somalia
@@ -18,10 +17,8 @@ description: |
 name: "Innovate Ventures"
 lat: 9.562389
 lng: 44.0770133999999
-address_line1: "Hargeisa, Somalia"
 websiteUrl: https://www.innovate.so/
 id: innovate-ventures
-linkedin:
 city: Hargeisa
 region: Woqooyi Galbeed
 country: Somalia
@@ -40,7 +37,8 @@ description: |
 name: "Innovate Ventures"
 lat: 9.562389
 lng: 44.0770133999999
-address_line1: "Hargeisa, Somalia"
 websiteUrl: https://www.innovate.so/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: "Hargeisa, Somalia"

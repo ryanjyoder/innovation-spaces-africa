@@ -1,5 +1,4 @@
 id: ebene-accelerator
-linkedin:
 city: Ebene Cybercity
 region:
 country: Mauritius
@@ -15,10 +14,8 @@ description: ""
 name: "Ebene Accelerator"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://ebeneaccelerator.mu
 id: ebene-accelerator
-linkedin:
 city: Ebene Cybercity
 region:
 country: Mauritius
@@ -34,7 +31,8 @@ description: ""
 name: "Ebene Accelerator"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://ebeneaccelerator.mu
 twitterHandle: ebn_accelerator
 facebookUrl:
+linkedUrl:
+addressLine1: ""

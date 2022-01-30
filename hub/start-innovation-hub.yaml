@@ -1,5 +1,4 @@
 id: start-innovation-hub
-linkedin:
 city: Uyo
 region: Akwa Ibom
 country: Nigeria
@@ -9,10 +8,8 @@ description: "Start Innovation Hub is an innovation lab in Uyo, Nigeria. It was 
 name: "Start Innovation Hub"
 lat: 5.0377396
 lng: 7.91279450000002
-address_line1: "Uyo, Akwa Ibom, Nigeria"
 websiteUrl: http://www.starthub.com.ng/
 id: start-innovation-hub
-linkedin:
 city: Uyo
 region: Akwa Ibom
 country: Nigeria
@@ -22,7 +19,8 @@ description: "Start Innovation Hub is an innovation lab in Uyo, Nigeria. It was 
 name: "Start Innovation Hub"
 lat: 5.0377396
 lng: 7.91279450000002
-address_line1: "Uyo, Akwa Ibom, Nigeria"
 websiteUrl: http://www.starthub.com.ng/
 twitterHandle: StartHub_Tech
 facebookUrl:
+linkedUrl:
+addressLine1: "Uyo, Akwa Ibom, Nigeria"

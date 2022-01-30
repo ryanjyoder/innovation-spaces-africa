@@ -1,5 +1,4 @@
 id: hypercube-hub
-linkedin:
 city: Harare
 region:
 country: Zimbabwe
@@ -18,10 +17,8 @@ description: ""
 name: "Hypercube Hub"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.hypercubehub.co/en
 id: hypercube-hub
-linkedin:
 city: Harare
 region:
 country: Zimbabwe
@@ -40,7 +37,8 @@ description: ""
 name: "Hypercube Hub"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.hypercubehub.co/en
 twitterHandle: hypercubehub
 facebookUrl:
+linkedUrl:
+addressLine1: ""

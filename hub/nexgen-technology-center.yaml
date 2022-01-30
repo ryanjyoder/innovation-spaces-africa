@@ -1,5 +1,4 @@
 id: nexgen-technology-center
-linkedin:
 city: Yaounde
 region: Centre
 country: Cameroon
@@ -17,10 +16,8 @@ description: |
 name: "NexGen Technology Center"
 lat: 3.8480325
 lng: 11.5020752
-address_line1: "Yaounde, Cameroon"
 websiteUrl: http://nexgentechs.org/
 id: nexgen-technology-center
-linkedin:
 city: Yaounde
 region: Centre
 country: Cameroon
@@ -38,7 +35,8 @@ description: |
 name: "NexGen Technology Center"
 lat: 3.8480325
 lng: 11.5020752
-address_line1: "Yaounde, Cameroon"
 websiteUrl: http://nexgentechs.org/
 twitterHandle: NexGenTechC
 facebookUrl:
+linkedUrl:
+addressLine1: "Yaounde, Cameroon"

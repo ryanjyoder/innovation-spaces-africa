@@ -1,5 +1,4 @@
 id: o-botama
-linkedin:
 city: Yaounde
 region: Center
 country: Cameroon
@@ -14,10 +13,8 @@ description: ""
 name: "OBotama"
 lat:
 lng:
-address_line1: "Biyem-Assi"
 websiteUrl: http://www.obotama.com
 id: o-botama
-linkedin:
 city: Yaounde
 region: Center
 country: Cameroon
@@ -32,7 +29,8 @@ description: ""
 name: "OBotama"
 lat:
 lng:
-address_line1: "Biyem-Assi"
 websiteUrl: http://www.obotama.com
 twitterHandle: OBotama_aic
 facebookUrl: https://www.facebook.com/OBotama2018/
+linkedUrl:
+addressLine1: "Biyem-Assi"

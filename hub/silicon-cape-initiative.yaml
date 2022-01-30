@@ -1,5 +1,4 @@
 id: silicon-cape-initiative
-linkedin:
 city: Cape Town
 region:
 country: South Africa
@@ -18,10 +17,8 @@ description: ""
 name: "Silicon Cape Initiative"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.siliconcape.com/
 id: silicon-cape-initiative
-linkedin:
 city: Cape Town
 region:
 country: South Africa
@@ -40,7 +37,8 @@ description: ""
 name: "Silicon Cape Initiative"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.siliconcape.com/
 twitterHandle: siliconcape
 facebookUrl:
+linkedUrl:
+addressLine1: ""

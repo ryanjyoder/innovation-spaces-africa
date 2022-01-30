@@ -1,5 +1,4 @@
 id: eldo-hub-innovation
-linkedin:
 city: Nakuru
 region: Nakuru County
 country: Kenya
@@ -17,10 +16,8 @@ articles:
 name: "Eldo Hub Innovation"
 lat: -0.2849853
 lng: 36.0693113
-address_line1: "Kenyatta Avenue, Nakuru, Kenya"
 websiteUrl: https://www.eldohub.co.ke/
 id: eldo-hub-innovation
-linkedin:
 city: Nakuru
 region: Nakuru County
 country: Kenya
@@ -38,7 +35,8 @@ articles:
 name: "Eldo Hub Innovation"
 lat: -0.2849853
 lng: 36.0693113
-address_line1: "Kenyatta Avenue, Nakuru, Kenya"
 websiteUrl: https://www.eldohub.co.ke/
 twitterHandle: eldohub
 facebookUrl:
+linkedUrl:
+addressLine1: "Kenyatta Avenue, Nakuru, Kenya"

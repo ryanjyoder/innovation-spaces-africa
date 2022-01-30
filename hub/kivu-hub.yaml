@@ -1,5 +1,4 @@
 id: kivu-hub
-linkedin:
 city: Kinshasa
 region: Kinshasa
 country: Democratic Republic of the Congo
@@ -10,10 +9,8 @@ description: "Kivu Hub is an incubator and accelerator that are focused on socia
 name: "Kivu Hub"
 lat: -4.3919893
 lng: 15.3127824000001
-address_line1: "Bukavu, Kinshasa, Congo-Kinshasa"
 websiteUrl: https://kivuhub.net/
 id: kivu-hub
-linkedin:
 city: Kinshasa
 region: Kinshasa
 country: Democratic Republic of the Congo
@@ -24,7 +21,8 @@ description: "Kivu Hub is an incubator and accelerator that are focused on socia
 name: "Kivu Hub"
 lat: -4.3919893
 lng: 15.3127824000001
-address_line1: "Bukavu, Kinshasa, Congo-Kinshasa"
 websiteUrl: https://kivuhub.net/
 twitterHandle: kivuhub
 facebookUrl:
+linkedUrl:
+addressLine1: "Bukavu, Kinshasa, Congo-Kinshasa"

@@ -1,5 +1,4 @@
 id: yam-pukri
-linkedin:
 city: Ouagadougou
 region:
 country: Burkina Faso
@@ -13,10 +12,8 @@ description: ""
 name: "Yam Pukri"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.yam-pukri.org/
 id: yam-pukri
-linkedin:
 city: Ouagadougou
 region:
 country: Burkina Faso
@@ -30,7 +27,8 @@ description: ""
 name: "Yam Pukri"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.yam-pukri.org/
 twitterHandle: yam_pukri
 facebookUrl:
+linkedUrl:
+addressLine1: ""

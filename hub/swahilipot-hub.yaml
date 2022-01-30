@@ -1,5 +1,4 @@
 id: swahilipot-hub
-linkedin:
 city: Mombasa
 region: Mombasa County
 country: Kenya
@@ -16,10 +15,8 @@ description: "Swahilipot Hub is an innovation hub that is focused on social impa
 name: "Swahilipot Hub"
 lat: -4.0434771
 lng: 39.6682065
-address_line1: "Mombasa, Kenya"
 websiteUrl: https://swahilipothub.co.ke/
 id: swahilipot-hub
-linkedin:
 city: Mombasa
 region: Mombasa County
 country: Kenya
@@ -36,7 +33,8 @@ description: "Swahilipot Hub is an innovation hub that is focused on social impa
 name: "Swahilipot Hub"
 lat: -4.0434771
 lng: 39.6682065
-address_line1: "Mombasa, Kenya"
 websiteUrl: https://swahilipothub.co.ke/
 twitterHandle: swahilipothub
 facebookUrl:
+linkedUrl:
+addressLine1: "Mombasa, Kenya"

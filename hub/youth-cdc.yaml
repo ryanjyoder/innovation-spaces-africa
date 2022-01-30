@@ -1,5 +1,4 @@
 id: youth-cdc
-linkedin:
 city: Lomé
 region:
 country: Togo
@@ -12,10 +11,8 @@ description: |
 name: "Youth CDC"
 lat:
 lng:
-address_line1: "Avedji-Elavagnon"
 websiteUrl: http://www.youthcdc.com
 id: youth-cdc
-linkedin:
 city: Lomé
 region:
 country: Togo
@@ -28,7 +25,8 @@ description: |
 name: "Youth CDC"
 lat:
 lng:
-address_line1: "Avedji-Elavagnon"
 websiteUrl: http://www.youthcdc.com
 twitterHandle:
 facebookUrl: https://www.facebook.com/YouthCDC/
+linkedUrl:
+addressLine1: "Avedji-Elavagnon"

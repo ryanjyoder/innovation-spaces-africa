@@ -1,5 +1,4 @@
 id: sky-hub-initiative
-linkedin:
 city: Bulawayo
 region:
 country: Zimbabwe
@@ -10,10 +9,8 @@ description: ""
 name: "Sky Hub Initiative"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.skyhub.co.zw/
 id: sky-hub-initiative
-linkedin:
 city: Bulawayo
 region:
 country: Zimbabwe
@@ -24,7 +21,8 @@ description: ""
 name: "Sky Hub Initiative"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.skyhub.co.zw/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

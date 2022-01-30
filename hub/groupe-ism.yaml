@@ -1,5 +1,4 @@
 id: groupe-ism
-linkedin:
 city:
 region:
 country:
@@ -14,10 +13,8 @@ description: ""
 name: "Groupe ISM"
 lat:
 lng:
-address_line1: ""
 websiteUrl: https://www.ismincub.com/
 id: groupe-ism
-linkedin:
 city:
 region:
 country:
@@ -32,7 +29,8 @@ description: ""
 name: "Groupe ISM"
 lat:
 lng:
-address_line1: ""
 websiteUrl: https://www.ismincub.com/
 twitterHandle:
 facebookUrl: https://fr-fr.facebook.com/GroupeISM/
+linkedUrl:
+addressLine1: ""

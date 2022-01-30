@@ -1,5 +1,4 @@
 id: klab
-linkedin:
 city:
 region:
 country: Rwanda
@@ -19,10 +18,8 @@ description: "kLab (knowledge Lab) is a unique open technology hub in Kigali whe
 name: "kLab"
 lat: -1.940278
 lng: 29.873888
-address_line1: "Rwanda"
 websiteUrl: http://klab.rw/
 id: klab
-linkedin:
 city:
 region:
 country: Rwanda
@@ -42,7 +39,8 @@ description: "kLab (knowledge Lab) is a unique open technology hub in Kigali whe
 name: "kLab"
 lat: -1.940278
 lng: 29.873888
-address_line1: "Rwanda"
 websiteUrl: http://klab.rw/
 twitterHandle: klabrw
 facebookUrl:
+linkedUrl:
+addressLine1: "Rwanda"

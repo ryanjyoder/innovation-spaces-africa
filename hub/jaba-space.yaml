@@ -1,5 +1,4 @@
 id: jaba-space
-linkedin:
 city:
 region:
 country:
@@ -10,10 +9,8 @@ description: ""
 name: "JABA SPACE"
 lat:
 lng:
-address_line1: ""
 websiteUrl: https://jabaspace.co/
 id: jaba-space
-linkedin:
 city:
 region:
 country:
@@ -24,7 +21,8 @@ description: ""
 name: "JABA SPACE"
 lat:
 lng:
-address_line1: ""
 websiteUrl: https://jabaspace.co/
 twitterHandle: JabaSpace
 facebookUrl: https://www.facebook.com/jabaspacecoworking/
+linkedUrl:
+addressLine1: ""

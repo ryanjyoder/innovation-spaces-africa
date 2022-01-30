@@ -1,5 +1,4 @@
 id: techinbraam
-linkedin:
 city: Johannesburg
 region:
 country: South Africa
@@ -14,10 +13,8 @@ description: ""
 name: "TechinBraam"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://techinbraam.co.za
 id: techinbraam
-linkedin:
 city: Johannesburg
 region:
 country: South Africa
@@ -32,7 +29,8 @@ description: ""
 name: "TechinBraam"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://techinbraam.co.za
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

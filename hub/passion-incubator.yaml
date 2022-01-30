@@ -1,5 +1,4 @@
 id: passion-incubator
-linkedin:
 city: Lagos
 region: Lagos
 country: Nigeria
@@ -16,10 +15,8 @@ description: "Passion Incubator is an innovation hub that focuses on job creatio
 name: "Passion Incubator"
 lat: 6.4524039
 lng: 3.39685350000002
-address_line1: "Lagos Island, Lagos, Nigeria"
 websiteUrl: https://www.passionincubator.ng/
 id: passion-incubator
-linkedin:
 city: Lagos
 region: Lagos
 country: Nigeria
@@ -36,7 +33,8 @@ description: "Passion Incubator is an innovation hub that focuses on job creatio
 name: "Passion Incubator"
 lat: 6.4524039
 lng: 3.39685350000002
-address_line1: "Lagos Island, Lagos, Nigeria"
 websiteUrl: https://www.passionincubator.ng/
 twitterHandle: P_Incubator
 facebookUrl:
+linkedUrl:
+addressLine1: "Lagos Island, Lagos, Nigeria"

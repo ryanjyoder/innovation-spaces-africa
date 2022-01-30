@@ -1,5 +1,4 @@
 id: oguaa-business-incubator
-linkedin:
 city: Cape Coast
 region:
 country: Ghana
@@ -10,10 +9,8 @@ description: ""
 name: "Oguaa Business Incubator"
 lat:
 lng:
-address_line1: ""
 websiteUrl:
 id: oguaa-business-incubator
-linkedin:
 city: Cape Coast
 region:
 country: Ghana
@@ -24,7 +21,8 @@ description: ""
 name: "Oguaa Business Incubator"
 lat:
 lng:
-address_line1: ""
 websiteUrl:
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

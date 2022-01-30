@@ -1,5 +1,4 @@
 id: jokkolabs-casablanca
-linkedin:
 city: Casablanca
 region:
 country: Morocco
@@ -11,10 +10,8 @@ description: ""
 name: "Jokkolabs Casablanca"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://jokkolabs.net
 id: jokkolabs-casablanca
-linkedin:
 city: Casablanca
 region:
 country: Morocco
@@ -26,7 +23,8 @@ description: ""
 name: "Jokkolabs Casablanca"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://jokkolabs.net
 twitterHandle: JklCasa
 facebookUrl:
+linkedUrl:
+addressLine1: ""

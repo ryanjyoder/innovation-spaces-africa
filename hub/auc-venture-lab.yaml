@@ -1,5 +1,4 @@
 id: auc-venture-lab
-linkedin:
 city: Cairo
 region:
 country: Egypt
@@ -20,10 +19,8 @@ articles:
 name: "AUC Venture Lab"
 lat:
 lng:
-address_line1: ""
 websiteUrl: https://business.aucegypt.edu/centers/vlab/
 id: auc-venture-lab
-linkedin:
 city: Cairo
 region:
 country: Egypt
@@ -44,7 +41,8 @@ articles:
 name: "AUC Venture Lab"
 lat:
 lng:
-address_line1: ""
 websiteUrl: https://business.aucegypt.edu/centers/vlab/
 twitterHandle: aucventurelab
 facebookUrl:
+linkedUrl:
+addressLine1: ""

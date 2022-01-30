@@ -1,5 +1,4 @@
 id: angel-hub
-linkedin:
 city: Stellenbosch
 region:
 country: South Africa
@@ -13,10 +12,8 @@ description: ""
 name: "Angel Hub"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.angelhub.co.za/
 id: angel-hub
-linkedin:
 city: Stellenbosch
 region:
 country: South Africa
@@ -30,7 +27,8 @@ description: ""
 name: "Angel Hub"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.angelhub.co.za/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

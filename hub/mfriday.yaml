@@ -1,5 +1,4 @@
 id: mfriday
-linkedin:
 city: Kumasi
 region:
 country: Ghana
@@ -9,10 +8,8 @@ description: ""
 name: "mFriday"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.mfriday.org/
 id: mfriday
-linkedin:
 city: Kumasi
 region:
 country: Ghana
@@ -22,7 +19,8 @@ description: ""
 name: "mFriday"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.mfriday.org/
 twitterHandle: mfridays
 facebookUrl:
+linkedUrl:
+addressLine1: ""

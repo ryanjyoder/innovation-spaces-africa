@@ -1,5 +1,4 @@
 id: hadina-rimtic
-linkedin:
 city:
 region:
 country:
@@ -14,10 +13,8 @@ description: ""
 name: "Hadina Rimtic"
 lat:
 lng:
-address_line1: "Nouakchott, Nouakchott, Mauritanie"
 websiteUrl: http://www.hadinarimtic.com
 id: hadina-rimtic
-linkedin:
 city:
 region:
 country:
@@ -32,7 +29,8 @@ description: ""
 name: "Hadina Rimtic"
 lat:
 lng:
-address_line1: "Nouakchott, Nouakchott, Mauritanie"
 websiteUrl: http://www.hadinarimtic.com
 twitterHandle: HadinaRIMTIC
 facebookUrl: https://www.facebook.com/hadinarimtic/about/?ref=page_internal
+linkedUrl:
+addressLine1: "Nouakchott, Nouakchott, Mauritanie"

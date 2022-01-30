@@ -1,5 +1,4 @@
 id: focus-hub
-linkedin:
 city: Port Harcourt
 region:
 country: Nigeria
@@ -10,10 +9,8 @@ description: ""
 name: "Focus Hub"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://focushub.net/
 id: focus-hub
-linkedin:
 city: Port Harcourt
 region:
 country: Nigeria
@@ -24,7 +21,8 @@ description: ""
 name: "Focus Hub"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://focushub.net/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

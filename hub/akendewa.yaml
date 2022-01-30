@@ -1,5 +1,4 @@
 id: akendewa
-linkedin:
 city: Abidjan
 region:
 country: Cote D'Ivoire
@@ -11,10 +10,8 @@ description: ""
 name: "Akendewa"
 lat:
 lng:
-address_line1: ""
 websiteUrl: www.akendewa.org
 id: akendewa
-linkedin:
 city: Abidjan
 region:
 country: Cote D'Ivoire
@@ -26,7 +23,8 @@ description: ""
 name: "Akendewa"
 lat:
 lng:
-address_line1: ""
 websiteUrl: www.akendewa.org
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

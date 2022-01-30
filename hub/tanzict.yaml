@@ -1,5 +1,4 @@
 id: tanzict
-linkedin:
 city: Dar es Salaam
 region:
 country: Tanzania
@@ -12,10 +11,8 @@ description: ""
 name: "TANZICT"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://tanzict.or.tz/
 id: tanzict
-linkedin:
 city: Dar es Salaam
 region:
 country: Tanzania
@@ -28,7 +25,8 @@ description: ""
 name: "TANZICT"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://tanzict.or.tz/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

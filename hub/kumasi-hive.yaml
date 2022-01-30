@@ -1,5 +1,4 @@
 id: kumasi-hive
-linkedin:
 city:
 region:
 country: Ghana
@@ -19,10 +18,8 @@ description: |
 name: "Kumasi Hive"
 lat: 7.946527
 lng: -1.02319399999999
-address_line1: "Ghana"
 websiteUrl: https://kumasihive.com
 id: kumasi-hive
-linkedin:
 city:
 region:
 country: Ghana
@@ -42,7 +39,8 @@ description: |
 name: "Kumasi Hive"
 lat: 7.946527
 lng: -1.02319399999999
-address_line1: "Ghana"
 websiteUrl: https://kumasihive.com
 twitterHandle: KumasiHive
 facebookUrl:
+linkedUrl:
+addressLine1: "Ghana"

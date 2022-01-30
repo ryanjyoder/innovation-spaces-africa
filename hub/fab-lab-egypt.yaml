@@ -1,5 +1,4 @@
 id: fab-lab-egypt
-linkedin:
 city: Cairo
 region:
 country: Egypt
@@ -14,10 +13,8 @@ description: ""
 name: "Fab Lab Egypt"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://fablab-egypt.com/
 id: fab-lab-egypt
-linkedin:
 city: Cairo
 region:
 country: Egypt
@@ -32,7 +29,8 @@ description: ""
 name: "Fab Lab Egypt"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://fablab-egypt.com/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: ""

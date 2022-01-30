@@ -1,5 +1,4 @@
 id: namibia-business-innovation-centre-nbic
-linkedin:
 city: Windhoek
 region:
 country: Namibia
@@ -11,10 +10,8 @@ description: ""
 name: "Namibia Business Innovation Centre (NBIC)"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://nbic.polytechnic.edu.na/
 id: namibia-business-innovation-centre-nbic
-linkedin:
 city: Windhoek
 region:
 country: Namibia
@@ -26,7 +23,8 @@ description: ""
 name: "Namibia Business Innovation Centre (NBIC)"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://nbic.polytechnic.edu.na/
 twitterHandle: NBII_Namibia
 facebookUrl:
+linkedUrl:
+addressLine1: ""

@@ -1,5 +1,4 @@
 id: ibiz-africa
-linkedin:
 city: Nairobi
 region:
 country: Kenya
@@ -15,10 +14,8 @@ description: ""
 name: "iBiz Africa"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.ibizafrica.co.ke/
 id: ibiz-africa
-linkedin:
 city: Nairobi
 region:
 country: Kenya
@@ -34,7 +31,8 @@ description: ""
 name: "iBiz Africa"
 lat:
 lng:
-address_line1: ""
 websiteUrl: http://www.ibizafrica.co.ke/
 twitterHandle: iBizAfrica
 facebookUrl:
+linkedUrl:
+addressLine1: ""

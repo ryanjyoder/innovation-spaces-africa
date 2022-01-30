@@ -1,5 +1,4 @@
 id: idea-hub
-linkedin:
 city:
 region:
 country: Nigeria
@@ -14,10 +13,8 @@ description: "iDEA (Information Technology Developers Entrepreneurship Accelerat
 name: "iDEA Hub"
 lat: 9.081999
 lng: 8.67527700000005
-address_line1: "Nigeria"
 websiteUrl: http://www.idea-nigeria.org/
 id: idea-hub
-linkedin:
 city:
 region:
 country: Nigeria
@@ -32,7 +29,8 @@ description: "iDEA (Information Technology Developers Entrepreneurship Accelerat
 name: "iDEA Hub"
 lat: 9.081999
 lng: 8.67527700000005
-address_line1: "Nigeria"
 websiteUrl: http://www.idea-nigeria.org/
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: "Nigeria"

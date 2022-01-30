@@ -1,5 +1,4 @@
 id: zen-lab
-linkedin:
 city:
 region:
 country:
@@ -14,10 +13,8 @@ description: ""
 name: "ZEN Lab"
 lat:
 lng:
-address_line1: "Immeuble Emeraude Center, Jardins du Lac 2 , Tunis, Tunisie"
 websiteUrl: http://www.zenlab.com.tn/
 id: zen-lab
-linkedin:
 city:
 region:
 country:
@@ -32,7 +29,8 @@ description: ""
 name: "ZEN Lab"
 lat:
 lng:
-address_line1: "Immeuble Emeraude Center, Jardins du Lac 2 , Tunis, Tunisie"
 websiteUrl: http://www.zenlab.com.tn/
 twitterHandle: ZENLAB_tunisie
 facebookUrl: http://www.facebook.com/ZENLAB.Tunisie/
+linkedUrl:
+addressLine1: "Immeuble Emeraude Center, Jardins du Lac 2 , Tunis, Tunisie"

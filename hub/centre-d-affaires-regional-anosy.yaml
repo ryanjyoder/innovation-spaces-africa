@@ -1,5 +1,4 @@
 id: centre-d-affaires-regional-anosy
-linkedin:
 city:
 region: Fort-Dauphin
 country: Madagascar
@@ -11,10 +10,8 @@ description: ""
 name: "CENTRE D�AFFAIRES REGIONAL ANOSY"
 lat:
 lng:
-address_line1: "Kathyana Car Rental - Bazaribe Fort Dauphin"
 websiteUrl: http://www.cara.mg
 id: centre-d-affaires-regional-anosy
-linkedin:
 city:
 region: Fort-Dauphin
 country: Madagascar
@@ -26,7 +23,8 @@ description: ""
 name: "CENTRE D�AFFAIRES REGIONAL ANOSY"
 lat:
 lng:
-address_line1: "Kathyana Car Rental - Bazaribe Fort Dauphin"
 websiteUrl: http://www.cara.mg
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: "Kathyana Car Rental - Bazaribe Fort Dauphin"

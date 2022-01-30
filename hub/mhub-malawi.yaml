@@ -1,5 +1,4 @@
 id: mhub-malawi
-linkedin:
 city: Blantyre
 region: Southern Region
 country: Malawi
@@ -16,10 +15,8 @@ description: "mHub is Malawi�s first ever technology hub. An incubator for tec
 name: "mHub Malawi"
 lat: -15.7820588
 lng: 35.0042201
-address_line1: "Malawi Sun Hotel, Blantyre, Malawi"
 websiteUrl: http://www.mhubmw.com/
 id: mhub-malawi
-linkedin:
 city: Blantyre
 region: Southern Region
 country: Malawi
@@ -36,7 +33,8 @@ description: "mHub is Malawi�s first ever technology hub. An incubator for tec
 name: "mHub Malawi"
 lat: -15.7820588
 lng: 35.0042201
-address_line1: "Malawi Sun Hotel, Blantyre, Malawi"
 websiteUrl: http://www.mhubmw.com/
 twitterHandle: mHubMW
 facebookUrl:
+linkedUrl:
+addressLine1: "Malawi Sun Hotel, Blantyre, Malawi"

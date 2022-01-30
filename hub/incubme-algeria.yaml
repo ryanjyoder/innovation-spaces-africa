@@ -1,5 +1,4 @@
 id: incubme-algeria
-linkedin:
 city:
 region:
 country: Algeria
@@ -16,10 +15,8 @@ description: |
 name: "Incubme Algeria"
 lat: 28.033886
 lng: 1.659626
-address_line1: "Algeria"
 websiteUrl: www.incubme.com
 id: incubme-algeria
-linkedin:
 city:
 region:
 country: Algeria
@@ -36,7 +33,8 @@ description: |
 name: "Incubme Algeria"
 lat: 28.033886
 lng: 1.659626
-address_line1: "Algeria"
 websiteUrl: www.incubme.com
 twitterHandle:
 facebookUrl: https://www.facebook.com/IncubMeDz/
+linkedUrl:
+addressLine1: "Algeria"

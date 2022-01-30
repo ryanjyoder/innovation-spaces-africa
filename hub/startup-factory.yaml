@@ -1,5 +1,4 @@
 id: startup-factory
-linkedin:
 city:
 region:
 country:
@@ -10,10 +9,8 @@ description: |
 name: "STARTUP FACTORY"
 lat:
 lng:
-address_line1: "Djibouti"
 websiteUrl: http://www.startupdjibouti.com
 id: startup-factory
-linkedin:
 city:
 region:
 country:
@@ -24,7 +21,8 @@ description: |
 name: "STARTUP FACTORY"
 lat:
 lng:
-address_line1: "Djibouti"
 websiteUrl: http://www.startupdjibouti.com
 twitterHandle: SDjbouti
 facebookUrl: https://www.facebook.com/StartUpDjibouti/
+linkedUrl:
+addressLine1: "Djibouti"

@@ -1,5 +1,4 @@
 id: emergence-capital-diaspolab
-linkedin:
 city: Dakar
 region:
 country: Senegal
@@ -9,10 +8,8 @@ description: ""
 name: "Emergence Capital / DiaspoLab"
 lat:
 lng:
-address_line1: "167 avenue Lamine Gu�ye x Place Soweto Immeuble Rivonia Tower 11eme Etage"
 websiteUrl: http://www.emergence.africa
 id: emergence-capital-diaspolab
-linkedin:
 city: Dakar
 region:
 country: Senegal
@@ -22,7 +19,8 @@ description: ""
 name: "Emergence Capital / DiaspoLab"
 lat:
 lng:
-address_line1: "167 avenue Lamine Gu�ye x Place Soweto Immeuble Rivonia Tower 11eme Etage"
 websiteUrl: http://www.emergence.africa
 twitterHandle:
 facebookUrl:
+linkedUrl:
+addressLine1: "167 avenue Lamine Gu�ye x Place Soweto Immeuble Rivonia Tower 11eme Etage"

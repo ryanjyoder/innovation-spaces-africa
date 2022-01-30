@@ -1,5 +1,4 @@
 id: roothub-accelerator-systems
-linkedin:
 city: Uyo
 region: Akwa Ibom
 country: Nigeria
@@ -13,10 +12,8 @@ description: "Roothub is a co-creation space  that is focused on social impact, 
 name: "Roothub Accelerator Systems"
 lat: 4.876463
 lng: 8.08569299999999
-address_line1: "Uyo Airport, Uyo, Nigeria"
 websiteUrl: https://theroothub.com/
 id: roothub-accelerator-systems
-linkedin:
 city: Uyo
 region: Akwa Ibom
 country: Nigeria
@@ -30,7 +27,8 @@ description: "Roothub is a co-creation space  that is focused on social impact, 
 name: "Roothub Accelerator Systems"
 lat: 4.876463
 lng: 8.08569299999999
-address_line1: "Uyo Airport, Uyo, Nigeria"
 websiteUrl: https://theroothub.com/
 twitterHandle: theroothub
 facebookUrl: https://www.facebook.com/theroothub/
+linkedUrl:
+addressLine1: "Uyo Airport, Uyo, Nigeria"
