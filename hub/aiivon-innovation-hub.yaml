@@ -1,5 +1,4 @@
 id: aiivon-innovation-hub
-twitter: AiivonHub
 facebook:
 linkedin:
 city: Abuja
@@ -22,7 +21,6 @@ lng: 7.39857400000005
 address_line1: "Abuja, Nigeria"
 websiteUrl: https://hub.aiivon.com
 id: aiivon-innovation-hub
-twitter: AiivonHub
 facebook:
 linkedin:
 city: Abuja
@@ -44,3 +42,4 @@ lat: 9.0764785
 lng: 7.39857400000005
 address_line1: "Abuja, Nigeria"
 websiteUrl: https://hub.aiivon.com
+twitterHandle: AiivonHub

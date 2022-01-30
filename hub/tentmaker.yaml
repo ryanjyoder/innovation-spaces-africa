@@ -1,5 +1,4 @@
 id: tentmaker
-twitter: TentmakerGhana
 facebook:
 linkedin:
 city: Accra
@@ -18,7 +17,6 @@ lng: -0.183411500000034
 address_line1: "accra, Ghana Airways Avenue, Accra, Ghana"
 websiteUrl: https://www.tentmakergh.com/
 id: tentmaker
-twitter: TentmakerGhana
 facebook:
 linkedin:
 city: Accra
@@ -36,3 +34,4 @@ lat: 5.6004186
 lng: -0.183411500000034
 address_line1: "accra, Ghana Airways Avenue, Accra, Ghana"
 websiteUrl: https://www.tentmakergh.com/
+twitterHandle: TentmakerGhana

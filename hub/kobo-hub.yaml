@@ -1,5 +1,4 @@
 id: kobo-hub
-twitter: kobo_hub
 facebook: http://facebook.com/kobohubrdc
 linkedin:
 city:
@@ -16,7 +15,6 @@ lng:
 address_line1: "Immeuble 130, avenue Kwango, Kinshasa (Ref: INA)"
 websiteUrl: http://www.kobo-hub.com
 id: kobo-hub
-twitter: kobo_hub
 facebook: http://facebook.com/kobohubrdc
 linkedin:
 city:
@@ -32,3 +30,4 @@ lat:
 lng:
 address_line1: "Immeuble 130, avenue Kwango, Kinshasa (Ref: INA)"
 websiteUrl: http://www.kobo-hub.com
+twitterHandle: kobo_hub

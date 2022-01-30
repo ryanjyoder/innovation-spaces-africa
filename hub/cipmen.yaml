@@ -1,5 +1,4 @@
 id: cipmen
-twitter: Cipmen
 facebook: https://www.facebook.com/incubateurCIPMEN/
 linkedin:
 city:
@@ -22,7 +21,6 @@ lng: 8.08166600000004
 address_line1: "Niamey"
 websiteUrl: http://www.cipmen.org
 id: cipmen
-twitter: Cipmen
 facebook: https://www.facebook.com/incubateurCIPMEN/
 linkedin:
 city:
@@ -44,3 +42,4 @@ lat: 17.607789
 lng: 8.08166600000004
 address_line1: "Niamey"
 websiteUrl: http://www.cipmen.org
+twitterHandle: Cipmen

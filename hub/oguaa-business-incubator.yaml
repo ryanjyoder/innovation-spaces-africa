@@ -1,5 +1,4 @@
 id: oguaa-business-incubator
-twitter:
 facebook:
 linkedin:
 city: Cape Coast
@@ -15,7 +14,6 @@ lng:
 address_line1: ""
 websiteUrl:
 id: oguaa-business-incubator
-twitter:
 facebook:
 linkedin:
 city: Cape Coast
@@ -30,3 +28,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl:
+twitterHandle:

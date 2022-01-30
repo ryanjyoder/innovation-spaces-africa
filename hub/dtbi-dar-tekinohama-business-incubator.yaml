@@ -1,5 +1,4 @@
 id: dtbi-dar-tekinohama-business-incubator
-twitter:
 facebook:
 linkedin:
 city: Dar es Salaam
@@ -18,7 +17,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.teknohama.or.tz/
 id: dtbi-dar-tekinohama-business-incubator
-twitter:
 facebook:
 linkedin:
 city: Dar es Salaam
@@ -36,3 +34,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://www.teknohama.or.tz/
+twitterHandle:

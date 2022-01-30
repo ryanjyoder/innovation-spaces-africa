@@ -1,5 +1,4 @@
 id: jokkolabs-abidjan
-twitter: JklAbidjan
 facebook:
 linkedin:
 city: Abidjan
@@ -18,7 +17,6 @@ lng:
 address_line1: ""
 websiteUrl: http://jokkolabs.net/en/#jokkolabs
 id: jokkolabs-abidjan
-twitter: JklAbidjan
 facebook:
 linkedin:
 city: Abidjan
@@ -36,3 +34,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://jokkolabs.net/en/#jokkolabs
+twitterHandle: JklAbidjan

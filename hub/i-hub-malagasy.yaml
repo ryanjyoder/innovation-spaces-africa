@@ -1,5 +1,4 @@
 id: i-hub-malagasy
-twitter:
 facebook:
 linkedin:
 city: Antananarivo
@@ -15,7 +14,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.i-hub.mg/
 id: i-hub-malagasy
-twitter:
 facebook:
 linkedin:
 city: Antananarivo
@@ -30,3 +28,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://www.i-hub.mg/
+twitterHandle:

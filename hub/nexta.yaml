@@ -1,5 +1,4 @@
 id: nexta
-twitter: http://www.nexta.mg
 facebook: https://www.facebook.com/nextA.mg/
 linkedin:
 city:
@@ -15,7 +14,6 @@ lng:
 address_line1: "Immeuble Tana Shore - Enceinte Futura Andranomena Antananarivo"
 websiteUrl: http://www.nexta.mg
 id: nexta
-twitter: http://www.nexta.mg
 facebook: https://www.facebook.com/nextA.mg/
 linkedin:
 city:
@@ -30,3 +28,4 @@ lat:
 lng:
 address_line1: "Immeuble Tana Shore - Enceinte Futura Andranomena Antananarivo"
 websiteUrl: http://www.nexta.mg
+twitterHandle: http://www.nexta.mg

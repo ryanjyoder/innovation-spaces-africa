@@ -1,5 +1,4 @@
 id: woe-lab
-twitter:
 facebook:
 linkedin:
 city: Esiama
@@ -18,7 +17,6 @@ lng: -2.32036949999997
 address_line1: "Gulf of Guinea, Esiama, Ghana"
 websiteUrl: http://www.woelabo.com/
 id: woe-lab
-twitter:
 facebook:
 linkedin:
 city: Esiama
@@ -36,3 +34,4 @@ lat: 4.9255857
 lng: -2.32036949999997
 address_line1: "Gulf of Guinea, Esiama, Ghana"
 websiteUrl: http://www.woelabo.com/
+twitterHandle:

@@ -1,5 +1,4 @@
 id: cepem-couveuse-d-entreprise-pour-la-promotion-de-l-emploi-par-la-micro-entreprise
-twitter: cepemcouveuse
 facebook: https://web.facebook.com/cepemsn
 linkedin:
 # Basics
@@ -86,7 +85,6 @@ lng:
 address_line1: "3 Rue Amadou Assane Ndoye, Dakar"
 websiteUrl: https://www.cepem.sn
 id: cepem-couveuse-d-entreprise-pour-la-promotion-de-l-emploi-par-la-micro-entreprise
-twitter: cepemcouveuse
 facebook: https://web.facebook.com/cepemsn
 linkedin:
 # Basics
@@ -172,3 +170,4 @@ lat:
 lng:
 address_line1: "3 Rue Amadou Assane Ndoye, Dakar"
 websiteUrl: https://www.cepem.sn
+twitterHandle: cepemcouveuse

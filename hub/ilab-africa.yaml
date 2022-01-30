@@ -1,5 +1,4 @@
 id: ilab-africa
-twitter: ilabafrica
 facebook:
 linkedin:
 city: Nairobi
@@ -17,7 +16,6 @@ lng: 36.8137592000001
 address_line1: "Kenyatta Avenue, Nairobi, Kenya"
 websiteUrl: http://www.ilabafrica.ac.ke/
 id: ilab-africa
-twitter: ilabafrica
 facebook:
 linkedin:
 city: Nairobi
@@ -34,3 +32,4 @@ lat: -1.2882626
 lng: 36.8137592000001
 address_line1: "Kenyatta Avenue, Nairobi, Kenya"
 websiteUrl: http://www.ilabafrica.ac.ke/
+twitterHandle: ilabafrica

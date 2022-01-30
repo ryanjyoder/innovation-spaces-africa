@@ -1,5 +1,4 @@
 id: wennovation-hub
-twitter: wennovation
 facebook:
 linkedin:
 city:
@@ -21,7 +20,6 @@ lng: 8.67527700000005
 address_line1: "Nigeria"
 websiteUrl: http://www.wennovationhub.org/
 id: wennovation-hub
-twitter: wennovation
 facebook:
 linkedin:
 city:
@@ -42,3 +40,4 @@ lat: 9.081999
 lng: 8.67527700000005
 address_line1: "Nigeria"
 websiteUrl: http://www.wennovationhub.org/
+twitterHandle: wennovation

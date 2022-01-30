@@ -1,5 +1,4 @@
 id: mawazo-innovation-hub-gabon
-twitter:
 facebook:
 linkedin:
 city: Libreville
@@ -15,7 +14,6 @@ lng: 9.44680019999998
 address_line1: "Gabon Telecom, Libreville, Estuaire, Gabon"
 websiteUrl: https://mawazohub.com/
 id: mawazo-innovation-hub-gabon
-twitter:
 facebook:
 linkedin:
 city: Libreville
@@ -30,3 +28,4 @@ lat: 0.3935071
 lng: 9.44680019999998
 address_line1: "Gabon Telecom, Libreville, Estuaire, Gabon"
 websiteUrl: https://mawazohub.com/
+twitterHandle:

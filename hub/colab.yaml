@@ -1,5 +1,4 @@
 id: colab
-twitter: CoLab_kd
 facebook:
 linkedin:
 city: Kaduna
@@ -21,7 +20,6 @@ lng: 7.4056928
 address_line1: "kaduna South, Kaduna, Nigeria"
 websiteUrl: https://colab.com.ng/
 id: colab
-twitter: CoLab_kd
 facebook:
 linkedin:
 city: Kaduna
@@ -42,3 +40,4 @@ lat: 10.4548808
 lng: 7.4056928
 address_line1: "kaduna South, Kaduna, Nigeria"
 websiteUrl: https://colab.com.ng/
+twitterHandle: CoLab_kd

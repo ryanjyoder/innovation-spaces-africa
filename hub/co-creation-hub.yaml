@@ -1,5 +1,4 @@
 id: co-creation-hub
-twitter: Cc_HUB
 facebook:
 linkedin:
 city: Lagos
@@ -22,7 +21,6 @@ lng:
 address_line1: ""
 websiteUrl: www.cchubnigeria.com
 id: co-creation-hub
-twitter: Cc_HUB
 facebook:
 linkedin:
 city: Lagos
@@ -44,3 +42,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: www.cchubnigeria.com
+twitterHandle: Cc_HUB

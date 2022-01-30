@@ -1,5 +1,4 @@
 id: jokkolabs-casablanca
-twitter: JklCasa
 facebook:
 linkedin:
 city: Casablanca
@@ -16,7 +15,6 @@ lng:
 address_line1: ""
 websiteUrl: http://jokkolabs.net
 id: jokkolabs-casablanca
-twitter: JklCasa
 facebook:
 linkedin:
 city: Casablanca
@@ -32,3 +30,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://jokkolabs.net
+twitterHandle: JklCasa

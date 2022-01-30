@@ -1,5 +1,4 @@
 id: hive-colab
-twitter: hivecolab
 facebook:
 linkedin:
 city: Kampala
@@ -19,7 +18,6 @@ lng: 32.582343
 address_line1: "Uganda National Museum, Kampala, Uganda"
 websiteUrl: http://hivecolab.org/
 id: hive-colab
-twitter: hivecolab
 facebook:
 linkedin:
 city: Kampala
@@ -38,3 +36,4 @@ lat: 0.3355622
 lng: 32.582343
 address_line1: "Uganda National Museum, Kampala, Uganda"
 websiteUrl: http://hivecolab.org/
+twitterHandle: hivecolab

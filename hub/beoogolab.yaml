@@ -1,5 +1,4 @@
 id: beoogolab
-twitter: BeoogoLAB
 facebook:
 linkedin:
 city:
@@ -17,7 +16,6 @@ lng:
 address_line1: "Somgand�, Secteur 19, Rue Dima Koon ,  Ouagadougou"
 websiteUrl: http://www.beoogolab.org
 id: beoogolab
-twitter: BeoogoLAB
 facebook:
 linkedin:
 city:
@@ -34,3 +32,4 @@ lat:
 lng:
 address_line1: "Somgand�, Secteur 19, Rue Dima Koon ,  Ouagadougou"
 websiteUrl: http://www.beoogolab.org
+twitterHandle: BeoogoLAB

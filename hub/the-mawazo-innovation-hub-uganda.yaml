@@ -1,5 +1,4 @@
 id: the-mawazo-innovation-hub-uganda
-twitter:
 facebook:
 linkedin:
 city: Kampala
@@ -17,7 +16,6 @@ lng: 32.5844634
 address_line1: "Uganda House, Kampala, Uganda"
 websiteUrl: https://mawazohub.com/
 id: the-mawazo-innovation-hub-uganda
-twitter:
 facebook:
 linkedin:
 city: Kampala
@@ -34,3 +32,4 @@ lat: 0.3119942
 lng: 32.5844634
 address_line1: "Uganda House, Kampala, Uganda"
 websiteUrl: https://mawazohub.com/
+twitterHandle:

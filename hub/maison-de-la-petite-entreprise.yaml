@@ -1,5 +1,4 @@
 id: maison-de-la-petite-entreprise
-twitter:
 facebook:
 linkedin:
 city:
@@ -16,7 +15,6 @@ lng:
 address_line1: "Quartier Moursal, Boulevard SAO, Rue 5018, B.P.: 111 , N&#039;Djamena"
 websiteUrl: http://www.mpetchad.com
 id: maison-de-la-petite-entreprise
-twitter:
 facebook:
 linkedin:
 city:
@@ -32,3 +30,4 @@ lat:
 lng:
 address_line1: "Quartier Moursal, Boulevard SAO, Rue 5018, B.P.: 111 , N&#039;Djamena"
 websiteUrl: http://www.mpetchad.com
+twitterHandle:

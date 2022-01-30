@@ -1,5 +1,4 @@
 id: micti-technology-and-business-centre
-twitter:
 facebook:
 linkedin:
 city: Maputo
@@ -15,7 +14,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.micti.co.mz/
 id: micti-technology-and-business-centre
-twitter:
 facebook:
 linkedin:
 city: Maputo
@@ -30,3 +28,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://www.micti.co.mz/
+twitterHandle:

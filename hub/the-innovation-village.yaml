@@ -1,5 +1,4 @@
 id: the-innovation-village
-twitter: TheVillageUG
 facebook:
 linkedin:
 city:
@@ -23,7 +22,6 @@ lng: 32.2902750000001
 address_line1: "Uganda"
 websiteUrl: http://www.innovationvillage.co.ug/
 id: the-innovation-village
-twitter: TheVillageUG
 facebook:
 linkedin:
 city:
@@ -46,3 +44,4 @@ lat: 1.373333
 lng: 32.2902750000001
 address_line1: "Uganda"
 websiteUrl: http://www.innovationvillage.co.ug/
+twitterHandle: TheVillageUG

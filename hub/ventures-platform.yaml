@@ -1,5 +1,4 @@
 id: ventures-platform
-twitter: vplatformhub
 facebook:
 linkedin:
 city: Abuja
@@ -28,7 +27,6 @@ lng: 7.49190239999996
 address_line1: "Abuja International Conference Centre, Herbert Macaulay Way, Abuja, Nigeria"
 websiteUrl: http://www.venturesplatform.com/
 id: ventures-platform
-twitter: vplatformhub
 facebook:
 linkedin:
 city: Abuja
@@ -56,3 +54,4 @@ lat: 9.0438014
 lng: 7.49190239999996
 address_line1: "Abuja International Conference Centre, Herbert Macaulay Way, Abuja, Nigeria"
 websiteUrl: http://www.venturesplatform.com/
+twitterHandle: vplatformhub

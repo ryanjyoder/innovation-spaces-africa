@@ -1,5 +1,4 @@
 id: mobile-web-ghana
-twitter: MobileWebGhana
 facebook:
 linkedin:
 city: Accra
@@ -16,7 +15,6 @@ lng: -0.146848299999988
 address_line1: "Ghana International Trade Fair Centre, Accra, Ghana"
 websiteUrl: http://www.mobilewebghana.org/
 id: mobile-web-ghana
-twitter: MobileWebGhana
 facebook:
 linkedin:
 city: Accra
@@ -32,3 +30,4 @@ lat: 5.5712984
 lng: -0.146848299999988
 address_line1: "Ghana International Trade Fair Centre, Accra, Ghana"
 websiteUrl: http://www.mobilewebghana.org/
+twitterHandle: MobileWebGhana

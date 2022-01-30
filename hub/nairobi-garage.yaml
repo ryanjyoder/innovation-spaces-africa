@@ -1,5 +1,4 @@
 id: nairobi-garage
-twitter: nairobigarage
 facebook:
 linkedin:
 city: Nairobi
@@ -26,7 +25,6 @@ lng: 36.8219462
 address_line1: "Nairobi, Kenya"
 websiteUrl: https://nairobigarage.com/
 id: nairobi-garage
-twitter: nairobigarage
 facebook:
 linkedin:
 city: Nairobi
@@ -52,3 +50,4 @@ lat: -1.2920659
 lng: 36.8219462
 address_line1: "Nairobi, Kenya"
 websiteUrl: https://nairobigarage.com/
+twitterHandle: nairobigarage

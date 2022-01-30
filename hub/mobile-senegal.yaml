@@ -1,5 +1,4 @@
 id: mobile-senegal
-twitter: mobilesenegal
 facebook: https://www.facebook.com/mobilesenegal
 linkedin:
 youtube: https://youtube.com/mobilesenegal
@@ -18,7 +17,6 @@ lng:
 address_line1: ""
 websiteUrl: http://mobilesenegal.org/
 id: mobile-senegal
-twitter: mobilesenegal
 facebook: https://www.facebook.com/mobilesenegal
 linkedin:
 youtube: https://youtube.com/mobilesenegal
@@ -36,3 +34,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://mobilesenegal.org/
+twitterHandle: mobilesenegal

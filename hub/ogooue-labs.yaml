@@ -1,5 +1,4 @@
 id: ogooue-labs
-twitter: OgooueLabs
 facebook:
 linkedin:
 city: Libreville
@@ -21,7 +20,6 @@ lng: 9.46803190000003
 address_line1: "Gabon Libreville, Libreville, Estuaire, Gabon"
 websiteUrl: https://about.me/ogoouelabs
 id: ogooue-labs
-twitter: OgooueLabs
 facebook:
 linkedin:
 city: Libreville
@@ -42,3 +40,4 @@ lat: 0.3606914
 lng: 9.46803190000003
 address_line1: "Gabon Libreville, Libreville, Estuaire, Gabon"
 websiteUrl: https://about.me/ogoouelabs
+twitterHandle: OgooueLabs

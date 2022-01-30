@@ -1,5 +1,4 @@
 id: lafactory
-twitter: lafactory_co
 facebook: https://www.facebook.com/LaFactoryByScreenDy/?ref=br_rs
 linkedin:
 city:
@@ -24,7 +23,6 @@ lng:
 address_line1: "Casablanca, Maroc"
 websiteUrl: http://www.lafactory.co/
 id: lafactory
-twitter: lafactory_co
 facebook: https://www.facebook.com/LaFactoryByScreenDy/?ref=br_rs
 linkedin:
 city:
@@ -48,3 +46,4 @@ lat:
 lng:
 address_line1: "Casablanca, Maroc"
 websiteUrl: http://www.lafactory.co/
+twitterHandle: lafactory_co

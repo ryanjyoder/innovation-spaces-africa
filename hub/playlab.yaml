@@ -1,5 +1,4 @@
 id: playlab
-twitter: pl4y
 facebook:
 linkedin:
 city: Dakar
@@ -15,7 +14,6 @@ lng:
 address_line1: "Villa Mamelles Aviation LOT num�ro 3 TF"
 websiteUrl: https://www.play-international.org/le-playlab
 id: playlab
-twitter: pl4y
 facebook:
 linkedin:
 city: Dakar
@@ -30,3 +28,4 @@ lat:
 lng:
 address_line1: "Villa Mamelles Aviation LOT num�ro 3 TF"
 websiteUrl: https://www.play-international.org/le-playlab
+twitterHandle: pl4y

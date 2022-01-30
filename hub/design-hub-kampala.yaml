@@ -1,5 +1,4 @@
 id: design-hub-kampala
-twitter:
 facebook:
 linkedin:
 city: Kampala
@@ -21,7 +20,6 @@ lng:
 address_line1: "Plot 3 Bata Close, 5th Street Industrial Area PO Box 7381,"
 websiteUrl: https://designhubkampala.com/
 id: design-hub-kampala
-twitter:
 facebook:
 linkedin:
 city: Kampala
@@ -42,3 +40,4 @@ lat:
 lng:
 address_line1: "Plot 3 Bata Close, 5th Street Industrial Area PO Box 7381,"
 websiteUrl: https://designhubkampala.com/
+twitterHandle:

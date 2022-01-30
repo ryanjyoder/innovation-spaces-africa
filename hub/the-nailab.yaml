@@ -1,5 +1,4 @@
 id: the-nailab
-twitter: thenailab
 facebook:
 linkedin:
 city: Nairobi
@@ -21,7 +20,6 @@ lng: 36.6891955999999
 address_line1: "Ngong View Road, Nairobi, Kenya"
 websiteUrl: http://nailab.co.ke/
 id: the-nailab
-twitter: thenailab
 facebook:
 linkedin:
 city: Nairobi
@@ -42,3 +40,4 @@ lat: -1.3373892
 lng: 36.6891955999999
 address_line1: "Ngong View Road, Nairobi, Kenya"
 websiteUrl: http://nailab.co.ke/
+twitterHandle: thenailab

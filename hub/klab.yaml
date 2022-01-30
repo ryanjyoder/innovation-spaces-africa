@@ -1,5 +1,4 @@
 id: klab
-twitter: klabrw
 facebook:
 linkedin:
 city:
@@ -24,7 +23,6 @@ lng: 29.873888
 address_line1: "Rwanda"
 websiteUrl: http://klab.rw/
 id: klab
-twitter: klabrw
 facebook:
 linkedin:
 city:
@@ -48,3 +46,4 @@ lat: -1.940278
 lng: 29.873888
 address_line1: "Rwanda"
 websiteUrl: http://klab.rw/
+twitterHandle: klabrw

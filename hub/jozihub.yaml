@@ -1,5 +1,4 @@
 id: jozihub
-twitter: JoziHub
 facebook:
 linkedin:
 city: Johannesburg
@@ -17,7 +16,6 @@ lng: 27.9849379
 address_line1: "South Africa Islam, Johannesburg, Gauteng, South Africa"
 websiteUrl: http://jozihub.org/
 id: jozihub
-twitter: JoziHub
 facebook:
 linkedin:
 city: Johannesburg
@@ -34,3 +32,4 @@ lat: -26.1934093
 lng: 27.9849379
 address_line1: "South Africa Islam, Johannesburg, Gauteng, South Africa"
 websiteUrl: http://jozihub.org/
+twitterHandle: JoziHub

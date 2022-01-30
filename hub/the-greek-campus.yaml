@@ -1,5 +1,4 @@
 id: the-greek-campus
-twitter: TheGrEEKCampus
 facebook:
 linkedin:
 city: Cairo
@@ -25,7 +24,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.thegreekcampus.com/#
 id: the-greek-campus
-twitter: TheGrEEKCampus
 facebook:
 linkedin:
 city: Cairo
@@ -50,3 +48,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://www.thegreekcampus.com/#
+twitterHandle: TheGrEEKCampus

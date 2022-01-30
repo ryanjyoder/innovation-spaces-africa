@@ -1,5 +1,4 @@
 id: uac-startup-valley
-twitter:
 facebook: https://www.facebook.com/uacstartupvalley/
 linkedin:
 city:
@@ -14,7 +13,6 @@ lng:
 address_line1: "Abomey Calavi, B�nin"
 websiteUrl: http://www.uacstartupvalley.com
 id: uac-startup-valley
-twitter:
 facebook: https://www.facebook.com/uacstartupvalley/
 linkedin:
 city:
@@ -28,3 +26,4 @@ lat:
 lng:
 address_line1: "Abomey Calavi, B�nin"
 websiteUrl: http://www.uacstartupvalley.com
+twitterHandle:

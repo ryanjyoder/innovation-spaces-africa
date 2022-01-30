@@ -1,5 +1,4 @@
 id: civic-foundation-for-innovation
-twitter:
 facebook:
 linkedin:
 city: Abuja
@@ -17,7 +16,6 @@ lng: 7.39857400000005
 address_line1: "Abuja, Nigeria"
 websiteUrl: https://civicfoundationforinnovation.org/
 id: civic-foundation-for-innovation
-twitter:
 facebook:
 linkedin:
 city: Abuja
@@ -34,3 +32,4 @@ lat: 9.0764785
 lng: 7.39857400000005
 address_line1: "Abuja, Nigeria"
 websiteUrl: https://civicfoundationforinnovation.org/
+twitterHandle:

@@ -1,5 +1,4 @@
 id: outbox
-twitter: OutboxHub
 facebook:
 linkedin:
 city: Kampala
@@ -22,7 +21,6 @@ lng: 32.5766
 address_line1: "Soliz House, Kampala, Uganda"
 websiteUrl: http://www.outbox.co.ug/
 id: outbox
-twitter: OutboxHub
 facebook:
 linkedin:
 city: Kampala
@@ -44,3 +42,4 @@ lat: 0.3229945
 lng: 32.5766
 address_line1: "Soliz House, Kampala, Uganda"
 websiteUrl: http://www.outbox.co.ug/
+twitterHandle: OutboxHub

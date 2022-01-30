@@ -1,5 +1,4 @@
 id: groupe-ism
-twitter:
 facebook: https://fr-fr.facebook.com/GroupeISM/
 linkedin:
 city:
@@ -19,7 +18,6 @@ lng:
 address_line1: ""
 websiteUrl: https://www.ismincub.com/
 id: groupe-ism
-twitter:
 facebook: https://fr-fr.facebook.com/GroupeISM/
 linkedin:
 city:
@@ -38,3 +36,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: https://www.ismincub.com/
+twitterHandle:

@@ -1,5 +1,4 @@
 id: emergence-capital-diaspolab
-twitter:
 facebook:
 linkedin:
 city: Dakar
@@ -14,7 +13,6 @@ lng:
 address_line1: "167 avenue Lamine Gu�ye x Place Soweto Immeuble Rivonia Tower 11eme Etage"
 websiteUrl: http://www.emergence.africa
 id: emergence-capital-diaspolab
-twitter:
 facebook:
 linkedin:
 city: Dakar
@@ -28,3 +26,4 @@ lat:
 lng:
 address_line1: "167 avenue Lamine Gu�ye x Place Soweto Immeuble Rivonia Tower 11eme Etage"
 websiteUrl: http://www.emergence.africa
+twitterHandle:

@@ -1,5 +1,4 @@
 id: nlab
-twitter: nlabcameroon
 facebook:
 linkedin:
 city: Ngoumou
@@ -15,7 +14,6 @@ lng:
 address_line1: ""
 websiteUrl:
 id: nlab
-twitter: nlabcameroon
 facebook:
 linkedin:
 city: Ngoumou
@@ -30,3 +28,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl:
+twitterHandle: nlabcameroon

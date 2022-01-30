@@ -1,5 +1,4 @@
 id: ecolia-labs
-twitter: ecolialabs
 facebook: https://www.facebook.com/EcoliaLabs/
 linkedin:
 city:
@@ -17,7 +16,6 @@ lng:
 address_line1: "Ecolia Labs, Unnamed Rd, Yaound�, Cameroun"
 websiteUrl: http://ecolialabs.org
 id: ecolia-labs
-twitter: ecolialabs
 facebook: https://www.facebook.com/EcoliaLabs/
 linkedin:
 city:
@@ -34,3 +32,4 @@ lat:
 lng:
 address_line1: "Ecolia Labs, Unnamed Rd, Yaound�, Cameroun"
 websiteUrl: http://ecolialabs.org
+twitterHandle: ecolialabs

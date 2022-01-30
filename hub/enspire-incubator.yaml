@@ -1,5 +1,4 @@
 id: enspire-incubator
-twitter: enspireatv
 facebook:
 linkedin:
 city: Abuja
@@ -18,7 +17,6 @@ lng: 7.39857400000005
 address_line1: "Abuja, Federal Capital Territory, Nigeria"
 websiteUrl: http://www.enspire.org.ng/
 id: enspire-incubator
-twitter: enspireatv
 facebook:
 linkedin:
 city: Abuja
@@ -36,3 +34,4 @@ lat: 9.0764785
 lng: 7.39857400000005
 address_line1: "Abuja, Federal Capital Territory, Nigeria"
 websiteUrl: http://www.enspire.org.ng/
+twitterHandle: enspireatv

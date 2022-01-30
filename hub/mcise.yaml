@@ -1,5 +1,4 @@
 id: mcise
-twitter: moroccancise
 facebook:
 linkedin:
 city:
@@ -14,7 +13,6 @@ lng:
 address_line1: "Rabat, Maroc"
 websiteUrl: http://Mcise.org
 id: mcise
-twitter: moroccancise
 facebook:
 linkedin:
 city:
@@ -28,3 +26,4 @@ lat:
 lng:
 address_line1: "Rabat, Maroc"
 websiteUrl: http://Mcise.org
+twitterHandle: moroccancise

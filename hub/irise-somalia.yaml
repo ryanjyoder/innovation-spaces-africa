@@ -1,5 +1,4 @@
 id: irise-somalia
-twitter: iRiseHub
 facebook:
 linkedin:
 city:
@@ -20,7 +19,6 @@ lng: 46.199616
 address_line1: "Somalia"
 websiteUrl: https://irisehub.so/en/
 id: irise-somalia
-twitter: iRiseHub
 facebook:
 linkedin:
 city:
@@ -40,3 +38,4 @@ lat: 5.152149
 lng: 46.199616
 address_line1: "Somalia"
 websiteUrl: https://irisehub.so/en/
+twitterHandle: iRiseHub

@@ -1,5 +1,4 @@
 id: fablab-namibia
-twitter:
 facebook:
 linkedin:
 city: Windhoek
@@ -17,7 +16,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.fablabnamibia.org/
 id: fablab-namibia
-twitter:
 facebook:
 linkedin:
 city: Windhoek
@@ -34,3 +32,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://www.fablabnamibia.org/
+twitterHandle:

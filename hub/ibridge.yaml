@@ -1,5 +1,4 @@
 id: ibridge
-twitter:
 facebook:
 linkedin:
 city:
@@ -17,7 +16,6 @@ lng: 8.67527700000005
 address_line1: "Nigeria"
 websiteUrl: http://www.ibridgehub.com/
 id: ibridge
-twitter:
 facebook:
 linkedin:
 city:
@@ -34,3 +32,4 @@ lat: 9.081999
 lng: 8.67527700000005
 address_line1: "Nigeria"
 websiteUrl: http://www.ibridgehub.com/
+twitterHandle:

@@ -1,5 +1,4 @@
 id: swahilipot-hub
-twitter: swahilipothub
 facebook:
 linkedin:
 city: Mombasa
@@ -21,7 +20,6 @@ lng: 39.6682065
 address_line1: "Mombasa, Kenya"
 websiteUrl: https://swahilipothub.co.ke/
 id: swahilipot-hub
-twitter: swahilipothub
 facebook:
 linkedin:
 city: Mombasa
@@ -42,3 +40,4 @@ lat: -4.0434771
 lng: 39.6682065
 address_line1: "Mombasa, Kenya"
 websiteUrl: https://swahilipothub.co.ke/
+twitterHandle: swahilipothub

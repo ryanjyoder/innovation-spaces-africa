@@ -1,5 +1,4 @@
 id: zen-lab
-twitter: ZENLAB_tunisie
 facebook: http://www.facebook.com/ZENLAB.Tunisie/
 linkedin:
 city:
@@ -19,7 +18,6 @@ lng:
 address_line1: "Immeuble Emeraude Center, Jardins du Lac 2 , Tunis, Tunisie"
 websiteUrl: http://www.zenlab.com.tn/
 id: zen-lab
-twitter: ZENLAB_tunisie
 facebook: http://www.facebook.com/ZENLAB.Tunisie/
 linkedin:
 city:
@@ -38,3 +36,4 @@ lat:
 lng:
 address_line1: "Immeuble Emeraude Center, Jardins du Lac 2 , Tunis, Tunisie"
 websiteUrl: http://www.zenlab.com.tn/
+twitterHandle: ZENLAB_tunisie

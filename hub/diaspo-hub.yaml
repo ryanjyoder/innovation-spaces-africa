@@ -1,5 +1,4 @@
 id: diaspo-hub
-twitter:
 facebook: https://www.facebook.com/DiaspoHub/
 linkedin: https://ng.linkedin.com/company/ddhubng
 city: Bamako
@@ -17,7 +16,6 @@ lng: -7.98821799999996
 address_line1: "Ambassade d'Allemagne, Rue 14"
 websiteUrl:
 id: diaspo-hub
-twitter:
 facebook: https://www.facebook.com/DiaspoHub/
 linkedin: https://ng.linkedin.com/company/ddhubng
 city: Bamako
@@ -34,3 +32,4 @@ lat: 12.6250651
 lng: -7.98821799999996
 address_line1: "Ambassade d'Allemagne, Rue 14"
 websiteUrl:
+twitterHandle:

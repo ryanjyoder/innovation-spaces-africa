@@ -1,5 +1,4 @@
 id: twende-hub
-twitter:
 facebook:
 linkedin:
 city: Tanzania
@@ -16,7 +15,6 @@ lng: -3.17231800000002
 address_line1: "Tanzania, Western Region, Ghana"
 websiteUrl: http://www.twende-tanzania.org/
 id: twende-hub
-twitter:
 facebook:
 linkedin:
 city: Tanzania
@@ -32,3 +30,4 @@ lat: 6.3335725
 lng: -3.17231800000002
 address_line1: "Tanzania, Western Region, Ghana"
 websiteUrl: http://www.twende-tanzania.org/
+twitterHandle:

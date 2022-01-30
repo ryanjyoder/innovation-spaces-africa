@@ -1,5 +1,4 @@
 id: buni-lab
-twitter: bunihub
 facebook:
 linkedin:
 city:
@@ -18,7 +17,6 @@ lng: 34.888822
 address_line1: "Tanzania"
 websiteUrl: http://buni.or.tz/
 id: buni-lab
-twitter: bunihub
 facebook:
 linkedin:
 city:
@@ -36,3 +34,4 @@ lat: -6.369028
 lng: 34.888822
 address_line1: "Tanzania"
 websiteUrl: http://buni.or.tz/
+twitterHandle: bunihub

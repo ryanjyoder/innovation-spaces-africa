@@ -1,5 +1,4 @@
 id: women-in-technology-uganda-witu
-twitter: wituganda
 facebook:
 linkedin:
 city: Kampala
@@ -15,7 +14,6 @@ lng:
 address_line1: ""
 websiteUrl: http://witug.org/
 id: women-in-technology-uganda-witu
-twitter: wituganda
 facebook:
 linkedin:
 city: Kampala
@@ -30,3 +28,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://witug.org/
+twitterHandle: wituganda

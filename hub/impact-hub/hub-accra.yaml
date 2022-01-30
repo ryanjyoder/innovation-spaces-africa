@@ -1,5 +1,4 @@
 id: hub-accra
-twitter: impacthubaccra
 facebook:
 linkedin:
 city: Accra
@@ -14,7 +13,6 @@ lng:
 address_line1: ""
 websiteUrl: accra.impacthub.net
 id: hub-accra
-twitter: impacthubaccra
 facebook:
 linkedin:
 city: Accra
@@ -28,3 +26,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: accra.impacthub.net
+twitterHandle: impacthubaccra

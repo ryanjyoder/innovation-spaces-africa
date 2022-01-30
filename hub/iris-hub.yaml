@@ -1,5 +1,4 @@
 id: iris-hub
-twitter: irishub_rw
 facebook:
 linkedin:
 city: Kigali
@@ -17,7 +16,6 @@ lng: 30.1044288000001
 address_line1: "Kigali, Rwanda"
 websiteUrl: https://www.irishub.rw/
 id: iris-hub
-twitter: irishub_rw
 facebook:
 linkedin:
 city: Kigali
@@ -34,3 +32,4 @@ lat: -1.9705786
 lng: 30.1044288000001
 address_line1: "Kigali, Rwanda"
 websiteUrl: https://www.irishub.rw/
+twitterHandle: irishub_rw

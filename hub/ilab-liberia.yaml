@@ -1,5 +1,4 @@
 id: ilab-liberia
-twitter: iLabLiberia
 facebook:
 linkedin:
 city: Monrovia
@@ -22,7 +21,6 @@ lng: -10.7988739
 address_line1: "Camp Johnson Rd, Monrovia, Liberia"
 websiteUrl: http://ilabliberia.org/
 id: ilab-liberia
-twitter: iLabLiberia
 facebook:
 linkedin:
 city: Monrovia
@@ -44,3 +42,4 @@ lat: 6.306069
 lng: -10.7988739
 address_line1: "Camp Johnson Rd, Monrovia, Liberia"
 websiteUrl: http://ilabliberia.org/
+twitterHandle: iLabLiberia

@@ -1,5 +1,4 @@
 id: labess
-twitter: LabessTN
 facebook: https://www.facebook.com/LabessTunisie/
 linkedin:
 city: Tunis
@@ -15,7 +14,6 @@ lng:
 address_line1: "7 Rue du Docteur Alphonse Laveran"
 websiteUrl: https://www.labess.tn
 id: labess
-twitter: LabessTN
 facebook: https://www.facebook.com/LabessTunisie/
 linkedin:
 city: Tunis
@@ -30,3 +28,4 @@ lat:
 lng:
 address_line1: "7 Rue du Docteur Alphonse Laveran"
 websiteUrl: https://www.labess.tn
+twitterHandle: LabessTN

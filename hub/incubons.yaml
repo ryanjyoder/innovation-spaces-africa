@@ -1,5 +1,4 @@
 id: incubons
-twitter:
 facebook: https://fr-fr.facebook.com/incubons/
 linkedin:
 city:
@@ -19,7 +18,6 @@ lng:
 address_line1: "VP 27 A bis Ambohimiandra ,  Antananarivo"
 websiteUrl:
 id: incubons
-twitter:
 facebook: https://fr-fr.facebook.com/incubons/
 linkedin:
 city:
@@ -38,3 +36,4 @@ lat:
 lng:
 address_line1: "VP 27 A bis Ambohimiandra ,  Antananarivo"
 websiteUrl:
+twitterHandle:

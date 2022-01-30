@@ -1,5 +1,4 @@
 id: bithub
-twitter: bithubafrica
 facebook:
 linkedin:
 city: Nairobi
@@ -24,7 +23,6 @@ lng: 36.8142327
 address_line1: "Kenya Road, Nairobi, Kenya"
 websiteUrl: http://bithub.africa/
 id: bithub
-twitter: bithubafrica
 facebook:
 linkedin:
 city: Nairobi
@@ -48,3 +46,4 @@ lat: -1.3009903
 lng: 36.8142327
 address_line1: "Kenya Road, Nairobi, Kenya"
 websiteUrl: http://bithub.africa/
+twitterHandle: bithubafrica

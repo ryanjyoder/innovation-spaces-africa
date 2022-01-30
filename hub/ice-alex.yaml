@@ -1,5 +1,4 @@
 id: ice-alex
-twitter: icealexHub
 facebook:
 linkedin:
 city:
@@ -14,7 +13,6 @@ lng: 29.6962677
 address_line1: "Alexandria Governorate, Egypt"
 websiteUrl: http://icealex.com/
 id: ice-alex
-twitter: icealexHub
 facebook:
 linkedin:
 city:
@@ -28,3 +26,4 @@ lat: 30.7622959
 lng: 29.6962677
 address_line1: "Alexandria Governorate, Egypt"
 websiteUrl: http://icealex.com/
+twitterHandle: icealexHub

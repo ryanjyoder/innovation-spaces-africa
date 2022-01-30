@@ -1,5 +1,4 @@
 id: olotu-square-port-harcourt
-twitter: olotusquare
 facebook:
 linkedin:
 city: Port Harcourt
@@ -17,7 +16,6 @@ lng: 7.04984420000005
 address_line1: "Port Harcourt, Nigeria"
 websiteUrl: https://olotusquare.co/
 id: olotu-square-port-harcourt
-twitter: olotusquare
 facebook:
 linkedin:
 city: Port Harcourt
@@ -34,3 +32,4 @@ lat: 4.815554
 lng: 7.04984420000005
 address_line1: "Port Harcourt, Nigeria"
 websiteUrl: https://olotusquare.co/
+twitterHandle: olotusquare

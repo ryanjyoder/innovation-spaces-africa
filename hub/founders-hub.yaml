@@ -1,5 +1,4 @@
 id: founders-hub
-twitter: foundershubng
 facebook:
 linkedin:
 city:
@@ -15,7 +14,6 @@ lng: 4.56244259999994
 address_line1: "Kwara, Nigeria"
 websiteUrl: http://foundershub.xyz/holder/
 id: founders-hub
-twitter: foundershubng
 facebook:
 linkedin:
 city:
@@ -30,3 +28,4 @@ lat: 8.9847995
 lng: 4.56244259999994
 address_line1: "Kwara, Nigeria"
 websiteUrl: http://foundershub.xyz/holder/
+twitterHandle: foundershubng

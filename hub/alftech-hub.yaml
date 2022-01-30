@@ -1,5 +1,4 @@
 id: alftech-hub
-twitter:
 facebook: https://www.facebook.com/pg/alftechhub/services/
 linkedin:
 city: Ota
@@ -16,7 +15,6 @@ lng: 3.23648539999999
 address_line1: "Ota, Nigeria"
 websiteUrl: http://alftechhub.com/
 id: alftech-hub
-twitter:
 facebook: https://www.facebook.com/pg/alftechhub/services/
 linkedin:
 city: Ota
@@ -32,3 +30,4 @@ lat: 6.6927446
 lng: 3.23648539999999
 address_line1: "Ota, Nigeria"
 websiteUrl: http://alftechhub.com/
+twitterHandle:

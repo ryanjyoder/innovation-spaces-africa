@@ -1,5 +1,4 @@
 id: ghana-multimedia-incubator-centre
-twitter:
 facebook:
 linkedin:
 city: Accra
@@ -17,7 +16,6 @@ lng:
 address_line1: ""
 websiteUrl: http://gmic.gov.gh/
 id: ghana-multimedia-incubator-centre
-twitter:
 facebook:
 linkedin:
 city: Accra
@@ -34,3 +32,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://gmic.gov.gh/
+twitterHandle:

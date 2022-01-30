@@ -1,5 +1,4 @@
 id: centre-swahilipot-hub
-twitter:
 facebook:
 linkedin:
 city: Eldoret
@@ -23,7 +22,6 @@ lng: 35.2747495
 address_line1: "Kenyatta Street, Eldoret, Kenya"
 websiteUrl:
 id: centre-swahilipot-hub
-twitter:
 facebook:
 linkedin:
 city: Eldoret
@@ -46,3 +44,4 @@ lat: 0.5157743
 lng: 35.2747495
 address_line1: "Kenyatta Street, Eldoret, Kenya"
 websiteUrl:
+twitterHandle:

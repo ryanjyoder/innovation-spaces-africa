@@ -1,5 +1,4 @@
 id: grindstone
-twitter:
 facebook:
 linkedin:
 city: Cape Town
@@ -21,7 +20,6 @@ lng:
 address_line1: "E5B Century Square Century City Cape Town"
 websiteUrl:
 id: grindstone
-twitter:
 facebook:
 linkedin:
 city: Cape Town
@@ -42,3 +40,4 @@ lat:
 lng:
 address_line1: "E5B Century Square Century City Cape Town"
 websiteUrl:
+twitterHandle:

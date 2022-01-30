@@ -1,5 +1,4 @@
 id: akendewa
-twitter:
 facebook:
 linkedin:
 city: Abidjan
@@ -16,7 +15,6 @@ lng:
 address_line1: ""
 websiteUrl: www.akendewa.org
 id: akendewa
-twitter:
 facebook:
 linkedin:
 city: Abidjan
@@ -32,3 +30,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: www.akendewa.org
+twitterHandle:

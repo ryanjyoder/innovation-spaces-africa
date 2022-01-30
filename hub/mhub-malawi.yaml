@@ -1,5 +1,4 @@
 id: mhub-malawi
-twitter: mHubMW
 facebook:
 linkedin:
 city: Blantyre
@@ -21,7 +20,6 @@ lng: 35.0042201
 address_line1: "Malawi Sun Hotel, Blantyre, Malawi"
 websiteUrl: http://www.mhubmw.com/
 id: mhub-malawi
-twitter: mHubMW
 facebook:
 linkedin:
 city: Blantyre
@@ -42,3 +40,4 @@ lat: -15.7820588
 lng: 35.0042201
 address_line1: "Malawi Sun Hotel, Blantyre, Malawi"
 websiteUrl: http://www.mhubmw.com/
+twitterHandle: mHubMW

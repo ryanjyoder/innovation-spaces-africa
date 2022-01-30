@@ -1,5 +1,4 @@
 id: mfriday
-twitter: mfridays
 facebook:
 linkedin:
 city: Kumasi
@@ -14,7 +13,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.mfriday.org/
 id: mfriday
-twitter: mfridays
 facebook:
 linkedin:
 city: Kumasi
@@ -28,3 +26,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://www.mfriday.org/
+twitterHandle: mfridays

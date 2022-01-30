@@ -1,5 +1,4 @@
 id: mawazo-hub
-twitter:
 facebook:
 linkedin:
 city: Kampala
@@ -16,7 +15,6 @@ lng: 32.5844634
 address_line1: "Uganda House, Kampala, Uganda"
 websiteUrl: http://www.nftmawazo.com/
 id: mawazo-hub
-twitter:
 facebook:
 linkedin:
 city: Kampala
@@ -32,3 +30,4 @@ lat: 0.3119942
 lng: 32.5844634
 address_line1: "Uganda House, Kampala, Uganda"
 websiteUrl: http://www.nftmawazo.com/
+twitterHandle:

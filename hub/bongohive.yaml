@@ -1,5 +1,4 @@
 id: bongohive
-twitter: bongohive
 facebook:
 linkedin:
 city: Lusaka
@@ -24,7 +23,6 @@ lng: 28.3099678
 address_line1: "Haile Selassie Ave, Lusaka, Zambia"
 websiteUrl: http://bongohive.co.zm/
 id: bongohive
-twitter: bongohive
 facebook:
 linkedin:
 city: Lusaka
@@ -48,3 +46,4 @@ lat: -15.4186552
 lng: 28.3099678
 address_line1: "Haile Selassie Ave, Lusaka, Zambia"
 websiteUrl: http://bongohive.co.zm/
+twitterHandle: bongohive

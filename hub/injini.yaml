@@ -1,5 +1,4 @@
 id: injini
-twitter: injiniedtech
 facebook:
 linkedin:
 city: Cape Town
@@ -19,7 +18,6 @@ lng: 18.4240553
 address_line1: "Cape Town, South Africa"
 websiteUrl: http://injini.co.za/
 id: injini
-twitter: injiniedtech
 facebook:
 linkedin:
 city: Cape Town
@@ -38,3 +36,4 @@ lat: -33.9248685
 lng: 18.4240553
 address_line1: "Cape Town, South Africa"
 websiteUrl: http://injini.co.za/
+twitterHandle: injiniedtech

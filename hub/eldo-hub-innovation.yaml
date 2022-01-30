@@ -1,5 +1,4 @@
 id: eldo-hub-innovation
-twitter: eldohub
 facebook:
 linkedin:
 city: Nakuru
@@ -22,7 +21,6 @@ lng: 36.0693113
 address_line1: "Kenyatta Avenue, Nakuru, Kenya"
 websiteUrl: https://www.eldohub.co.ke/
 id: eldo-hub-innovation
-twitter: eldohub
 facebook:
 linkedin:
 city: Nakuru
@@ -44,3 +42,4 @@ lat: -0.2849853
 lng: 36.0693113
 address_line1: "Kenyatta Avenue, Nakuru, Kenya"
 websiteUrl: https://www.eldohub.co.ke/
+twitterHandle: eldohub

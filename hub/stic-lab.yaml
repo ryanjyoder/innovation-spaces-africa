@@ -1,5 +1,4 @@
 id: stic-lab
-twitter:
 facebook:
 linkedin:
 city: Dar es Salaam
@@ -16,7 +15,6 @@ lng: 39.2680669
 address_line1: "Tanzania Breweries, Dar es Salaam, Tanzania"
 websiteUrl: http://www.sticlab.co.tz/
 id: stic-lab
-twitter:
 facebook:
 linkedin:
 city: Dar es Salaam
@@ -32,3 +30,4 @@ lat: -6.8234286
 lng: 39.2680669
 address_line1: "Tanzania Breweries, Dar es Salaam, Tanzania"
 websiteUrl: http://www.sticlab.co.tz/
+twitterHandle:

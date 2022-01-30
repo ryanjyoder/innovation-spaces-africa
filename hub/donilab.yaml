@@ -1,5 +1,4 @@
 id: donilab
-twitter:
 facebook: https://www.facebook.com/donilab.officiel/
 linkedin:
 city: Bamako
@@ -20,7 +19,6 @@ lng: -7.99483789999999
 address_line1: "SOTUBA"
 websiteUrl: http://www.donilab.net/
 id: donilab
-twitter:
 facebook: https://www.facebook.com/donilab.officiel/
 linkedin:
 city: Bamako
@@ -40,3 +38,4 @@ lat: 12.6363899
 lng: -7.99483789999999
 address_line1: "SOTUBA"
 websiteUrl: http://www.donilab.net/
+twitterHandle:

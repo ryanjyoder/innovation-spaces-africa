@@ -1,5 +1,4 @@
 id: xhub
-twitter: xhubaddis
 facebook:
 linkedin:
 city: Addis Ababa
@@ -24,7 +23,6 @@ lng: 38.7577605
 address_line1: "Addis Ababa, Ethiopia"
 websiteUrl: http://www.xhubaddis.com/
 id: xhub
-twitter: xhubaddis
 facebook:
 linkedin:
 city: Addis Ababa
@@ -48,3 +46,4 @@ lat: 8.9806034
 lng: 38.7577605
 address_line1: "Addis Ababa, Ethiopia"
 websiteUrl: http://www.xhubaddis.com/
+twitterHandle: xhubaddis

@@ -1,5 +1,4 @@
 id: cowork-africa
-twitter: coworkafrica
 facebook:
 linkedin:
 city: Douala
@@ -18,7 +17,6 @@ lng:
 address_line1: ""
 websiteUrl: Co-work.africa
 id: cowork-africa
-twitter: coworkafrica
 facebook:
 linkedin:
 city: Douala
@@ -36,3 +34,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: Co-work.africa
+twitterHandle: coworkafrica

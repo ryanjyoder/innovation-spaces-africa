@@ -1,5 +1,4 @@
 id: uplift-hub
-twitter: uplifthubng
 facebook:
 linkedin:
 city: Bauchi
@@ -18,7 +17,6 @@ lng: 9.82365329999993
 address_line1: "Bauchi, Nigeria"
 websiteUrl: https://uplift.ng/
 id: uplift-hub
-twitter: uplifthubng
 facebook:
 linkedin:
 city: Bauchi
@@ -36,3 +34,4 @@ lat: 10.3009641
 lng: 9.82365329999993
 address_line1: "Bauchi, Nigeria"
 websiteUrl: https://uplift.ng/
+twitterHandle: uplifthubng

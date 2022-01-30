@@ -1,5 +1,4 @@
 id: kumasi-hive
-twitter: KumasiHive
 facebook:
 linkedin:
 city:
@@ -24,7 +23,6 @@ lng: -1.02319399999999
 address_line1: "Ghana"
 websiteUrl: https://kumasihive.com
 id: kumasi-hive
-twitter: KumasiHive
 facebook:
 linkedin:
 city:
@@ -48,3 +46,4 @@ lat: 7.946527
 lng: -1.02319399999999
 address_line1: "Ghana"
 websiteUrl: https://kumasihive.com
+twitterHandle: KumasiHive

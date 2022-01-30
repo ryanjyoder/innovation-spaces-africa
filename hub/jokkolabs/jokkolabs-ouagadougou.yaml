@@ -1,5 +1,4 @@
 id: jokkolabs-ouagadougou
-twitter: JklOuaga
 facebook:
 linkedin:
 city: Ouagadougou
@@ -15,7 +14,6 @@ lng:
 address_line1: ""
 websiteUrl: http://ouaga.jokkolabs.net/
 id: jokkolabs-ouagadougou
-twitter: JklOuaga
 facebook:
 linkedin:
 city: Ouagadougou
@@ -30,3 +28,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://ouaga.jokkolabs.net/
+twitterHandle: JklOuaga

@@ -1,5 +1,4 @@
 id: wiki-start-up
-twitter: WIKISTARTUP
 facebook:
 linkedin:
 city: Tunis
@@ -19,7 +18,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.wikistartup.tn/
 id: wiki-start-up
-twitter: WIKISTARTUP
 facebook:
 linkedin:
 city: Tunis
@@ -38,3 +36,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://www.wikistartup.tn/
+twitterHandle: WIKISTARTUP

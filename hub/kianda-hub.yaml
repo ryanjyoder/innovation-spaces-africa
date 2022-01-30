@@ -1,5 +1,4 @@
 id: kianda-hub
-twitter: KiandaHUB
 facebook:
 linkedin:
 city: Luanda
@@ -19,7 +18,6 @@ lng: 13.2279833
 address_line1: "ANGOLA LNG, Rua Am�lcar Cabral, Luanda, Angola"
 websiteUrl: https://kiandahub.com/
 id: kianda-hub
-twitter: KiandaHUB
 facebook:
 linkedin:
 city: Luanda
@@ -38,3 +36,4 @@ lat: -8.8249255
 lng: 13.2279833
 address_line1: "ANGOLA LNG, Rua Am�lcar Cabral, Luanda, Angola"
 websiteUrl: https://kiandahub.com/
+twitterHandle: KiandaHUB

@@ -1,5 +1,4 @@
 id: solidarit
-twitter: SolidaritHub
 facebook: https://www.facebook.com/SolidarItHub/
 linkedin:
 city: Cotonou
@@ -16,7 +15,6 @@ lng:
 address_line1: "Solidar&#039;it, Boulevard Steinmetz"
 websiteUrl: https://solidarit-hub.org
 id: solidarit
-twitter: SolidaritHub
 facebook: https://www.facebook.com/SolidarItHub/
 linkedin:
 city: Cotonou
@@ -32,3 +30,4 @@ lat:
 lng:
 address_line1: "Solidar&#039;it, Boulevard Steinmetz"
 websiteUrl: https://solidarit-hub.org
+twitterHandle: SolidaritHub

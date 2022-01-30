@@ -1,5 +1,4 @@
 id: technopark
-twitter: technopark
 facebook: https://web.facebook.com/pages/Technopark
 linkedin:
 city:
@@ -17,7 +16,6 @@ lng:
 address_line1: ""
 websiteUrl: https://www.technopark.ma/s/
 id: technopark
-twitter: technopark
 facebook: https://web.facebook.com/pages/Technopark
 linkedin:
 city:
@@ -34,3 +32,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: https://www.technopark.ma/s/
+twitterHandle: technopark

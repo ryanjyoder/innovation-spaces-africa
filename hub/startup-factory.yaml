@@ -1,5 +1,4 @@
 id: startup-factory
-twitter: SDjbouti
 facebook: https://www.facebook.com/StartUpDjibouti/
 linkedin:
 city:
@@ -15,7 +14,6 @@ lng:
 address_line1: "Djibouti"
 websiteUrl: http://www.startupdjibouti.com
 id: startup-factory
-twitter: SDjbouti
 facebook: https://www.facebook.com/StartUpDjibouti/
 linkedin:
 city:
@@ -30,3 +28,4 @@ lat:
 lng:
 address_line1: "Djibouti"
 websiteUrl: http://www.startupdjibouti.com
+twitterHandle: SDjbouti

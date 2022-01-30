@@ -1,5 +1,4 @@
 id: honode-hub
-twitter: Honodehub
 facebook:
 linkedin:
 city: Dzodze
@@ -16,7 +15,6 @@ lng: 0.996561700000029
 address_line1: "Ho - Denu Road, Dzodze, Ghana"
 websiteUrl: https://honode.org/
 id: honode-hub
-twitter: Honodehub
 facebook:
 linkedin:
 city: Dzodze
@@ -32,3 +30,4 @@ lat: 6.2330852
 lng: 0.996561700000029
 address_line1: "Ho - Denu Road, Dzodze, Ghana"
 websiteUrl: https://honode.org/
+twitterHandle: Honodehub

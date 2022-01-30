@@ -1,5 +1,4 @@
 id: obuntu-hub
-twitter: obuntuhub
 facebook: https://web.facebook.com/obuntuhub/?_rdc=1&_rdr
 linkedin:
 city:
@@ -15,7 +14,6 @@ lng:
 address_line1: "Mega Complex-Arusha"
 websiteUrl: https://obuntuhub.co.tz/
 id: obuntu-hub
-twitter: obuntuhub
 facebook: https://web.facebook.com/obuntuhub/?_rdc=1&_rdr
 linkedin:
 city:
@@ -30,3 +28,4 @@ lat:
 lng:
 address_line1: "Mega Complex-Arusha"
 websiteUrl: https://obuntuhub.co.tz/
+twitterHandle: obuntuhub

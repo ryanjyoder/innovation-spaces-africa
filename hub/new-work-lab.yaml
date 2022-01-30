@@ -1,5 +1,4 @@
 id: new-work-lab
-twitter: newworklab
 facebook:
 linkedin:
 city: Casablanca
@@ -21,7 +20,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.newworklab.com
 id: new-work-lab
-twitter: newworklab
 facebook:
 linkedin:
 city: Casablanca
@@ -42,3 +40,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://www.newworklab.com
+twitterHandle: newworklab

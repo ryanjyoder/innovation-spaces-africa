@@ -1,5 +1,4 @@
 id: istic-entreprises-startup
-twitter: istic_tunisie
 facebook: http://ISTIC Entreprises Startup
 linkedin:
 city:
@@ -16,7 +15,6 @@ lng:
 address_line1: "Technopole Ecopark Borj-c�dria, Borj C�dria, Tunisie"
 websiteUrl: http://www.istic.rnu.tn
 id: istic-entreprises-startup
-twitter: istic_tunisie
 facebook: http://ISTIC Entreprises Startup
 linkedin:
 city:
@@ -32,3 +30,4 @@ lat:
 lng:
 address_line1: "Technopole Ecopark Borj-c�dria, Borj C�dria, Tunisie"
 websiteUrl: http://www.istic.rnu.tn
+twitterHandle: istic_tunisie

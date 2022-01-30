@@ -1,5 +1,4 @@
 id: l5-lab
-twitter: L5Lab
 facebook:
 linkedin:
 city: Lagos
@@ -16,7 +15,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.l5lab.com/
 id: l5-lab
-twitter: L5Lab
 facebook:
 linkedin:
 city: Lagos
@@ -32,3 +30,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://www.l5lab.com/
+twitterHandle: L5Lab

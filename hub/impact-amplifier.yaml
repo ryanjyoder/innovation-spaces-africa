@@ -1,5 +1,4 @@
 id: impact-amplifier
-twitter: ImpactAmplifier
 facebook:
 linkedin:
 city: Johannesburg
@@ -21,7 +20,6 @@ lng:
 address_line1: ""
 websiteUrl: https://www.impactamplifier.co.za/
 id: impact-amplifier
-twitter: ImpactAmplifier
 facebook:
 linkedin:
 city: Johannesburg
@@ -42,3 +40,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: https://www.impactamplifier.co.za/
+twitterHandle: ImpactAmplifier

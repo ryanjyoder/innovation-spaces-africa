@@ -1,5 +1,4 @@
 id: jiguene-tech-hub
-twitter:
 facebook:
 linkedin:
 city: Dakar
@@ -25,7 +24,6 @@ lng:
 address_line1: ""
 websiteUrl: http://jjiguenetech.com/
 id: jiguene-tech-hub
-twitter:
 facebook:
 linkedin:
 city: Dakar
@@ -50,3 +48,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://jjiguenetech.com/
+twitterHandle:

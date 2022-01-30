@@ -1,5 +1,4 @@
 id: mwasi-tech-hub
-twitter:
 facebook: https://www.facebook.com/mwasitechhub
 linkedin:
 city: Kinshasa
@@ -15,7 +14,6 @@ lng:
 address_line1: ""
 websiteUrl:
 id: mwasi-tech-hub
-twitter:
 facebook: https://www.facebook.com/mwasitechhub
 linkedin:
 city: Kinshasa
@@ -30,3 +28,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl:
+twitterHandle:

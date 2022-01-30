@@ -1,5 +1,4 @@
 id: incubateur-ose-ton-emploi
-twitter: osetonemploi
 facebook: http://@OseTonEmploi
 linkedin:
 city:
@@ -23,7 +22,6 @@ lng:
 address_line1: "Conakry, Guin�e"
 websiteUrl: http://www.osetonemploi.com
 id: incubateur-ose-ton-emploi
-twitter: osetonemploi
 facebook: http://@OseTonEmploi
 linkedin:
 city:
@@ -46,3 +44,4 @@ lat:
 lng:
 address_line1: "Conakry, Guin�e"
 websiteUrl: http://www.osetonemploi.com
+twitterHandle: osetonemploi

@@ -1,5 +1,4 @@
 id: afp-pme
-twitter:
 facebook: https://web.facebook.com/AfpPme/
 linkedin:
 city:
@@ -21,7 +20,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.afppme.bf/
 id: afp-pme
-twitter:
 facebook: https://web.facebook.com/AfpPme/
 linkedin:
 city:
@@ -42,3 +40,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://www.afppme.bf/
+twitterHandle:

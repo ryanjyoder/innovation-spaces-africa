@@ -1,5 +1,4 @@
 id: altoufikh-international
-twitter:
 facebook:
 linkedin:
 city: N'Djamena
@@ -18,7 +17,6 @@ lng: 15.0557415000001
 address_line1: "N'Djamena, Chad"
 websiteUrl:
 id: altoufikh-international
-twitter:
 facebook:
 linkedin:
 city: N'Djamena
@@ -36,3 +34,4 @@ lat: 12.1348457
 lng: 15.0557415000001
 address_line1: "N'Djamena, Chad"
 websiteUrl:
+twitterHandle:

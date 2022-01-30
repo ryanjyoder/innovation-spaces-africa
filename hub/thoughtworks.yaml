@@ -1,5 +1,4 @@
 id: thoughtworks
-twitter: thoughtworks
 facebook:
 linkedin:
 city: Johannesburg
@@ -20,7 +19,6 @@ lng:
 address_line1: ""
 websiteUrl: http://info.thoughtworks.com/
 id: thoughtworks
-twitter: thoughtworks
 facebook:
 linkedin:
 city: Johannesburg
@@ -40,3 +38,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://info.thoughtworks.com/
+twitterHandle: thoughtworks

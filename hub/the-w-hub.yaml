@@ -1,5 +1,4 @@
 id: the-w-hub
-twitter: thewhub
 facebook:
 linkedin:
 city: Abidjan
@@ -14,7 +13,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.thewhub.com/
 id: the-w-hub
-twitter: thewhub
 facebook:
 linkedin:
 city: Abidjan
@@ -28,3 +26,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://www.thewhub.com/
+twitterHandle: thewhub

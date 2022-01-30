@@ -1,5 +1,4 @@
 id: ihub
-twitter: iHub
 facebook:
 linkedin:
 city:
@@ -19,7 +18,6 @@ lng: 37.906193
 address_line1: "Kenya"
 websiteUrl: https://ihub.co.ke/
 id: ihub
-twitter: iHub
 facebook:
 linkedin:
 city:
@@ -38,3 +36,4 @@ lat: -0.023559
 lng: 37.906193
 address_line1: "Kenya"
 websiteUrl: https://ihub.co.ke/
+twitterHandle: iHub

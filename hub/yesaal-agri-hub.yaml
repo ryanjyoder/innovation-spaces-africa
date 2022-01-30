@@ -1,5 +1,4 @@
 id: yesaal-agri-hub
-twitter:
 facebook: https://fr-fr.facebook.com/yeesalagrihub/
 linkedin:
 city:
@@ -19,7 +18,6 @@ lng:
 address_line1: ""
 websiteUrl: http://yeesalhub.org/
 id: yesaal-agri-hub
-twitter:
 facebook: https://fr-fr.facebook.com/yeesalagrihub/
 linkedin:
 city:
@@ -38,3 +36,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://yeesalhub.org/
+twitterHandle:

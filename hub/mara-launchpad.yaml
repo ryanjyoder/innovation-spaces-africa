@@ -1,5 +1,4 @@
 id: mara-launchpad
-twitter: MaraPhones
 facebook:
 linkedin:
 city: Kampala
@@ -17,7 +16,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.mara-foundation.org/
 id: mara-launchpad
-twitter: MaraPhones
 facebook:
 linkedin:
 city: Kampala
@@ -34,3 +32,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://www.mara-foundation.org/
+twitterHandle: MaraPhones

@@ -1,5 +1,4 @@
 id: capetown-garage
-twitter: capetowngarage
 facebook:
 linkedin:
 city: Cape Town
@@ -15,7 +14,6 @@ lng:
 address_line1: ""
 websiteUrl: www.capetowngarage.com
 id: capetown-garage
-twitter: capetowngarage
 facebook:
 linkedin:
 city: Cape Town
@@ -30,3 +28,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: www.capetowngarage.com
+twitterHandle: capetowngarage

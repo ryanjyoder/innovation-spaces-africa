@@ -1,5 +1,4 @@
 id: sahara-ventures
-twitter: VenturesSahara
 facebook:
 linkedin:
 city: Dar-es-Salaam
@@ -14,7 +13,6 @@ lng:
 address_line1: "Aldua Tower, Wing A, 6 Floor, New Bagamoyo Road"
 websiteUrl: https://saharaventures.com/sahara-accelerator
 id: sahara-ventures
-twitter: VenturesSahara
 facebook:
 linkedin:
 city: Dar-es-Salaam
@@ -28,3 +26,4 @@ lat:
 lng:
 address_line1: "Aldua Tower, Wing A, 6 Floor, New Bagamoyo Road"
 websiteUrl: https://saharaventures.com/sahara-accelerator
+twitterHandle: VenturesSahara

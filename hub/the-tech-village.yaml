@@ -1,5 +1,4 @@
 id: the-tech-village
-twitter: TechVillagezw
 facebook:
 linkedin:
 city:
@@ -17,7 +16,6 @@ lng: 29.154857
 address_line1: "Zimbabwe"
 websiteUrl: http://www.techvillage.org.zw/
 id: the-tech-village
-twitter: TechVillagezw
 facebook:
 linkedin:
 city:
@@ -34,3 +32,4 @@ lat: -19.015438
 lng: 29.154857
 address_line1: "Zimbabwe"
 websiteUrl: http://www.techvillage.org.zw/
+twitterHandle: TechVillagezw

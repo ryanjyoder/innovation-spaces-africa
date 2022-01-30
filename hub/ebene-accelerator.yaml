@@ -1,5 +1,4 @@
 id: ebene-accelerator
-twitter: ebn_accelerator
 facebook:
 linkedin:
 city: Ebene Cybercity
@@ -20,7 +19,6 @@ lng:
 address_line1: ""
 websiteUrl: http://ebeneaccelerator.mu
 id: ebene-accelerator
-twitter: ebn_accelerator
 facebook:
 linkedin:
 city: Ebene Cybercity
@@ -40,3 +38,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://ebeneaccelerator.mu
+twitterHandle: ebn_accelerator

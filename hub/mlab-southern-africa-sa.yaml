@@ -1,5 +1,4 @@
 id: mlab-southern-africa-sa
-twitter: mlabsa
 facebook:
 linkedin:
 city: Pretoria
@@ -20,7 +19,6 @@ lng: 28.2674629000001
 address_line1: "The Enterprise Building, Allan Cormack St, Pretoria 0020, South Africa"
 websiteUrl: https://www.mlab.co.za/
 id: mlab-southern-africa-sa
-twitter: mlabsa
 facebook:
 linkedin:
 city: Pretoria
@@ -40,3 +38,4 @@ lat: -25.7491488
 lng: 28.2674629000001
 address_line1: "The Enterprise Building, Allan Cormack St, Pretoria 0020, South Africa"
 websiteUrl: https://www.mlab.co.za/
+twitterHandle: mlabsa

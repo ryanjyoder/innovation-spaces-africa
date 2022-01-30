@@ -1,5 +1,4 @@
 id: softstart-business-and-technology-incubator
-twitter: SoftstartBTI
 facebook:
 linkedin:
 city: Johannesburg
@@ -16,7 +15,6 @@ lng: 28.0473051
 address_line1: "Johannesburg, South Africa"
 websiteUrl: https://softstartbti.co.za/
 id: softstart-business-and-technology-incubator
-twitter: SoftstartBTI
 facebook:
 linkedin:
 city: Johannesburg
@@ -32,3 +30,4 @@ lat: -26.2041028
 lng: 28.0473051
 address_line1: "Johannesburg, South Africa"
 websiteUrl: https://softstartbti.co.za/
+twitterHandle: SoftstartBTI

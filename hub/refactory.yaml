@@ -1,5 +1,4 @@
 id: refactory
-twitter:
 facebook:
 linkedin:
 city: Kampala
@@ -16,7 +15,6 @@ lng:
 address_line1: "3rd Floor Le Palm Building, Plot 244/245 Lubbobo Close off Tank Hill Road"
 websiteUrl: https://www.refactory.ug/
 id: refactory
-twitter:
 facebook:
 linkedin:
 city: Kampala
@@ -32,3 +30,4 @@ lat:
 lng:
 address_line1: "3rd Floor Le Palm Building, Plot 244/245 Lubbobo Close off Tank Hill Road"
 websiteUrl: https://www.refactory.ug/
+twitterHandle:

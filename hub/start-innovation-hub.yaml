@@ -1,5 +1,4 @@
 id: start-innovation-hub
-twitter: StartHub_Tech
 facebook:
 linkedin:
 city: Uyo
@@ -14,7 +13,6 @@ lng: 7.91279450000002
 address_line1: "Uyo, Akwa Ibom, Nigeria"
 websiteUrl: http://www.starthub.com.ng/
 id: start-innovation-hub
-twitter: StartHub_Tech
 facebook:
 linkedin:
 city: Uyo
@@ -28,3 +26,4 @@ lat: 5.0377396
 lng: 7.91279450000002
 address_line1: "Uyo, Akwa Ibom, Nigeria"
 websiteUrl: http://www.starthub.com.ng/
+twitterHandle: StartHub_Tech

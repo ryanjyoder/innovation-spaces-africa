@@ -1,5 +1,4 @@
 id: sylabs
-twitter: sylabsdz
 facebook:
 linkedin:
 city:
@@ -17,7 +16,6 @@ lng: 1.659626
 address_line1: "Algeria"
 websiteUrl: http://sylabs-dz.com/
 id: sylabs
-twitter: sylabsdz
 facebook:
 linkedin:
 city:
@@ -34,3 +32,4 @@ lat: 28.033886
 lng: 1.659626
 address_line1: "Algeria"
 websiteUrl: http://sylabs-dz.com/
+twitterHandle: sylabsdz

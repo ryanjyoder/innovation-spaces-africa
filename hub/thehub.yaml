@@ -1,5 +1,4 @@
 id: thehub
-twitter: HUBKampala
 facebook:
 linkedin:
 city: Kampala
@@ -16,7 +15,6 @@ lng:
 address_line1: ""
 websiteUrl: http://thehubkampala.com/
 id: thehub
-twitter: HUBKampala
 facebook:
 linkedin:
 city: Kampala
@@ -32,3 +30,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://thehubkampala.com/
+twitterHandle: HUBKampala

@@ -1,5 +1,4 @@
 id: impact-l-incubateur
-twitter: IMPACT_LabESS
 facebook:
 linkedin:
 city:
@@ -17,7 +16,6 @@ lng:
 address_line1: ""
 websiteUrl:
 id: impact-l-incubateur
-twitter: IMPACT_LabESS
 facebook:
 linkedin:
 city:
@@ -34,3 +32,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl:
+twitterHandle: IMPACT_LabESS

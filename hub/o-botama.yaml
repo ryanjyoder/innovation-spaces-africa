@@ -1,5 +1,4 @@
 id: o-botama
-twitter: OBotama_aic
 facebook: https://www.facebook.com/OBotama2018/
 linkedin:
 city: Yaounde
@@ -19,7 +18,6 @@ lng:
 address_line1: "Biyem-Assi"
 websiteUrl: http://www.obotama.com
 id: o-botama
-twitter: OBotama_aic
 facebook: https://www.facebook.com/OBotama2018/
 linkedin:
 city: Yaounde
@@ -38,3 +36,4 @@ lat:
 lng:
 address_line1: "Biyem-Assi"
 websiteUrl: http://www.obotama.com
+twitterHandle: OBotama_aic

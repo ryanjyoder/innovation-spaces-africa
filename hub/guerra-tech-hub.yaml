@@ -1,5 +1,4 @@
 id: guerra-tech-hub
-twitter: guerra_hub
 facebook: https://www.facebook.com/GuerraHub
 linkedin:
 city:
@@ -16,7 +15,6 @@ lng:
 address_line1: "Banikanni, rue de la pharmacie du Campus ,  Parakou"
 websiteUrl: https://guerrahub.com
 id: guerra-tech-hub
-twitter: guerra_hub
 facebook: https://www.facebook.com/GuerraHub
 linkedin:
 city:
@@ -32,3 +30,4 @@ lat:
 lng:
 address_line1: "Banikanni, rue de la pharmacie du Campus ,  Parakou"
 websiteUrl: https://guerrahub.com
+twitterHandle: guerra_hub

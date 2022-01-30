@@ -1,5 +1,4 @@
 id: focus-hub
-twitter:
 facebook:
 linkedin:
 city: Port Harcourt
@@ -15,7 +14,6 @@ lng:
 address_line1: ""
 websiteUrl: http://focushub.net/
 id: focus-hub
-twitter:
 facebook:
 linkedin:
 city: Port Harcourt
@@ -30,3 +28,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://focushub.net/
+twitterHandle:

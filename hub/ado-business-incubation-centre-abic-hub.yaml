@@ -1,5 +1,4 @@
 id: ado-business-incubation-centre-abic-hub
-twitter: abicng
 facebook:
 linkedin:
 city: Onitsha
@@ -18,7 +17,6 @@ lng:
 address_line1: "Iba Ajie, 1 Tasia Street, ShopRite Junction"
 websiteUrl: https://abicng.org
 id: ado-business-incubation-centre-abic-hub
-twitter: abicng
 facebook:
 linkedin:
 city: Onitsha
@@ -36,3 +34,4 @@ lat:
 lng:
 address_line1: "Iba Ajie, 1 Tasia Street, ShopRite Junction"
 websiteUrl: https://abicng.org
+twitterHandle: abicng

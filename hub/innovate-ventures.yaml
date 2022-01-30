@@ -1,5 +1,4 @@
 id: innovate-ventures
-twitter:
 facebook:
 linkedin:
 city: Hargeisa
@@ -23,7 +22,6 @@ lng: 44.0770133999999
 address_line1: "Hargeisa, Somalia"
 websiteUrl: https://www.innovate.so/
 id: innovate-ventures
-twitter:
 facebook:
 linkedin:
 city: Hargeisa
@@ -46,3 +44,4 @@ lat: 9.562389
 lng: 44.0770133999999
 address_line1: "Hargeisa, Somalia"
 websiteUrl: https://www.innovate.so/
+twitterHandle:

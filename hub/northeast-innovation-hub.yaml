@@ -1,5 +1,4 @@
 id: northeast-innovation-hub
-twitter: Northeast_iHub
 facebook:
 linkedin:
 city:
@@ -16,7 +15,6 @@ lng:
 address_line1: "NE Innovation Campus, No 3 Legom Close, Off Kashim Ibrahim Way, Jimeta 640221"
 websiteUrl: humanitarianihub.org
 id: northeast-innovation-hub
-twitter: Northeast_iHub
 facebook:
 linkedin:
 city:
@@ -32,3 +30,4 @@ lat:
 lng:
 address_line1: "NE Innovation Campus, No 3 Legom Close, Off Kashim Ibrahim Way, Jimeta 640221"
 websiteUrl: humanitarianihub.org
+twitterHandle: Northeast_iHub

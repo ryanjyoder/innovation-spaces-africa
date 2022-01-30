@@ -1,5 +1,4 @@
 id: maison-de-l-entrepreneur-congolais-mec
-twitter:
 facebook: https://www.facebook.com/maisondelentrepreneurcongolais
 linkedin:
 city:
@@ -15,7 +14,6 @@ lng:
 address_line1: "8 Avenue de l&#039;Eglise , Quartier Gambela ,  Lubumbashi"
 websiteUrl: http://www.maisondelentrepreneur.org
 id: maison-de-l-entrepreneur-congolais-mec
-twitter:
 facebook: https://www.facebook.com/maisondelentrepreneurcongolais
 linkedin:
 city:
@@ -30,3 +28,4 @@ lat:
 lng:
 address_line1: "8 Avenue de l&#039;Eglise , Quartier Gambela ,  Lubumbashi"
 websiteUrl: http://www.maisondelentrepreneur.org
+twitterHandle:

@@ -1,5 +1,4 @@
 id: dira-partners
-twitter:
 facebook:
 linkedin:
 city:
@@ -14,7 +13,6 @@ lng:
 address_line1: "80 R�sidences Hacienda, dakar , S�n�gal"
 websiteUrl: http://www.dirapartners.com
 id: dira-partners
-twitter:
 facebook:
 linkedin:
 city:
@@ -28,3 +26,4 @@ lat:
 lng:
 address_line1: "80 R�sidences Hacienda, dakar , S�n�gal"
 websiteUrl: http://www.dirapartners.com
+twitterHandle:

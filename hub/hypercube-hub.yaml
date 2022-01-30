@@ -1,5 +1,4 @@
 id: hypercube-hub
-twitter: hypercubehub
 facebook:
 linkedin:
 city: Harare
@@ -23,7 +22,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.hypercubehub.co/en
 id: hypercube-hub
-twitter: hypercubehub
 facebook:
 linkedin:
 city: Harare
@@ -46,3 +44,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://www.hypercubehub.co/en
+twitterHandle: hypercubehub

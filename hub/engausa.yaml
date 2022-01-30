@@ -1,5 +1,4 @@
 id: engausa-hub
-twitter:
 facebook: https://business.facebook.com/engausahub
 linkedin:
 youtube: https://www.youtube.com/channel/UCZar3cuUyRGirl-H2oMMtuQ
@@ -16,7 +15,6 @@ lng:
 address_line1:
 websiteUrl: https://engausahub.com/
 id: engausa-hub
-twitter:
 facebook: https://business.facebook.com/engausahub
 linkedin:
 youtube: https://www.youtube.com/channel/UCZar3cuUyRGirl-H2oMMtuQ
@@ -32,3 +30,4 @@ lat:
 lng:
 address_line1:
 websiteUrl: https://engausahub.com/
+twitterHandle:

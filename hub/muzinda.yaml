@@ -1,5 +1,4 @@
 id: muzinda
-twitter: MuzindaHub
 facebook: https://www.facebook.com/muzindahub/
 linkedin:
 city: Harare
@@ -18,7 +17,6 @@ lng: 31.0895029000001
 address_line1: "Zimbabwe Cricket, Maiden Drive, Harare, Zimbabwe"
 websiteUrl: https://muzindahub.com/
 id: muzinda
-twitter: MuzindaHub
 facebook: https://www.facebook.com/muzindahub/
 linkedin:
 city: Harare
@@ -36,3 +34,4 @@ lat: -17.8118106
 lng: 31.0895029000001
 address_line1: "Zimbabwe Cricket, Maiden Drive, Harare, Zimbabwe"
 websiteUrl: https://muzindahub.com/
+twitterHandle: MuzindaHub

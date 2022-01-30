@@ -1,5 +1,4 @@
 id: lake-hub
-twitter: LakeHub
 facebook:
 linkedin:
 city: Kisumu
@@ -18,7 +17,6 @@ lng: 34.7525582999999
 address_line1: "Accra Street, Kisumu, Kenya"
 websiteUrl: http://www.lakehub.co.ke/
 id: lake-hub
-twitter: LakeHub
 facebook:
 linkedin:
 city: Kisumu
@@ -36,3 +34,4 @@ lat: -0.0974903
 lng: 34.7525582999999
 address_line1: "Accra Street, Kisumu, Kenya"
 websiteUrl: http://www.lakehub.co.ke/
+twitterHandle: LakeHub

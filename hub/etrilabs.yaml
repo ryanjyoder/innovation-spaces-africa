@@ -1,5 +1,4 @@
 id: etrilabs
-twitter: EtriLabs
 facebook: https://www.facebook.com/etrilabscotonou/
 linkedin:
 city: Cotonou
@@ -19,7 +18,6 @@ lng: 2.42312849999996
 address_line1: "Rue 403, Cotonou, Benin"
 websiteUrl: http://www.etrilabs.com/
 id: etrilabs
-twitter: EtriLabs
 facebook: https://www.facebook.com/etrilabscotonou/
 linkedin:
 city: Cotonou
@@ -38,3 +36,4 @@ lat: 6.3628451
 lng: 2.42312849999996
 address_line1: "Rue 403, Cotonou, Benin"
 websiteUrl: http://www.etrilabs.com/
+twitterHandle: EtriLabs

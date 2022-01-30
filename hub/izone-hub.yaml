@@ -1,5 +1,4 @@
 id: izone-hub
-twitter: izonehub
 facebook: https://www.facebook.com/izonehub/
 linkedin:
 city: Harare
@@ -17,7 +16,6 @@ lng: 31.0895029000001
 address_line1: "Zimbabwe Cricket, Maiden Drive, Harare, Zimbabwe"
 websiteUrl: https://izonehub.org.zw/
 id: izone-hub
-twitter: izonehub
 facebook: https://www.facebook.com/izonehub/
 linkedin:
 city: Harare
@@ -34,3 +32,4 @@ lat: -17.8118106
 lng: 31.0895029000001
 address_line1: "Zimbabwe Cricket, Maiden Drive, Harare, Zimbabwe"
 websiteUrl: https://izonehub.org.zw/
+twitterHandle: izonehub

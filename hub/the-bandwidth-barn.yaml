@@ -1,5 +1,4 @@
 id: the-bandwidth-barn
-twitter:
 facebook:
 linkedin:
 city:
@@ -20,7 +19,6 @@ lng: 22.937506
 address_line1: "South Africa"
 websiteUrl: https://www.citi.org.za/spaces/
 id: the-bandwidth-barn
-twitter:
 facebook:
 linkedin:
 city:
@@ -40,3 +38,4 @@ lat: -30.559482
 lng: 22.937506
 address_line1: "South Africa"
 websiteUrl: https://www.citi.org.za/spaces/
+twitterHandle:

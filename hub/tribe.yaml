@@ -1,5 +1,4 @@
 id: tribe
-twitter:
 facebook:
 linkedin:
 city:
@@ -15,7 +14,6 @@ lng: 7.00683930000002
 address_line1: "Anambra, Nigeria"
 websiteUrl:
 id: tribe
-twitter:
 facebook:
 linkedin:
 city:
@@ -30,3 +28,4 @@ lat: 6.2757656
 lng: 7.00683930000002
 address_line1: "Anambra, Nigeria"
 websiteUrl:
+twitterHandle:

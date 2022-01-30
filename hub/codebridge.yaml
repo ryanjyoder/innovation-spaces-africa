@@ -1,5 +1,4 @@
 id: codebridge
-twitter: codebridge
 facebook:
 linkedin:
 city: Cape Town
@@ -20,7 +19,6 @@ lng:
 address_line1: ""
 websiteUrl: www.codebridge.co.za/
 id: codebridge
-twitter: codebridge
 facebook:
 linkedin:
 city: Cape Town
@@ -40,3 +38,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: www.codebridge.co.za/
+twitterHandle: codebridge

@@ -1,5 +1,4 @@
 id: kivu-hub
-twitter: kivuhub
 facebook:
 linkedin:
 city: Kinshasa
@@ -15,7 +14,6 @@ lng: 15.3127824000001
 address_line1: "Bukavu, Kinshasa, Congo-Kinshasa"
 websiteUrl: https://kivuhub.net/
 id: kivu-hub
-twitter: kivuhub
 facebook:
 linkedin:
 city: Kinshasa
@@ -30,3 +28,4 @@ lat: -4.3919893
 lng: 15.3127824000001
 address_line1: "Bukavu, Kinshasa, Congo-Kinshasa"
 websiteUrl: https://kivuhub.net/
+twitterHandle: kivuhub

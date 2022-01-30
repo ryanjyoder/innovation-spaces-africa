@@ -1,5 +1,4 @@
 id: rad5-tech-hub
-twitter: rad5techhub
 facebook:
 linkedin:
 city: Aba
@@ -18,7 +17,6 @@ lng:
 address_line1: ""
 websiteUrl: https://rad5.com.ng/
 id: rad5-tech-hub
-twitter: rad5techhub
 facebook:
 linkedin:
 city: Aba
@@ -36,3 +34,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: https://rad5.com.ng/
+twitterHandle: rad5techhub

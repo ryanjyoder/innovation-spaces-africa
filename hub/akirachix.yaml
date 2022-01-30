@@ -1,5 +1,4 @@
 id: akirachix
-twitter: akirachix
 facebook:
 linkedin:
 city: Nakuru
@@ -29,7 +28,6 @@ lng: 36.0693113
 address_line1: "Kenyatta Avenue, Nakuru, Kenya"
 websiteUrl: http://akirachix.com/
 id: akirachix
-twitter: akirachix
 facebook:
 linkedin:
 city: Nakuru
@@ -58,3 +56,4 @@ lat: -0.2849853
 lng: 36.0693113
 address_line1: "Kenyatta Avenue, Nakuru, Kenya"
 websiteUrl: http://akirachix.com/
+twitterHandle: akirachix

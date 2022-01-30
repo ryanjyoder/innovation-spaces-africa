@@ -1,5 +1,4 @@
 id: senfablab
-twitter: senfablab
 facebook: https://www.facebook.com/senfablab
 linkedin:
 city:
@@ -15,7 +14,6 @@ lng:
 address_line1: ""
 websiteUrl:
 id: senfablab
-twitter: senfablab
 facebook: https://www.facebook.com/senfablab
 linkedin:
 city:
@@ -30,3 +28,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl:
+twitterHandle: senfablab

@@ -1,5 +1,4 @@
 id: hapa-space
-twitter:
 facebook:
 linkedin:
 city: Kumasi
@@ -21,7 +20,6 @@ lng: -1.61401030000002
 address_line1: "Kumasi Ghana @ 50 Jubilee Park, Kumasi, Ghana"
 websiteUrl: http://www.haspace.com/
 id: hapa-space
-twitter:
 facebook:
 linkedin:
 city: Kumasi
@@ -42,3 +40,4 @@ lat: 6.6934285
 lng: -1.61401030000002
 address_line1: "Kumasi Ghana @ 50 Jubilee Park, Kumasi, Ghana"
 websiteUrl: http://www.haspace.com/
+twitterHandle:

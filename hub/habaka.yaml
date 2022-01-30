@@ -1,5 +1,4 @@
 id: habaka
-twitter:
 facebook: https://web.facebook.com/habakamg?_rdr
 linkedin:
 city: Antananarivo
@@ -20,7 +19,6 @@ lng: 47.5287605
 address_line1: "Lalana Rainandriamampandry, Antananarivo, Antananarivo Province, Madagascar"
 websiteUrl:
 id: habaka
-twitter:
 facebook: https://web.facebook.com/habakamg?_rdr
 linkedin:
 city: Antananarivo
@@ -40,3 +38,4 @@ lat: -18.9078944
 lng: 47.5287605
 address_line1: "Lalana Rainandriamampandry, Antananarivo, Antananarivo Province, Madagascar"
 websiteUrl:
+twitterHandle:

@@ -1,5 +1,4 @@
 id: ja-gabon
-twitter: ja_gabon
 facebook: https://www.facebook.com/Juniorachievementgabon/
 linkedin:
 city:
@@ -18,7 +17,6 @@ lng:
 address_line1: "JA Gabon, Libreville, Gabon"
 websiteUrl: https://www.jagabon.org/
 id: ja-gabon
-twitter: ja_gabon
 facebook: https://www.facebook.com/Juniorachievementgabon/
 linkedin:
 city:
@@ -36,3 +34,4 @@ lat:
 lng:
 address_line1: "JA Gabon, Libreville, Gabon"
 websiteUrl: https://www.jagabon.org/
+twitterHandle: ja_gabon

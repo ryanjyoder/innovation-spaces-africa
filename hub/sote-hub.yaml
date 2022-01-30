@@ -1,5 +1,4 @@
 id: sote-hub
-twitter: Sote_Hub
 facebook:
 linkedin:
 city:
@@ -22,7 +21,6 @@ lng: 37.906193
 address_line1: "Kenya"
 websiteUrl: http://www.sotehub.com/
 id: sote-hub
-twitter: Sote_Hub
 facebook:
 linkedin:
 city:
@@ -44,3 +42,4 @@ lat: -0.023559
 lng: 37.906193
 address_line1: "Kenya"
 websiteUrl: http://www.sotehub.com/
+twitterHandle: Sote_Hub

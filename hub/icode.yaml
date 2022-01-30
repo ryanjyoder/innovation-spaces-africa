@@ -1,5 +1,4 @@
 id: icode
-twitter: icodeteam
 facebook:
 linkedin:
 city: Takoradi
@@ -18,7 +17,6 @@ lng: -1.79162220000001
 address_line1: "Apollo, Takoradi, Ghana"
 websiteUrl: http://icodegh.com/
 id: icode
-twitter: icodeteam
 facebook:
 linkedin:
 city: Takoradi
@@ -36,3 +34,4 @@ lat: 4.9028537
 lng: -1.79162220000001
 address_line1: "Apollo, Takoradi, Ghana"
 websiteUrl: http://icodegh.com/
+twitterHandle: icodeteam

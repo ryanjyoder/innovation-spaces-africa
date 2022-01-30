@@ -1,5 +1,4 @@
 id: codedinbraam
-twitter:
 facebook:
 linkedin:
 city: Johannesburg
@@ -16,7 +15,6 @@ lng:
 address_line1: ""
 websiteUrl: http://www.meetup.com/CodedInBraam/
 id: codedinbraam
-twitter:
 facebook:
 linkedin:
 city: Johannesburg
@@ -32,3 +30,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://www.meetup.com/CodedInBraam/
+twitterHandle:

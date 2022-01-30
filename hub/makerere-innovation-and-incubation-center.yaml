@@ -1,5 +1,4 @@
 id: makerere-innovation-and-incubation-center
-twitter: miic_ug
 facebook:
 linkedin:
 city: Kampala
@@ -19,7 +18,6 @@ lng:
 address_line1: ""
 websiteUrl: https://miichub.com/
 id: makerere-innovation-and-incubation-center
-twitter: miic_ug
 facebook:
 linkedin:
 city: Kampala
@@ -38,3 +36,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: https://miichub.com/
+twitterHandle: miic_ug

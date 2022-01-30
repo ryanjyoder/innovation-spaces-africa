@@ -1,5 +1,4 @@
 id: digital-development-hub
-twitter:
 facebook:
 linkedin: https://ng.linkedin.com/company/ddhubng
 city: Kano
@@ -17,7 +16,6 @@ lng: 8.51169030000006
 address_line1: "Kano City, Kano, Nigeria"
 websiteUrl: https://ddhub.org.ng
 id: digital-development-hub
-twitter:
 facebook:
 linkedin: https://ng.linkedin.com/company/ddhubng
 city: Kano
@@ -34,3 +32,4 @@ lat: 12.0049303
 lng: 8.51169030000006
 address_line1: "Kano City, Kano, Nigeria"
 websiteUrl: https://ddhub.org.ng
+twitterHandle:

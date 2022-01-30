@@ -1,5 +1,4 @@
 id: the-meltwater-entrepreneurial-school-of-technology-mest
-twitter: MESTAfrica
 facebook:
 linkedin:
 city: Accra
@@ -30,7 +29,6 @@ lng: -0.152526599999987
 address_line1: "Aluguntugui St, Accra, Ghana"
 websiteUrl: http://meltwater.org/
 id: the-meltwater-entrepreneurial-school-of-technology-mest
-twitter: MESTAfrica
 facebook:
 linkedin:
 city: Accra
@@ -60,3 +58,4 @@ lat: 5.6446677
 lng: -0.152526599999987
 address_line1: "Aluguntugui St, Accra, Ghana"
 websiteUrl: http://meltwater.org/
+twitterHandle: MESTAfrica

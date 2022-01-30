@@ -1,5 +1,4 @@
 id: bidaya
-twitter: Bidaya_io
 facebook: https://www.facebook.com/Bidaya.io/
 linkedin:
 city:
@@ -18,7 +17,6 @@ lng:
 address_line1: "33 bis rue le titien Val fleuri ,  Casablanca"
 websiteUrl: http://www.bidaya.io
 id: bidaya
-twitter: Bidaya_io
 facebook: https://www.facebook.com/Bidaya.io/
 linkedin:
 city:
@@ -36,3 +34,4 @@ lat:
 lng:
 address_line1: "33 bis rue le titien Val fleuri ,  Casablanca"
 websiteUrl: http://www.bidaya.io
+twitterHandle: Bidaya_io

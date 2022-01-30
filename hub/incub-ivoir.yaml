@@ -1,5 +1,4 @@
 id: incub-ivoir
-twitter: ivoirincub
 facebook: https://www.facebook.com/incubivoir1/
 linkedin:
 city: Abidjan
@@ -18,7 +17,6 @@ lng:
 address_line1: "zone 3 rue des carrossiers Bo�te Postale 10 Bp 1041 Abidjan 10"
 websiteUrl: http://incubivoir.net/
 id: incub-ivoir
-twitter: ivoirincub
 facebook: https://www.facebook.com/incubivoir1/
 linkedin:
 city: Abidjan
@@ -36,3 +34,4 @@ lat:
 lng:
 address_line1: "zone 3 rue des carrossiers Bo�te Postale 10 Bp 1041 Abidjan 10"
 websiteUrl: http://incubivoir.net/
+twitterHandle: ivoirincub

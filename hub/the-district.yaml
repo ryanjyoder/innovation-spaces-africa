@@ -1,5 +1,4 @@
 id: the-district
-twitter: District_Egy
 facebook:
 linkedin:
 city:
@@ -14,7 +13,6 @@ lng: 30.802498
 address_line1: "Egypt"
 websiteUrl: http://district-egypt.com/
 id: the-district
-twitter: District_Egy
 facebook:
 linkedin:
 city:
@@ -28,3 +26,4 @@ lat: 26.820553
 lng: 30.802498
 address_line1: "Egypt"
 websiteUrl: http://district-egypt.com/
+twitterHandle: District_Egy

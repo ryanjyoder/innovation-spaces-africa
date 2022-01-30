@@ -1,5 +1,4 @@
 id: kumasi-business-incubator
-twitter:
 facebook: https://www.facebook.com/pages/Kumasi-Business-Incubator-KBI/813845328668356
 linkedin:
 city: Kumasi
@@ -19,7 +18,6 @@ lng:
 address_line1: ""
 websiteUrl:
 id: kumasi-business-incubator
-twitter:
 facebook: https://www.facebook.com/pages/Kumasi-Business-Incubator-KBI/813845328668356
 linkedin:
 city: Kumasi
@@ -38,3 +36,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl:
+twitterHandle:

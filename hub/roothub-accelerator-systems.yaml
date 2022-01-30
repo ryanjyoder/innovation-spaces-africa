@@ -1,5 +1,4 @@
 id: roothub-accelerator-systems
-twitter: theroothub
 facebook: https://www.facebook.com/theroothub/
 linkedin:
 city: Uyo
@@ -18,7 +17,6 @@ lng: 8.08569299999999
 address_line1: "Uyo Airport, Uyo, Nigeria"
 websiteUrl: https://theroothub.com/
 id: roothub-accelerator-systems
-twitter: theroothub
 facebook: https://www.facebook.com/theroothub/
 linkedin:
 city: Uyo
@@ -36,3 +34,4 @@ lat: 4.876463
 lng: 8.08569299999999
 address_line1: "Uyo Airport, Uyo, Nigeria"
 websiteUrl: https://theroothub.com/
+twitterHandle: theroothub

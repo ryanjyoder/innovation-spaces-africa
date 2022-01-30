@@ -1,5 +1,4 @@
 id: girls-in-tech-git-morocco-chapter
-twitter: girlsintech
 facebook:
 linkedin:
 city: Casablanca
@@ -15,7 +14,6 @@ lng:
 address_line1: ""
 websiteUrl: http://morocco.girlsintech.org/
 id: girls-in-tech-git-morocco-chapter
-twitter: girlsintech
 facebook:
 linkedin:
 city: Casablanca
@@ -30,3 +28,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl: http://morocco.girlsintech.org/
+twitterHandle: girlsintech

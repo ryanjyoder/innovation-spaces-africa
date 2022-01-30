@@ -1,5 +1,4 @@
 id: jokkolabs-niamey
-twitter: JokkolabsNiamey
 facebook:
 linkedin:
 city:
@@ -17,7 +16,6 @@ lng:
 address_line1: ""
 websiteUrl:
 id: jokkolabs-niamey
-twitter: JokkolabsNiamey
 facebook:
 linkedin:
 city:
@@ -34,3 +32,4 @@ lat:
 lng:
 address_line1: ""
 websiteUrl:
+twitterHandle: JokkolabsNiamey

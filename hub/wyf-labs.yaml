@@ -3,18 +3,18 @@ date: 2021-06-12T15:35:07-04:00
 draft: true
 id: wyf-labs
 websiteUrl: https://wyfegypt.com/wyf_labs.php
-twitter: wyfegypt
 facebook: https://www.facebook.com/wyfegypt
 linkedin:
 youtube: https://www.youtube.com/c/WorldYouthForum
 location:
   lat:
   lng:
-  address: 
+  address:
 city: Cairo
-region: 
+region:
 country: Egypt
-email: 
+email:
 articles:
   - "https://www.egypttoday.com/Article/1/111657/Workshops-of-WYF-Labs-tackle-innovation-as-core-of-start"
 description: ""
+twitterHandle: wyfegypt
