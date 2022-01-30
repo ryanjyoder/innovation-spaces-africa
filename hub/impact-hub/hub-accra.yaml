@@ -1,26 +1,15 @@
-id: hub-accra
-city: Accra
-region:
-country: Ghana
-email:
-articles:
-description: ""
-name: "Impact Hub Accra"
-lat:
-lng:
-websiteUrl: accra.impacthub.net
-id: hub-accra
-city: Accra
-region:
-country: Ghana
-email:
-articles:
-description: ""
-name: "Impact Hub Accra"
-lat:
-lng:
-websiteUrl: accra.impacthub.net
-twitterHandle: impacthubaccra
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles: null
+city: Accra
+country: Ghana
+description: ""
+email: null
+facebookUrl: null
+id: hub-accra
+lat: null
+linkedUrl: null
+lng: null
+name: Impact Hub Accra
+region: null
+twitterHandle: impacthubaccra
+websiteUrl: accra.impacthub.net

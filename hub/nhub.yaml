@@ -1,34 +1,19 @@
-id: nhub
-city:
-region:
-country: Nigeria
-email:
+addressLine1: Nigeria
 articles:
-  - "https://disrupt-africa.com/2016/02/02/nhub-nigeria-looks-to-make-jos-a-tech-outsourcing-hub/"
-  - "https://guardian.ng/appointments/nhubs-boss-to-head-plateaus-new-it-agency/"
-  - "https://techpoint.africa/2015/09/30/will-power-nigerian-innovation-northern-nigeria-nhub-founder/"
-  - "https://techpoint.africa/2017/03/06/list-tech-hubs-across-nigeria/"
-description: "nHub began operation in November, 2015 and was legally registered in 2016 with a current staff strength of 17. It is a technology innovation hub that runs incubation and acceleration programmes.  \n"
-name: "nHub"
-lat: 9.081999
-lng: 8.67527700000005
-websiteUrl: http://www.nhubnigeria.com/
-id: nhub
-city:
-region:
+  - https://disrupt-africa.com/2016/02/02/nhub-nigeria-looks-to-make-jos-a-tech-outsourcing-hub/
+  - https://guardian.ng/appointments/nhubs-boss-to-head-plateaus-new-it-agency/
+  - https://techpoint.africa/2015/09/30/will-power-nigerian-innovation-northern-nigeria-nhub-founder/
+  - https://techpoint.africa/2017/03/06/list-tech-hubs-across-nigeria/
+city: null
 country: Nigeria
-email:
-articles:
-  - "https://disrupt-africa.com/2016/02/02/nhub-nigeria-looks-to-make-jos-a-tech-outsourcing-hub/"
-  - "https://guardian.ng/appointments/nhubs-boss-to-head-plateaus-new-it-agency/"
-  - "https://techpoint.africa/2015/09/30/will-power-nigerian-innovation-northern-nigeria-nhub-founder/"
-  - "https://techpoint.africa/2017/03/06/list-tech-hubs-across-nigeria/"
 description: "nHub began operation in November, 2015 and was legally registered in 2016 with a current staff strength of 17. It is a technology innovation hub that runs incubation and acceleration programmes.  \n"
-name: "nHub"
+email: null
+facebookUrl: null
+id: nhub
 lat: 9.081999
+linkedUrl: null
 lng: 8.67527700000005
-websiteUrl: http://www.nhubnigeria.com/
+name: nHub
+region: null
 twitterHandle: nHubNG
-facebookUrl:
-linkedUrl:
-addressLine1: "Nigeria"
+websiteUrl: http://www.nhubnigeria.com/

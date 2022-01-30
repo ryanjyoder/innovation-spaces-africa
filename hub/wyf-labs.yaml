@@ -1,17 +1,17 @@
-name: "WYF Labs"
+addressLine1: null
+articles:
+  - https://www.egypttoday.com/Article/1/111657/Workshops-of-WYF-Labs-tackle-innovation-as-core-of-start
+city: Cairo
+country: Egypt
+description: ""
+email: null
+facebookUrl: https://www.facebook.com/wyfegypt
 id: wyf-labs
+lat: null
+linkedUrl: null
+lng: null
+name: WYF Labs
+region: null
+twitterHandle: wyfegypt
 websiteUrl: https://wyfegypt.com/wyf_labs.php
 youtube: https://www.youtube.com/c/WorldYouthForum
-lat:
-lng:
-city: Cairo
-region:
-country: Egypt
-email:
-articles:
-  - "https://www.egypttoday.com/Article/1/111657/Workshops-of-WYF-Labs-tackle-innovation-as-core-of-start"
-description: ""
-twitterHandle: wyfegypt
-facebookUrl: https://www.facebook.com/wyfegypt
-linkedUrl:
-addressLine1:

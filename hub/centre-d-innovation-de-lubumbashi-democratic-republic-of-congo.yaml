@@ -1,34 +1,19 @@
-id: centre-d-innovation-de-lubumbashi-democratic-republic-of-congo
-city: Beni
-region: North-Kivu
-country: Democratic Republic of the Congo
-email: reception@cinolu.org
+addressLine1: Beni, North-Kivu, Democratic Republic of the Congo
 articles:
-  - "https://www.elanrdc.com/south/2018/11/12/cinolu-centre-dinnovation-de-lubumbashi-hsaka"
-  - "https://www.bizcommunity.com/Article/51/715/213977.html"
-  - "none"
+  - https://www.elanrdc.com/south/2018/11/12/cinolu-centre-dinnovation-de-lubumbashi-hsaka
+  - https://www.bizcommunity.com/Article/51/715/213977.html
+  - none
+city: Beni
+country: Democratic Republic of the Congo
 description: |
   Centre d'innovation de Lubumbashi Democratic Republic of Congo
-name: "Centre d'innovation de Lubumbashi Democratic Republic of Congo"
-lat: 0.4990124
-lng: 29.4527538
-websiteUrl: http://cinolu.org/CIL/
-id: centre-d-innovation-de-lubumbashi-democratic-republic-of-congo
-city: Beni
-region: North-Kivu
-country: Democratic Republic of the Congo
 email: reception@cinolu.org
-articles:
-  - "https://www.elanrdc.com/south/2018/11/12/cinolu-centre-dinnovation-de-lubumbashi-hsaka"
-  - "https://www.bizcommunity.com/Article/51/715/213977.html"
-  - "none"
-description: |
-  Centre d'innovation de Lubumbashi Democratic Republic of Congo
-name: "Centre d'innovation de Lubumbashi Democratic Republic of Congo"
-lat: 0.4990124
-lng: 29.4527538
-websiteUrl: http://cinolu.org/CIL/
-twitterHandle:
 facebookUrl: http://www.facebook.com/cinolu
-linkedUrl:
-addressLine1: "Beni, North-Kivu, Democratic Republic of the Congo"
+id: centre-d-innovation-de-lubumbashi-democratic-republic-of-congo
+lat: 0.4990124
+linkedUrl: null
+lng: 29.4527538
+name: Centre d'innovation de Lubumbashi Democratic Republic of Congo
+region: North-Kivu
+twitterHandle: null
+websiteUrl: http://cinolu.org/CIL/

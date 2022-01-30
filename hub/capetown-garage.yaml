@@ -1,28 +1,16 @@
-id: capetown-garage
-city: Cape Town
-region:
-country: South Africa
-email:
-articles:
-  - "https://baronscapetown.co.za/"
-description: ""
-name: "Capetown Garage"
-lat:
-lng:
-websiteUrl: www.capetowngarage.com
-id: capetown-garage
-city: Cape Town
-region:
-country: South Africa
-email:
-articles:
-  - "https://baronscapetown.co.za/"
-description: ""
-name: "Capetown Garage"
-lat:
-lng:
-websiteUrl: www.capetowngarage.com
-twitterHandle: capetowngarage
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://baronscapetown.co.za/
+city: Cape Town
+country: South Africa
+description: ""
+email: null
+facebookUrl: null
+id: capetown-garage
+lat: null
+linkedUrl: null
+lng: null
+name: Capetown Garage
+region: null
+twitterHandle: capetowngarage
+websiteUrl: www.capetowngarage.com

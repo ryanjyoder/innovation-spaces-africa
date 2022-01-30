@@ -1,32 +1,18 @@
-id: incubateur-rse-benin
-city:
-region:
-country:
-email:
+addressLine1: lot P1430 v�doko ,  Cotonou
 articles:
-  - "https://fr.allafrica.com/stories/202101060710.html"
-  - "https://www.adiac-congo.com/content/afrique-la-1re-edition-des-rencontres-du-reseau-rse-et-des-odd-souvre-ce-7-janvier-123156"
-  - "http://www.agadd.org/2021/03/fohla-mouftaou-entrepreuneur-dirigeant-de-greenkeeper-afrika-au-benin.html"
+  - https://fr.allafrica.com/stories/202101060710.html
+  - https://www.adiac-congo.com/content/afrique-la-1re-edition-des-rencontres-du-reseau-rse-et-des-odd-souvre-ce-7-janvier-123156
+  - http://www.agadd.org/2021/03/fohla-mouftaou-entrepreuneur-dirigeant-de-greenkeeper-afrika-au-benin.html
+city: null
+country: null
 description: ""
-name: "INCUBATEUR RSE BENIN"
-lat:
-lng:
-websiteUrl:
+email: null
+facebookUrl: null
 id: incubateur-rse-benin
-city:
-region:
-country:
-email:
-articles:
-  - "https://fr.allafrica.com/stories/202101060710.html"
-  - "https://www.adiac-congo.com/content/afrique-la-1re-edition-des-rencontres-du-reseau-rse-et-des-odd-souvre-ce-7-janvier-123156"
-  - "http://www.agadd.org/2021/03/fohla-mouftaou-entrepreuneur-dirigeant-de-greenkeeper-afrika-au-benin.html"
-description: ""
-name: "INCUBATEUR RSE BENIN"
-lat:
-lng:
-websiteUrl:
-twitterHandle:
-facebookUrl:
+lat: null
 linkedUrl: https://www.linkedin.com/company/groupe-de-travail-rse-b%C3%A9nin/
-addressLine1: "lot P1430 v�doko ,  Cotonou"
+lng: null
+name: INCUBATEUR RSE BENIN
+region: null
+twitterHandle: null
+websiteUrl: null

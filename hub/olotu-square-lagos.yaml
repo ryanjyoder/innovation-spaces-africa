@@ -1,32 +1,18 @@
-id: olotu-square-lagos
-city: Lagos
-region: Lagos
-country: Nigeria
-email:
+addressLine1: Nigeria Newspapers, Lagos, Nigeria
 articles:
-  - "https://ventureburn.com/2018/06/heres-need-know-nigerias-tech-startup-ecosystem/"
-  - "https://techpoint.africa/2017/11/09/techpoint-tours-2017-day-4/"
+  - https://ventureburn.com/2018/06/heres-need-know-nigerias-tech-startup-ecosystem/
+  - https://techpoint.africa/2017/11/09/techpoint-tours-2017-day-4/
+city: Lagos
+country: Nigeria
 description: |
   Olotu Square
-name: "Olotu Square (Lagos)"
-lat: 6.6623005
-lng: 3.2833564
-websiteUrl: https://olotusquare.co/
+email: null
+facebookUrl: null
 id: olotu-square-lagos
-city: Lagos
-region: Lagos
-country: Nigeria
-email:
-articles:
-  - "https://ventureburn.com/2018/06/heres-need-know-nigerias-tech-startup-ecosystem/"
-  - "https://techpoint.africa/2017/11/09/techpoint-tours-2017-day-4/"
-description: |
-  Olotu Square
-name: "Olotu Square (Lagos)"
 lat: 6.6623005
+linkedUrl: null
 lng: 3.2833564
-websiteUrl: https://olotusquare.co/
+name: Olotu Square (Lagos)
+region: Lagos
 twitterHandle: olotusquare
-facebookUrl:
-linkedUrl:
-addressLine1: "Nigeria Newspapers, Lagos, Nigeria"
+websiteUrl: https://olotusquare.co/

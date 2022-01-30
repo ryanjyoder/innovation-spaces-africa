@@ -1,30 +1,17 @@
-id: softstart-business-and-technology-incubator
-city: Johannesburg
-region: Gauteng
-country: South Africa
-email:
+addressLine1: Johannesburg, South Africa
 articles:
-  - "http://www.ngopulse.org/opportunity/2017/05/16/board-membership"
-  - "https://www.entrepreneur.com/article/327566"
-description: "Softstart Incubator is an innovation hub that is focused on social impact, job creation and innovation. \n"
-name: "Softstart Business and Technology Incubator"
-lat: -26.2041028
-lng: 28.0473051
-websiteUrl: https://softstartbti.co.za/
-id: softstart-business-and-technology-incubator
+  - http://www.ngopulse.org/opportunity/2017/05/16/board-membership
+  - https://www.entrepreneur.com/article/327566
 city: Johannesburg
-region: Gauteng
 country: South Africa
-email:
-articles:
-  - "http://www.ngopulse.org/opportunity/2017/05/16/board-membership"
-  - "https://www.entrepreneur.com/article/327566"
 description: "Softstart Incubator is an innovation hub that is focused on social impact, job creation and innovation. \n"
-name: "Softstart Business and Technology Incubator"
+email: null
+facebookUrl: null
+id: softstart-business-and-technology-incubator
 lat: -26.2041028
+linkedUrl: null
 lng: 28.0473051
-websiteUrl: https://softstartbti.co.za/
+name: Softstart Business and Technology Incubator
+region: Gauteng
 twitterHandle: SoftstartBTI
-facebookUrl:
-linkedUrl:
-addressLine1: "Johannesburg, South Africa"
+websiteUrl: https://softstartbti.co.za/

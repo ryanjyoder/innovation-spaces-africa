@@ -1,84 +1,28 @@
-id: Irokofablab
-name: IROKO FabLab
-kind_name: fab_lab
-parent_id: null
-blurb: A makerspace focus on craftsmanship, low-tech and STEAM education
-description: "We aim to foster frugal innovation (low-tech), promote Do It Yourself, design thinking and\r\ndigital technologies.\r\nWe sensitize to 21st century skills by developing partnerships with local primary and\r\nsecondary schools by proposing STEAM activities for young people outside of the school\r\nterms. We promote local production and the sharing of craftsmanship through DIY\r\nworkshops for kids and adults, and master class for professionals wishing to be trained in\r\ndesign and digital manufacturing."
-slug: Irokofablab
-avatar_url: http://fablabs.io.s3.amazonaws.com/2020/07/07/19/47/03/be4fbec6-bee9-41c3-b256-ec16f7945baa/Logo O Iroko FabLab.png
-header_url: http://fablabs.io.s3.amazonaws.com/2020/07/07/19/47/07/ab140920-e8a7-4757-bbd9-49cc76cd10a0/IROKO Fablab_Space Apps Challenge.jpg
+activity_status: active
 address_1: 237 Ave de la Liberation, Jericho
 address_2: ""
-city: Cotonou
-county: Littoral
-postal_code: "00229"
-country_code: BJ
 address_notes: 237 Ave de la Liberation, Jericho
-phone: "+22996084713"
-email: hello@irokolab.org
+avatar_url: http://fablabs.io.s3.amazonaws.com/2020/07/07/19/47/03/be4fbec6-bee9-41c3-b256-ec16f7945baa/Logo O Iroko FabLab.png
+blurb: A makerspace focus on craftsmanship, low-tech and STEAM education
 capabilities:
   - three_d_printing
   - cnc_milling
   - laser
-activity_status: active
-links:
-  - id: 7004
-    url: http://www.irokolab.org
-lat: 6.3736274
-lng: 2.4258254
-id: Irokofablab
-name: IROKO FabLab
-kind_name: fab_lab
-parent_id: null
-blurb: A makerspace focus on craftsmanship, low-tech and STEAM education
-description: "We aim to foster frugal innovation (low-tech), promote Do It Yourself, design thinking and\r\ndigital technologies.\r\nWe sensitize to 21st century skills by developing partnerships with local primary and\r\nsecondary schools by proposing STEAM activities for young people outside of the school\r\nterms. We promote local production and the sharing of craftsmanship through DIY\r\nworkshops for kids and adults, and master class for professionals wishing to be trained in\r\ndesign and digital manufacturing."
-slug: Irokofablab
-avatar_url: http://fablabs.io.s3.amazonaws.com/2020/07/07/19/47/03/be4fbec6-bee9-41c3-b256-ec16f7945baa/Logo O Iroko FabLab.png
-header_url: http://fablabs.io.s3.amazonaws.com/2020/07/07/19/47/07/ab140920-e8a7-4757-bbd9-49cc76cd10a0/IROKO Fablab_Space Apps Challenge.jpg
-address_1: 237 Ave de la Liberation, Jericho
-address_2: ""
 city: Cotonou
-county: Littoral
-postal_code: "00229"
 country_code: BJ
-address_notes: 237 Ave de la Liberation, Jericho
-phone: "+22996084713"
-email: hello@irokolab.org
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - laser
-activity_status: active
-links:
-  - id: 7004
-    url: http://www.irokolab.org
-lat: 6.3736274
-lng: 2.4258254
-id: Irokofablab
-name: IROKO FabLab
-kind_name: fab_lab
-parent_id: null
-blurb: A makerspace focus on craftsmanship, low-tech and STEAM education
+county: Littoral
 description: "We aim to foster frugal innovation (low-tech), promote Do It Yourself, design thinking and\r\ndigital technologies.\r\nWe sensitize to 21st century skills by developing partnerships with local primary and\r\nsecondary schools by proposing STEAM activities for young people outside of the school\r\nterms. We promote local production and the sharing of craftsmanship through DIY\r\nworkshops for kids and adults, and master class for professionals wishing to be trained in\r\ndesign and digital manufacturing."
-slug: Irokofablab
-avatar_url: http://fablabs.io.s3.amazonaws.com/2020/07/07/19/47/03/be4fbec6-bee9-41c3-b256-ec16f7945baa/Logo O Iroko FabLab.png
-header_url: http://fablabs.io.s3.amazonaws.com/2020/07/07/19/47/07/ab140920-e8a7-4757-bbd9-49cc76cd10a0/IROKO Fablab_Space Apps Challenge.jpg
-address_1: 237 Ave de la Liberation, Jericho
-address_2: ""
-city: Cotonou
-county: Littoral
-postal_code: "00229"
-country_code: BJ
-address_notes: 237 Ave de la Liberation, Jericho
-phone: "+22996084713"
 email: hello@irokolab.org
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - laser
-activity_status: active
+header_url: http://fablabs.io.s3.amazonaws.com/2020/07/07/19/47/07/ab140920-e8a7-4757-bbd9-49cc76cd10a0/IROKO Fablab_Space Apps Challenge.jpg
+id: Irokofablab
+kind_name: fab_lab
+lat: 6.3736274
 links:
   - id: 7004
     url: http://www.irokolab.org
-lat: 6.3736274
 lng: 2.4258254
+name: IROKO FabLab
+parent_id: null
+phone: "+22996084713"
+postal_code: "00229"
+slug: Irokofablab

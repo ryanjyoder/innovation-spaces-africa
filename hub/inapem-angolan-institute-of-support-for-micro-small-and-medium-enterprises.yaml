@@ -1,30 +1,17 @@
-id: inapem-angolan-institute-of-support-for-micro-small-and-medium-enterprises
-city: Luanda
-region:
-country: Angola
-email:
-articles:
-  - "https://www.afdb.org/en/documents/spn-angola-acquisition-hardware-and-software-implementation-inapem-information-management-system-angola"
-  - "https://www.iledefrance.fr/innovup-laide-de-la-region-ile-de-france-en-faveur-de-linnovation-est-renforcee-et-simplifiee-pour"
-description: ""
-name: "INAPEM--Angolan Institute of Support for Micro, Small and Medium Enterprises "
-lat:
-lng:
-websiteUrl: http://www.portal.inapem.gov.ao/
-id: inapem-angolan-institute-of-support-for-micro-small-and-medium-enterprises
-city: Luanda
-region:
-country: Angola
-email:
-articles:
-  - "https://www.afdb.org/en/documents/spn-angola-acquisition-hardware-and-software-implementation-inapem-information-management-system-angola"
-  - "https://www.iledefrance.fr/innovup-laide-de-la-region-ile-de-france-en-faveur-de-linnovation-est-renforcee-et-simplifiee-pour"
-description: ""
-name: "INAPEM--Angolan Institute of Support for Micro, Small and Medium Enterprises "
-lat:
-lng:
-websiteUrl: http://www.portal.inapem.gov.ao/
-twitterHandle:
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://www.afdb.org/en/documents/spn-angola-acquisition-hardware-and-software-implementation-inapem-information-management-system-angola
+  - https://www.iledefrance.fr/innovup-laide-de-la-region-ile-de-france-en-faveur-de-linnovation-est-renforcee-et-simplifiee-pour
+city: Luanda
+country: Angola
+description: ""
+email: null
+facebookUrl: null
+id: inapem-angolan-institute-of-support-for-micro-small-and-medium-enterprises
+lat: null
+linkedUrl: null
+lng: null
+name: 'INAPEM--Angolan Institute of Support for Micro, Small and Medium Enterprises '
+region: null
+twitterHandle: null
+websiteUrl: http://www.portal.inapem.gov.ao/

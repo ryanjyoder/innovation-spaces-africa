@@ -1,32 +1,18 @@
-id: ilab-africa
-city: Nairobi
-region: Nairobi County
-country: Kenya
-email:
+addressLine1: Kenyatta Avenue, Nairobi, Kenya
 articles:
-  - "https://www.biztechafrica.com/article/ilabafrica-take-android-training-students/9461/"
-  - "https://www.intelligentcio.com/africa/2020/08/05/kenyas-strathmore-university-named-vmware-it-academy-for-east-africa/"
+  - https://www.biztechafrica.com/article/ilabafrica-take-android-training-students/9461/
+  - https://www.intelligentcio.com/africa/2020/08/05/kenyas-strathmore-university-named-vmware-it-academy-for-east-africa/
+city: Nairobi
+country: Kenya
 description: |
   @iLabAfrica is a research centre under the Faculty of Information Technology at Strathmore University established to spearhead ICT research.
-name: "iLab Africa"
-lat: -1.2882626
-lng: 36.8137592000001
-websiteUrl: http://www.ilabafrica.ac.ke/
+email: null
+facebookUrl: null
 id: ilab-africa
-city: Nairobi
-region: Nairobi County
-country: Kenya
-email:
-articles:
-  - "https://www.biztechafrica.com/article/ilabafrica-take-android-training-students/9461/"
-  - "https://www.intelligentcio.com/africa/2020/08/05/kenyas-strathmore-university-named-vmware-it-academy-for-east-africa/"
-description: |
-  @iLabAfrica is a research centre under the Faculty of Information Technology at Strathmore University established to spearhead ICT research.
-name: "iLab Africa"
 lat: -1.2882626
+linkedUrl: null
 lng: 36.8137592000001
-websiteUrl: http://www.ilabafrica.ac.ke/
+name: iLab Africa
+region: Nairobi County
 twitterHandle: ilabafrica
-facebookUrl:
-linkedUrl:
-addressLine1: "Kenyatta Avenue, Nairobi, Kenya"
+websiteUrl: http://www.ilabafrica.ac.ke/

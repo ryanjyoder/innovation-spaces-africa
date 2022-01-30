@@ -1,26 +1,20 @@
-id: fablabayiyikoh
-name: Fablab Ayiyikoh
-kind_name: fab_lab
-parent_id: 360
-blurb: ""
-description: ""
-slug: fablabayiyikoh
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/24/36/f6d0329b-ec6c-4880-b42c-91da152353e1/Fablab Ayiyikoh.jpg
-header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/14/01/00/64e5a94d-22ca-4be1-bd50-beef7940d077/Fablab Ayiyikoh.jpg
+activity_status: null
 address_1: Abidjan Yopougon Koweit Rez-de-chaussée Collège Staint-Augustin
 address_2: "57088382"
-city: Abidjan
-county: Yopougon
-postal_code: "225"
-country_code: CI
-latitude: null
-longitude: null
 address_notes: Nous sommes ouverts du lundi au samedi de 8h à 21H
-phone: "+22547629362"
-email: fablab@ayiyikoh.org
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/24/36/f6d0329b-ec6c-4880-b42c-91da152353e1/Fablab Ayiyikoh.jpg
+blurb: ""
 capabilities:
   - three_d_printing
-activity_status: null
+city: Abidjan
+country_code: CI
+county: Yopougon
+description: ""
+email: fablab@ayiyikoh.org
+header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/14/01/00/64e5a94d-22ca-4be1-bd50-beef7940d077/Fablab Ayiyikoh.jpg
+id: fablabayiyikoh
+kind_name: fab_lab
+latitude: null
 links:
   - id: 1399
     url: https://twitter.com/ayiyikoh
@@ -28,3 +22,9 @@ links:
     url: https://www.facebook.com/ayiyikohLab/
   - id: 2267
     url: http://www.ayiyikoh.org
+longitude: null
+name: Fablab Ayiyikoh
+parent_id: 360
+phone: "+22547629362"
+postal_code: "225"
+slug: fablabayiyikoh

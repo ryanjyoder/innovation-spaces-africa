@@ -1,38 +1,21 @@
-id: icampus-liberia
-city: Monrovia
-region:
-country: Liberia
-email:
-articles:
-  - "https://accountabilitylab.org/icampus-launches-liberia-learning-awards-2020/"
-  - "https://www.techinafrica.com/icampus-liberia-innovative-community-space-change-makers/"
-  - "https://allafrica.com/stories/202007230303.html"
-  - "https://accountabilitylab.org/icampus-launches-liberia-learning-awards-2020/"
-  - "https://www.newrepublicliberia.com/icampus-online-forum-discussed-covid-19s-impact-on-education-sector/"
-description: |
-  A shared innovation, co-working and community space for organizations focusing on the intersection of ICTs, entrepreneurship & social change in Liberia.
-name: "iCampus Liberia"
-lat:
-lng:
-websiteUrl: https://www.icampus.io/
-id: icampus-liberia
-city: Monrovia
-region:
-country: Liberia
-email:
-articles:
-  - "https://accountabilitylab.org/icampus-launches-liberia-learning-awards-2020/"
-  - "https://www.techinafrica.com/icampus-liberia-innovative-community-space-change-makers/"
-  - "https://allafrica.com/stories/202007230303.html"
-  - "https://accountabilitylab.org/icampus-launches-liberia-learning-awards-2020/"
-  - "https://www.newrepublicliberia.com/icampus-online-forum-discussed-covid-19s-impact-on-education-sector/"
-description: |
-  A shared innovation, co-working and community space for organizations focusing on the intersection of ICTs, entrepreneurship & social change in Liberia.
-name: "iCampus Liberia"
-lat:
-lng:
-websiteUrl: https://www.icampus.io/
-twitterHandle: icampuslib
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://accountabilitylab.org/icampus-launches-liberia-learning-awards-2020/
+  - https://www.techinafrica.com/icampus-liberia-innovative-community-space-change-makers/
+  - https://allafrica.com/stories/202007230303.html
+  - https://accountabilitylab.org/icampus-launches-liberia-learning-awards-2020/
+  - https://www.newrepublicliberia.com/icampus-online-forum-discussed-covid-19s-impact-on-education-sector/
+city: Monrovia
+country: Liberia
+description: |
+  A shared innovation, co-working and community space for organizations focusing on the intersection of ICTs, entrepreneurship & social change in Liberia.
+email: null
+facebookUrl: null
+id: icampus-liberia
+lat: null
+linkedUrl: null
+lng: null
+name: iCampus Liberia
+region: null
+twitterHandle: icampuslib
+websiteUrl: https://www.icampus.io/

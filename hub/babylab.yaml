@@ -1,36 +1,20 @@
-id: babylab
-city: Abidjan
-region: Abidjan
-country: C�te d'Ivoire
-email: contact@baby-lab.org
+addressLine1: Abobo Habitat, Q 180
 articles:
-  - "https://www.rfi.fr/fr/emission/20160823-cote-ivoire-lancement-laboratoire-numerique-baby-lab-abidjan"
-  - "https://lumieresdelaville.net/babylab-fablab-abidjan-informatique-jeunes-3/"
-  - "https://fjn.ci/fjn/start-up-de-la-semaine-baby-lab/"
-  - "none"
+  - https://www.rfi.fr/fr/emission/20160823-cote-ivoire-lancement-laboratoire-numerique-baby-lab-abidjan
+  - https://lumieresdelaville.net/babylab-fablab-abidjan-informatique-jeunes-3/
+  - https://fjn.ci/fjn/start-up-de-la-semaine-baby-lab/
+  - none
+city: Abidjan
+country: C�te d'Ivoire
 description: |
   BabyLab is an innovation center that is focused on social impact, youth engagement and innovation.
-name: "BabyLab"
-lat: 5.3173556
-lng: -4.01906439999993
-websiteUrl: http://www.baby-lab.org/
-id: babylab
-city: Abidjan
-region: Abidjan
-country: C�te d'Ivoire
 email: contact@baby-lab.org
-articles:
-  - "https://www.rfi.fr/fr/emission/20160823-cote-ivoire-lancement-laboratoire-numerique-baby-lab-abidjan"
-  - "https://lumieresdelaville.net/babylab-fablab-abidjan-informatique-jeunes-3/"
-  - "https://fjn.ci/fjn/start-up-de-la-semaine-baby-lab/"
-  - "none"
-description: |
-  BabyLab is an innovation center that is focused on social impact, youth engagement and innovation.
-name: "BabyLab"
-lat: 5.3173556
-lng: -4.01906439999993
-websiteUrl: http://www.baby-lab.org/
-twitterHandle: BabyLabCI
 facebookUrl: http://Guiako OBIN
-linkedUrl:
-addressLine1: "Abobo Habitat, Q 180"
+id: babylab
+lat: 5.3173556
+linkedUrl: null
+lng: -4.01906439999993
+name: BabyLab
+region: Abidjan
+twitterHandle: BabyLabCI
+websiteUrl: http://www.baby-lab.org/

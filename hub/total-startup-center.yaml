@@ -1,26 +1,15 @@
-id: total-startup-center
-city:
-region:
-country:
-email: princilia-doris.mizere@total.com
-articles:
+addressLine1: Avenue raymond Poincar�, 3�me �tage du b�timent Solemare
+articles: null
+city: null
+country: null
 description: ""
-name: "total-startup-center"
-lat:
-lng:
-websiteUrl:
-id: total-startup-center
-city:
-region:
-country:
 email: princilia-doris.mizere@total.com
-articles:
-description: ""
-name: "total-startup-center"
-lat:
-lng:
-websiteUrl:
-twitterHandle:
 facebookUrl: http://facebook.com/TotalCongo
+id: total-startup-center
+lat: null
 linkedUrl: https://www.linkedin.com/company/incubateur-total-startup-center
-addressLine1: "Avenue raymond Poincar�, 3�me �tage du b�timent Solemare"
+lng: null
+name: total-startup-center
+region: null
+twitterHandle: null
+websiteUrl: null

@@ -1,32 +1,18 @@
-id: ibridge
-city:
-region:
-country: Nigeria
-email:
+addressLine1: Nigeria
 articles:
-  - "https://disrupt-africa.com/2017/06/01/afrilabs-welcomes-new-hubs-into-pan-african-network/"
-  - "https://www.nytimes.com/2021/04/29/insider/nigeria-niger-river-bridge.html"
+  - https://disrupt-africa.com/2017/06/01/afrilabs-welcomes-new-hubs-into-pan-african-network/
+  - https://www.nytimes.com/2021/04/29/insider/nigeria-niger-river-bridge.html
+city: null
+country: Nigeria
 description: |
   iBridge began operation in October, 2012 and was legally registered in the same year. It is a co-creation hub that focuses on skill acquisition, social impact and innovation.
-name: "iBridge"
-lat: 9.081999
-lng: 8.67527700000005
-websiteUrl: http://www.ibridgehub.com/
+email: null
+facebookUrl: null
 id: ibridge
-city:
-region:
-country: Nigeria
-email:
-articles:
-  - "https://disrupt-africa.com/2017/06/01/afrilabs-welcomes-new-hubs-into-pan-african-network/"
-  - "https://www.nytimes.com/2021/04/29/insider/nigeria-niger-river-bridge.html"
-description: |
-  iBridge began operation in October, 2012 and was legally registered in the same year. It is a co-creation hub that focuses on skill acquisition, social impact and innovation.
-name: "iBridge"
 lat: 9.081999
+linkedUrl: null
 lng: 8.67527700000005
+name: iBridge
+region: null
+twitterHandle: null
 websiteUrl: http://www.ibridgehub.com/
-twitterHandle:
-facebookUrl:
-linkedUrl:
-addressLine1: "Nigeria"

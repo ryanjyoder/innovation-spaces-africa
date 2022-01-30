@@ -1,34 +1,19 @@
-id: rad5-tech-hub
-city: Aba
-region:
-country: Nigeria
-email: info@rad5.com.ng
-articles:
-  - "https://technopreneur.com.ng/2019/08/09/rad5-tech-hub-trains-300-children-on-coding-computer-skills/"
-  - "https://techbuild.africa/rad5-tech-hub-hosts-sdg-undp-hack-tomorrow/"
-  - "https://branches.com.ng/branch-detail/Computer-Software-Companies-in-Nigeria-RAD5-Tech-Hub-Abia"
-description: |
-  A thriving technology-focused, innovation and startup incubation center dedicated to fostering the economic growth of Africa
-name: "RAD5 Tech Hub"
-lat:
-lng:
-websiteUrl: https://rad5.com.ng/
-id: rad5-tech-hub
-city: Aba
-region:
-country: Nigeria
-email: info@rad5.com.ng
-articles:
-  - "https://technopreneur.com.ng/2019/08/09/rad5-tech-hub-trains-300-children-on-coding-computer-skills/"
-  - "https://techbuild.africa/rad5-tech-hub-hosts-sdg-undp-hack-tomorrow/"
-  - "https://branches.com.ng/branch-detail/Computer-Software-Companies-in-Nigeria-RAD5-Tech-Hub-Abia"
-description: |
-  A thriving technology-focused, innovation and startup incubation center dedicated to fostering the economic growth of Africa
-name: "RAD5 Tech Hub"
-lat:
-lng:
-websiteUrl: https://rad5.com.ng/
-twitterHandle: rad5techhub
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://technopreneur.com.ng/2019/08/09/rad5-tech-hub-trains-300-children-on-coding-computer-skills/
+  - https://techbuild.africa/rad5-tech-hub-hosts-sdg-undp-hack-tomorrow/
+  - https://branches.com.ng/branch-detail/Computer-Software-Companies-in-Nigeria-RAD5-Tech-Hub-Abia
+city: Aba
+country: Nigeria
+description: |
+  A thriving technology-focused, innovation and startup incubation center dedicated to fostering the economic growth of Africa
+email: info@rad5.com.ng
+facebookUrl: null
+id: rad5-tech-hub
+lat: null
+linkedUrl: null
+lng: null
+name: RAD5 Tech Hub
+region: null
+twitterHandle: rad5techhub
+websiteUrl: https://rad5.com.ng/

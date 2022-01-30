@@ -1,44 +1,24 @@
-id: the-innovation-village
-city:
-region:
-country: Uganda
-email:
+addressLine1: Uganda
 articles:
-  - "https://www.independent.co.ug/innovations-village-boosting-ugandas-start-ups/"
-  - "https://pctechmag.com/2020/01/innovation-village-opening-new-hubs/"
-  - "https://www.uncdf.org/article/5142/what-happened-during-the-kampala-innovation-week-2019"
-  - "https://chimpreports.com/innovation-village-mastercard-foundation-move-to-strengthen-startups/"
-  - "https://www.opportunitiesforafricans.com/mastercard-foundation-innovation-village-future-of-work-accelerator-program-2020/"
-  - "https://www.uncdf.org/article/6794/covid-19-innovation-challenge-to-reach-underserved-communities-in-uganda"
-  - "https://disrupt-africa.com/2018/12/11/ugandas-innovation-village-launches-startup-fund/"
-  - "https://globalpressjournal.com/africa/uganda/women-run-startups-struggle-get-going/"
-  - "https://www.independent.co.ug/re-opening-the-economy-what-it-means-for-startups/"
-description: "Kampala began operations in December, 2015 and was legally registered in July, 2015 with a staff strength of 4.  \n"
-name: "The Innovation Village"
-lat: 1.373333
-lng: 32.2902750000001
-websiteUrl: http://www.innovationvillage.co.ug/
-id: the-innovation-village
-city:
-region:
+  - https://www.independent.co.ug/innovations-village-boosting-ugandas-start-ups/
+  - https://pctechmag.com/2020/01/innovation-village-opening-new-hubs/
+  - https://www.uncdf.org/article/5142/what-happened-during-the-kampala-innovation-week-2019
+  - https://chimpreports.com/innovation-village-mastercard-foundation-move-to-strengthen-startups/
+  - https://www.opportunitiesforafricans.com/mastercard-foundation-innovation-village-future-of-work-accelerator-program-2020/
+  - https://www.uncdf.org/article/6794/covid-19-innovation-challenge-to-reach-underserved-communities-in-uganda
+  - https://disrupt-africa.com/2018/12/11/ugandas-innovation-village-launches-startup-fund/
+  - https://globalpressjournal.com/africa/uganda/women-run-startups-struggle-get-going/
+  - https://www.independent.co.ug/re-opening-the-economy-what-it-means-for-startups/
+city: null
 country: Uganda
-email:
-articles:
-  - "https://www.independent.co.ug/innovations-village-boosting-ugandas-start-ups/"
-  - "https://pctechmag.com/2020/01/innovation-village-opening-new-hubs/"
-  - "https://www.uncdf.org/article/5142/what-happened-during-the-kampala-innovation-week-2019"
-  - "https://chimpreports.com/innovation-village-mastercard-foundation-move-to-strengthen-startups/"
-  - "https://www.opportunitiesforafricans.com/mastercard-foundation-innovation-village-future-of-work-accelerator-program-2020/"
-  - "https://www.uncdf.org/article/6794/covid-19-innovation-challenge-to-reach-underserved-communities-in-uganda"
-  - "https://disrupt-africa.com/2018/12/11/ugandas-innovation-village-launches-startup-fund/"
-  - "https://globalpressjournal.com/africa/uganda/women-run-startups-struggle-get-going/"
-  - "https://www.independent.co.ug/re-opening-the-economy-what-it-means-for-startups/"
 description: "Kampala began operations in December, 2015 and was legally registered in July, 2015 with a staff strength of 4.  \n"
-name: "The Innovation Village"
+email: null
+facebookUrl: null
+id: the-innovation-village
 lat: 1.373333
+linkedUrl: null
 lng: 32.2902750000001
-websiteUrl: http://www.innovationvillage.co.ug/
+name: The Innovation Village
+region: null
 twitterHandle: TheVillageUG
-facebookUrl:
-linkedUrl:
-addressLine1: "Uganda"
+websiteUrl: http://www.innovationvillage.co.ug/

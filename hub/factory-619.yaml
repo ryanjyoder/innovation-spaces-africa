@@ -1,30 +1,17 @@
-id: factory-619
-city:
-region:
-country:
-email: hedi@factory319.com
-articles:
-  - "http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=7014"
-  - "https://thd.tn/factory-619-nouvel-incubateur-pour-startups-base-a-la-charguia/"
-description: ""
-name: "FACTORY 619"
-lat:
-lng:
-websiteUrl: https://factory619.com
-id: factory-619
-city:
-region:
-country:
-email: hedi@factory319.com
-articles:
-  - "http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=7014"
-  - "https://thd.tn/factory-619-nouvel-incubateur-pour-startups-base-a-la-charguia/"
-description: ""
-name: "FACTORY 619"
-lat:
-lng:
-websiteUrl: https://factory619.com
-twitterHandle:
-facebookUrl: https://www.facebook.com/factory619
-linkedUrl:
 addressLine1: ""
+articles:
+  - http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=7014
+  - https://thd.tn/factory-619-nouvel-incubateur-pour-startups-base-a-la-charguia/
+city: null
+country: null
+description: ""
+email: hedi@factory319.com
+facebookUrl: https://www.facebook.com/factory619
+id: factory-619
+lat: null
+linkedUrl: null
+lng: null
+name: FACTORY 619
+region: null
+twitterHandle: null
+websiteUrl: https://factory619.com

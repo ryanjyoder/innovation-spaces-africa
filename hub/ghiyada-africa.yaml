@@ -1,30 +1,17 @@
-id: ghiyada-africa
-city:
-region:
-country:
-email: ghiyadaafrica@gmail.com
+addressLine1: adidogome la pampa ,  lom�
 articles:
-  - "https://www.africinnov.com/fr/annuaire/ghiyada-africa"
-  - "https://africa-talents.tg/jeune-fille-dans-le-developpement-numerique-du-togo-21-avril-2018-a-lome/"
+  - https://www.africinnov.com/fr/annuaire/ghiyada-africa
+  - https://africa-talents.tg/jeune-fille-dans-le-developpement-numerique-du-togo-21-avril-2018-a-lome/
+city: null
+country: null
 description: ""
-name: "Ghiyada Africa"
-lat:
-lng:
-websiteUrl: http://www.ghiyadaafrica.org
-id: ghiyada-africa
-city:
-region:
-country:
 email: ghiyadaafrica@gmail.com
-articles:
-  - "https://www.africinnov.com/fr/annuaire/ghiyada-africa"
-  - "https://africa-talents.tg/jeune-fille-dans-le-developpement-numerique-du-togo-21-avril-2018-a-lome/"
-description: ""
-name: "Ghiyada Africa"
-lat:
-lng:
-websiteUrl: http://www.ghiyadaafrica.org
-twitterHandle:
 facebookUrl: https://www.facebook.com/ghiyadaafrica/
-linkedUrl:
-addressLine1: "adidogome la pampa ,  lom�"
+id: ghiyada-africa
+lat: null
+linkedUrl: null
+lng: null
+name: Ghiyada Africa
+region: null
+twitterHandle: null
+websiteUrl: http://www.ghiyadaafrica.org

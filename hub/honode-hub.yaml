@@ -1,30 +1,17 @@
-id: honode-hub
-city: Dzodze
-region: Volta Region
-country: Ghana
-email:
+addressLine1: Ho - Denu Road, Dzodze, Ghana
 articles:
-  - "https://www.techinafrica.com/afrilabs-reaches-milestone-100-hubs/"
-  - "https://18.189.87.50/afrilabs-introduces-40-new-hubs-into-its-network/"
-description: "Honode Hub is an incubator and accelerator  that are focused on skill acquisition, job creation and innovation.  \n"
-name: "Honode Hub"
-lat: 6.2330852
-lng: 0.996561700000029
-websiteUrl: https://honode.org/
-id: honode-hub
+  - https://www.techinafrica.com/afrilabs-reaches-milestone-100-hubs/
+  - https://18.189.87.50/afrilabs-introduces-40-new-hubs-into-its-network/
 city: Dzodze
-region: Volta Region
 country: Ghana
-email:
-articles:
-  - "https://www.techinafrica.com/afrilabs-reaches-milestone-100-hubs/"
-  - "https://18.189.87.50/afrilabs-introduces-40-new-hubs-into-its-network/"
 description: "Honode Hub is an incubator and accelerator  that are focused on skill acquisition, job creation and innovation.  \n"
-name: "Honode Hub"
+email: null
+facebookUrl: null
+id: honode-hub
 lat: 6.2330852
+linkedUrl: null
 lng: 0.996561700000029
-websiteUrl: https://honode.org/
+name: Honode Hub
+region: Volta Region
 twitterHandle: Honodehub
-facebookUrl:
-linkedUrl:
-addressLine1: "Ho - Denu Road, Dzodze, Ghana"
+websiteUrl: https://honode.org/

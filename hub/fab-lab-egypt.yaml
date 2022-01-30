@@ -1,36 +1,20 @@
-id: fab-lab-egypt
-city: Cairo
-region:
-country: Egypt
-email:
-articles:
-  - "https://y-center.org/impact/egypt/"
-  - "https://news.mit.edu/2014/profile-student-dina-el-zanfaly-0715"
-  - "https://www.bloomberg.com/news/articles/2016-06-09/cairo-s-nerds-scrape-together-an-egyptian-tech-scene"
-  - "https://www.fondationorange.com/Open-source-sports?lang=en"
-  - "https://www.engineering.com/story/making-3d-printing-a-part-of-egypts-change-"
-description: ""
-name: "Fab Lab Egypt"
-lat:
-lng:
-websiteUrl: http://fablab-egypt.com/
-id: fab-lab-egypt
-city: Cairo
-region:
-country: Egypt
-email:
-articles:
-  - "https://y-center.org/impact/egypt/"
-  - "https://news.mit.edu/2014/profile-student-dina-el-zanfaly-0715"
-  - "https://www.bloomberg.com/news/articles/2016-06-09/cairo-s-nerds-scrape-together-an-egyptian-tech-scene"
-  - "https://www.fondationorange.com/Open-source-sports?lang=en"
-  - "https://www.engineering.com/story/making-3d-printing-a-part-of-egypts-change-"
-description: ""
-name: "Fab Lab Egypt"
-lat:
-lng:
-websiteUrl: http://fablab-egypt.com/
-twitterHandle:
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://y-center.org/impact/egypt/
+  - https://news.mit.edu/2014/profile-student-dina-el-zanfaly-0715
+  - https://www.bloomberg.com/news/articles/2016-06-09/cairo-s-nerds-scrape-together-an-egyptian-tech-scene
+  - https://www.fondationorange.com/Open-source-sports?lang=en
+  - https://www.engineering.com/story/making-3d-printing-a-part-of-egypts-change-
+city: Cairo
+country: Egypt
+description: ""
+email: null
+facebookUrl: null
+id: fab-lab-egypt
+lat: null
+linkedUrl: null
+lng: null
+name: Fab Lab Egypt
+region: null
+twitterHandle: null
+websiteUrl: http://fablab-egypt.com/

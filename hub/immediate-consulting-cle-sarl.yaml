@@ -1,26 +1,15 @@
-id: immediate-consulting-cle-sarl
+addressLine1: 89, avenue KANKONTWE, BEL&#039;AIR, KAMPEMBA
+articles: null
 city: Lubumbashi
-region:
 country: Democratic Republic of Congo
-email: info@immediate-consulting.com
-articles:
 description: ""
-name: "IMMEDIATE CONSULTING & Cle Sarl"
-lat:
-lng:
-websiteUrl: http://www.immediate-consulting.org
-id: immediate-consulting-cle-sarl
-city: Lubumbashi
-region:
-country: Democratic Republic of Congo
 email: info@immediate-consulting.com
-articles:
-description: ""
-name: "IMMEDIATE CONSULTING & Cle Sarl"
-lat:
-lng:
-websiteUrl: http://www.immediate-consulting.org
-twitterHandle: immediateconsu1
 facebookUrl: https://www.facebook.com/immediateconsulting/
-linkedUrl:
-addressLine1: "89, avenue KANKONTWE, BEL&#039;AIR, KAMPEMBA"
+id: immediate-consulting-cle-sarl
+lat: null
+linkedUrl: null
+lng: null
+name: IMMEDIATE CONSULTING & Cle Sarl
+region: null
+twitterHandle: immediateconsu1
+websiteUrl: http://www.immediate-consulting.org

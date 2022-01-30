@@ -1,32 +1,18 @@
-id: diaspo-hub
-city: Bamako
-region: District de Bamako
-country: Mali
-email: secretariat@diaspohub.com
+addressLine1: Ambassade d'Allemagne, Rue 14
 articles:
-  - "https://www.journaldumali.com/2018/02/16/formation-pratique-a-createam/"
-  - "https://innovation-village.com/afrilabs-now-has-a-network-of-100-technology-and-innovation-hubs-across-africa/"
+  - https://www.journaldumali.com/2018/02/16/formation-pratique-a-createam/
+  - https://innovation-village.com/afrilabs-now-has-a-network-of-100-technology-and-innovation-hubs-across-africa/
+city: Bamako
+country: Mali
 description: |
   Diaspo Hub is an incubator and accelerator  that are focused on skill acquisition, social impact and innovation.
-name: "Diaspo Hub"
-lat: 12.6250651
-lng: -7.98821799999996
-websiteUrl:
-id: diaspo-hub
-city: Bamako
-region: District de Bamako
-country: Mali
 email: secretariat@diaspohub.com
-articles:
-  - "https://www.journaldumali.com/2018/02/16/formation-pratique-a-createam/"
-  - "https://innovation-village.com/afrilabs-now-has-a-network-of-100-technology-and-innovation-hubs-across-africa/"
-description: |
-  Diaspo Hub is an incubator and accelerator  that are focused on skill acquisition, social impact and innovation.
-name: "Diaspo Hub"
-lat: 12.6250651
-lng: -7.98821799999996
-websiteUrl:
-twitterHandle:
 facebookUrl: https://www.facebook.com/DiaspoHub/
+id: diaspo-hub
+lat: 12.6250651
 linkedUrl: https://ng.linkedin.com/company/ddhubng
-addressLine1: "Ambassade d'Allemagne, Rue 14"
+lng: -7.98821799999996
+name: Diaspo Hub
+region: District de Bamako
+twitterHandle: null
+websiteUrl: null

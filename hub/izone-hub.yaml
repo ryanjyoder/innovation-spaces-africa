@@ -1,32 +1,18 @@
-id: izone-hub
-city: Harare
-region: Harare Province
-country: Zimbabwe
-email:
+addressLine1: Zimbabwe Cricket, Maiden Drive, Harare, Zimbabwe
 articles:
-  - "https://www.africanews.com/2020/12/09/survey-reveals-95-percent-of-african-small-and-medium-sized-enterprises-smes-did-not-receive-government-aid-during-covid-19-pandemic//"
-  - "https://www.globalinnovationgathering.org/2018/09/15/izone-hub-has-a-new-address/"
+  - https://www.africanews.com/2020/12/09/survey-reveals-95-percent-of-african-small-and-medium-sized-enterprises-smes-did-not-receive-government-aid-during-covid-19-pandemic//
+  - https://www.globalinnovationgathering.org/2018/09/15/izone-hub-has-a-new-address/
+city: Harare
+country: Zimbabwe
 description: |
   iZone Hub is an incubator and accelerator that are focused on skill acquisition, job creation and innovation.
-name: "iZone Hub"
-lat: -17.8118106
-lng: 31.0895029000001
-websiteUrl: https://izonehub.org.zw/
-id: izone-hub
-city: Harare
-region: Harare Province
-country: Zimbabwe
-email:
-articles:
-  - "https://www.africanews.com/2020/12/09/survey-reveals-95-percent-of-african-small-and-medium-sized-enterprises-smes-did-not-receive-government-aid-during-covid-19-pandemic//"
-  - "https://www.globalinnovationgathering.org/2018/09/15/izone-hub-has-a-new-address/"
-description: |
-  iZone Hub is an incubator and accelerator that are focused on skill acquisition, job creation and innovation.
-name: "iZone Hub"
-lat: -17.8118106
-lng: 31.0895029000001
-websiteUrl: https://izonehub.org.zw/
-twitterHandle: izonehub
+email: null
 facebookUrl: https://www.facebook.com/izonehub/
-linkedUrl:
-addressLine1: "Zimbabwe Cricket, Maiden Drive, Harare, Zimbabwe"
+id: izone-hub
+lat: -17.8118106
+linkedUrl: null
+lng: 31.0895029000001
+name: iZone Hub
+region: Harare Province
+twitterHandle: izonehub
+websiteUrl: https://izonehub.org.zw/

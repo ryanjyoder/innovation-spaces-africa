@@ -1,84 +1,28 @@
-id: blolab
-name: BLOLAB
-kind_name: fab_lab
-parent_id: 320
-blurb: ""
-description: ""
-slug: blolab
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/20/22/953cabf6-05a8-40b4-9a96-92bb0d0d8f2c/BLOLAB.jpg
-header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/13/57/06/b497a0c1-0c87-4faa-989e-f699b4c4df57/BLOLAB.jpg
+activity_status: null
 address_1: Cotonou
 address_2: ""
-city: Cotonou
-county: ""
-postal_code: ""
-country_code: BJ
 address_notes: Kindonou
-phone: "+22967920003"
-email: haguessy@udl-benin.org
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/20/22/953cabf6-05a8-40b4-9a96-92bb0d0d8f2c/BLOLAB.jpg
+blurb: ""
 capabilities:
   - three_d_printing
-activity_status: null
+city: Cotonou
+country_code: BJ
+county: ""
+description: ""
+email: haguessy@udl-benin.org
+header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/13/57/06/b497a0c1-0c87-4faa-989e-f699b4c4df57/BLOLAB.jpg
+id: blolab
+kind_name: fab_lab
+lat: 6.39464507497887
 links:
   - id: 1056
     url: http://www.udl-benin.org
   - id: 1057
     url: https://twitter.com/BLOLAB_BENIN
-lat: 6.39464507497887
 lng: 2.34612902050776
-id: blolab
 name: BLOLAB
-kind_name: fab_lab
 parent_id: 320
-blurb: ""
-description: ""
-slug: blolab
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/20/22/953cabf6-05a8-40b4-9a96-92bb0d0d8f2c/BLOLAB.jpg
-header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/13/57/06/b497a0c1-0c87-4faa-989e-f699b4c4df57/BLOLAB.jpg
-address_1: Cotonou
-address_2: ""
-city: Cotonou
-county: ""
-postal_code: ""
-country_code: BJ
-address_notes: Kindonou
 phone: "+22967920003"
-email: haguessy@udl-benin.org
-capabilities:
-  - three_d_printing
-activity_status: null
-links:
-  - id: 1056
-    url: http://www.udl-benin.org
-  - id: 1057
-    url: https://twitter.com/BLOLAB_BENIN
-lat: 6.39464507497887
-lng: 2.34612902050776
-id: blolab
-name: BLOLAB
-kind_name: fab_lab
-parent_id: 320
-blurb: ""
-description: ""
-slug: blolab
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/20/22/953cabf6-05a8-40b4-9a96-92bb0d0d8f2c/BLOLAB.jpg
-header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/13/57/06/b497a0c1-0c87-4faa-989e-f699b4c4df57/BLOLAB.jpg
-address_1: Cotonou
-address_2: ""
-city: Cotonou
-county: ""
 postal_code: ""
-country_code: BJ
-address_notes: Kindonou
-phone: "+22967920003"
-email: haguessy@udl-benin.org
-capabilities:
-  - three_d_printing
-activity_status: null
-links:
-  - id: 1056
-    url: http://www.udl-benin.org
-  - id: 1057
-    url: https://twitter.com/BLOLAB_BENIN
-lat: 6.39464507497887
-lng: 2.34612902050776
+slug: blolab

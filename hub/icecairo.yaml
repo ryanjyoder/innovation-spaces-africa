@@ -1,26 +1,15 @@
-id: icecairo
-city: Cairo
-region:
-country: Egypt
-email:
-articles:
-description: ""
-name: "IceCairo"
-lat:
-lng:
-websiteUrl: http://icecairo.com/
-id: icecairo
-city: Cairo
-region:
-country: Egypt
-email:
-articles:
-description: ""
-name: "IceCairo"
-lat:
-lng:
-websiteUrl: http://icecairo.com/
-twitterHandle:
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles: null
+city: Cairo
+country: Egypt
+description: ""
+email: null
+facebookUrl: null
+id: icecairo
+lat: null
+linkedUrl: null
+lng: null
+name: IceCairo
+region: null
+twitterHandle: null
+websiteUrl: http://icecairo.com/

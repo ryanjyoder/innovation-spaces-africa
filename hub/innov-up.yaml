@@ -1,44 +1,24 @@
-id: innov-up
-city:
-region:
-country:
-email: innovup@fefa-togo.org
+addressLine1: innovup, Avenue Du 24 Janvier, Lom�, Togo
 articles:
-  - "https://www.afrikatech.com/start-business/togo-acquires-innovup-a-business-incubator-for-women/"
-  - "https://www.iledefrance.fr/innovup-laide-de-la-region-ile-de-france-en-faveur-de-linnovation-est-renforcee-et-simplifiee-pour"
-  - "https://lejournaldeleco.fr/innovup-bpifrance-renforce-laide-regionale-a-linnovation-en-idf/"
-  - "https://www.lanouvellerepublique.fr/economie/appel-a-projets-innov-up-experimentation-sante"
-  - "https://regions-france.org/actualites/en-direct-des-regions/ile-de-france-15/"
-  - "https://www.capdigital.com/laureats-innovup-proto-la-region-ile-de-france-soutient-ceux-qui-osent/"
-  - "https://regions-france.org/actualites/en-direct-des-regions/ile-de-france-15/"
-  - "https://www.usinenouvelle.com/article/communique-sept-projets-et-entreprises-viennent-de-rejoindre-l-incubateur-gardois-bic-innov-up.N1072359"
+  - https://www.afrikatech.com/start-business/togo-acquires-innovup-a-business-incubator-for-women/
+  - https://www.iledefrance.fr/innovup-laide-de-la-region-ile-de-france-en-faveur-de-linnovation-est-renforcee-et-simplifiee-pour
+  - https://lejournaldeleco.fr/innovup-bpifrance-renforce-laide-regionale-a-linnovation-en-idf/
+  - https://www.lanouvellerepublique.fr/economie/appel-a-projets-innov-up-experimentation-sante
+  - https://regions-france.org/actualites/en-direct-des-regions/ile-de-france-15/
+  - https://www.capdigital.com/laureats-innovup-proto-la-region-ile-de-france-soutient-ceux-qui-osent/
+  - https://regions-france.org/actualites/en-direct-des-regions/ile-de-france-15/
+  - https://www.usinenouvelle.com/article/communique-sept-projets-et-entreprises-viennent-de-rejoindre-l-incubateur-gardois-bic-innov-up.N1072359
+city: null
+country: null
 description: |
   "Pour en savoir plus visitez notre site <a href=""http://innovup.fefa.tg"">http://innovup.fefa.tg</a>�"
-name: "Innov’up"
-lat:
-lng:
-websiteUrl: http://innovup.fefa.tg/
-id: innov-up
-city:
-region:
-country:
 email: innovup@fefa-togo.org
-articles:
-  - "https://www.afrikatech.com/start-business/togo-acquires-innovup-a-business-incubator-for-women/"
-  - "https://www.iledefrance.fr/innovup-laide-de-la-region-ile-de-france-en-faveur-de-linnovation-est-renforcee-et-simplifiee-pour"
-  - "https://lejournaldeleco.fr/innovup-bpifrance-renforce-laide-regionale-a-linnovation-en-idf/"
-  - "https://www.lanouvellerepublique.fr/economie/appel-a-projets-innov-up-experimentation-sante"
-  - "https://regions-france.org/actualites/en-direct-des-regions/ile-de-france-15/"
-  - "https://www.capdigital.com/laureats-innovup-proto-la-region-ile-de-france-soutient-ceux-qui-osent/"
-  - "https://regions-france.org/actualites/en-direct-des-regions/ile-de-france-15/"
-  - "https://www.usinenouvelle.com/article/communique-sept-projets-et-entreprises-viennent-de-rejoindre-l-incubateur-gardois-bic-innov-up.N1072359"
-description: |
-  "Pour en savoir plus visitez notre site <a href=""http://innovup.fefa.tg"">http://innovup.fefa.tg</a>�"
-name: "Innov’up"
-lat:
-lng:
-websiteUrl: http://innovup.fefa.tg/
-twitterHandle:
 facebookUrl: https://www.facebook.com/centreInnovupTogo/
-linkedUrl:
-addressLine1: "innovup, Avenue Du 24 Janvier, Lom�, Togo"
+id: innov-up
+lat: null
+linkedUrl: null
+lng: null
+name: Innov’up
+region: null
+twitterHandle: null
+websiteUrl: http://innovup.fefa.tg/

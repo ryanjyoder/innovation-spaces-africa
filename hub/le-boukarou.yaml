@@ -1,38 +1,21 @@
-id: le-boukarou
-city:
-region:
-country:
-email: contact@leboukarou.digital.com
+addressLine1: Douala, Cameroun
 articles:
-  - "https://africaeurope-innovationpartnership.net/news/aeips-participation-round-table-discussion-cameroon-incubators-and-innovators-january-2020"
-  - "https://cameroonceo.com/2016/12/29/le-boukarou-une-bonne-nouvelle-pour-la-jeunesse-entreprenante-de-douala/"
-  - "https://www.digitalbusiness.africa/cameroun-digital-business-africa-et-le-boukarou-vous-propose-innovation-for-human-a-promote-2018/"
-  - "https://pagtour.info/le-cameroun-un-concentre-dafrique/"
-  - "https://gomet.net/emerging-valley-relation-au-centre/4/"
+  - https://africaeurope-innovationpartnership.net/news/aeips-participation-round-table-discussion-cameroon-incubators-and-innovators-january-2020
+  - https://cameroonceo.com/2016/12/29/le-boukarou-une-bonne-nouvelle-pour-la-jeunesse-entreprenante-de-douala/
+  - https://www.digitalbusiness.africa/cameroun-digital-business-africa-et-le-boukarou-vous-propose-innovation-for-human-a-promote-2018/
+  - https://pagtour.info/le-cameroun-un-concentre-dafrique/
+  - https://gomet.net/emerging-valley-relation-au-centre/4/
+city: null
+country: null
 description: |
   Au boukarou vous �tes chez vous, venez et ensemble nous allons surmonter les d�fis qui s'imposent � vous !
-name: "Le Boukarou"
-lat:
-lng:
-websiteUrl:
-id: le-boukarou
-city:
-region:
-country:
 email: contact@leboukarou.digital.com
-articles:
-  - "https://africaeurope-innovationpartnership.net/news/aeips-participation-round-table-discussion-cameroon-incubators-and-innovators-january-2020"
-  - "https://cameroonceo.com/2016/12/29/le-boukarou-une-bonne-nouvelle-pour-la-jeunesse-entreprenante-de-douala/"
-  - "https://www.digitalbusiness.africa/cameroun-digital-business-africa-et-le-boukarou-vous-propose-innovation-for-human-a-promote-2018/"
-  - "https://pagtour.info/le-cameroun-un-concentre-dafrique/"
-  - "https://gomet.net/emerging-valley-relation-au-centre/4/"
-description: |
-  Au boukarou vous �tes chez vous, venez et ensemble nous allons surmonter les d�fis qui s'imposent � vous !
-name: "Le Boukarou"
-lat:
-lng:
-websiteUrl:
-twitterHandle:
 facebookUrl: https://www.facebook.com/LeboukarouOfficiel/
-linkedUrl:
-addressLine1: "Douala, Cameroun"
+id: le-boukarou
+lat: null
+linkedUrl: null
+lng: null
+name: Le Boukarou
+region: null
+twitterHandle: null
+websiteUrl: null

@@ -1,21 +1,9 @@
-id: elobourfablab
-name: ElobourFabLab
-kind_name: fab_lab
-parent_id: 13
-blurb: This MY FabLab is very important for visitors
-description: 'This MY FabLab is very important '
-slug: elobourfablab
-avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/16/14/03/14/a6eee3c4-09ef-47b7-8b94-3ff809898aab/pp.jpg
-header_url: null
+activity_status: active
 address_1: El Obour City
 address_2: ""
-city: El Obour City
-county: Qalubia
-postal_code: "13752"
-country_code: EG
 address_notes: elobour
-phone: "01003848669"
-email: gad.elhebry@stemkalubya.moe.edu.eg
+avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/16/14/03/14/a6eee3c4-09ef-47b7-8b94-3ff809898aab/pp.jpg
+blurb: This MY FabLab is very important for visitors
 capabilities:
   - three_d_printing
   - cnc_milling
@@ -23,65 +11,19 @@ capabilities:
   - laser
   - precision_milling
   - vinyl_cutting
-activity_status: active
-links: []
-lat: 30.2283182
-lng: 31.4798657
-id: elobourfablab
-name: ElobourFabLab
-kind_name: fab_lab
-parent_id: 13
-blurb: This MY FabLab is very important for visitors
-description: 'This MY FabLab is very important '
-slug: elobourfablab
-avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/16/14/03/14/a6eee3c4-09ef-47b7-8b94-3ff809898aab/pp.jpg
-header_url: null
-address_1: El Obour City
-address_2: ""
 city: El Obour City
-county: Qalubia
-postal_code: "13752"
 country_code: EG
-address_notes: elobour
-phone: "01003848669"
-email: gad.elhebry@stemkalubya.moe.edu.eg
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
-  - vinyl_cutting
-activity_status: active
-links: []
-lat: 30.2283182
-lng: 31.4798657
-id: elobourfablab
-name: ElobourFabLab
-kind_name: fab_lab
-parent_id: 13
-blurb: This MY FabLab is very important for visitors
+county: Qalubia
 description: 'This MY FabLab is very important '
-slug: elobourfablab
-avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/16/14/03/14/a6eee3c4-09ef-47b7-8b94-3ff809898aab/pp.jpg
-header_url: null
-address_1: El Obour City
-address_2: ""
-city: El Obour City
-county: Qalubia
-postal_code: "13752"
-country_code: EG
-address_notes: elobour
-phone: "01003848669"
 email: gad.elhebry@stemkalubya.moe.edu.eg
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
-  - vinyl_cutting
-activity_status: active
-links: []
+header_url: null
+id: elobourfablab
+kind_name: fab_lab
 lat: 30.2283182
+links: []
 lng: 31.4798657
+name: ElobourFabLab
+parent_id: 13
+phone: "01003848669"
+postal_code: "13752"
+slug: elobourfablab

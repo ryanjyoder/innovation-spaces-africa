@@ -1,32 +1,18 @@
-id: mara-launchpad
-city: Kampala
-region:
-country: Togo
-email:
-articles:
-  - "https://www.bizcommunity.com/Article/220/422/78959.html"
-  - "https://www.forbes.com/sites/mfonobongnsehe/2012/08/07/young-african-millionaire-launches-mara-com-africas-first-online-mentorship-network/?sh=582552df2fbc"
-  - "https://www.africardv.com/developpement/le-togo-parmi-les-champions-africains-de-tech-hubs/"
-description: ""
-name: "Mara Launchpad"
-lat:
-lng:
-websiteUrl: http://www.mara-foundation.org/
-id: mara-launchpad
-city: Kampala
-region:
-country: Togo
-email:
-articles:
-  - "https://www.bizcommunity.com/Article/220/422/78959.html"
-  - "https://www.forbes.com/sites/mfonobongnsehe/2012/08/07/young-african-millionaire-launches-mara-com-africas-first-online-mentorship-network/?sh=582552df2fbc"
-  - "https://www.africardv.com/developpement/le-togo-parmi-les-champions-africains-de-tech-hubs/"
-description: ""
-name: "Mara Launchpad"
-lat:
-lng:
-websiteUrl: http://www.mara-foundation.org/
-twitterHandle: MaraPhones
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://www.bizcommunity.com/Article/220/422/78959.html
+  - https://www.forbes.com/sites/mfonobongnsehe/2012/08/07/young-african-millionaire-launches-mara-com-africas-first-online-mentorship-network/?sh=582552df2fbc
+  - https://www.africardv.com/developpement/le-togo-parmi-les-champions-africains-de-tech-hubs/
+city: Kampala
+country: Togo
+description: ""
+email: null
+facebookUrl: null
+id: mara-launchpad
+lat: null
+linkedUrl: null
+lng: null
+name: Mara Launchpad
+region: null
+twitterHandle: MaraPhones
+websiteUrl: http://www.mara-foundation.org/

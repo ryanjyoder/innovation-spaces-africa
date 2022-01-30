@@ -1,36 +1,20 @@
-id: zen-lab
-city:
-region:
-country:
-email: contact@zenlab.com.tn
+addressLine1: Immeuble Emeraude Center, Jardins du Lac 2 , Tunis, Tunisie
 articles:
-  - "https://www.espacemanager.com/zen-lab-lincubateur-de-projets-digitaux-zen.html"
-  - "https://www.ilboursa.com/marches/zen-et-exco-tunisie-lancent-lincubateur-zen-lab_13831"
-  - "http://exco-tunisie.com/en/exco-annonce-un-partenariat-avec-zen-lab/"
-  - "https://thd.tn/zen-lance-son-incubateur-de-projets-digitaux/"
-  - "https://linstant-m.tn/single-article/ar4645_premier-demo-day-de-zen-lab-presentation-de-levolution-des-projets-des-jeunes-entrepreneurs"
+  - https://www.espacemanager.com/zen-lab-lincubateur-de-projets-digitaux-zen.html
+  - https://www.ilboursa.com/marches/zen-et-exco-tunisie-lancent-lincubateur-zen-lab_13831
+  - http://exco-tunisie.com/en/exco-annonce-un-partenariat-avec-zen-lab/
+  - https://thd.tn/zen-lance-son-incubateur-de-projets-digitaux/
+  - https://linstant-m.tn/single-article/ar4645_premier-demo-day-de-zen-lab-presentation-de-levolution-des-projets-des-jeunes-entrepreneurs
+city: null
+country: null
 description: ""
-name: "ZEN Lab"
-lat:
-lng:
-websiteUrl: http://www.zenlab.com.tn/
-id: zen-lab
-city:
-region:
-country:
 email: contact@zenlab.com.tn
-articles:
-  - "https://www.espacemanager.com/zen-lab-lincubateur-de-projets-digitaux-zen.html"
-  - "https://www.ilboursa.com/marches/zen-et-exco-tunisie-lancent-lincubateur-zen-lab_13831"
-  - "http://exco-tunisie.com/en/exco-annonce-un-partenariat-avec-zen-lab/"
-  - "https://thd.tn/zen-lance-son-incubateur-de-projets-digitaux/"
-  - "https://linstant-m.tn/single-article/ar4645_premier-demo-day-de-zen-lab-presentation-de-levolution-des-projets-des-jeunes-entrepreneurs"
-description: ""
-name: "ZEN Lab"
-lat:
-lng:
-websiteUrl: http://www.zenlab.com.tn/
-twitterHandle: ZENLAB_tunisie
 facebookUrl: http://www.facebook.com/ZENLAB.Tunisie/
-linkedUrl:
-addressLine1: "Immeuble Emeraude Center, Jardins du Lac 2 , Tunis, Tunisie"
+id: zen-lab
+lat: null
+linkedUrl: null
+lng: null
+name: ZEN Lab
+region: null
+twitterHandle: ZENLAB_tunisie
+websiteUrl: http://www.zenlab.com.tn/

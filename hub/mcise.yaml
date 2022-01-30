@@ -1,26 +1,15 @@
-id: mcise
-city:
-region:
-country:
-email:
-articles:
+addressLine1: Rabat, Maroc
+articles: null
+city: null
+country: null
 description: ""
-name: "MCISE"
-lat:
-lng:
-websiteUrl: http://Mcise.org
+email: null
+facebookUrl: null
 id: mcise
-city:
-region:
-country:
-email:
-articles:
-description: ""
-name: "MCISE"
-lat:
-lng:
-websiteUrl: http://Mcise.org
+lat: null
+linkedUrl: null
+lng: null
+name: MCISE
+region: null
 twitterHandle: moroccancise
-facebookUrl:
-linkedUrl:
-addressLine1: "Rabat, Maroc"
+websiteUrl: http://Mcise.org

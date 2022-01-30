@@ -1,30 +1,17 @@
-id: twende-hub
-city: Tanzania
-region: Western Region
-country: Ghana
-email:
+addressLine1: Tanzania, Western Region, Ghana
 articles:
-  - "https://vc4a.com/twende-hub/"
-  - "https://www.weforum.org/agenda/2016/05/5-innovations-that-could-transform-africa/"
-description: "Twende hub was founded in 2007 to identify local needs & engineer new technology solutions, empower entrepreneurs, offer business support, and encourage local innovation. Also to empower Tanzanians to design, develop, and disseminate life-improving technology solutions to the challenges they and their communities face. \n"
-name: "Twende Hub"
-lat: 6.3335725
-lng: -3.17231800000002
-websiteUrl: http://www.twende-tanzania.org/
-id: twende-hub
+  - https://vc4a.com/twende-hub/
+  - https://www.weforum.org/agenda/2016/05/5-innovations-that-could-transform-africa/
 city: Tanzania
-region: Western Region
 country: Ghana
-email:
-articles:
-  - "https://vc4a.com/twende-hub/"
-  - "https://www.weforum.org/agenda/2016/05/5-innovations-that-could-transform-africa/"
 description: "Twende hub was founded in 2007 to identify local needs & engineer new technology solutions, empower entrepreneurs, offer business support, and encourage local innovation. Also to empower Tanzanians to design, develop, and disseminate life-improving technology solutions to the challenges they and their communities face. \n"
-name: "Twende Hub"
+email: null
+facebookUrl: null
+id: twende-hub
 lat: 6.3335725
+linkedUrl: null
 lng: -3.17231800000002
+name: Twende Hub
+region: Western Region
+twitterHandle: null
 websiteUrl: http://www.twende-tanzania.org/
-twitterHandle:
-facebookUrl:
-linkedUrl:
-addressLine1: "Tanzania, Western Region, Ghana"

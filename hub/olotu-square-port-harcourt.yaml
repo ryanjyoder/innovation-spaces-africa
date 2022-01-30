@@ -1,32 +1,18 @@
-id: olotu-square-port-harcourt
-city: Port Harcourt
-region: Rivers
-country: Nigeria
-email:
+addressLine1: Port Harcourt, Nigeria
 articles:
-  - "https://ventureburn.com/2018/06/heres-need-know-nigerias-tech-startup-ecosystem/"
-  - "https://techcultureng.com/2019/08/10/port-harcourt-to-host-global-women-startup-weekend/"
-  - "https://techpoint.africa/2017/10/13/paq-session-2017-portharcourt/"
-description: "Olotu Square is an innovation center focused on social impact, youth engagement and innovation. \n"
-name: "Olotu Square (Port Harcourt)"
-lat: 4.815554
-lng: 7.04984420000005
-websiteUrl: https://olotusquare.co/
-id: olotu-square-port-harcourt
+  - https://ventureburn.com/2018/06/heres-need-know-nigerias-tech-startup-ecosystem/
+  - https://techcultureng.com/2019/08/10/port-harcourt-to-host-global-women-startup-weekend/
+  - https://techpoint.africa/2017/10/13/paq-session-2017-portharcourt/
 city: Port Harcourt
-region: Rivers
 country: Nigeria
-email:
-articles:
-  - "https://ventureburn.com/2018/06/heres-need-know-nigerias-tech-startup-ecosystem/"
-  - "https://techcultureng.com/2019/08/10/port-harcourt-to-host-global-women-startup-weekend/"
-  - "https://techpoint.africa/2017/10/13/paq-session-2017-portharcourt/"
 description: "Olotu Square is an innovation center focused on social impact, youth engagement and innovation. \n"
-name: "Olotu Square (Port Harcourt)"
+email: null
+facebookUrl: null
+id: olotu-square-port-harcourt
 lat: 4.815554
+linkedUrl: null
 lng: 7.04984420000005
-websiteUrl: https://olotusquare.co/
+name: Olotu Square (Port Harcourt)
+region: Rivers
 twitterHandle: olotusquare
-facebookUrl:
-linkedUrl:
-addressLine1: "Port Harcourt, Nigeria"
+websiteUrl: https://olotusquare.co/

@@ -1,21 +1,9 @@
-id: kfsfablab
-name: kfs FAB LAB
-kind_name: fab_lab
-parent_id: 13
-blurb: we can do every thing
-description: ""
-slug: kfsfablab
-avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/13/14/15/34cd90f7-6502-4d05-960b-6646abc683de/Fab_Lab_logo.svg.jpg
-header_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/13/20/13/d8d4c693-afb4-4735-8a71-d3a42a80e395/2019-01-14_10-36-46.jpg
+activity_status: active
 address_1: Kafr El-Shaikh
 address_2: ""
-city: Kafr El-Shaikh
-county: kafr el-shaikh
-postal_code: "330115"
-country_code: EG
 address_notes: ""
-phone: "00201067811150"
-email: elsayed.rashwan@gmail.com
+avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/13/14/15/34cd90f7-6502-4d05-960b-6646abc683de/Fab_Lab_logo.svg.jpg
+blurb: we can do every thing
 capabilities:
   - three_d_printing
   - cnc_milling
@@ -23,65 +11,19 @@ capabilities:
   - laser
   - precision_milling
   - vinyl_cutting
-activity_status: active
-links: []
-lat: 31.1061428
-lng: 30.9407138
-id: kfsfablab
-name: kfs FAB LAB
-kind_name: fab_lab
-parent_id: 13
-blurb: we can do every thing
-description: ""
-slug: kfsfablab
-avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/13/14/15/34cd90f7-6502-4d05-960b-6646abc683de/Fab_Lab_logo.svg.jpg
-header_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/13/20/13/d8d4c693-afb4-4735-8a71-d3a42a80e395/2019-01-14_10-36-46.jpg
-address_1: Kafr El-Shaikh
-address_2: ""
 city: Kafr El-Shaikh
-county: kafr el-shaikh
-postal_code: "330115"
 country_code: EG
-address_notes: ""
-phone: "00201067811150"
-email: elsayed.rashwan@gmail.com
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
-  - vinyl_cutting
-activity_status: active
-links: []
-lat: 31.1061428
-lng: 30.9407138
-id: kfsfablab
-name: kfs FAB LAB
-kind_name: fab_lab
-parent_id: 13
-blurb: we can do every thing
+county: kafr el-shaikh
 description: ""
-slug: kfsfablab
-avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/13/14/15/34cd90f7-6502-4d05-960b-6646abc683de/Fab_Lab_logo.svg.jpg
-header_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/13/20/13/d8d4c693-afb4-4735-8a71-d3a42a80e395/2019-01-14_10-36-46.jpg
-address_1: Kafr El-Shaikh
-address_2: ""
-city: Kafr El-Shaikh
-county: kafr el-shaikh
-postal_code: "330115"
-country_code: EG
-address_notes: ""
-phone: "00201067811150"
 email: elsayed.rashwan@gmail.com
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
-  - vinyl_cutting
-activity_status: active
-links: []
+header_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/13/20/13/d8d4c693-afb4-4735-8a71-d3a42a80e395/2019-01-14_10-36-46.jpg
+id: kfsfablab
+kind_name: fab_lab
 lat: 31.1061428
+links: []
 lng: 30.9407138
+name: kfs FAB LAB
+parent_id: 13
+phone: "00201067811150"
+postal_code: "330115"
+slug: kfsfablab

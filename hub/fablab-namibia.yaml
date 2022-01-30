@@ -1,32 +1,18 @@
-id: fablab-namibia
-city: Windhoek
-region:
-country: Namibia
-email:
-articles:
-  - "https://www.we.com.na/news/fablab-to-shut-its-doors2018-05-16"
-  - "https://allafrica.com/stories/201612210749.html"
-  - "https://www.namibiansun.com/news/team-namibia-and-fablab-play-business-matchmakers"
-description: ""
-name: "Fablab Namibia"
-lat:
-lng:
-websiteUrl: http://www.fablabnamibia.org/
-id: fablab-namibia
-city: Windhoek
-region:
-country: Namibia
-email:
-articles:
-  - "https://www.we.com.na/news/fablab-to-shut-its-doors2018-05-16"
-  - "https://allafrica.com/stories/201612210749.html"
-  - "https://www.namibiansun.com/news/team-namibia-and-fablab-play-business-matchmakers"
-description: ""
-name: "Fablab Namibia"
-lat:
-lng:
-websiteUrl: http://www.fablabnamibia.org/
-twitterHandle:
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://www.we.com.na/news/fablab-to-shut-its-doors2018-05-16
+  - https://allafrica.com/stories/201612210749.html
+  - https://www.namibiansun.com/news/team-namibia-and-fablab-play-business-matchmakers
+city: Windhoek
+country: Namibia
+description: ""
+email: null
+facebookUrl: null
+id: fablab-namibia
+lat: null
+linkedUrl: null
+lng: null
+name: Fablab Namibia
+region: null
+twitterHandle: null
+websiteUrl: http://www.fablabnamibia.org/

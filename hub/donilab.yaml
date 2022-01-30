@@ -1,38 +1,21 @@
-id: donilab
-city: Bamako
-region: District de Bamako
-country: Mali
-email: info@donilab.net
+addressLine1: SOTUBA
 articles:
-  - "https://www.afrik21.africa/en/mali-donilab-finances-the-projects-of-three-start-ups-in-the-green-economy/"
-  - "https://www.rfi.fr/fr/emission/20181116-difficultes-repats-mali"
-  - "https://blogs.worldbank.org/fr/voices/une-competition-encourage-la-diaspora-entreprendre-au-mali"
-  - "https://la-jmec.com/project/4-5-6-decembre-bamako-mali/"
-  - "https://chronicle.lu/category/innovation/35611-two-incubators-supported-by-ada-obtain-africinnov-label"
+  - https://www.afrik21.africa/en/mali-donilab-finances-the-projects-of-three-start-ups-in-the-green-economy/
+  - https://www.rfi.fr/fr/emission/20181116-difficultes-repats-mali
+  - https://blogs.worldbank.org/fr/voices/une-competition-encourage-la-diaspora-entreprendre-au-mali
+  - https://la-jmec.com/project/4-5-6-decembre-bamako-mali/
+  - https://chronicle.lu/category/innovation/35611-two-incubators-supported-by-ada-obtain-africinnov-label
+city: Bamako
+country: Mali
 description: |
   DoniLab is an innovation hub that is focused on social impact, job creation and innovation.
-name: "DoniLab"
-lat: 12.6363899
-lng: -7.99483789999999
-websiteUrl: http://www.donilab.net/
-id: donilab
-city: Bamako
-region: District de Bamako
-country: Mali
 email: info@donilab.net
-articles:
-  - "https://www.afrik21.africa/en/mali-donilab-finances-the-projects-of-three-start-ups-in-the-green-economy/"
-  - "https://www.rfi.fr/fr/emission/20181116-difficultes-repats-mali"
-  - "https://blogs.worldbank.org/fr/voices/une-competition-encourage-la-diaspora-entreprendre-au-mali"
-  - "https://la-jmec.com/project/4-5-6-decembre-bamako-mali/"
-  - "https://chronicle.lu/category/innovation/35611-two-incubators-supported-by-ada-obtain-africinnov-label"
-description: |
-  DoniLab is an innovation hub that is focused on social impact, job creation and innovation.
-name: "DoniLab"
-lat: 12.6363899
-lng: -7.99483789999999
-websiteUrl: http://www.donilab.net/
-twitterHandle:
 facebookUrl: https://www.facebook.com/donilab.officiel/
-linkedUrl:
-addressLine1: "SOTUBA"
+id: donilab
+lat: 12.6363899
+linkedUrl: null
+lng: -7.99483789999999
+name: DoniLab
+region: District de Bamako
+twitterHandle: null
+websiteUrl: http://www.donilab.net/

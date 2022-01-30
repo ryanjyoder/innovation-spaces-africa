@@ -1,34 +1,19 @@
-id: ja-gabon
-city:
-region:
-country:
-email: info@jagabon.org
+addressLine1: JA Gabon, Libreville, Gabon
 articles:
-  - "https://www.banquemondiale.org/fr/news/feature/2019/03/08/radia-garrigues-ceo-of-an-incubator-providing-gabons-youth-with-skills-for-the-future"
-  - "https://directinfosgabon.com/ja-gabon-ou-sont-les-retombees/"
-  - "https://www.union.sonapresse.com/gabon-economie/ja-gabon-competition-nationale-les-laureats-2017-16151"
-  - "https://www.banquemondiale.org/fr/news/feature/2019/03/08/radia-garrigues-ceo-of-an-incubator-providing-gabons-youth-with-skills-for-the-future"
+  - https://www.banquemondiale.org/fr/news/feature/2019/03/08/radia-garrigues-ceo-of-an-incubator-providing-gabons-youth-with-skills-for-the-future
+  - https://directinfosgabon.com/ja-gabon-ou-sont-les-retombees/
+  - https://www.union.sonapresse.com/gabon-economie/ja-gabon-competition-nationale-les-laureats-2017-16151
+  - https://www.banquemondiale.org/fr/news/feature/2019/03/08/radia-garrigues-ceo-of-an-incubator-providing-gabons-youth-with-skills-for-the-future
+city: null
+country: null
 description: ""
-name: "JA Gabon"
-lat:
-lng:
-websiteUrl: https://www.jagabon.org/
-id: ja-gabon
-city:
-region:
-country:
 email: info@jagabon.org
-articles:
-  - "https://www.banquemondiale.org/fr/news/feature/2019/03/08/radia-garrigues-ceo-of-an-incubator-providing-gabons-youth-with-skills-for-the-future"
-  - "https://directinfosgabon.com/ja-gabon-ou-sont-les-retombees/"
-  - "https://www.union.sonapresse.com/gabon-economie/ja-gabon-competition-nationale-les-laureats-2017-16151"
-  - "https://www.banquemondiale.org/fr/news/feature/2019/03/08/radia-garrigues-ceo-of-an-incubator-providing-gabons-youth-with-skills-for-the-future"
-description: ""
-name: "JA Gabon"
-lat:
-lng:
-websiteUrl: https://www.jagabon.org/
-twitterHandle: ja_gabon
 facebookUrl: https://www.facebook.com/Juniorachievementgabon/
-linkedUrl:
-addressLine1: "JA Gabon, Libreville, Gabon"
+id: ja-gabon
+lat: null
+linkedUrl: null
+lng: null
+name: JA Gabon
+region: null
+twitterHandle: ja_gabon
+websiteUrl: https://www.jagabon.org/

@@ -1,28 +1,16 @@
-id: makesense
-city: Dakar
-region:
-country: Senegal
-email:
+addressLine1: Rue Mermoz
 articles:
-  - "https://vc4a.com/makesense/"
-description: ""
-name: "makesense"
-lat:
-lng:
-websiteUrl: http://africa.makesense.org
-id: makesense
+  - https://vc4a.com/makesense/
 city: Dakar
-region:
 country: Senegal
-email:
-articles:
-  - "https://vc4a.com/makesense/"
 description: ""
-name: "makesense"
-lat:
-lng:
-websiteUrl: http://africa.makesense.org
+email: null
+facebookUrl: null
+id: makesense
+lat: null
+linkedUrl: null
+lng: null
+name: makesense
+region: null
 twitterHandle: africamakesense
-facebookUrl:
-linkedUrl:
-addressLine1: "Rue Mermoz"
+websiteUrl: http://africa.makesense.org

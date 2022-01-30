@@ -1,90 +1,30 @@
-id: ongolafablab
-name: Ongola Fablab
-kind_name: fab_lab
-parent_id: 937
-blurb: Laboratoire de Fabrication numérique pour accompagner les jeunes à initier des projets innovants en passant rapidement de l'idée au prototype fonctionnel.
-description: Laboratoire de Fabrication numérique pour accompagner les jeunes à initier des projets innovants en passant rapidement de l'idée au prototype fonctionnel.
-slug: ongolafablab
-avatar_url: http://fablabs.io.s3.amazonaws.com/2019/03/29/13/48/58/dcb39de7-92f4-4f8c-9673-b7f535045b22/g5413.png
-header_url: http://fablabs.io.s3.amazonaws.com/2021/09/15/10/48/25/f1e675c2-62aa-42f0-8937-356d4dd6261f/IMG_fablab.io.jpg
+activity_status: active
 address_1: AUF-CAMPUS NUMERIQUE FRANCOPHONE, BLD DE LA REUNIFICATION, NGOA-EKELLE, BP 8114 YAOUNDE-CAMEROUN
 address_2: ""
-city: Yaoundé
-county: CENTRE
-postal_code: ""
-country_code: CM
 address_notes: Dans l'enceinte de l'AUF, En face de la Gendarmerie Mobile
-phone: 00237 6 92 55 51 82
-email: ongolafablab@auf.org
+avatar_url: http://fablabs.io.s3.amazonaws.com/2019/03/29/13/48/58/dcb39de7-92f4-4f8c-9673-b7f535045b22/g5413.png
+blurb: Laboratoire de Fabrication numérique pour accompagner les jeunes à initier des projets innovants en passant rapidement de l'idée au prototype fonctionnel.
 capabilities:
   - three_d_printing
   - cnc_milling
   - laser
   - precision_milling
   - vinyl_cutting
-activity_status: active
-links:
-  - id: 5353
-    url: https://fab.ongolafablab.cm/#!/
-lat: 3.8577597
-lng: 11.5070915
-id: ongolafablab
-name: Ongola Fablab
-kind_name: fab_lab
-parent_id: 937
-blurb: Laboratoire de Fabrication numérique pour accompagner les jeunes à initier des projets innovants en passant rapidement de l'idée au prototype fonctionnel.
-description: Laboratoire de Fabrication numérique pour accompagner les jeunes à initier des projets innovants en passant rapidement de l'idée au prototype fonctionnel.
-slug: ongolafablab
-avatar_url: http://fablabs.io.s3.amazonaws.com/2019/03/29/13/48/58/dcb39de7-92f4-4f8c-9673-b7f535045b22/g5413.png
-header_url: http://fablabs.io.s3.amazonaws.com/2021/09/15/10/48/25/f1e675c2-62aa-42f0-8937-356d4dd6261f/IMG_fablab.io.jpg
-address_1: AUF-CAMPUS NUMERIQUE FRANCOPHONE, BLD DE LA REUNIFICATION, NGOA-EKELLE, BP 8114 YAOUNDE-CAMEROUN
-address_2: ""
 city: Yaoundé
-county: CENTRE
-postal_code: ""
 country_code: CM
-address_notes: Dans l'enceinte de l'AUF, En face de la Gendarmerie Mobile
-phone: 00237 6 92 55 51 82
-email: ongolafablab@auf.org
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - laser
-  - precision_milling
-  - vinyl_cutting
-activity_status: active
-links:
-  - id: 5353
-    url: https://fab.ongolafablab.cm/#!/
-lat: 3.8577597
-lng: 11.5070915
-id: ongolafablab
-name: Ongola Fablab
-kind_name: fab_lab
-parent_id: 937
-blurb: Laboratoire de Fabrication numérique pour accompagner les jeunes à initier des projets innovants en passant rapidement de l'idée au prototype fonctionnel.
+county: CENTRE
 description: Laboratoire de Fabrication numérique pour accompagner les jeunes à initier des projets innovants en passant rapidement de l'idée au prototype fonctionnel.
-slug: ongolafablab
-avatar_url: http://fablabs.io.s3.amazonaws.com/2019/03/29/13/48/58/dcb39de7-92f4-4f8c-9673-b7f535045b22/g5413.png
-header_url: http://fablabs.io.s3.amazonaws.com/2021/09/15/10/48/25/f1e675c2-62aa-42f0-8937-356d4dd6261f/IMG_fablab.io.jpg
-address_1: AUF-CAMPUS NUMERIQUE FRANCOPHONE, BLD DE LA REUNIFICATION, NGOA-EKELLE, BP 8114 YAOUNDE-CAMEROUN
-address_2: ""
-city: Yaoundé
-county: CENTRE
-postal_code: ""
-country_code: CM
-address_notes: Dans l'enceinte de l'AUF, En face de la Gendarmerie Mobile
-phone: 00237 6 92 55 51 82
 email: ongolafablab@auf.org
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - laser
-  - precision_milling
-  - vinyl_cutting
-activity_status: active
+header_url: http://fablabs.io.s3.amazonaws.com/2021/09/15/10/48/25/f1e675c2-62aa-42f0-8937-356d4dd6261f/IMG_fablab.io.jpg
+id: ongolafablab
+kind_name: fab_lab
+lat: 3.8577597
 links:
   - id: 5353
     url: https://fab.ongolafablab.cm/#!/
-lat: 3.8577597
 lng: 11.5070915
+name: Ongola Fablab
+parent_id: 937
+phone: 00237 6 92 55 51 82
+postal_code: ""
+slug: ongolafablab

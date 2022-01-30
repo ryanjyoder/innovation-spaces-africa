@@ -1,32 +1,18 @@
-id: tih-the-innovation-hub
-city: Pretoria
-region:
-country: South Africa
-email:
-articles:
-  - "https://www.brandsouthafrica.com/investments-immigration/business/trends/innovations/innovationhub"
-  - "https://www.biztechafrica.com/article/sanral-unveils-technical-innovation-hub/14377/"
-  - "https://www.esi-africa.com/event-news/the-innovation-hub-utilities-should-be-creative/"
-description: ""
-name: "TIH-The Innovation Hub "
-lat:
-lng:
-websiteUrl: www.theinnovationhub.com
-id: tih-the-innovation-hub
-city: Pretoria
-region:
-country: South Africa
-email:
-articles:
-  - "https://www.brandsouthafrica.com/investments-immigration/business/trends/innovations/innovationhub"
-  - "https://www.biztechafrica.com/article/sanral-unveils-technical-innovation-hub/14377/"
-  - "https://www.esi-africa.com/event-news/the-innovation-hub-utilities-should-be-creative/"
-description: ""
-name: "TIH-The Innovation Hub "
-lat:
-lng:
-websiteUrl: www.theinnovationhub.com
-twitterHandle:
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://www.brandsouthafrica.com/investments-immigration/business/trends/innovations/innovationhub
+  - https://www.biztechafrica.com/article/sanral-unveils-technical-innovation-hub/14377/
+  - https://www.esi-africa.com/event-news/the-innovation-hub-utilities-should-be-creative/
+city: Pretoria
+country: South Africa
+description: ""
+email: null
+facebookUrl: null
+id: tih-the-innovation-hub
+lat: null
+linkedUrl: null
+lng: null
+name: 'TIH-The Innovation Hub '
+region: null
+twitterHandle: null
+websiteUrl: www.theinnovationhub.com

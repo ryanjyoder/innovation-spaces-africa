@@ -1,28 +1,16 @@
-id: nlab
-city: Ngoumou
-region:
-country: Cameroon
-email:
-articles:
-description: |
-  Projet d'espace coworking & innovation au c�ur de la r�gion centre
-name: "Nlab"
-lat:
-lng:
-websiteUrl:
-id: nlab
-city: Ngoumou
-region:
-country: Cameroon
-email:
-articles:
-description: |
-  Projet d'espace coworking & innovation au c�ur de la r�gion centre
-name: "Nlab"
-lat:
-lng:
-websiteUrl:
-twitterHandle: nlabcameroon
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles: null
+city: Ngoumou
+country: Cameroon
+description: |
+  Projet d'espace coworking & innovation au c�ur de la r�gion centre
+email: null
+facebookUrl: null
+id: nlab
+lat: null
+linkedUrl: null
+lng: null
+name: Nlab
+region: null
+twitterHandle: nlabcameroon
+websiteUrl: null

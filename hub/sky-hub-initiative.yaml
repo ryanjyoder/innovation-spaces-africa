@@ -1,28 +1,16 @@
-id: sky-hub-initiative
-city: Bulawayo
-region:
-country: Zimbabwe
-email:
-articles:
-  - "https://www.oii.ox.ac.uk/blog/harares-hubs-excitement-experimentation-and-many-open-questions-2/"
-description: ""
-name: "Sky Hub Initiative"
-lat:
-lng:
-websiteUrl: http://www.skyhub.co.zw/
-id: sky-hub-initiative
-city: Bulawayo
-region:
-country: Zimbabwe
-email:
-articles:
-  - "https://www.oii.ox.ac.uk/blog/harares-hubs-excitement-experimentation-and-many-open-questions-2/"
-description: ""
-name: "Sky Hub Initiative"
-lat:
-lng:
-websiteUrl: http://www.skyhub.co.zw/
-twitterHandle:
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://www.oii.ox.ac.uk/blog/harares-hubs-excitement-experimentation-and-many-open-questions-2/
+city: Bulawayo
+country: Zimbabwe
+description: ""
+email: null
+facebookUrl: null
+id: sky-hub-initiative
+lat: null
+linkedUrl: null
+lng: null
+name: Sky Hub Initiative
+region: null
+twitterHandle: null
+websiteUrl: http://www.skyhub.co.zw/

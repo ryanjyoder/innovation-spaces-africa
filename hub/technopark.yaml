@@ -1,32 +1,18 @@
-id: technopark
-city:
-region:
-country: Morocco
-email: contact@technopark.ma
-articles:
-  - "https://www.thehindu.com/news/national/kerala/game-changer/article32473407.ece"
-  - "https://businesschief.eu/leadership-and-strategy/technopark-driving-innovation-morocco-through-ecosystem-entrepreneurial-growth"
-  - "https://www.techinafrica.com/moroccos-agadir-technopark-for-startups-is-almost-completion/"
-description: ""
-name: "TECHNOPARK"
-lat:
-lng:
-websiteUrl: https://www.technopark.ma/s/
-id: technopark
-city:
-region:
-country: Morocco
-email: contact@technopark.ma
-articles:
-  - "https://www.thehindu.com/news/national/kerala/game-changer/article32473407.ece"
-  - "https://businesschief.eu/leadership-and-strategy/technopark-driving-innovation-morocco-through-ecosystem-entrepreneurial-growth"
-  - "https://www.techinafrica.com/moroccos-agadir-technopark-for-startups-is-almost-completion/"
-description: ""
-name: "TECHNOPARK"
-lat:
-lng:
-websiteUrl: https://www.technopark.ma/s/
-twitterHandle: technopark
-facebookUrl: https://web.facebook.com/pages/Technopark
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://www.thehindu.com/news/national/kerala/game-changer/article32473407.ece
+  - https://businesschief.eu/leadership-and-strategy/technopark-driving-innovation-morocco-through-ecosystem-entrepreneurial-growth
+  - https://www.techinafrica.com/moroccos-agadir-technopark-for-startups-is-almost-completion/
+city: null
+country: Morocco
+description: ""
+email: contact@technopark.ma
+facebookUrl: https://web.facebook.com/pages/Technopark
+id: technopark
+lat: null
+linkedUrl: null
+lng: null
+name: TECHNOPARK
+region: null
+twitterHandle: technopark
+websiteUrl: https://www.technopark.ma/s/

@@ -1,33 +1,19 @@
-id: startup-90
-city: Cape Town
-postal_code: 7925
-region:
-country: South Africa
-email:
+addressLine1: Buchanan Square, Sir Lowry Road, Woodstock
 articles:
-  - "https://ventureburn.com/2014/12/new-center-mpumalanga-foster-culture-entrepreneurship/"
-  - "https://ventureburn.com/2015/02/startup-90-reveals-second-cohort-keen-acceleration/"
-description: ""
-name: "Startup 90"
-lat:
-lng:
-websiteUrl: https://www.startup90.com
-id: startup-90
+  - https://ventureburn.com/2014/12/new-center-mpumalanga-foster-culture-entrepreneurship/
+  - https://ventureburn.com/2015/02/startup-90-reveals-second-cohort-keen-acceleration/
 city: Cape Town
-postal_code: 7925
-region:
 country: South Africa
-email:
-articles:
-  - "https://ventureburn.com/2014/12/new-center-mpumalanga-foster-culture-entrepreneurship/"
-  - "https://ventureburn.com/2015/02/startup-90-reveals-second-cohort-keen-acceleration/"
 description: ""
-name: "Startup 90"
-lat:
-lng:
-websiteUrl: https://www.startup90.com
-twitterHandle: startup90
+email: null
 facebookUrl: https://www.facebook.com/startup90
+id: startup-90
 instagramHandle: http://instagram.com/startup_90/
-linkedUrl:
-addressLine1: "Buchanan Square, Sir Lowry Road, Woodstock"
+lat: null
+linkedUrl: null
+lng: null
+name: Startup 90
+postal_code: 7925
+region: null
+twitterHandle: startup90
+websiteUrl: https://www.startup90.com

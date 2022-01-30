@@ -1,28 +1,16 @@
-id: kivu-hub
-city: Kinshasa
-region: Kinshasa
-country: Democratic Republic of the Congo
-email:
+addressLine1: Bukavu, Kinshasa, Congo-Kinshasa
 articles:
-  - "https://startup.info/kivuhub/"
-description: "Kivu Hub is an incubator and accelerator that are focused on social impact, job creation and innovation. \n"
-name: "Kivu Hub"
-lat: -4.3919893
-lng: 15.3127824000001
-websiteUrl: https://kivuhub.net/
-id: kivu-hub
+  - https://startup.info/kivuhub/
 city: Kinshasa
-region: Kinshasa
 country: Democratic Republic of the Congo
-email:
-articles:
-  - "https://startup.info/kivuhub/"
 description: "Kivu Hub is an incubator and accelerator that are focused on social impact, job creation and innovation. \n"
-name: "Kivu Hub"
+email: null
+facebookUrl: null
+id: kivu-hub
 lat: -4.3919893
+linkedUrl: null
 lng: 15.3127824000001
-websiteUrl: https://kivuhub.net/
+name: Kivu Hub
+region: Kinshasa
 twitterHandle: kivuhub
-facebookUrl:
-linkedUrl:
-addressLine1: "Bukavu, Kinshasa, Congo-Kinshasa"
+websiteUrl: https://kivuhub.net/

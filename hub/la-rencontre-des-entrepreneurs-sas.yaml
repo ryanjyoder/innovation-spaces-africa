@@ -1,28 +1,16 @@
-id: la-rencontre-des-entrepreneurs-sas
-city:
-region:
-country:
-email:
+addressLine1: AGORA BUSINESS CENTER, VILLA N7 MERMOZ ,  DAKAR
 articles:
-  - "https://www.sikafinance.com/marches/le-fonds-dinvestissement-la-rde-holding-ouvre-une-chaine-de-cafe-au-senegal_27383"
+  - https://www.sikafinance.com/marches/le-fonds-dinvestissement-la-rde-holding-ouvre-une-chaine-de-cafe-au-senegal_27383
+city: null
+country: null
 description: "La  Rencontre Des Entrepreneurs (RDE) est le 1�r Acc�l�rateur multisectoriel d'appui et d'accompagnement priv� du S�n�gal dont la  principale mission consiste �  rep�rer des PME � fort potentiel pour en faire des champions en leur  donnant acc�s au capital,  aux meilleures comp�tences  et   �  un  ensemble de r�seau   \n"
-name: "LA RENCONTRE DES ENTREPRENEURS-SAS"
-lat:
-lng:
-websiteUrl: http://www.entrepreneursenegal.com
+email: null
+facebookUrl: null
 id: la-rencontre-des-entrepreneurs-sas
-city:
-region:
-country:
-email:
-articles:
-  - "https://www.sikafinance.com/marches/le-fonds-dinvestissement-la-rde-holding-ouvre-une-chaine-de-cafe-au-senegal_27383"
-description: "La  Rencontre Des Entrepreneurs (RDE) est le 1�r Acc�l�rateur multisectoriel d'appui et d'accompagnement priv� du S�n�gal dont la  principale mission consiste �  rep�rer des PME � fort potentiel pour en faire des champions en leur  donnant acc�s au capital,  aux meilleures comp�tences  et   �  un  ensemble de r�seau   \n"
-name: "LA RENCONTRE DES ENTREPRENEURS-SAS"
-lat:
-lng:
-websiteUrl: http://www.entrepreneursenegal.com
+lat: null
+linkedUrl: null
+lng: null
+name: LA RENCONTRE DES ENTREPRENEURS-SAS
+region: null
 twitterHandle: RDEDAKAR
-facebookUrl:
-linkedUrl:
-addressLine1: "AGORA BUSINESS CENTER, VILLA N7 MERMOZ ,  DAKAR"
+websiteUrl: http://www.entrepreneursenegal.com

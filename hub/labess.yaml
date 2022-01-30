@@ -1,28 +1,16 @@
-id: labess
-city: Tunis
-region:
-country: Tunisie
-email: contact@labess.tn
+addressLine1: 7 Rue du Docteur Alphonse Laveran
 articles:
-  - "https://meshkal.org/?p=248"
-description: ""
-name: "Labess"
-lat:
-lng:
-websiteUrl: https://www.labess.tn
-id: labess
+  - https://meshkal.org/?p=248
 city: Tunis
-region:
 country: Tunisie
-email: contact@labess.tn
-articles:
-  - "https://meshkal.org/?p=248"
 description: ""
-name: "Labess"
-lat:
-lng:
-websiteUrl: https://www.labess.tn
-twitterHandle: LabessTN
+email: contact@labess.tn
 facebookUrl: https://www.facebook.com/LabessTunisie/
-linkedUrl:
-addressLine1: "7 Rue du Docteur Alphonse Laveran"
+id: labess
+lat: null
+linkedUrl: null
+lng: null
+name: Labess
+region: null
+twitterHandle: LabessTN
+websiteUrl: https://www.labess.tn

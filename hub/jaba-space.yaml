@@ -1,28 +1,16 @@
-id: jaba-space
-city:
-region:
-country:
-email: hello@jabaspace.co
-articles:
-  - "https://medium.com/@JabaSpace"
-description: ""
-name: "JABA SPACE"
-lat:
-lng:
-websiteUrl: https://jabaspace.co/
-id: jaba-space
-city:
-region:
-country:
-email: hello@jabaspace.co
-articles:
-  - "https://medium.com/@JabaSpace"
-description: ""
-name: "JABA SPACE"
-lat:
-lng:
-websiteUrl: https://jabaspace.co/
-twitterHandle: JabaSpace
-facebookUrl: https://www.facebook.com/jabaspacecoworking/
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://medium.com/@JabaSpace
+city: null
+country: null
+description: ""
+email: hello@jabaspace.co
+facebookUrl: https://www.facebook.com/jabaspacecoworking/
+id: jaba-space
+lat: null
+linkedUrl: null
+lng: null
+name: JABA SPACE
+region: null
+twitterHandle: JabaSpace
+websiteUrl: https://jabaspace.co/

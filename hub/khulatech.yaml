@@ -1,40 +1,22 @@
-id: khulatech
-city:
-region:
-country:
-email: contact@khulatech.com
+addressLine1: Cotonou B�nin, Vedoko, von funai, immeuble MTN ,  Cotonou
 articles:
-  - "https://www.grocotts.co.za/2020/02/14/a-wireless-town-through-khula-tech-solutions/"
-  - "https://ze-africanews.com/en/benin-in-benin-digital-take-off/"
-  - "http://www.legrandangle.info/2017/06/benin-innovation-mboni-startup-resout-probleme-dadressage-villes-africaines/"
-  - "https://www.banouto.bj/article/economie/20210525-hamet-aguemon-ce-proche-de-lionel-zinsou-nomme-par-patrice-talon"
-  - "https://startup.info/fr/rabtech/"
-  - "https://irawotalents.com/hauts-lieux-economie-numerique-benin/"
-  - "https://www.digitalbusiness.africa/revolution-numerique-se-prepare-benin-start-ups-incubateurs/"
+  - https://www.grocotts.co.za/2020/02/14/a-wireless-town-through-khula-tech-solutions/
+  - https://ze-africanews.com/en/benin-in-benin-digital-take-off/
+  - http://www.legrandangle.info/2017/06/benin-innovation-mboni-startup-resout-probleme-dadressage-villes-africaines/
+  - https://www.banouto.bj/article/economie/20210525-hamet-aguemon-ce-proche-de-lionel-zinsou-nomme-par-patrice-talon
+  - https://startup.info/fr/rabtech/
+  - https://irawotalents.com/hauts-lieux-economie-numerique-benin/
+  - https://www.digitalbusiness.africa/revolution-numerique-se-prepare-benin-start-ups-incubateurs/
+city: null
+country: null
 description: ""
-name: "KhulaTech"
-lat:
-lng:
-websiteUrl: http://www.khulatech.com
-id: khulatech
-city:
-region:
-country:
 email: contact@khulatech.com
-articles:
-  - "https://www.grocotts.co.za/2020/02/14/a-wireless-town-through-khula-tech-solutions/"
-  - "https://ze-africanews.com/en/benin-in-benin-digital-take-off/"
-  - "http://www.legrandangle.info/2017/06/benin-innovation-mboni-startup-resout-probleme-dadressage-villes-africaines/"
-  - "https://www.banouto.bj/article/economie/20210525-hamet-aguemon-ce-proche-de-lionel-zinsou-nomme-par-patrice-talon"
-  - "https://startup.info/fr/rabtech/"
-  - "https://irawotalents.com/hauts-lieux-economie-numerique-benin/"
-  - "https://www.digitalbusiness.africa/revolution-numerique-se-prepare-benin-start-ups-incubateurs/"
-description: ""
-name: "KhulaTech"
-lat:
-lng:
-websiteUrl: http://www.khulatech.com
-twitterHandle: khulatech
 facebookUrl: http://www.facebook.com/khulatech
-linkedUrl:
-addressLine1: "Cotonou B�nin, Vedoko, von funai, immeuble MTN ,  Cotonou"
+id: khulatech
+lat: null
+linkedUrl: null
+lng: null
+name: KhulaTech
+region: null
+twitterHandle: khulatech
+websiteUrl: http://www.khulatech.com

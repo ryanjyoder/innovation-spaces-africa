@@ -1,25 +1,21 @@
-id: greenlabmicrofactory
-name: GreenLab Microfactory
-kind_name: fab_lab
-parent_id: null
-blurb: GreenLab microfactory is a platform for social innovation and social engineering. We provide adequate focus into rural/small-scale research, learning, and grassroots development.
-description: The mission of the GreenLab is to hearten the innovativeness of the Nigerian populace by encouraging the utilization of dormant and abundant eco-friendly resources in the urban/rural areas of Nigeria. As well as to collaborate with other facilities in promoting the sustainable development of NIGERIA and AFRICA as a whole.
-slug: greenlabmicrofactory
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/03/03/08/18/30/d71187cb-e906-4153-91ab-3deebd047053/Logo only.png
-header_url: http://fablabs.io.s3.amazonaws.com/2021/03/10/10/07/13/3a3714f3-298c-407a-b0ee-e9602bcf8428/IMG-20200731-WA0012.jpg
+activity_status: active
 address_1: Green Garage
 address_2: House 5, Stateline Road, FUTA
-city: AKURE
-county: Ondo State
-postal_code: "340271"
-country_code: NG
 address_notes: Green Garage is 3 minutes walk from the Federal University of Technology Akure (FUTA). You are always welcome to visit us...
-phone: "+2348092205588"
-email: info@greenlab-microfactory.org
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/03/03/08/18/30/d71187cb-e906-4153-91ab-3deebd047053/Logo only.png
+blurb: GreenLab microfactory is a platform for social innovation and social engineering. We provide adequate focus into rural/small-scale research, learning, and grassroots development.
 capabilities:
   - three_d_printing
   - cnc_milling
-activity_status: active
+city: AKURE
+country_code: NG
+county: Ondo State
+description: The mission of the GreenLab is to hearten the innovativeness of the Nigerian populace by encouraging the utilization of dormant and abundant eco-friendly resources in the urban/rural areas of Nigeria. As well as to collaborate with other facilities in promoting the sustainable development of NIGERIA and AFRICA as a whole.
+email: info@greenlab-microfactory.org
+header_url: http://fablabs.io.s3.amazonaws.com/2021/03/10/10/07/13/3a3714f3-298c-407a-b0ee-e9602bcf8428/IMG-20200731-WA0012.jpg
+id: greenlabmicrofactory
+kind_name: fab_lab
+lat: 7.3228734
 links:
   - id: 36798
     url: https://www.facebook.com/GreenLab.Microfactory/
@@ -27,67 +23,9 @@ links:
     url: https://www.linkedin.com/company/greenlab-microfactory/
   - id: 4443
     url: https://www.greenlab-microfactory.org
-lat: 7.3228734
 lng: 3.78803489999996
-id: greenlabmicrofactory
 name: GreenLab Microfactory
-kind_name: fab_lab
 parent_id: null
-blurb: GreenLab microfactory is a platform for social innovation and social engineering. We provide adequate focus into rural/small-scale research, learning, and grassroots development.
-description: The mission of the GreenLab is to hearten the innovativeness of the Nigerian populace by encouraging the utilization of dormant and abundant eco-friendly resources in the urban/rural areas of Nigeria. As well as to collaborate with other facilities in promoting the sustainable development of NIGERIA and AFRICA as a whole.
-slug: greenlabmicrofactory
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/03/03/08/18/30/d71187cb-e906-4153-91ab-3deebd047053/Logo only.png
-header_url: http://fablabs.io.s3.amazonaws.com/2021/03/10/10/07/13/3a3714f3-298c-407a-b0ee-e9602bcf8428/IMG-20200731-WA0012.jpg
-address_1: Green Garage
-address_2: House 5, Stateline Road, FUTA
-city: AKURE
-county: Ondo State
-postal_code: "340271"
-country_code: NG
-address_notes: Green Garage is 3 minutes walk from the Federal University of Technology Akure (FUTA). You are always welcome to visit us...
 phone: "+2348092205588"
-email: info@greenlab-microfactory.org
-capabilities:
-  - three_d_printing
-  - cnc_milling
-activity_status: active
-links:
-  - id: 36798
-    url: https://www.facebook.com/GreenLab.Microfactory/
-  - id: 36797
-    url: https://www.linkedin.com/company/greenlab-microfactory/
-  - id: 4443
-    url: https://www.greenlab-microfactory.org
-lat: 7.3228734
-lng: 3.78803489999996
-id: greenlabmicrofactory
-name: GreenLab Microfactory
-kind_name: fab_lab
-parent_id: null
-blurb: GreenLab microfactory is a platform for social innovation and social engineering. We provide adequate focus into rural/small-scale research, learning, and grassroots development.
-description: The mission of the GreenLab is to hearten the innovativeness of the Nigerian populace by encouraging the utilization of dormant and abundant eco-friendly resources in the urban/rural areas of Nigeria. As well as to collaborate with other facilities in promoting the sustainable development of NIGERIA and AFRICA as a whole.
-slug: greenlabmicrofactory
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/03/03/08/18/30/d71187cb-e906-4153-91ab-3deebd047053/Logo only.png
-header_url: http://fablabs.io.s3.amazonaws.com/2021/03/10/10/07/13/3a3714f3-298c-407a-b0ee-e9602bcf8428/IMG-20200731-WA0012.jpg
-address_1: Green Garage
-address_2: House 5, Stateline Road, FUTA
-city: AKURE
-county: Ondo State
 postal_code: "340271"
-country_code: NG
-address_notes: Green Garage is 3 minutes walk from the Federal University of Technology Akure (FUTA). You are always welcome to visit us...
-phone: "+2348092205588"
-email: info@greenlab-microfactory.org
-capabilities:
-  - three_d_printing
-  - cnc_milling
-activity_status: active
-links:
-  - id: 36798
-    url: https://www.facebook.com/GreenLab.Microfactory/
-  - id: 36797
-    url: https://www.linkedin.com/company/greenlab-microfactory/
-  - id: 4443
-    url: https://www.greenlab-microfactory.org
-lat: 7.3228734
-lng: 3.78803489999996
+slug: greenlabmicrofactory

@@ -1,34 +1,19 @@
-id: incub-ivoir
-city: Abidjan
-region:
-country: Côte d’Ivoire
-email: incubinfo@caamonde.org
+addressLine1: zone 3 rue des carrossiers Bo�te Postale 10 Bp 1041 Abidjan 10
 articles:
-  - "https://www.afrikatech.com/start-business/incubivoir-environment-startup-project-caravan/"
-  - "https://stage.intracen.org/news/With-support-from-FastTrackTech-tech-hubs-boost-innovation-in-West-Africa/"
-  - "https://www.water-entrepreneurship-pact.org/2021/05/31/what-weve-been-up-to-in-west-africa-so-far/"
-  - "https://inafrik.com/incubivoir-la-passerelle-ideale-entre-porteurs-de-projets-et-investisseurs/"
-description: ""
-name: "Incub’ivoir "
-lat:
-lng:
-websiteUrl: http://incubivoir.net/
-id: incub-ivoir
+  - https://www.afrikatech.com/start-business/incubivoir-environment-startup-project-caravan/
+  - https://stage.intracen.org/news/With-support-from-FastTrackTech-tech-hubs-boost-innovation-in-West-Africa/
+  - https://www.water-entrepreneurship-pact.org/2021/05/31/what-weve-been-up-to-in-west-africa-so-far/
+  - https://inafrik.com/incubivoir-la-passerelle-ideale-entre-porteurs-de-projets-et-investisseurs/
 city: Abidjan
-region:
 country: Côte d’Ivoire
-email: incubinfo@caamonde.org
-articles:
-  - "https://www.afrikatech.com/start-business/incubivoir-environment-startup-project-caravan/"
-  - "https://stage.intracen.org/news/With-support-from-FastTrackTech-tech-hubs-boost-innovation-in-West-Africa/"
-  - "https://www.water-entrepreneurship-pact.org/2021/05/31/what-weve-been-up-to-in-west-africa-so-far/"
-  - "https://inafrik.com/incubivoir-la-passerelle-ideale-entre-porteurs-de-projets-et-investisseurs/"
 description: ""
-name: "Incub’ivoir "
-lat:
-lng:
-websiteUrl: http://incubivoir.net/
-twitterHandle: ivoirincub
+email: incubinfo@caamonde.org
 facebookUrl: https://www.facebook.com/incubivoir1/
-linkedUrl:
-addressLine1: "zone 3 rue des carrossiers Bo�te Postale 10 Bp 1041 Abidjan 10"
+id: incub-ivoir
+lat: null
+linkedUrl: null
+lng: null
+name: 'Incub’ivoir '
+region: null
+twitterHandle: ivoirincub
+websiteUrl: http://incubivoir.net/

@@ -1,21 +1,9 @@
-id: fablabmenofia
-name: fablab menofia
-kind_name: fab_lab
-parent_id: null
-blurb: ""
-description: ""
-slug: fablabmenofia
-avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/12/40/24/01d55465-ca98-4d9e-8bd2-ce4d718b9652/sho.jpg
-header_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/12/40/24/97cfb170-b946-4773-a9c8-c9beeda6681c/sho1.jpg
+activity_status: active
 address_1: Sirs Al Layyanah
 address_2: ""
-city: Sirs Al Layyanah
-county: ""
-postal_code: ""
-country_code: EG
 address_notes: ""
-phone: "01555544333"
-email: shokry.eshak@stemmenof.moe.edu.eg
+avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/12/40/24/01d55465-ca98-4d9e-8bd2-ce4d718b9652/sho.jpg
+blurb: ""
 capabilities:
   - three_d_printing
   - cnc_milling
@@ -23,65 +11,19 @@ capabilities:
   - laser
   - precision_milling
   - vinyl_cutting
-activity_status: active
-links: []
-lat: 30.4390852
-lng: 30.9671759
-id: fablabmenofia
-name: fablab menofia
-kind_name: fab_lab
-parent_id: null
-blurb: ""
-description: ""
-slug: fablabmenofia
-avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/12/40/24/01d55465-ca98-4d9e-8bd2-ce4d718b9652/sho.jpg
-header_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/12/40/24/97cfb170-b946-4773-a9c8-c9beeda6681c/sho1.jpg
-address_1: Sirs Al Layyanah
-address_2: ""
 city: Sirs Al Layyanah
-county: ""
-postal_code: ""
 country_code: EG
-address_notes: ""
-phone: "01555544333"
-email: shokry.eshak@stemmenof.moe.edu.eg
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
-  - vinyl_cutting
-activity_status: active
-links: []
-lat: 30.4390852
-lng: 30.9671759
-id: fablabmenofia
-name: fablab menofia
-kind_name: fab_lab
-parent_id: null
-blurb: ""
+county: ""
 description: ""
-slug: fablabmenofia
-avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/12/40/24/01d55465-ca98-4d9e-8bd2-ce4d718b9652/sho.jpg
-header_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/12/40/24/97cfb170-b946-4773-a9c8-c9beeda6681c/sho1.jpg
-address_1: Sirs Al Layyanah
-address_2: ""
-city: Sirs Al Layyanah
-county: ""
-postal_code: ""
-country_code: EG
-address_notes: ""
-phone: "01555544333"
 email: shokry.eshak@stemmenof.moe.edu.eg
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
-  - vinyl_cutting
-activity_status: active
-links: []
+header_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/12/40/24/97cfb170-b946-4773-a9c8-c9beeda6681c/sho1.jpg
+id: fablabmenofia
+kind_name: fab_lab
 lat: 30.4390852
+links: []
 lng: 30.9671759
+name: fablab menofia
+parent_id: null
+phone: "01555544333"
+postal_code: ""
+slug: fablabmenofia

@@ -1,36 +1,20 @@
-id: idea-hub
-city:
-region:
-country: Nigeria
-email:
+addressLine1: Nigeria
 articles:
-  - "https://techpoint.africa/2017/04/04/idea-nigeria-closes-yaba-office/"
-  - "https://nairametrics.com/2020/08/06/lsetf-re-launches-idea-hub-for-tech-start-ups/"
-  - "https://technologytimes.ng/idea-hub-will-never-die-says-ceo/"
-  - "https://technext.ng/2020/06/15/huawei-launches-ideahub-to-offer-improved-remote-working-features-to-businesses-in-africa/"
-  - "https://techcabal.com/2013/07/29/the-idea-hub-opens-their-second-centre-in-calabar-2nd-of-august/"
-description: "iDEA (Information Technology Developers Entrepreneurship Accelerator) provides essential support to entrepreneurs to build software skills.  \n"
-name: "iDEA Hub"
-lat: 9.081999
-lng: 8.67527700000005
-websiteUrl: http://www.idea-nigeria.org/
-id: idea-hub
-city:
-region:
+  - https://techpoint.africa/2017/04/04/idea-nigeria-closes-yaba-office/
+  - https://nairametrics.com/2020/08/06/lsetf-re-launches-idea-hub-for-tech-start-ups/
+  - https://technologytimes.ng/idea-hub-will-never-die-says-ceo/
+  - https://technext.ng/2020/06/15/huawei-launches-ideahub-to-offer-improved-remote-working-features-to-businesses-in-africa/
+  - https://techcabal.com/2013/07/29/the-idea-hub-opens-their-second-centre-in-calabar-2nd-of-august/
+city: null
 country: Nigeria
-email:
-articles:
-  - "https://techpoint.africa/2017/04/04/idea-nigeria-closes-yaba-office/"
-  - "https://nairametrics.com/2020/08/06/lsetf-re-launches-idea-hub-for-tech-start-ups/"
-  - "https://technologytimes.ng/idea-hub-will-never-die-says-ceo/"
-  - "https://technext.ng/2020/06/15/huawei-launches-ideahub-to-offer-improved-remote-working-features-to-businesses-in-africa/"
-  - "https://techcabal.com/2013/07/29/the-idea-hub-opens-their-second-centre-in-calabar-2nd-of-august/"
 description: "iDEA (Information Technology Developers Entrepreneurship Accelerator) provides essential support to entrepreneurs to build software skills.  \n"
-name: "iDEA Hub"
+email: null
+facebookUrl: null
+id: idea-hub
 lat: 9.081999
+linkedUrl: null
 lng: 8.67527700000005
+name: iDEA Hub
+region: null
+twitterHandle: null
 websiteUrl: http://www.idea-nigeria.org/
-twitterHandle:
-facebookUrl:
-linkedUrl:
-addressLine1: "Nigeria"

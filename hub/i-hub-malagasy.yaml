@@ -1,28 +1,16 @@
-id: i-hub-malagasy
-city: Antananarivo
-region:
-country: Madagascar
-email:
-articles:
-  - "https://www.mbuguanjihia.com/tag/malagasy-i-hub"
-description: ""
-name: "I-Hub Malagasy"
-lat:
-lng:
-websiteUrl: http://www.i-hub.mg/
-id: i-hub-malagasy
-city: Antananarivo
-region:
-country: Madagascar
-email:
-articles:
-  - "https://www.mbuguanjihia.com/tag/malagasy-i-hub"
-description: ""
-name: "I-Hub Malagasy"
-lat:
-lng:
-websiteUrl: http://www.i-hub.mg/
-twitterHandle:
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://www.mbuguanjihia.com/tag/malagasy-i-hub
+city: Antananarivo
+country: Madagascar
+description: ""
+email: null
+facebookUrl: null
+id: i-hub-malagasy
+lat: null
+linkedUrl: null
+lng: null
+name: I-Hub Malagasy
+region: null
+twitterHandle: null
+websiteUrl: http://www.i-hub.mg/

@@ -1,34 +1,19 @@
-id: tentmaker
-city: Accra
-region: Greater Accra Region
-country: Ghana
-email:
+addressLine1: accra, Ghana Airways Avenue, Accra, Ghana
 articles:
-  - "https://www.ghanaweb.com/GhanaHomePage/business/Tentmaker-Ghana-trains-21-fashion-entrepreneurs-under-Creative-Enterprise-Program-CEP-687748"
-  - "http://ghheadlines.com/agency/3news/20180108/68660976/tentmakers-raptorkids-programming-prepares-community-kids-for-the-future"
-  - "https://www.einnews.com/pr_news/491341123/john-maxwell-team-members-collaborating-to-host-a-conference-in-ghana"
-  - "https://www.glitzafrica.com/zeepay-kantanka-automobile-and-more-win-2017-ghana-startup-awards/"
-description: "Tentmaker is a co-creation space  that is focused on social impact, job creation and innovation.  \n"
-name: "Tentmaker"
-lat: 5.6004186
-lng: -0.183411500000034
-websiteUrl: https://www.tentmakergh.com/
-id: tentmaker
+  - https://www.ghanaweb.com/GhanaHomePage/business/Tentmaker-Ghana-trains-21-fashion-entrepreneurs-under-Creative-Enterprise-Program-CEP-687748
+  - http://ghheadlines.com/agency/3news/20180108/68660976/tentmakers-raptorkids-programming-prepares-community-kids-for-the-future
+  - https://www.einnews.com/pr_news/491341123/john-maxwell-team-members-collaborating-to-host-a-conference-in-ghana
+  - https://www.glitzafrica.com/zeepay-kantanka-automobile-and-more-win-2017-ghana-startup-awards/
 city: Accra
-region: Greater Accra Region
 country: Ghana
-email:
-articles:
-  - "https://www.ghanaweb.com/GhanaHomePage/business/Tentmaker-Ghana-trains-21-fashion-entrepreneurs-under-Creative-Enterprise-Program-CEP-687748"
-  - "http://ghheadlines.com/agency/3news/20180108/68660976/tentmakers-raptorkids-programming-prepares-community-kids-for-the-future"
-  - "https://www.einnews.com/pr_news/491341123/john-maxwell-team-members-collaborating-to-host-a-conference-in-ghana"
-  - "https://www.glitzafrica.com/zeepay-kantanka-automobile-and-more-win-2017-ghana-startup-awards/"
 description: "Tentmaker is a co-creation space  that is focused on social impact, job creation and innovation.  \n"
-name: "Tentmaker"
+email: null
+facebookUrl: null
+id: tentmaker
 lat: 5.6004186
+linkedUrl: null
 lng: -0.183411500000034
-websiteUrl: https://www.tentmakergh.com/
+name: Tentmaker
+region: Greater Accra Region
 twitterHandle: TentmakerGhana
-facebookUrl:
-linkedUrl:
-addressLine1: "accra, Ghana Airways Avenue, Accra, Ghana"
+websiteUrl: https://www.tentmakergh.com/

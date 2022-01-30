@@ -1,21 +1,9 @@
-id: streamfablab
-name: STREAM FAB LAB
-kind_name: fab_lab
-parent_id: 13
-blurb: The first fablab in Tripoli with tools and equipment allowing inventors, entrepreneurs, students and artists to make their creations come to life by designing, prototyping and sharing their projects.
-description: "STREAM is an integrated incubator, an accelerator and a fab lab under one roof, it’s a project funded by the UK Embassy and implemented by Expertise France in sponsorship with Libyana mobile company.\r\n\r\nStream Fab Lab is a platform for innovation and learning, it’s a digital fabrication lab with tools and equipment allowing inventors, entrepreneurs, students and artists to make their creations come to life by designing, prototyping and sharing their projects with the community of learners, educators, technologists, researchers, makers and innovators. \r\n\r\nStream team was trained by international experts to enhance the learning process at the Fab Lab by holding regular workshops, events and Fab Lab tours. They supervise and mentor the use of mechanisms, applications, and implications of digital fabrication to help you with your creative digital creations!"
-slug: streamfablab
-avatar_url: http://fablabs.io.s3.amazonaws.com/2020/02/10/12/52/10/bc9f5459-be47-44d7-9ce6-8fb30269bd87/FLS Logo.png
-header_url: null
+activity_status: active
 address_1: طرابلس
 address_2: Ben Ashour - Wessaayt Abderri
-city: طرابلس
-county: ""
-postal_code: ""
-country_code: LY
 address_notes: Near Al-Wehda Bank, Al-Saqqa Mosque Branch
-phone: "+218911514378"
-email: contact@streamers.ly
+avatar_url: http://fablabs.io.s3.amazonaws.com/2020/02/10/12/52/10/bc9f5459-be47-44d7-9ce6-8fb30269bd87/FLS Logo.png
+blurb: The first fablab in Tripoli with tools and equipment allowing inventors, entrepreneurs, students and artists to make their creations come to life by designing, prototyping and sharing their projects.
 capabilities:
   - three_d_printing
   - cnc_milling
@@ -23,77 +11,23 @@ capabilities:
   - laser
   - precision_milling
   - vinyl_cutting
-activity_status: active
-links:
-  - id: 8993
-    url: https://www.facebook.com/joinstreamers/
-  - id: 8992
-    url: https://www.streamers.ly/en/fablab/
-lat: 32.8798255
-lng: 13.2142083
-id: streamfablab
-name: STREAM FAB LAB
-kind_name: fab_lab
-parent_id: 13
-blurb: The first fablab in Tripoli with tools and equipment allowing inventors, entrepreneurs, students and artists to make their creations come to life by designing, prototyping and sharing their projects.
-description: "STREAM is an integrated incubator, an accelerator and a fab lab under one roof, it’s a project funded by the UK Embassy and implemented by Expertise France in sponsorship with Libyana mobile company.\r\n\r\nStream Fab Lab is a platform for innovation and learning, it’s a digital fabrication lab with tools and equipment allowing inventors, entrepreneurs, students and artists to make their creations come to life by designing, prototyping and sharing their projects with the community of learners, educators, technologists, researchers, makers and innovators. \r\n\r\nStream team was trained by international experts to enhance the learning process at the Fab Lab by holding regular workshops, events and Fab Lab tours. They supervise and mentor the use of mechanisms, applications, and implications of digital fabrication to help you with your creative digital creations!"
-slug: streamfablab
-avatar_url: http://fablabs.io.s3.amazonaws.com/2020/02/10/12/52/10/bc9f5459-be47-44d7-9ce6-8fb30269bd87/FLS Logo.png
-header_url: null
-address_1: طرابلس
-address_2: Ben Ashour - Wessaayt Abderri
 city: طرابلس
-county: ""
-postal_code: ""
 country_code: LY
-address_notes: Near Al-Wehda Bank, Al-Saqqa Mosque Branch
-phone: "+218911514378"
-email: contact@streamers.ly
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
-  - vinyl_cutting
-activity_status: active
-links:
-  - id: 8993
-    url: https://www.facebook.com/joinstreamers/
-  - id: 8992
-    url: https://www.streamers.ly/en/fablab/
-lat: 32.8798255
-lng: 13.2142083
-id: streamfablab
-name: STREAM FAB LAB
-kind_name: fab_lab
-parent_id: 13
-blurb: The first fablab in Tripoli with tools and equipment allowing inventors, entrepreneurs, students and artists to make their creations come to life by designing, prototyping and sharing their projects.
+county: ""
 description: "STREAM is an integrated incubator, an accelerator and a fab lab under one roof, it’s a project funded by the UK Embassy and implemented by Expertise France in sponsorship with Libyana mobile company.\r\n\r\nStream Fab Lab is a platform for innovation and learning, it’s a digital fabrication lab with tools and equipment allowing inventors, entrepreneurs, students and artists to make their creations come to life by designing, prototyping and sharing their projects with the community of learners, educators, technologists, researchers, makers and innovators. \r\n\r\nStream team was trained by international experts to enhance the learning process at the Fab Lab by holding regular workshops, events and Fab Lab tours. They supervise and mentor the use of mechanisms, applications, and implications of digital fabrication to help you with your creative digital creations!"
-slug: streamfablab
-avatar_url: http://fablabs.io.s3.amazonaws.com/2020/02/10/12/52/10/bc9f5459-be47-44d7-9ce6-8fb30269bd87/FLS Logo.png
-header_url: null
-address_1: طرابلس
-address_2: Ben Ashour - Wessaayt Abderri
-city: طرابلس
-county: ""
-postal_code: ""
-country_code: LY
-address_notes: Near Al-Wehda Bank, Al-Saqqa Mosque Branch
-phone: "+218911514378"
 email: contact@streamers.ly
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
-  - vinyl_cutting
-activity_status: active
+header_url: null
+id: streamfablab
+kind_name: fab_lab
+lat: 32.8798255
 links:
   - id: 8993
     url: https://www.facebook.com/joinstreamers/
   - id: 8992
     url: https://www.streamers.ly/en/fablab/
-lat: 32.8798255
 lng: 13.2142083
+name: STREAM FAB LAB
+parent_id: 13
+phone: "+218911514378"
+postal_code: ""
+slug: streamfablab

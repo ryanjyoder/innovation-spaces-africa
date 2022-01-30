@@ -1,34 +1,19 @@
-id: angel-hub
-city: Stellenbosch
-region:
-country: South Africa
-email:
-articles:
-  - "https://ventureburn.com/2014/02/angelhub-becomes-angelhub-ventures-with-michael-jordaan-buy-in/"
-  - "https://blogs.worldbank.org/psd/angel-entrepreneur-s-table"
-  - "https://businesstech.co.za/news/trending/53102/jordaan-joins-seed-fund-angelhub-ventures/"
-  - "https://businesstech.co.za/news/trending/53102/jordaan-joins-seed-fund-angelhub-ventures/"
-description: ""
-name: "Angel Hub"
-lat:
-lng:
-websiteUrl: http://www.angelhub.co.za/
-id: angel-hub
-city: Stellenbosch
-region:
-country: South Africa
-email:
-articles:
-  - "https://ventureburn.com/2014/02/angelhub-becomes-angelhub-ventures-with-michael-jordaan-buy-in/"
-  - "https://blogs.worldbank.org/psd/angel-entrepreneur-s-table"
-  - "https://businesstech.co.za/news/trending/53102/jordaan-joins-seed-fund-angelhub-ventures/"
-  - "https://businesstech.co.za/news/trending/53102/jordaan-joins-seed-fund-angelhub-ventures/"
-description: ""
-name: "Angel Hub"
-lat:
-lng:
-websiteUrl: http://www.angelhub.co.za/
-twitterHandle:
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://ventureburn.com/2014/02/angelhub-becomes-angelhub-ventures-with-michael-jordaan-buy-in/
+  - https://blogs.worldbank.org/psd/angel-entrepreneur-s-table
+  - https://businesstech.co.za/news/trending/53102/jordaan-joins-seed-fund-angelhub-ventures/
+  - https://businesstech.co.za/news/trending/53102/jordaan-joins-seed-fund-angelhub-ventures/
+city: Stellenbosch
+country: South Africa
+description: ""
+email: null
+facebookUrl: null
+id: angel-hub
+lat: null
+linkedUrl: null
+lng: null
+name: Angel Hub
+region: null
+twitterHandle: null
+websiteUrl: http://www.angelhub.co.za/

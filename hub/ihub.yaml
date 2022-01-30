@@ -1,36 +1,20 @@
-id: ihub
-city:
-region:
-country: Kenya
-email:
+addressLine1: Kenya
 articles:
-  - "https://www.forbes.com/sites/tobyshapshak/2016/03/11/kenyas-ihub-enters-a-new-chapter/?sh=3add9a8e4f6a"
-  - "https://techpoint.africa/2015/09/15/inside-the-ihub-kenyas-widely-acclaimed-tech-headquarters/"
-  - "https://disrupt-africa.com/2019/10/24/africas-new-mega-incubator-the-inside-story-of-cchubs-acquisition-of-ihub/"
-  - "https://www.bloomberg.com/news/photo-essays/2015-07-31/inside-nairobi-s-tech-ihub"
-  - "https://techtrendske.co.ke/sankore-pitch-competition-is-coming-to-nairobi-targeting-blockchain-startups/"
-description: "iHub is Nairobi�s innovation hub for the technology community and serve as an open space for the technologists, investors, tech companies and hackers   \n"
-name: "iHub"
-lat: -0.023559
-lng: 37.906193
-websiteUrl: https://ihub.co.ke/
-id: ihub
-city:
-region:
+  - https://www.forbes.com/sites/tobyshapshak/2016/03/11/kenyas-ihub-enters-a-new-chapter/?sh=3add9a8e4f6a
+  - https://techpoint.africa/2015/09/15/inside-the-ihub-kenyas-widely-acclaimed-tech-headquarters/
+  - https://disrupt-africa.com/2019/10/24/africas-new-mega-incubator-the-inside-story-of-cchubs-acquisition-of-ihub/
+  - https://www.bloomberg.com/news/photo-essays/2015-07-31/inside-nairobi-s-tech-ihub
+  - https://techtrendske.co.ke/sankore-pitch-competition-is-coming-to-nairobi-targeting-blockchain-startups/
+city: null
 country: Kenya
-email:
-articles:
-  - "https://www.forbes.com/sites/tobyshapshak/2016/03/11/kenyas-ihub-enters-a-new-chapter/?sh=3add9a8e4f6a"
-  - "https://techpoint.africa/2015/09/15/inside-the-ihub-kenyas-widely-acclaimed-tech-headquarters/"
-  - "https://disrupt-africa.com/2019/10/24/africas-new-mega-incubator-the-inside-story-of-cchubs-acquisition-of-ihub/"
-  - "https://www.bloomberg.com/news/photo-essays/2015-07-31/inside-nairobi-s-tech-ihub"
-  - "https://techtrendske.co.ke/sankore-pitch-competition-is-coming-to-nairobi-targeting-blockchain-startups/"
 description: "iHub is Nairobi�s innovation hub for the technology community and serve as an open space for the technologists, investors, tech companies and hackers   \n"
-name: "iHub"
+email: null
+facebookUrl: null
+id: ihub
 lat: -0.023559
+linkedUrl: null
 lng: 37.906193
-websiteUrl: https://ihub.co.ke/
+name: iHub
+region: null
 twitterHandle: iHub
-facebookUrl:
-linkedUrl:
-addressLine1: "Kenya"
+websiteUrl: https://ihub.co.ke/

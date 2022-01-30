@@ -1,21 +1,9 @@
-id: stemAssuitfablab
-name: FabLab Stem School Assuit
-kind_name: fab_lab
-parent_id: 13
-blurb: i can use my fablab in student's projects
-description: our students make in all year a lot of projects , our students are using machines to service in your projects
-slug: stemAssuitfablab
-avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/15/03/36/1bb465ca-c019-42a2-8dae-8220a9f9139e/index1.jpeg
-header_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/15/15/33/89939199-c7cc-4f77-b3a7-2116d76135a0/ext.jpeg
+activity_status: active
 address_1: أسيوط
 address_2: اسكندرية التحرير
-city: الهدايا
-county: أسيوط
-postal_code: "0201010382782"
-country_code: EG
 address_notes: good nice place
-phone: "0201010382782"
-email: s.hofney@stemassiut.moe.edu.eg
+avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/15/03/36/1bb465ca-c019-42a2-8dae-8220a9f9139e/index1.jpeg
+blurb: i can use my fablab in student's projects
 capabilities:
   - three_d_printing
   - cnc_milling
@@ -23,71 +11,21 @@ capabilities:
   - laser
   - precision_milling
   - vinyl_cutting
-activity_status: active
-links:
-  - id: 6852
-    url: http://fabacademy.org/
-lat: 27.1965514
-lng: 31.0764842999999
-id: stemAssuitfablab
-name: FabLab Stem School Assuit
-kind_name: fab_lab
-parent_id: 13
-blurb: i can use my fablab in student's projects
-description: our students make in all year a lot of projects , our students are using machines to service in your projects
-slug: stemAssuitfablab
-avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/15/03/36/1bb465ca-c019-42a2-8dae-8220a9f9139e/index1.jpeg
-header_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/15/15/33/89939199-c7cc-4f77-b3a7-2116d76135a0/ext.jpeg
-address_1: أسيوط
-address_2: اسكندرية التحرير
 city: الهدايا
-county: أسيوط
-postal_code: "0201010382782"
 country_code: EG
-address_notes: good nice place
-phone: "0201010382782"
-email: s.hofney@stemassiut.moe.edu.eg
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
-  - vinyl_cutting
-activity_status: active
-links:
-  - id: 6852
-    url: http://fabacademy.org/
-lat: 27.1965514
-lng: 31.0764842999999
-id: stemAssuitfablab
-name: FabLab Stem School Assuit
-kind_name: fab_lab
-parent_id: 13
-blurb: i can use my fablab in student's projects
+county: أسيوط
 description: our students make in all year a lot of projects , our students are using machines to service in your projects
-slug: stemAssuitfablab
-avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/15/03/36/1bb465ca-c019-42a2-8dae-8220a9f9139e/index1.jpeg
-header_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/15/15/33/89939199-c7cc-4f77-b3a7-2116d76135a0/ext.jpeg
-address_1: أسيوط
-address_2: اسكندرية التحرير
-city: الهدايا
-county: أسيوط
-postal_code: "0201010382782"
-country_code: EG
-address_notes: good nice place
-phone: "0201010382782"
 email: s.hofney@stemassiut.moe.edu.eg
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
-  - vinyl_cutting
-activity_status: active
+header_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/15/15/33/89939199-c7cc-4f77-b3a7-2116d76135a0/ext.jpeg
+id: stemAssuitfablab
+kind_name: fab_lab
+lat: 27.1965514
 links:
   - id: 6852
     url: http://fabacademy.org/
-lat: 27.1965514
 lng: 31.0764842999999
+name: FabLab Stem School Assuit
+parent_id: 13
+phone: "0201010382782"
+postal_code: "0201010382782"
+slug: stemAssuitfablab

@@ -1,90 +1,30 @@
-id: fablabenit
-name: FabLab ENIT
-kind_name: fab_lab
-parent_id: null
-blurb: FabLab ENIT is located at the National Engineering School of Tunis. The FabLab offers prototyping and 3D printing facilities to ENIT students. It is managed by ENIT's students.
-description: "It is an open space, available to any student wishing to manufacture products, regardless of its expertise and technical and scientific expertise. The purpose of creating such a space in ENIT is to democratize digital and personal fabrication, encourage individual creativity, provide students with simple means of manufacturing and products development, help small businesses, freshly graduated engineers and support their development.\r\nThe FabLab is established thanks to the European Tempus icré@ project. One of the objectives of the project was to create an innovation platform with the purchase of a rapid prototyping machine and RepRap 3D printers. The concept of FabLab seemed then more appropriate."
-slug: fablabenit
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/18/15/b071bc0d-9962-4fc3-a98a-0d82f127e541/FabLab ENIT.jpg
-header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/13/54/53/f2df12a9-7df1-4bb2-8002-e8f56b10a654/FabLab ENIT.jpg
+activity_status: active
 address_1: ENIT
 address_2: BP 37
-city: Tunis
-county: Le belvédère/Tunis/Tunisia
-postal_code: "1002"
-country_code: TN
 address_notes: ""
-phone: "0021671874700"
-email: fablab@enit.utm.tn
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/18/15/b071bc0d-9962-4fc3-a98a-0d82f127e541/FabLab ENIT.jpg
+blurb: FabLab ENIT is located at the National Engineering School of Tunis. The FabLab offers prototyping and 3D printing facilities to ENIT students. It is managed by ENIT's students.
 capabilities:
   - three_d_printing
   - cnc_milling
   - circuit_production
   - laser
   - precision_milling
-activity_status: active
-links:
-  - id: 860
-    url: https://www.facebook.com/FabLabENIT
-lat: 36.8291943
-lng: 10.142301
-id: fablabenit
-name: FabLab ENIT
-kind_name: fab_lab
-parent_id: null
-blurb: FabLab ENIT is located at the National Engineering School of Tunis. The FabLab offers prototyping and 3D printing facilities to ENIT students. It is managed by ENIT's students.
-description: "It is an open space, available to any student wishing to manufacture products, regardless of its expertise and technical and scientific expertise. The purpose of creating such a space in ENIT is to democratize digital and personal fabrication, encourage individual creativity, provide students with simple means of manufacturing and products development, help small businesses, freshly graduated engineers and support their development.\r\nThe FabLab is established thanks to the European Tempus icré@ project. One of the objectives of the project was to create an innovation platform with the purchase of a rapid prototyping machine and RepRap 3D printers. The concept of FabLab seemed then more appropriate."
-slug: fablabenit
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/18/15/b071bc0d-9962-4fc3-a98a-0d82f127e541/FabLab ENIT.jpg
-header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/13/54/53/f2df12a9-7df1-4bb2-8002-e8f56b10a654/FabLab ENIT.jpg
-address_1: ENIT
-address_2: BP 37
 city: Tunis
-county: Le belvédère/Tunis/Tunisia
-postal_code: "1002"
 country_code: TN
-address_notes: ""
-phone: "0021671874700"
-email: fablab@enit.utm.tn
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
-activity_status: active
-links:
-  - id: 860
-    url: https://www.facebook.com/FabLabENIT
-lat: 36.8291943
-lng: 10.142301
-id: fablabenit
-name: FabLab ENIT
-kind_name: fab_lab
-parent_id: null
-blurb: FabLab ENIT is located at the National Engineering School of Tunis. The FabLab offers prototyping and 3D printing facilities to ENIT students. It is managed by ENIT's students.
+county: Le belvédère/Tunis/Tunisia
 description: "It is an open space, available to any student wishing to manufacture products, regardless of its expertise and technical and scientific expertise. The purpose of creating such a space in ENIT is to democratize digital and personal fabrication, encourage individual creativity, provide students with simple means of manufacturing and products development, help small businesses, freshly graduated engineers and support their development.\r\nThe FabLab is established thanks to the European Tempus icré@ project. One of the objectives of the project was to create an innovation platform with the purchase of a rapid prototyping machine and RepRap 3D printers. The concept of FabLab seemed then more appropriate."
-slug: fablabenit
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/18/15/b071bc0d-9962-4fc3-a98a-0d82f127e541/FabLab ENIT.jpg
-header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/13/54/53/f2df12a9-7df1-4bb2-8002-e8f56b10a654/FabLab ENIT.jpg
-address_1: ENIT
-address_2: BP 37
-city: Tunis
-county: Le belvédère/Tunis/Tunisia
-postal_code: "1002"
-country_code: TN
-address_notes: ""
-phone: "0021671874700"
 email: fablab@enit.utm.tn
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
-activity_status: active
+header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/13/54/53/f2df12a9-7df1-4bb2-8002-e8f56b10a654/FabLab ENIT.jpg
+id: fablabenit
+kind_name: fab_lab
+lat: 36.8291943
 links:
   - id: 860
     url: https://www.facebook.com/FabLabENIT
-lat: 36.8291943
 lng: 10.142301
+name: FabLab ENIT
+parent_id: null
+phone: "0021671874700"
+postal_code: "1002"
+slug: fablabenit

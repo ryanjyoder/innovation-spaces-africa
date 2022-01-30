@@ -1,28 +1,16 @@
-id: mashinani-hub
+addressLine1: Kisii Country Club, Kisii, Kenya
+articles: null
 city: Kisii
-region: Kisii County
 country: Kenya
-email:
-articles:
 description: |
   Mashinani Hub is an innovation center that is focused on social impact, job creation and innovation.
-name: "Mashinani Hub"
-lat: -0.6708163
-lng: 34.7771001
-websiteUrl:
-id: mashinani-hub
-city: Kisii
-region: Kisii County
-country: Kenya
-email:
-articles:
-description: |
-  Mashinani Hub is an innovation center that is focused on social impact, job creation and innovation.
-name: "Mashinani Hub"
-lat: -0.6708163
-lng: 34.7771001
-websiteUrl:
-twitterHandle:
+email: null
 facebookUrl: https://www.facebook.com/mashinanihub/
-linkedUrl:
-addressLine1: "Kisii Country Club, Kisii, Kenya"
+id: mashinani-hub
+lat: -0.6708163
+linkedUrl: null
+lng: 34.7771001
+name: Mashinani Hub
+region: Kisii County
+twitterHandle: null
+websiteUrl: null

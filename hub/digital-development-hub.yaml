@@ -1,32 +1,18 @@
-id: digital-development-hub
-city: Kano
-region: Kano
-country: Nigeria
-email:
+addressLine1: Kano City, Kano, Nigeria
 articles:
-  - "https://techbuild.africa/digital-development-hub-innovation-nigeria/"
-  - "https://blogs.worldbank.org/digital-development/tech-hubs-across-africa-which-will-be-legacy-makers"
-  - "https://hbr.org/2019/12/research-how-technology-could-promote-growth-in-6-african-countries"
-description: "Digital Hub is a co-working space, incubation/acceleration and an innovation center that focuses on social impact, skill acquisition and job creation. \n"
-name: "Digital Development Hub"
-lat: 12.0049303
-lng: 8.51169030000006
-websiteUrl: https://ddhub.org.ng
-id: digital-development-hub
+  - https://techbuild.africa/digital-development-hub-innovation-nigeria/
+  - https://blogs.worldbank.org/digital-development/tech-hubs-across-africa-which-will-be-legacy-makers
+  - https://hbr.org/2019/12/research-how-technology-could-promote-growth-in-6-african-countries
 city: Kano
-region: Kano
 country: Nigeria
-email:
-articles:
-  - "https://techbuild.africa/digital-development-hub-innovation-nigeria/"
-  - "https://blogs.worldbank.org/digital-development/tech-hubs-across-africa-which-will-be-legacy-makers"
-  - "https://hbr.org/2019/12/research-how-technology-could-promote-growth-in-6-african-countries"
 description: "Digital Hub is a co-working space, incubation/acceleration and an innovation center that focuses on social impact, skill acquisition and job creation. \n"
-name: "Digital Development Hub"
+email: null
+facebookUrl: null
+id: digital-development-hub
 lat: 12.0049303
-lng: 8.51169030000006
-websiteUrl: https://ddhub.org.ng
-twitterHandle:
-facebookUrl:
 linkedUrl: https://ng.linkedin.com/company/ddhubng
-addressLine1: "Kano City, Kano, Nigeria"
+lng: 8.51169030000006
+name: Digital Development Hub
+region: Kano
+twitterHandle: null
+websiteUrl: https://ddhub.org.ng

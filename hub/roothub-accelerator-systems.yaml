@@ -1,34 +1,19 @@
-id: roothub-accelerator-systems
-city: Uyo
-region: Akwa Ibom
-country: Nigeria
-email:
+addressLine1: Uyo Airport, Uyo, Nigeria
 articles:
-  - "http://www.connectingafrica.com/document.asp?doc_id=746077"
-  - "https://hypestationng.com/the-roothub-and-76-other-communities-selected-for-the-2020-facebook-community-accelerator-program/"
-  - "https://ventureburn.com/2018/06/heres-need-know-nigerias-tech-startup-ecosystem/"
-  - "https://www.africanews.com/2020/07/14/twelve-facebook-leaders-from-nigeria-south-africa-and-kenya-selected-as-part-of-the-facebook-community-accelerator-programme//"
-description: "Roothub is a co-creation space  that is focused on social impact, job creation and innovation. \n"
-name: "Roothub Accelerator Systems"
-lat: 4.876463
-lng: 8.08569299999999
-websiteUrl: https://theroothub.com/
-id: roothub-accelerator-systems
+  - http://www.connectingafrica.com/document.asp?doc_id=746077
+  - https://hypestationng.com/the-roothub-and-76-other-communities-selected-for-the-2020-facebook-community-accelerator-program/
+  - https://ventureburn.com/2018/06/heres-need-know-nigerias-tech-startup-ecosystem/
+  - https://www.africanews.com/2020/07/14/twelve-facebook-leaders-from-nigeria-south-africa-and-kenya-selected-as-part-of-the-facebook-community-accelerator-programme//
 city: Uyo
-region: Akwa Ibom
 country: Nigeria
-email:
-articles:
-  - "http://www.connectingafrica.com/document.asp?doc_id=746077"
-  - "https://hypestationng.com/the-roothub-and-76-other-communities-selected-for-the-2020-facebook-community-accelerator-program/"
-  - "https://ventureburn.com/2018/06/heres-need-know-nigerias-tech-startup-ecosystem/"
-  - "https://www.africanews.com/2020/07/14/twelve-facebook-leaders-from-nigeria-south-africa-and-kenya-selected-as-part-of-the-facebook-community-accelerator-programme//"
 description: "Roothub is a co-creation space  that is focused on social impact, job creation and innovation. \n"
-name: "Roothub Accelerator Systems"
-lat: 4.876463
-lng: 8.08569299999999
-websiteUrl: https://theroothub.com/
-twitterHandle: theroothub
+email: null
 facebookUrl: https://www.facebook.com/theroothub/
-linkedUrl:
-addressLine1: "Uyo Airport, Uyo, Nigeria"
+id: roothub-accelerator-systems
+lat: 4.876463
+linkedUrl: null
+lng: 8.08569299999999
+name: Roothub Accelerator Systems
+region: Akwa Ibom
+twitterHandle: theroothub
+websiteUrl: https://theroothub.com/

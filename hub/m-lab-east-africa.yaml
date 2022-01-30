@@ -1,32 +1,18 @@
-id: m-lab-east-africa
-city: Nairobi
-region:
-country: Kenya
-email:
-articles:
-  - "https://www.biztechafrica.com/article/mlab-east-africa-officially-opened/809/"
-  - "https://disrupt-africa.com/2014/12/17/kenyan-startups-earn-5k-investment-mlab-east-africa/"
-  - "https://thenextweb.com/news/kenya-launches-africas-first-mobile-apps-lab"
-description: ""
-name: "m:Lab East Africa"
-lat:
-lng:
-websiteUrl: http://mlab.co.ke/
-id: m-lab-east-africa
-city: Nairobi
-region:
-country: Kenya
-email:
-articles:
-  - "https://www.biztechafrica.com/article/mlab-east-africa-officially-opened/809/"
-  - "https://disrupt-africa.com/2014/12/17/kenyan-startups-earn-5k-investment-mlab-east-africa/"
-  - "https://thenextweb.com/news/kenya-launches-africas-first-mobile-apps-lab"
-description: ""
-name: "m:Lab East Africa"
-lat:
-lng:
-websiteUrl: http://mlab.co.ke/
-twitterHandle:
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://www.biztechafrica.com/article/mlab-east-africa-officially-opened/809/
+  - https://disrupt-africa.com/2014/12/17/kenyan-startups-earn-5k-investment-mlab-east-africa/
+  - https://thenextweb.com/news/kenya-launches-africas-first-mobile-apps-lab
+city: Nairobi
+country: Kenya
+description: ""
+email: null
+facebookUrl: null
+id: m-lab-east-africa
+lat: null
+linkedUrl: null
+lng: null
+name: m:Lab East Africa
+region: null
+twitterHandle: null
+websiteUrl: http://mlab.co.ke/

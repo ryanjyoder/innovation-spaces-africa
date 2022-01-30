@@ -1,32 +1,18 @@
-id: tanzict
-city: Dar es Salaam
-region:
-country: Tanzania
-email:
-articles:
-  - "https://www.infodev.org/articles/cutting-edge-ict-incubator-set-unleash-technology-entrepreneurship-tanzania"
-  - "https://www.howwemadeitinafrica.com/will-tanzanias-two-new-innovation-hubs-boost-the-countrys-tech-scene/20416/"
-  - "https://blogs.worldbank.org/digital-development/weve-updated-africa-tech-hub-map-using-your-suggestions"
-description: ""
-name: "TANZICT"
-lat:
-lng:
-websiteUrl: http://tanzict.or.tz/
-id: tanzict
-city: Dar es Salaam
-region:
-country: Tanzania
-email:
-articles:
-  - "https://www.infodev.org/articles/cutting-edge-ict-incubator-set-unleash-technology-entrepreneurship-tanzania"
-  - "https://www.howwemadeitinafrica.com/will-tanzanias-two-new-innovation-hubs-boost-the-countrys-tech-scene/20416/"
-  - "https://blogs.worldbank.org/digital-development/weve-updated-africa-tech-hub-map-using-your-suggestions"
-description: ""
-name: "TANZICT"
-lat:
-lng:
-websiteUrl: http://tanzict.or.tz/
-twitterHandle:
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://www.infodev.org/articles/cutting-edge-ict-incubator-set-unleash-technology-entrepreneurship-tanzania
+  - https://www.howwemadeitinafrica.com/will-tanzanias-two-new-innovation-hubs-boost-the-countrys-tech-scene/20416/
+  - https://blogs.worldbank.org/digital-development/weve-updated-africa-tech-hub-map-using-your-suggestions
+city: Dar es Salaam
+country: Tanzania
+description: ""
+email: null
+facebookUrl: null
+id: tanzict
+lat: null
+linkedUrl: null
+lng: null
+name: TANZICT
+region: null
+twitterHandle: null
+websiteUrl: http://tanzict.or.tz/

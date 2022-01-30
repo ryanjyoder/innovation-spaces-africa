@@ -1,29 +1,29 @@
-id: developerfablab
-name: Developer Fab Lab
-kind_name: fab_lab
-parent_id: null
-blurb: we are ensuring that we are building Robotics part , Building of simple electronics for IOT and AI inter phasing. we are also ensuring a recycling of our own waste
-description: We open our lab once a month for the members of the community to come try their hands and creativity in making electronics gadget by using micro bit and Ardiuno . We are working on cutting up parts for our waste recycling project using our laser cutter. We are also working on building toys for kids.we have made few object like camera Stand .
-slug: developerfablab
-avatar_url: http://fablabs.io.s3.amazonaws.com/2018/08/22/20/08/09/364c0e17-c0af-4fd1-bc01-1d3b88840249/Developers lab.png
-header_url: http://fablabs.io.s3.amazonaws.com/2018/08/22/20/08/09/fba0adfa-dc3e-42e5-b79f-56332a04541a/some of the machines purchased.jpg
+activity_status: active
 address_1: No 3 Martin Luther King Jr street Gwarinpa
 address_2: ""
-city: Abuja
-county: FCT
-postal_code: "900108"
-country_code: NG
-latitude: null
-longitude: null
 address_notes: No 3 Martin Luther King Jr street Gwarinpa
-phone: "+2348133226669"
-email: info@odysseyedufoundation.org
+avatar_url: http://fablabs.io.s3.amazonaws.com/2018/08/22/20/08/09/364c0e17-c0af-4fd1-bc01-1d3b88840249/Developers lab.png
+blurb: we are ensuring that we are building Robotics part , Building of simple electronics for IOT and AI inter phasing. we are also ensuring a recycling of our own waste
 capabilities:
   - three_d_printing
   - circuit_production
   - laser
   - vinyl_cutting
-activity_status: active
+city: Abuja
+country_code: NG
+county: FCT
+description: We open our lab once a month for the members of the community to come try their hands and creativity in making electronics gadget by using micro bit and Ardiuno . We are working on cutting up parts for our waste recycling project using our laser cutter. We are also working on building toys for kids.we have made few object like camera Stand .
+email: info@odysseyedufoundation.org
+header_url: http://fablabs.io.s3.amazonaws.com/2018/08/22/20/08/09/fba0adfa-dc3e-42e5-b79f-56332a04541a/some of the machines purchased.jpg
+id: developerfablab
+kind_name: fab_lab
+latitude: null
 links:
   - id: 5957
     url: http://www.odysseyedufounfation.org
+longitude: null
+name: Developer Fab Lab
+parent_id: null
+phone: "+2348133226669"
+postal_code: "900108"
+slug: developerfablab

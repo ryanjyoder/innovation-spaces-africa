@@ -1,28 +1,16 @@
-id: focus-hub
-city: Port Harcourt
-region:
-country: Nigeria
-email:
-articles:
-  - "https://techpoint.africa/2015/10/05/niger-delta-based-focus-hub-opens-incubation-program-for-entrepreneurs-and-startups/"
-description: ""
-name: "Focus Hub"
-lat:
-lng:
-websiteUrl: http://focushub.net/
-id: focus-hub
-city: Port Harcourt
-region:
-country: Nigeria
-email:
-articles:
-  - "https://techpoint.africa/2015/10/05/niger-delta-based-focus-hub-opens-incubation-program-for-entrepreneurs-and-startups/"
-description: ""
-name: "Focus Hub"
-lat:
-lng:
-websiteUrl: http://focushub.net/
-twitterHandle:
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://techpoint.africa/2015/10/05/niger-delta-based-focus-hub-opens-incubation-program-for-entrepreneurs-and-startups/
+city: Port Harcourt
+country: Nigeria
+description: ""
+email: null
+facebookUrl: null
+id: focus-hub
+lat: null
+linkedUrl: null
+lng: null
+name: Focus Hub
+region: null
+twitterHandle: null
+websiteUrl: http://focushub.net/

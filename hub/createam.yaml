@@ -1,28 +1,16 @@
-id: createam
-city:
-region:
-country:
-email: contact@createam.ml
-articles:
-  - "https://blogs.worldbank.org/psd/giving-francophone-african-incubators-keys-accelerate-growth-entrepreneurship"
-description: ""
-name: "CREATEAM"
-lat:
-lng:
-websiteUrl: https://www.createam.ml/
-id: createam
-city:
-region:
-country:
-email: contact@createam.ml
-articles:
-  - "https://blogs.worldbank.org/psd/giving-francophone-african-incubators-keys-accelerate-growth-entrepreneurship"
-description: ""
-name: "CREATEAM"
-lat:
-lng:
-websiteUrl: https://www.createam.ml/
-twitterHandle: createam2015
-facebookUrl: https://web.facebook.com/Lincubateur-Createam-927943447313058/?_rdc=1&amp
-linkedUrl: _rdr
 addressLine1: ""
+articles:
+  - https://blogs.worldbank.org/psd/giving-francophone-african-incubators-keys-accelerate-growth-entrepreneurship
+city: null
+country: null
+description: ""
+email: contact@createam.ml
+facebookUrl: https://web.facebook.com/Lincubateur-Createam-927943447313058/?_rdc=1&amp
+id: createam
+lat: null
+linkedUrl: _rdr
+lng: null
+name: CREATEAM
+region: null
+twitterHandle: createam2015
+websiteUrl: https://www.createam.ml/

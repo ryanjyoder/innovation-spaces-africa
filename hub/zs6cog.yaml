@@ -1,84 +1,28 @@
-id: zs6cog
-name: ZS6COG Fablab
-kind_name: fab_lab
-parent_id: null
-blurb: ZS6COG Fablab is an attempt to increase the skills levels of youths, artisans, technicians, teachers, college lecturers and budding inventors and innovators.
-description: "ZS6COG Fablab is an educational training facility with a manufacturing and maker-space flavor thereto.\r\n\r\nWe train all kinds of skills programmes and we also develop skills training programmes to the needs of our clients and stakeholders.\r\n\r\nWith 23 years curriculum development and support experience in technical and vocational education  ZS6COG aims to train all and sundry!\r\n\r\nCapabilities of ZS6COG includes:\r\nElectrical Training Panels\r\nElectronic Training Equipment\r\nPLC Training Equipment\r\nHand Skills\r\n3D Printing\r\n3D Scanning\r\nLarge Format Printing\r\nCNC Routering\r\nCNC Drilling\r\nMilling\r\nLathe Work\r\nHand Skills\r\nWoodwork\r\nWelding and sheet metalwork\r\n\r\nThe centre is preparing for the artisans skills training of 2 trades. These are:\r\n1.\tElectrician\r\n2.\tElectronic Mechanician\r\n\r\n\r\n\r\nThe skills training program is rolled out over two years which includes 6 months training in year one and 3 months training in year two.\r\nThe centre is preparing for the artisans skills training of 2 trades. These are:\r\n1.\tElectrician\r\n2.\tElectronic Mechanician\r\n\r\nThe skills training program is rolled out over two years which includes 6 months training in year one and 3 months training in year two.\r\n"
-slug: zs6cog
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/06/30/09/03/36/cdd5f543-13eb-4d8a-99c7-6c6bb1c11a7f/ZS6COG.jpg
-header_url: http://fablabs.io.s3.amazonaws.com/2017/06/30/09/03/36/0b67ada1-3efe-4556-90e1-674724b269e2/ZS6COG.jpg
+activity_status: closed
 address_1: Plot 87, Vyfde Straat
 address_2: Spaarwater A.H
-city: Heidelberg
-county: Gauteng
-postal_code: "1438"
-country_code: ZA
 address_notes: ""
-phone: 083 543 5668
-email: zs6cog@gmail.com
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/06/30/09/03/36/cdd5f543-13eb-4d8a-99c7-6c6bb1c11a7f/ZS6COG.jpg
+blurb: ZS6COG Fablab is an attempt to increase the skills levels of youths, artisans, technicians, teachers, college lecturers and budding inventors and innovators.
 capabilities:
   - three_d_printing
   - cnc_milling
   - circuit_production
   - precision_milling
   - vinyl_cutting
-activity_status: closed
-links: []
-lat: -26.4198791
-lng: 28.3484831000001
-id: zs6cog
-name: ZS6COG Fablab
-kind_name: fab_lab
-parent_id: null
-blurb: ZS6COG Fablab is an attempt to increase the skills levels of youths, artisans, technicians, teachers, college lecturers and budding inventors and innovators.
-description: "ZS6COG Fablab is an educational training facility with a manufacturing and maker-space flavor thereto.\r\n\r\nWe train all kinds of skills programmes and we also develop skills training programmes to the needs of our clients and stakeholders.\r\n\r\nWith 23 years curriculum development and support experience in technical and vocational education  ZS6COG aims to train all and sundry!\r\n\r\nCapabilities of ZS6COG includes:\r\nElectrical Training Panels\r\nElectronic Training Equipment\r\nPLC Training Equipment\r\nHand Skills\r\n3D Printing\r\n3D Scanning\r\nLarge Format Printing\r\nCNC Routering\r\nCNC Drilling\r\nMilling\r\nLathe Work\r\nHand Skills\r\nWoodwork\r\nWelding and sheet metalwork\r\n\r\nThe centre is preparing for the artisans skills training of 2 trades. These are:\r\n1.\tElectrician\r\n2.\tElectronic Mechanician\r\n\r\n\r\n\r\nThe skills training program is rolled out over two years which includes 6 months training in year one and 3 months training in year two.\r\nThe centre is preparing for the artisans skills training of 2 trades. These are:\r\n1.\tElectrician\r\n2.\tElectronic Mechanician\r\n\r\nThe skills training program is rolled out over two years which includes 6 months training in year one and 3 months training in year two.\r\n"
-slug: zs6cog
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/06/30/09/03/36/cdd5f543-13eb-4d8a-99c7-6c6bb1c11a7f/ZS6COG.jpg
-header_url: http://fablabs.io.s3.amazonaws.com/2017/06/30/09/03/36/0b67ada1-3efe-4556-90e1-674724b269e2/ZS6COG.jpg
-address_1: Plot 87, Vyfde Straat
-address_2: Spaarwater A.H
 city: Heidelberg
-county: Gauteng
-postal_code: "1438"
 country_code: ZA
-address_notes: ""
-phone: 083 543 5668
-email: zs6cog@gmail.com
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - precision_milling
-  - vinyl_cutting
-activity_status: closed
-links: []
-lat: -26.4198791
-lng: 28.3484831000001
-id: zs6cog
-name: ZS6COG Fablab
-kind_name: fab_lab
-parent_id: null
-blurb: ZS6COG Fablab is an attempt to increase the skills levels of youths, artisans, technicians, teachers, college lecturers and budding inventors and innovators.
+county: Gauteng
 description: "ZS6COG Fablab is an educational training facility with a manufacturing and maker-space flavor thereto.\r\n\r\nWe train all kinds of skills programmes and we also develop skills training programmes to the needs of our clients and stakeholders.\r\n\r\nWith 23 years curriculum development and support experience in technical and vocational education  ZS6COG aims to train all and sundry!\r\n\r\nCapabilities of ZS6COG includes:\r\nElectrical Training Panels\r\nElectronic Training Equipment\r\nPLC Training Equipment\r\nHand Skills\r\n3D Printing\r\n3D Scanning\r\nLarge Format Printing\r\nCNC Routering\r\nCNC Drilling\r\nMilling\r\nLathe Work\r\nHand Skills\r\nWoodwork\r\nWelding and sheet metalwork\r\n\r\nThe centre is preparing for the artisans skills training of 2 trades. These are:\r\n1.\tElectrician\r\n2.\tElectronic Mechanician\r\n\r\n\r\n\r\nThe skills training program is rolled out over two years which includes 6 months training in year one and 3 months training in year two.\r\nThe centre is preparing for the artisans skills training of 2 trades. These are:\r\n1.\tElectrician\r\n2.\tElectronic Mechanician\r\n\r\nThe skills training program is rolled out over two years which includes 6 months training in year one and 3 months training in year two.\r\n"
-slug: zs6cog
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/06/30/09/03/36/cdd5f543-13eb-4d8a-99c7-6c6bb1c11a7f/ZS6COG.jpg
-header_url: http://fablabs.io.s3.amazonaws.com/2017/06/30/09/03/36/0b67ada1-3efe-4556-90e1-674724b269e2/ZS6COG.jpg
-address_1: Plot 87, Vyfde Straat
-address_2: Spaarwater A.H
-city: Heidelberg
-county: Gauteng
-postal_code: "1438"
-country_code: ZA
-address_notes: ""
-phone: 083 543 5668
 email: zs6cog@gmail.com
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - precision_milling
-  - vinyl_cutting
-activity_status: closed
-links: []
+header_url: http://fablabs.io.s3.amazonaws.com/2017/06/30/09/03/36/0b67ada1-3efe-4556-90e1-674724b269e2/ZS6COG.jpg
+id: zs6cog
+kind_name: fab_lab
 lat: -26.4198791
+links: []
 lng: 28.3484831000001
+name: ZS6COG Fablab
+parent_id: null
+phone: 083 543 5668
+postal_code: "1438"
+slug: zs6cog

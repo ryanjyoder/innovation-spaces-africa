@@ -1,30 +1,17 @@
-id: think-technology-incubator
-city: Kigali
-region:
-country: Rwanda
-email:
-articles:
-  - "https://ventureburn.com/2015/06/think-adds-new-startups-accelerated-incubator/"
-  - "https://www.forbes.com/sites/karstenstrauss/2014/04/01/lets-build-a-tech-startup-in-rwanda/?sh=5391af776bf0"
-description: ""
-name: "THINK Technology Incubator "
-lat:
-lng:
-websiteUrl: http://www.think.rw
-id: think-technology-incubator
-city: Kigali
-region:
-country: Rwanda
-email:
-articles:
-  - "https://ventureburn.com/2015/06/think-adds-new-startups-accelerated-incubator/"
-  - "https://www.forbes.com/sites/karstenstrauss/2014/04/01/lets-build-a-tech-startup-in-rwanda/?sh=5391af776bf0"
-description: ""
-name: "THINK Technology Incubator "
-lat:
-lng:
-websiteUrl: http://www.think.rw
-twitterHandle:
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://ventureburn.com/2015/06/think-adds-new-startups-accelerated-incubator/
+  - https://www.forbes.com/sites/karstenstrauss/2014/04/01/lets-build-a-tech-startup-in-rwanda/?sh=5391af776bf0
+city: Kigali
+country: Rwanda
+description: ""
+email: null
+facebookUrl: null
+id: think-technology-incubator
+lat: null
+linkedUrl: null
+lng: null
+name: 'THINK Technology Incubator '
+region: null
+twitterHandle: null
+websiteUrl: http://www.think.rw

@@ -1,34 +1,19 @@
-id: bantuhub
-city: Brazzaville
-region:
-country: Congo
-email:
-articles:
-  - "https://www.biztechafrica.com/article/congo-brazzavilles-bantuhub-offers-ict-relief-loca/8861/"
-  - "https://www.lepoint.fr/economie/du-bantuhub-a-l-infinite-school-verone-mankou-dit-tout-30-07-2014-1860380_28.php"
-  - "https://www.afrikatech.com/start-business/verone-mankou-and-her-way-c-tablet/"
-  - "https://www.biztechafrica.com/article/congo-brazzavilles-bantuhub-offers-ict-relief-loca/8861/"
-description: ""
-name: "BantuHub "
-lat:
-lng:
-websiteUrl: http://www.bantuhub.com/
-id: bantuhub
-city: Brazzaville
-region:
-country: Congo
-email:
-articles:
-  - "https://www.biztechafrica.com/article/congo-brazzavilles-bantuhub-offers-ict-relief-loca/8861/"
-  - "https://www.lepoint.fr/economie/du-bantuhub-a-l-infinite-school-verone-mankou-dit-tout-30-07-2014-1860380_28.php"
-  - "https://www.afrikatech.com/start-business/verone-mankou-and-her-way-c-tablet/"
-  - "https://www.biztechafrica.com/article/congo-brazzavilles-bantuhub-offers-ict-relief-loca/8861/"
-description: ""
-name: "BantuHub "
-lat:
-lng:
-websiteUrl: http://www.bantuhub.com/
-twitterHandle:
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://www.biztechafrica.com/article/congo-brazzavilles-bantuhub-offers-ict-relief-loca/8861/
+  - https://www.lepoint.fr/economie/du-bantuhub-a-l-infinite-school-verone-mankou-dit-tout-30-07-2014-1860380_28.php
+  - https://www.afrikatech.com/start-business/verone-mankou-and-her-way-c-tablet/
+  - https://www.biztechafrica.com/article/congo-brazzavilles-bantuhub-offers-ict-relief-loca/8861/
+city: Brazzaville
+country: Congo
+description: ""
+email: null
+facebookUrl: null
+id: bantuhub
+lat: null
+linkedUrl: null
+lng: null
+name: 'BantuHub '
+region: null
+twitterHandle: null
+websiteUrl: http://www.bantuhub.com/

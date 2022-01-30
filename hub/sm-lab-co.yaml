@@ -1,26 +1,15 @@
-id: sm-lab-co
-city:
-region:
-country: Burkina Faso
-email: contact@smlab.cool
-articles:
-description: ""
-name: "SM LAB & CO"
-lat:
-lng:
-websiteUrl: http://smlab.cool/
-id: sm-lab-co
-city:
-region:
-country: Burkina Faso
-email: contact@smlab.cool
-articles:
-description: ""
-name: "SM LAB & CO"
-lat:
-lng:
-websiteUrl: http://smlab.cool/
-twitterHandle: switch_maker
-facebookUrl: https://web.facebook.com/SMLabCO
-linkedUrl:
 addressLine1: ""
+articles: null
+city: null
+country: Burkina Faso
+description: ""
+email: contact@smlab.cool
+facebookUrl: https://web.facebook.com/SMLabCO
+id: sm-lab-co
+lat: null
+linkedUrl: null
+lng: null
+name: SM LAB & CO
+region: null
+twitterHandle: switch_maker
+websiteUrl: http://smlab.cool/

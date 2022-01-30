@@ -1,26 +1,15 @@
-id: uac-startup-valley
-city:
-region:
-country:
-email: uacstartupvalley@uacstartupvalley.com
-articles:
+addressLine1: Abomey Calavi, B�nin
+articles: null
+city: null
+country: null
 description: ""
-name: "UAC Startup Valley"
-lat:
-lng:
-websiteUrl: http://www.uacstartupvalley.com
-id: uac-startup-valley
-city:
-region:
-country:
 email: uacstartupvalley@uacstartupvalley.com
-articles:
-description: ""
-name: "UAC Startup Valley"
-lat:
-lng:
-websiteUrl: http://www.uacstartupvalley.com
-twitterHandle:
 facebookUrl: https://www.facebook.com/uacstartupvalley/
-linkedUrl:
-addressLine1: "Abomey Calavi, B�nin"
+id: uac-startup-valley
+lat: null
+linkedUrl: null
+lng: null
+name: UAC Startup Valley
+region: null
+twitterHandle: null
+websiteUrl: http://www.uacstartupvalley.com

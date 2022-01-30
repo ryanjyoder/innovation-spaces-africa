@@ -1,32 +1,18 @@
-id: beoogolab
-city:
-region:
-country:
-email: info@beoogolab.org
+addressLine1: Somgand�, Secteur 19, Rue Dima Koon ,  Ouagadougou
 articles:
-  - "https://www.africinnov.com/fr/news/entretien_avec_mahamadi_rouamba_le_pionnier_de_la_startup_studio_au_burkina_faso"
-  - "https://www.burkina24.com/2019/02/05/burkina-beoogolab-seme-les-graines-du-e-commerce/"
-  - "none"
+  - https://www.africinnov.com/fr/news/entretien_avec_mahamadi_rouamba_le_pionnier_de_la_startup_studio_au_burkina_faso
+  - https://www.burkina24.com/2019/02/05/burkina-beoogolab-seme-les-graines-du-e-commerce/
+  - none
+city: null
+country: null
 description: ""
-name: "BeoogoLAB"
-lat:
-lng:
-websiteUrl: http://www.beoogolab.org
-id: beoogolab
-city:
-region:
-country:
 email: info@beoogolab.org
-articles:
-  - "https://www.africinnov.com/fr/news/entretien_avec_mahamadi_rouamba_le_pionnier_de_la_startup_studio_au_burkina_faso"
-  - "https://www.burkina24.com/2019/02/05/burkina-beoogolab-seme-les-graines-du-e-commerce/"
-  - "none"
-description: ""
-name: "BeoogoLAB"
-lat:
-lng:
-websiteUrl: http://www.beoogolab.org
+facebookUrl: null
+id: beoogolab
+lat: null
+linkedUrl: null
+lng: null
+name: BeoogoLAB
+region: null
 twitterHandle: BeoogoLAB
-facebookUrl:
-linkedUrl:
-addressLine1: "Somgand�, Secteur 19, Rue Dima Koon ,  Ouagadougou"
+websiteUrl: http://www.beoogolab.org

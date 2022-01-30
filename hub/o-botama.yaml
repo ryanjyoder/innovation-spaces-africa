@@ -1,36 +1,20 @@
-id: o-botama
-city: Yaounde
-region: Center
-country: Cameroon
-email: contact@obotama.com
+addressLine1: Biyem-Assi
 articles:
-  - "https://econuma.com/go-aac/les-incubateurs-dentreprises-au-cameroun-une-chance-de-survie-pour-les-entreprises-camerounaises-1616334556"
-  - "https://www.financialafrik.com/2019/08/31/obotama-un-incubateur-au-service-des-entrepreneurs-camerounais/"
-  - "https://cameroonceo.com/2019/10/29/obotama-le-cameroun-terre-fertile-pour-la-tech/"
-  - "https://oceans-news.com/cameroun-obotama-face-au-covid-19-benjamin-ngongang-repond-a-oceans-news/"
-  - "https://www.auletch.com/le-club-awale-et-obotama-organise-son-1er-tournoi-de-songo-a-yaounde/"
-description: ""
-name: "OBotama"
-lat:
-lng:
-websiteUrl: http://www.obotama.com
-id: o-botama
+  - https://econuma.com/go-aac/les-incubateurs-dentreprises-au-cameroun-une-chance-de-survie-pour-les-entreprises-camerounaises-1616334556
+  - https://www.financialafrik.com/2019/08/31/obotama-un-incubateur-au-service-des-entrepreneurs-camerounais/
+  - https://cameroonceo.com/2019/10/29/obotama-le-cameroun-terre-fertile-pour-la-tech/
+  - https://oceans-news.com/cameroun-obotama-face-au-covid-19-benjamin-ngongang-repond-a-oceans-news/
+  - https://www.auletch.com/le-club-awale-et-obotama-organise-son-1er-tournoi-de-songo-a-yaounde/
 city: Yaounde
-region: Center
 country: Cameroon
-email: contact@obotama.com
-articles:
-  - "https://econuma.com/go-aac/les-incubateurs-dentreprises-au-cameroun-une-chance-de-survie-pour-les-entreprises-camerounaises-1616334556"
-  - "https://www.financialafrik.com/2019/08/31/obotama-un-incubateur-au-service-des-entrepreneurs-camerounais/"
-  - "https://cameroonceo.com/2019/10/29/obotama-le-cameroun-terre-fertile-pour-la-tech/"
-  - "https://oceans-news.com/cameroun-obotama-face-au-covid-19-benjamin-ngongang-repond-a-oceans-news/"
-  - "https://www.auletch.com/le-club-awale-et-obotama-organise-son-1er-tournoi-de-songo-a-yaounde/"
 description: ""
-name: "OBotama"
-lat:
-lng:
-websiteUrl: http://www.obotama.com
-twitterHandle: OBotama_aic
+email: contact@obotama.com
 facebookUrl: https://www.facebook.com/OBotama2018/
-linkedUrl:
-addressLine1: "Biyem-Assi"
+id: o-botama
+lat: null
+linkedUrl: null
+lng: null
+name: OBotama
+region: Center
+twitterHandle: OBotama_aic
+websiteUrl: http://www.obotama.com

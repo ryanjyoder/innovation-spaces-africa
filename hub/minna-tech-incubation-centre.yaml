@@ -1,28 +1,16 @@
-id: minna-tech-incubation-centre
-city: Minna
-region:
-country: Nigeria
-email:
-articles:
-  - "https://thenationonlineng.net/creating-entrepreneurs-technology-incubation/"
-description: ""
-name: "Minna Tech Incubation Centre "
-lat:
-lng:
-websiteUrl: https://www.govserv.org/NG/Minna/537527556399104/Technology-Incubation-Centre-Minna
-id: minna-tech-incubation-centre
-city: Minna
-region:
-country: Nigeria
-email:
-articles:
-  - "https://thenationonlineng.net/creating-entrepreneurs-technology-incubation/"
-description: ""
-name: "Minna Tech Incubation Centre "
-lat:
-lng:
-websiteUrl: https://www.govserv.org/NG/Minna/537527556399104/Technology-Incubation-Centre-Minna
-twitterHandle:
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://thenationonlineng.net/creating-entrepreneurs-technology-incubation/
+city: Minna
+country: Nigeria
+description: ""
+email: null
+facebookUrl: null
+id: minna-tech-incubation-centre
+lat: null
+linkedUrl: null
+lng: null
+name: 'Minna Tech Incubation Centre '
+region: null
+twitterHandle: null
+websiteUrl: https://www.govserv.org/NG/Minna/537527556399104/Technology-Incubation-Centre-Minna

@@ -1,28 +1,16 @@
-id: micti-technology-and-business-centre
-city: Maputo
-region:
-country: Mozambique
-email:
-articles:
-  - "http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=6998"
-description: ""
-name: "MICTI Technology and Business Centre"
-lat:
-lng:
-websiteUrl: http://www.micti.co.mz/
-id: micti-technology-and-business-centre
-city: Maputo
-region:
-country: Mozambique
-email:
-articles:
-  - "http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=6998"
-description: ""
-name: "MICTI Technology and Business Centre"
-lat:
-lng:
-websiteUrl: http://www.micti.co.mz/
-twitterHandle:
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=6998
+city: Maputo
+country: Mozambique
+description: ""
+email: null
+facebookUrl: null
+id: micti-technology-and-business-centre
+lat: null
+linkedUrl: null
+lng: null
+name: MICTI Technology and Business Centre
+region: null
+twitterHandle: null
+websiteUrl: http://www.micti.co.mz/

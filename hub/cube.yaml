@@ -1,30 +1,17 @@
-id: cube
-city:
-region:
-country:
-email: equipecube@gmail.com
+addressLine1: BP 4556, togo
 articles:
-  - "https://robohub.org/cube-tech-fair/"
+  - https://robohub.org/cube-tech-fair/
+city: null
+country: null
 description: |
   L'accent est mis sur les projets dans les biotechnologies (Agriculture et transformation agroalimentaire, solutions innovantes en biotechnologies m�dicales, environnementales et industrielles). Toutefois nous sommes pr�ts � accompagner d'autres projets si le volet innovation est prouv� (Inclusion financi�re, �nergie, services de base) et qui r�pondent � un probl�me identifi� dans la communaut�.
-name: "CUBE"
-lat:
-lng:
-websiteUrl: http://www.cubenter.com
-id: cube
-city:
-region:
-country:
 email: equipecube@gmail.com
-articles:
-  - "https://robohub.org/cube-tech-fair/"
-description: |
-  L'accent est mis sur les projets dans les biotechnologies (Agriculture et transformation agroalimentaire, solutions innovantes en biotechnologies m�dicales, environnementales et industrielles). Toutefois nous sommes pr�ts � accompagner d'autres projets si le volet innovation est prouv� (Inclusion financi�re, �nergie, services de base) et qui r�pondent � un probl�me identifi� dans la communaut�.
-name: "CUBE"
-lat:
-lng:
-websiteUrl: http://www.cubenter.com
-twitterHandle: cube_togo
 facebookUrl: https://www.facebook.com/SAEICUBE/
-linkedUrl:
-addressLine1: "BP 4556, togo"
+id: cube
+lat: null
+linkedUrl: null
+lng: null
+name: CUBE
+region: null
+twitterHandle: cube_togo
+websiteUrl: http://www.cubenter.com

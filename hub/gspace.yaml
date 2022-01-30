@@ -1,28 +1,16 @@
-id: gspace
-city: Accra
-region:
-country: Ghana
-email:
-articles:
-  - "http://ecostartup.org/guerra-tech-hub-lincubateur-du-nord-mise-pour-une-industrie-numerique-inclusive-mixte-et-egalitaire/"
-description: ""
-name: "gSpace"
-lat:
-lng:
-websiteUrl: http://gspace.addhen.org/
-id: gspace
-city: Accra
-region:
-country: Ghana
-email:
-articles:
-  - "http://ecostartup.org/guerra-tech-hub-lincubateur-du-nord-mise-pour-une-industrie-numerique-inclusive-mixte-et-egalitaire/"
-description: ""
-name: "gSpace"
-lat:
-lng:
-websiteUrl: http://gspace.addhen.org/
-twitterHandle:
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - http://ecostartup.org/guerra-tech-hub-lincubateur-du-nord-mise-pour-une-industrie-numerique-inclusive-mixte-et-egalitaire/
+city: Accra
+country: Ghana
+description: ""
+email: null
+facebookUrl: null
+id: gspace
+lat: null
+linkedUrl: null
+lng: null
+name: gSpace
+region: null
+twitterHandle: null
+websiteUrl: http://gspace.addhen.org/

@@ -1,28 +1,16 @@
-id: jokkolabs-ouagadougou
-city: Ouagadougou
-region:
-country: Burkina Faso
-email:
-articles:
-  - "https://www.appsafrica.com/jokkolabs-becomes-member-of-growing-afrilabs-network/"
-description: ""
-name: "Jokkolabs Ouagadougou"
-lat:
-lng:
-websiteUrl: http://ouaga.jokkolabs.net/
-id: jokkolabs-ouagadougou
-city: Ouagadougou
-region:
-country: Burkina Faso
-email:
-articles:
-  - "https://www.appsafrica.com/jokkolabs-becomes-member-of-growing-afrilabs-network/"
-description: ""
-name: "Jokkolabs Ouagadougou"
-lat:
-lng:
-websiteUrl: http://ouaga.jokkolabs.net/
-twitterHandle: JklOuaga
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://www.appsafrica.com/jokkolabs-becomes-member-of-growing-afrilabs-network/
+city: Ouagadougou
+country: Burkina Faso
+description: ""
+email: null
+facebookUrl: null
+id: jokkolabs-ouagadougou
+lat: null
+linkedUrl: null
+lng: null
+name: Jokkolabs Ouagadougou
+region: null
+twitterHandle: JklOuaga
+websiteUrl: http://ouaga.jokkolabs.net/

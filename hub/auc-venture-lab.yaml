@@ -1,48 +1,26 @@
-id: auc-venture-lab
-city: Cairo
-region:
-country: Egypt
-email:
-description: |
-  AUC V-Lab is the first university-based incubator in Egypt. It has been selected among the top five most promising university incubators in Africa in 2014.
-articles:
-  - "https://startupswb.com/auc-vlab-is-looking-for-egypts-next-innovators-for-their-startup-accelerator-program.html"
-  - "https://www.egypttoday.com/Article/3/94406/ITIDA-AUC-Venture-Lab-Kick-Off-Startup-Launchpad-to-Enrich"
-  - "https://thestartupscene.me/OPPORTUNITIES/Egypt-s-AUC-Venture-Lab-ITIDA-Are-Now-Accepting-Application-for-New-Joint-Program"
-  - "https://www.auccaravan.com/?p=8528"
-  - "https://disrupt-africa.com/2020/11/23/itida-auc-venture-lab-launch-startup-launchpad-to-boost-egyptian-ecosystem/"
-  - "https://menafn.com/1101154617/Egypt-ITIDA-AUC-Venture-Lab-collaborate-on-Startup-Launchpad"
-  - "http://www.africa-bi.info/en/article/actualite/egypt-itida-auc-venture-lab-kick-off-startup-launchpad-to-enrich-egyptian-entrepreneurship-ecosystem"
-  - "https://www.aacsb.edu/about/advocacy-and-awareness/member-challenges/innovations-that-inspire/2020/the-american-university-in-cairo"
-  - "https://menafn.com/1103496772/AUC-VENTURE-LAB-NAMED-BEST-ACCELERATORINCUBATOR-PROGRAM-IN-NORTH-AFRICA"
-  - "https://www.egypttoday.com/Article/1/111657/Workshops-of-WYF-Labs-tackle-innovation-as-core-of-start"
-name: "AUC Venture Lab"
-lat:
-lng:
-websiteUrl: https://business.aucegypt.edu/centers/vlab/
-id: auc-venture-lab
-city: Cairo
-region:
-country: Egypt
-email:
-description: |
-  AUC V-Lab is the first university-based incubator in Egypt. It has been selected among the top five most promising university incubators in Africa in 2014.
-articles:
-  - "https://startupswb.com/auc-vlab-is-looking-for-egypts-next-innovators-for-their-startup-accelerator-program.html"
-  - "https://www.egypttoday.com/Article/3/94406/ITIDA-AUC-Venture-Lab-Kick-Off-Startup-Launchpad-to-Enrich"
-  - "https://thestartupscene.me/OPPORTUNITIES/Egypt-s-AUC-Venture-Lab-ITIDA-Are-Now-Accepting-Application-for-New-Joint-Program"
-  - "https://www.auccaravan.com/?p=8528"
-  - "https://disrupt-africa.com/2020/11/23/itida-auc-venture-lab-launch-startup-launchpad-to-boost-egyptian-ecosystem/"
-  - "https://menafn.com/1101154617/Egypt-ITIDA-AUC-Venture-Lab-collaborate-on-Startup-Launchpad"
-  - "http://www.africa-bi.info/en/article/actualite/egypt-itida-auc-venture-lab-kick-off-startup-launchpad-to-enrich-egyptian-entrepreneurship-ecosystem"
-  - "https://www.aacsb.edu/about/advocacy-and-awareness/member-challenges/innovations-that-inspire/2020/the-american-university-in-cairo"
-  - "https://menafn.com/1103496772/AUC-VENTURE-LAB-NAMED-BEST-ACCELERATORINCUBATOR-PROGRAM-IN-NORTH-AFRICA"
-  - "https://www.egypttoday.com/Article/1/111657/Workshops-of-WYF-Labs-tackle-innovation-as-core-of-start"
-name: "AUC Venture Lab"
-lat:
-lng:
-websiteUrl: https://business.aucegypt.edu/centers/vlab/
-twitterHandle: aucventurelab
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://startupswb.com/auc-vlab-is-looking-for-egypts-next-innovators-for-their-startup-accelerator-program.html
+  - https://www.egypttoday.com/Article/3/94406/ITIDA-AUC-Venture-Lab-Kick-Off-Startup-Launchpad-to-Enrich
+  - https://thestartupscene.me/OPPORTUNITIES/Egypt-s-AUC-Venture-Lab-ITIDA-Are-Now-Accepting-Application-for-New-Joint-Program
+  - https://www.auccaravan.com/?p=8528
+  - https://disrupt-africa.com/2020/11/23/itida-auc-venture-lab-launch-startup-launchpad-to-boost-egyptian-ecosystem/
+  - https://menafn.com/1101154617/Egypt-ITIDA-AUC-Venture-Lab-collaborate-on-Startup-Launchpad
+  - http://www.africa-bi.info/en/article/actualite/egypt-itida-auc-venture-lab-kick-off-startup-launchpad-to-enrich-egyptian-entrepreneurship-ecosystem
+  - https://www.aacsb.edu/about/advocacy-and-awareness/member-challenges/innovations-that-inspire/2020/the-american-university-in-cairo
+  - https://menafn.com/1103496772/AUC-VENTURE-LAB-NAMED-BEST-ACCELERATORINCUBATOR-PROGRAM-IN-NORTH-AFRICA
+  - https://www.egypttoday.com/Article/1/111657/Workshops-of-WYF-Labs-tackle-innovation-as-core-of-start
+city: Cairo
+country: Egypt
+description: |
+  AUC V-Lab is the first university-based incubator in Egypt. It has been selected among the top five most promising university incubators in Africa in 2014.
+email: null
+facebookUrl: null
+id: auc-venture-lab
+lat: null
+linkedUrl: null
+lng: null
+name: AUC Venture Lab
+region: null
+twitterHandle: aucventurelab
+websiteUrl: https://business.aucegypt.edu/centers/vlab/

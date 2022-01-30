@@ -1,30 +1,17 @@
-id: impact-hub-johannesburg
-city: Johannesburg
-region:
-country: South Africa
-email:
-articles:
-  - "https://disrupt-africa.com/2015/07/23/impact-hub-johannesburg-closes/"
-  - "https://africabusinesscommunities.com/news/liquid-telecom-rwanda-partners-with-impact-hub-kigali-to-nurture-digital-innovation/"
-description: ""
-name: "IMPACT HUB "
-lat:
-lng:
-websiteUrl: johannesburg.impacthub.net
-id: impact-hub-johannesburg
-city: Johannesburg
-region:
-country: South Africa
-email:
-articles:
-  - "https://disrupt-africa.com/2015/07/23/impact-hub-johannesburg-closes/"
-  - "https://africabusinesscommunities.com/news/liquid-telecom-rwanda-partners-with-impact-hub-kigali-to-nurture-digital-innovation/"
-description: ""
-name: "IMPACT HUB "
-lat:
-lng:
-websiteUrl: johannesburg.impacthub.net
-twitterHandle: ImpactHub
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://disrupt-africa.com/2015/07/23/impact-hub-johannesburg-closes/
+  - https://africabusinesscommunities.com/news/liquid-telecom-rwanda-partners-with-impact-hub-kigali-to-nurture-digital-innovation/
+city: Johannesburg
+country: South Africa
+description: ""
+email: null
+facebookUrl: null
+id: impact-hub-johannesburg
+lat: null
+linkedUrl: null
+lng: null
+name: 'IMPACT HUB '
+region: null
+twitterHandle: ImpactHub
+websiteUrl: johannesburg.impacthub.net

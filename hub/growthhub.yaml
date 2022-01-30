@@ -1,32 +1,18 @@
-id: growthhub
-city: Nairobi
-region:
-country: Kenya
-email:
-articles:
-  - "https://techmoran.com/2013/06/21/kenyas-growthhub-opens-applications-for-its-second-cohort-of-startups-offering-75000-in-seed-funding/"
-  - "https://www.kachwanya.com/2012/06/27/the-growthhub-ready-to-invest-usd-100000-pre-committed-capital-on-two-startups-in-kenya/"
-  - "https://theculturetrip.com/africa/kenya/articles/10-times-kenya-proved-to-be-an-innovator-of-tech-in-africa/"
-description: ""
-name: "GrowthHub"
-lat:
-lng:
-websiteUrl: http://www.thegrowthhub.com/
-id: growthhub
-city: Nairobi
-region:
-country: Kenya
-email:
-articles:
-  - "https://techmoran.com/2013/06/21/kenyas-growthhub-opens-applications-for-its-second-cohort-of-startups-offering-75000-in-seed-funding/"
-  - "https://www.kachwanya.com/2012/06/27/the-growthhub-ready-to-invest-usd-100000-pre-committed-capital-on-two-startups-in-kenya/"
-  - "https://theculturetrip.com/africa/kenya/articles/10-times-kenya-proved-to-be-an-innovator-of-tech-in-africa/"
-description: ""
-name: "GrowthHub"
-lat:
-lng:
-websiteUrl: http://www.thegrowthhub.com/
-twitterHandle:
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://techmoran.com/2013/06/21/kenyas-growthhub-opens-applications-for-its-second-cohort-of-startups-offering-75000-in-seed-funding/
+  - https://www.kachwanya.com/2012/06/27/the-growthhub-ready-to-invest-usd-100000-pre-committed-capital-on-two-startups-in-kenya/
+  - https://theculturetrip.com/africa/kenya/articles/10-times-kenya-proved-to-be-an-innovator-of-tech-in-africa/
+city: Nairobi
+country: Kenya
+description: ""
+email: null
+facebookUrl: null
+id: growthhub
+lat: null
+linkedUrl: null
+lng: null
+name: GrowthHub
+region: null
+twitterHandle: null
+websiteUrl: http://www.thegrowthhub.com/

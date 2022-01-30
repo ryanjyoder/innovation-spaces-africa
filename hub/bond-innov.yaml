@@ -1,32 +1,18 @@
-id: bond-innov
-city:
-region:
-country:
-email: contact@bondinnov.com
+addressLine1: 32 Avenue Henri Varagnat, Bondy, France
 articles:
-  - "https://www.biospace.com/article/releases/biocitech-sas-gives-support-to-three-start-ups-in-bond-innov-initiative-/"
-  - "none"
+  - https://www.biospace.com/article/releases/biocitech-sas-gives-support-to-three-start-ups-in-bond-innov-initiative-/
+  - none
+city: null
+country: null
 description: |
   Notre exp�rience dans l'accompagnement de projets innovants nous permet de s�lectionner et de suivre avec soin des projets de qualit� gr�ce � une �quipe d'accompagnement d�di�e, des locaux � disposition des entrepreneurs, un r�seau actif en France et en Afrique, des formations collectives, un p�le d'experts, et de nombreux autres services !
-name: "Bond innov"
-lat:
-lng:
-websiteUrl: http://www.bondinnov.com/
-id: bond-innov
-city:
-region:
-country:
 email: contact@bondinnov.com
-articles:
-  - "https://www.biospace.com/article/releases/biocitech-sas-gives-support-to-three-start-ups-in-bond-innov-initiative-/"
-  - "none"
-description: |
-  Notre exp�rience dans l'accompagnement de projets innovants nous permet de s�lectionner et de suivre avec soin des projets de qualit� gr�ce � une �quipe d'accompagnement d�di�e, des locaux � disposition des entrepreneurs, un r�seau actif en France et en Afrique, des formations collectives, un p�le d'experts, et de nombreux autres services !
-name: "Bond innov"
-lat:
-lng:
-websiteUrl: http://www.bondinnov.com/
-twitterHandle: Bondinnov
 facebookUrl: https://www.facebook.com/incubateurbondinnov/
-linkedUrl:
-addressLine1: "32 Avenue Henri Varagnat, Bondy, France"
+id: bond-innov
+lat: null
+linkedUrl: null
+lng: null
+name: Bond innov
+region: null
+twitterHandle: Bondinnov
+websiteUrl: http://www.bondinnov.com/

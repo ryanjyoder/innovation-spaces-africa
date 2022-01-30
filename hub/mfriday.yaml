@@ -1,26 +1,15 @@
-id: mfriday
-city: Kumasi
-region:
-country: Ghana
-email:
-articles:
-description: ""
-name: "mFriday"
-lat:
-lng:
-websiteUrl: http://www.mfriday.org/
-id: mfriday
-city: Kumasi
-region:
-country: Ghana
-email:
-articles:
-description: ""
-name: "mFriday"
-lat:
-lng:
-websiteUrl: http://www.mfriday.org/
-twitterHandle: mfridays
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles: null
+city: Kumasi
+country: Ghana
+description: ""
+email: null
+facebookUrl: null
+id: mfriday
+lat: null
+linkedUrl: null
+lng: null
+name: mFriday
+region: null
+twitterHandle: mfridays
+websiteUrl: http://www.mfriday.org/

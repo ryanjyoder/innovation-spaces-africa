@@ -1,32 +1,18 @@
-id: congo-business-network
-city:
-region:
-country:
-email:
+addressLine1: Concession Procoki, avenue de L&#039;OUA, Kinshasa, Democratic Republic of the Congo
 articles:
-  - "https://www.africanews.com/2019/07/11/the-congo-business-network-for-economic-development-the-morning-call//"
-  - "https://www.kapitalafrik.com/2018/12/13/drc-congo-business-network-plans-an-online-event-on-business-registration-in-congo/"
-  - "https://www.fmdrc-zambia.com/congo-business-network-to-focus-on-the-digital-ecosystem/"
+  - https://www.africanews.com/2019/07/11/the-congo-business-network-for-economic-development-the-morning-call//
+  - https://www.kapitalafrik.com/2018/12/13/drc-congo-business-network-plans-an-online-event-on-business-registration-in-congo/
+  - https://www.fmdrc-zambia.com/congo-business-network-to-focus-on-the-digital-ecosystem/
+city: null
+country: null
 description: ""
-name: "Congo Business Network"
-lat:
-lng:
-websiteUrl: http://www.congobusinessnetwork.org
+email: null
+facebookUrl: null
 id: congo-business-network
-city:
-region:
-country:
-email:
-articles:
-  - "https://www.africanews.com/2019/07/11/the-congo-business-network-for-economic-development-the-morning-call//"
-  - "https://www.kapitalafrik.com/2018/12/13/drc-congo-business-network-plans-an-online-event-on-business-registration-in-congo/"
-  - "https://www.fmdrc-zambia.com/congo-business-network-to-focus-on-the-digital-ecosystem/"
-description: ""
-name: "Congo Business Network"
-lat:
-lng:
-websiteUrl: http://www.congobusinessnetwork.org
+lat: null
+linkedUrl: null
+lng: null
+name: Congo Business Network
+region: null
 twitterHandle: CongoBizNetwork
-facebookUrl:
-linkedUrl:
-addressLine1: "Concession Procoki, avenue de L&#039;OUA, Kinshasa, Democratic Republic of the Congo"
+websiteUrl: http://www.congobusinessnetwork.org

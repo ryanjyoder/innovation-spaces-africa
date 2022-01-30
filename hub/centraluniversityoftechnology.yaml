@@ -1,69 +1,23 @@
-id: centraluniversityoftechnology
-name: Central University of Technology
-kind_name: fab_lab
-parent_id: null
-blurb: null
-description: ""
-slug: centraluniversityoftechnology
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/11/17/400be726-900b-40fd-a08c-4d0d5bf159ff/Central University of Technology.jpg
-header_url: null
+activity_status: null
 address_1: ""
 address_2: ""
-city: Bloemfontein
-county: Free State
-postal_code: "9301"
-country_code: ZA
 address_notes: ""
-phone: ""
-email: ""
-capabilities: []
-activity_status: null
-links: []
-lat: -29.118349
-lng: 26.22492
-id: centraluniversityoftechnology
-name: Central University of Technology
-kind_name: fab_lab
-parent_id: null
-blurb: null
-description: ""
-slug: centraluniversityoftechnology
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/11/17/400be726-900b-40fd-a08c-4d0d5bf159ff/Central University of Technology.jpg
-header_url: null
-address_1: ""
-address_2: ""
-city: Bloemfontein
-county: Free State
-postal_code: "9301"
-country_code: ZA
-address_notes: ""
-phone: ""
-email: ""
-capabilities: []
-activity_status: null
-links: []
-lat: -29.118349
-lng: 26.22492
-id: centraluniversityoftechnology
-name: Central University of Technology
-kind_name: fab_lab
-parent_id: null
 blurb: null
-description: ""
-slug: centraluniversityoftechnology
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/11/17/400be726-900b-40fd-a08c-4d0d5bf159ff/Central University of Technology.jpg
-header_url: null
-address_1: ""
-address_2: ""
-city: Bloemfontein
-county: Free State
-postal_code: "9301"
-country_code: ZA
-address_notes: ""
-phone: ""
-email: ""
 capabilities: []
-activity_status: null
-links: []
+city: Bloemfontein
+country_code: ZA
+county: Free State
+description: ""
+email: ""
+header_url: null
+id: centraluniversityoftechnology
+kind_name: fab_lab
 lat: -29.118349
+links: []
 lng: 26.22492
+name: Central University of Technology
+parent_id: null
+phone: ""
+postal_code: "9301"
+slug: centraluniversityoftechnology

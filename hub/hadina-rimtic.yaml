@@ -1,36 +1,20 @@
-id: hadina-rimtic
-city:
-region:
-country:
-email: contact@hadinarimtic.com
+addressLine1: Nouakchott, Nouakchott, Mauritanie
 articles:
-  - "https://www.jeuneafrique.com/361471/economie/start-up-de-semaine-hadina-rimtic-lincubateur-veut-donner-de-voix-a-tech-mauritanienne/"
-  - "https://dai-global-digital.com/kic-expands-its-support-of-tech-driven-entrepreneurship-to-mauritania.html"
-  - "https://www.worldbank.org/en/news/feature/2018/06/28/no-stone-left-unturned-how-the-world-bank-group-is-inspiring-a-new-generation-of-entrepreneurs-in-mauritania"
-  - "https://www.lemonde.fr/afrique/article/2015/01/29/en-mauritanie-un-ecosysteme-start-up-prend-forme-lentement-mais-surement_4566242_3212.html"
-  - "https://www.financialafrik.com/2017/07/18/mauritanie-lancement-de-la-semaine-de-lentrepreneuriat/"
+  - https://www.jeuneafrique.com/361471/economie/start-up-de-semaine-hadina-rimtic-lincubateur-veut-donner-de-voix-a-tech-mauritanienne/
+  - https://dai-global-digital.com/kic-expands-its-support-of-tech-driven-entrepreneurship-to-mauritania.html
+  - https://www.worldbank.org/en/news/feature/2018/06/28/no-stone-left-unturned-how-the-world-bank-group-is-inspiring-a-new-generation-of-entrepreneurs-in-mauritania
+  - https://www.lemonde.fr/afrique/article/2015/01/29/en-mauritanie-un-ecosysteme-start-up-prend-forme-lentement-mais-surement_4566242_3212.html
+  - https://www.financialafrik.com/2017/07/18/mauritanie-lancement-de-la-semaine-de-lentrepreneuriat/
+city: null
+country: null
 description: ""
-name: "Hadina Rimtic"
-lat:
-lng:
-websiteUrl: http://www.hadinarimtic.com
-id: hadina-rimtic
-city:
-region:
-country:
 email: contact@hadinarimtic.com
-articles:
-  - "https://www.jeuneafrique.com/361471/economie/start-up-de-semaine-hadina-rimtic-lincubateur-veut-donner-de-voix-a-tech-mauritanienne/"
-  - "https://dai-global-digital.com/kic-expands-its-support-of-tech-driven-entrepreneurship-to-mauritania.html"
-  - "https://www.worldbank.org/en/news/feature/2018/06/28/no-stone-left-unturned-how-the-world-bank-group-is-inspiring-a-new-generation-of-entrepreneurs-in-mauritania"
-  - "https://www.lemonde.fr/afrique/article/2015/01/29/en-mauritanie-un-ecosysteme-start-up-prend-forme-lentement-mais-surement_4566242_3212.html"
-  - "https://www.financialafrik.com/2017/07/18/mauritanie-lancement-de-la-semaine-de-lentrepreneuriat/"
-description: ""
-name: "Hadina Rimtic"
-lat:
-lng:
-websiteUrl: http://www.hadinarimtic.com
-twitterHandle: HadinaRIMTIC
 facebookUrl: https://www.facebook.com/hadinarimtic/about/?ref=page_internal
-linkedUrl:
-addressLine1: "Nouakchott, Nouakchott, Mauritanie"
+id: hadina-rimtic
+lat: null
+linkedUrl: null
+lng: null
+name: Hadina Rimtic
+region: null
+twitterHandle: HadinaRIMTIC
+websiteUrl: http://www.hadinarimtic.com

@@ -1,38 +1,21 @@
-id: y-beca-youth-entrepreneurship-foundation
-city: Johannesburg
-region: Gauteng
-country: South Africa
-email:
+addressLine1: Johannesburg Sewing Centre, Pritchard Street, Hillbrow, Johannesburg, South Africa
 articles:
-  - "http://www.weekendpost.co.bw/21506/weekendlife/young-author-represents-botswana-at-y-beca-foundation/"
-  - "https://www.tralac.org/blog/article/14715-youth-entrepreneurship-in-africa-a-beacon-of-hope-for-the-continent.html"
-  - "https://ventureburn.com/2018/06/afrilabs-extends-deeper-into-north-africa-w/"
-  - "https://www.techinafrica.com/afrilabs-reaches-milestone-100-hubs/"
-  - "https://www.techinafrica.com/details-youngest-african-win-africa-prize-engineering-innovation-2018/"
+  - http://www.weekendpost.co.bw/21506/weekendlife/young-author-represents-botswana-at-y-beca-foundation/
+  - https://www.tralac.org/blog/article/14715-youth-entrepreneurship-in-africa-a-beacon-of-hope-for-the-continent.html
+  - https://ventureburn.com/2018/06/afrilabs-extends-deeper-into-north-africa-w/
+  - https://www.techinafrica.com/afrilabs-reaches-milestone-100-hubs/
+  - https://www.techinafrica.com/details-youngest-african-win-africa-prize-engineering-innovation-2018/
+city: Johannesburg
+country: South Africa
 description: |
   Y-BECA is an incubator and accelerator that is focused on social impact, job creation and innovation
-name: "Y-BECA Youth Entrepreneurship Foundation"
-lat: -26.20222
-lng: 28.049388
-websiteUrl: http://www.y-beca.org/
+email: null
+facebookUrl: null
 id: y-beca-youth-entrepreneurship-foundation
-city: Johannesburg
-region: Gauteng
-country: South Africa
-email:
-articles:
-  - "http://www.weekendpost.co.bw/21506/weekendlife/young-author-represents-botswana-at-y-beca-foundation/"
-  - "https://www.tralac.org/blog/article/14715-youth-entrepreneurship-in-africa-a-beacon-of-hope-for-the-continent.html"
-  - "https://ventureburn.com/2018/06/afrilabs-extends-deeper-into-north-africa-w/"
-  - "https://www.techinafrica.com/afrilabs-reaches-milestone-100-hubs/"
-  - "https://www.techinafrica.com/details-youngest-african-win-africa-prize-engineering-innovation-2018/"
-description: |
-  Y-BECA is an incubator and accelerator that is focused on social impact, job creation and innovation
-name: "Y-BECA Youth Entrepreneurship Foundation"
 lat: -26.20222
-lng: 28.049388
-websiteUrl: http://www.y-beca.org/
-twitterHandle:
-facebookUrl:
 linkedUrl: https://ru.linkedin.com/company/y-beca-youth-entrepreneurship-foundation
-addressLine1: "Johannesburg Sewing Centre, Pritchard Street, Hillbrow, Johannesburg, South Africa"
+lng: 28.049388
+name: Y-BECA Youth Entrepreneurship Foundation
+region: Gauteng
+twitterHandle: null
+websiteUrl: http://www.y-beca.org/

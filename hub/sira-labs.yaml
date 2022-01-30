@@ -1,34 +1,19 @@
-id: sira-labs
-city:
-region:
-country:
-email: contact@sira-labs.com
+addressLine1: Festival Des Glaces, Ouagadougou, Burkina Faso
 articles:
-  - "https://www.burkina24.com/2020/10/28/lancement-de-lincubateur-sira-labs-a-bobo-dioulasso-des-opportunites-de-creation-dentreprises-numeriques-pour-tous/"
-  - "https://www.burkina24.com/2017/07/31/tic-au-burkina-sira-labs-ou-la-route-du-developpement/"
-  - "https://lefaso.net/spip.php?article100228"
-  - "https://eprevision.blog4ever.com/sira-labs-sante-de-lenfant-etat-des-lieux-au-burkina-faso-et-transformation-digitale"
+  - https://www.burkina24.com/2020/10/28/lancement-de-lincubateur-sira-labs-a-bobo-dioulasso-des-opportunites-de-creation-dentreprises-numeriques-pour-tous/
+  - https://www.burkina24.com/2017/07/31/tic-au-burkina-sira-labs-ou-la-route-du-developpement/
+  - https://lefaso.net/spip.php?article100228
+  - https://eprevision.blog4ever.com/sira-labs-sante-de-lenfant-etat-des-lieux-au-burkina-faso-et-transformation-digitale
+city: null
+country: null
 description: ""
-name: "Sira Labs"
-lat:
-lng:
-websiteUrl: https://www.sira-labs.com/
-id: sira-labs
-city:
-region:
-country:
 email: contact@sira-labs.com
-articles:
-  - "https://www.burkina24.com/2020/10/28/lancement-de-lincubateur-sira-labs-a-bobo-dioulasso-des-opportunites-de-creation-dentreprises-numeriques-pour-tous/"
-  - "https://www.burkina24.com/2017/07/31/tic-au-burkina-sira-labs-ou-la-route-du-developpement/"
-  - "https://lefaso.net/spip.php?article100228"
-  - "https://eprevision.blog4ever.com/sira-labs-sante-de-lenfant-etat-des-lieux-au-burkina-faso-et-transformation-digitale"
-description: ""
-name: "Sira Labs"
-lat:
-lng:
+facebookUrl: null
+id: sira-labs
+lat: null
+linkedUrl: null
+lng: null
+name: Sira Labs
+region: null
+twitterHandle: null
 websiteUrl: https://www.sira-labs.com/
-twitterHandle:
-facebookUrl:
-linkedUrl:
-addressLine1: "Festival Des Glaces, Ouagadougou, Burkina Faso"

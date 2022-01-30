@@ -1,42 +1,23 @@
-id: aiivon-innovation-hub
-city: Abuja
-region: Federal Capital Territory
-country: Nigeria
-email:
+addressLine1: Abuja, Nigeria
 articles:
-  - "https://techpoint.africa/2018/06/27/join-abujas-tech-and-creative-community-at-the-beautiful-aiivon-innovation-hub/"
-  - "https://smesouthafrica.co.za/40-hubs-admitted-into-africas-largest-network-of-tech-and-innovation-hubs/"
-  - "https://www.techinafrica.com/afrilabs-reaches-milestone-100-hubs/"
-  - "https://www.hopefornigeriaonline.com/join-abujas-tech-and-creative-community-at-the-beautiful-aiivon-innovation-hub/"
-  - "https://mssresource.com/roundups/best-co-working-spaces-in-abuja/"
-  - "https://technext.ng/2020/03/16/tech-events-in-africa-regional-blockchain-and-digital-assets-summit-the-launchpad-edtech-meetup-and-kigali-data-science-seminar/"
-  - "https://www.propertypro.ng/blog/coworking-spaces-in-abuja/"
-  - "https://techpoint.africa/2018/06/27/join-abujas-tech-and-creative-community-at-the-beautiful-aiivon-innovation-hub/"
-description: "Aiivon Hub is an innovation hub that is focused on social impact, job creation, skill acquisition, youth engagement and innovation. \n"
-name: "Aiivon innovation hub"
-lat: 9.0764785
-lng: 7.39857400000005
-websiteUrl: https://hub.aiivon.com
-id: aiivon-innovation-hub
+  - https://techpoint.africa/2018/06/27/join-abujas-tech-and-creative-community-at-the-beautiful-aiivon-innovation-hub/
+  - https://smesouthafrica.co.za/40-hubs-admitted-into-africas-largest-network-of-tech-and-innovation-hubs/
+  - https://www.techinafrica.com/afrilabs-reaches-milestone-100-hubs/
+  - https://www.hopefornigeriaonline.com/join-abujas-tech-and-creative-community-at-the-beautiful-aiivon-innovation-hub/
+  - https://mssresource.com/roundups/best-co-working-spaces-in-abuja/
+  - https://technext.ng/2020/03/16/tech-events-in-africa-regional-blockchain-and-digital-assets-summit-the-launchpad-edtech-meetup-and-kigali-data-science-seminar/
+  - https://www.propertypro.ng/blog/coworking-spaces-in-abuja/
+  - https://techpoint.africa/2018/06/27/join-abujas-tech-and-creative-community-at-the-beautiful-aiivon-innovation-hub/
 city: Abuja
-region: Federal Capital Territory
 country: Nigeria
-email:
-articles:
-  - "https://techpoint.africa/2018/06/27/join-abujas-tech-and-creative-community-at-the-beautiful-aiivon-innovation-hub/"
-  - "https://smesouthafrica.co.za/40-hubs-admitted-into-africas-largest-network-of-tech-and-innovation-hubs/"
-  - "https://www.techinafrica.com/afrilabs-reaches-milestone-100-hubs/"
-  - "https://www.hopefornigeriaonline.com/join-abujas-tech-and-creative-community-at-the-beautiful-aiivon-innovation-hub/"
-  - "https://mssresource.com/roundups/best-co-working-spaces-in-abuja/"
-  - "https://technext.ng/2020/03/16/tech-events-in-africa-regional-blockchain-and-digital-assets-summit-the-launchpad-edtech-meetup-and-kigali-data-science-seminar/"
-  - "https://www.propertypro.ng/blog/coworking-spaces-in-abuja/"
-  - "https://techpoint.africa/2018/06/27/join-abujas-tech-and-creative-community-at-the-beautiful-aiivon-innovation-hub/"
 description: "Aiivon Hub is an innovation hub that is focused on social impact, job creation, skill acquisition, youth engagement and innovation. \n"
-name: "Aiivon innovation hub"
+email: null
+facebookUrl: null
+id: aiivon-innovation-hub
 lat: 9.0764785
+linkedUrl: null
 lng: 7.39857400000005
-websiteUrl: https://hub.aiivon.com
+name: Aiivon innovation hub
+region: Federal Capital Territory
 twitterHandle: AiivonHub
-facebookUrl:
-linkedUrl:
-addressLine1: "Abuja, Nigeria"
+websiteUrl: https://hub.aiivon.com

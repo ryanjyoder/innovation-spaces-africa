@@ -1,30 +1,24 @@
-id: iome005
-name: I.O.Me005
-kind_name: fab_lab
-parent_id: null
-blurb: I.O.Me005 is a humanitarian, community based innovation and prototyping space with Digital Fabrication tools to facilitate rapid prototyping and small scale manufacturing of innovative ideas/products
-description: "I.O.Me005 is an initiative of the Kenya Red Cross Society located in Lamu, Kenya and has been in operation since October 2020. Initial funding and support was provided by the Qatar Red Crescent Society. This collaborative space inspires and enables researchers, innovators, technology enthusiasts and entrepreneurs to create and quickly test new concepts, products and businesses by giving them more options through access to advanced technology, materials and production methodologies through shared knowledge and peer learning.\r\nThe lab is also located next to the Lamu Rehabilitation Center – another initiative by the Kenya Red Cross Society, to offer support in the rehabilitation process of drug addicts. During their rehabilitation period, clients spend time at the I.O.Me lab to build new technical skills and practice those that they may already have. This keeps them productively engaged and ensures that at the end of their rehabilitation program they can be easily be integrated back to the society.\r\n"
-slug: iome005
-avatar_url: http://fablabs.io.s3.amazonaws.com/2021/04/07/08/35/01/3cf17385-b6ee-4a55-9cd2-9c259f0cee0e/i_O_me-logo-2.png
-header_url: http://fablabs.io.s3.amazonaws.com/2021/04/07/08/35/01/0145e3cd-b110-4fca-8c8f-973bff706d3f/IMG-20200926-WA0011.jpg
+activity_status: active
 address_1: Hindi
 address_2: ""
-city: Lamu
-county: Lamu
-postal_code: ""
-country_code: KE
-latitude: null
-longitude: null
 address_notes: ""
-phone: "+254723950037"
-email: innovation@redcross.or.ke
+avatar_url: http://fablabs.io.s3.amazonaws.com/2021/04/07/08/35/01/3cf17385-b6ee-4a55-9cd2-9c259f0cee0e/i_O_me-logo-2.png
+blurb: I.O.Me005 is a humanitarian, community based innovation and prototyping space with Digital Fabrication tools to facilitate rapid prototyping and small scale manufacturing of innovative ideas/products
 capabilities:
   - three_d_printing
   - cnc_milling
   - circuit_production
   - laser
   - precision_milling
-activity_status: active
+city: Lamu
+country_code: KE
+county: Lamu
+description: "I.O.Me005 is an initiative of the Kenya Red Cross Society located in Lamu, Kenya and has been in operation since October 2020. Initial funding and support was provided by the Qatar Red Crescent Society. This collaborative space inspires and enables researchers, innovators, technology enthusiasts and entrepreneurs to create and quickly test new concepts, products and businesses by giving them more options through access to advanced technology, materials and production methodologies through shared knowledge and peer learning.\r\nThe lab is also located next to the Lamu Rehabilitation Center – another initiative by the Kenya Red Cross Society, to offer support in the rehabilitation process of drug addicts. During their rehabilitation period, clients spend time at the I.O.Me lab to build new technical skills and practice those that they may already have. This keeps them productively engaged and ensures that at the end of their rehabilitation program they can be easily be integrated back to the society.\r\n"
+email: innovation@redcross.or.ke
+header_url: http://fablabs.io.s3.amazonaws.com/2021/04/07/08/35/01/0145e3cd-b110-4fca-8c8f-973bff706d3f/IMG-20200926-WA0011.jpg
+id: iome005
+kind_name: fab_lab
+latitude: null
 links:
   - id: 36884
     url: https://www.instagram.com/iome005/
@@ -32,3 +26,9 @@ links:
     url: https://twitter.com/iome005
   - id: 36882
     url: http://www.iome.ke.php73-40.lan3-1.websitetestlink.com/
+longitude: null
+name: I.O.Me005
+parent_id: null
+phone: "+254723950037"
+postal_code: ""
+slug: iome005

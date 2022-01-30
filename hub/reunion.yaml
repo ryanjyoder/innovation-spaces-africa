@@ -1,75 +1,25 @@
-id: reunion
-name: FabLab.re
-kind_name: fab_lab
-parent_id: null
-blurb: we are mainly a group of thinkers, geeks and do it yourselfers, still acting unofficially
-description: we are mainly a group of thinkers, geeks and do it yourselfers, still acting unofficially
-slug: reunion
-avatar_url: null
-header_url: null
+activity_status: planned
 address_1: La Rivière Saint-Louis
 address_2: ""
-city: La Riviere
-county: ""
-postal_code: "97421"
-country_code: RE
 address_notes: ""
-phone: "0262343686"
-email: openatlas@gmail.com
+avatar_url: null
+blurb: we are mainly a group of thinkers, geeks and do it yourselfers, still acting unofficially
 capabilities: []
-activity_status: planned
+city: La Riviere
+country_code: RE
+county: ""
+description: we are mainly a group of thinkers, geeks and do it yourselfers, still acting unofficially
+email: openatlas@gmail.com
+header_url: null
+id: reunion
+kind_name: fab_lab
+lat: -21.2583341
 links:
   - id: 514
     url: http://fablab.re
-lat: -21.2583341
 lng: 55.4416728
-id: reunion
 name: FabLab.re
-kind_name: fab_lab
 parent_id: null
-blurb: we are mainly a group of thinkers, geeks and do it yourselfers, still acting unofficially
-description: we are mainly a group of thinkers, geeks and do it yourselfers, still acting unofficially
-slug: reunion
-avatar_url: null
-header_url: null
-address_1: La Rivière Saint-Louis
-address_2: ""
-city: La Riviere
-county: ""
-postal_code: "97421"
-country_code: RE
-address_notes: ""
 phone: "0262343686"
-email: openatlas@gmail.com
-capabilities: []
-activity_status: planned
-links:
-  - id: 514
-    url: http://fablab.re
-lat: -21.2583341
-lng: 55.4416728
-id: reunion
-name: FabLab.re
-kind_name: fab_lab
-parent_id: null
-blurb: we are mainly a group of thinkers, geeks and do it yourselfers, still acting unofficially
-description: we are mainly a group of thinkers, geeks and do it yourselfers, still acting unofficially
-slug: reunion
-avatar_url: null
-header_url: null
-address_1: La Rivière Saint-Louis
-address_2: ""
-city: La Riviere
-county: ""
 postal_code: "97421"
-country_code: RE
-address_notes: ""
-phone: "0262343686"
-email: openatlas@gmail.com
-capabilities: []
-activity_status: planned
-links:
-  - id: 514
-    url: http://fablab.re
-lat: -21.2583341
-lng: 55.4416728
+slug: reunion

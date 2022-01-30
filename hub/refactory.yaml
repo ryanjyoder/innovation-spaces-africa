@@ -1,30 +1,17 @@
-id: refactory
-city: Kampala
-region:
-country: Uganda
-email:
+addressLine1: 3rd Floor Le Palm Building, Plot 244/245 Lubbobo Close off Tank Hill Road
 articles:
-  - "https://techjaja.com/takeaways-from-the-launch-of-refactory-tech-academy/"
+  - https://techjaja.com/takeaways-from-the-launch-of-refactory-tech-academy/
+city: Kampala
+country: Uganda
 description: |
   Refactory is a tech program tailored to make tech talents job-ready. The program is created in partnership with � and for � the tech sector in Uganda.
-name: "Refactory"
-lat:
-lng:
-websiteUrl: https://www.refactory.ug/
+email: null
+facebookUrl: null
 id: refactory
-city: Kampala
-region:
-country: Uganda
-email:
-articles:
-  - "https://techjaja.com/takeaways-from-the-launch-of-refactory-tech-academy/"
-description: |
-  Refactory is a tech program tailored to make tech talents job-ready. The program is created in partnership with � and for � the tech sector in Uganda.
-name: "Refactory"
-lat:
-lng:
+lat: null
+linkedUrl: null
+lng: null
+name: Refactory
+region: null
+twitterHandle: null
 websiteUrl: https://www.refactory.ug/
-twitterHandle:
-facebookUrl:
-linkedUrl:
-addressLine1: "3rd Floor Le Palm Building, Plot 244/245 Lubbobo Close off Tank Hill Road"

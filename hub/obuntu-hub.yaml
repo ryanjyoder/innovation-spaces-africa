@@ -1,28 +1,16 @@
-id: obuntu-hub
-city:
-region:
-country: Tanzania
-email: hello@obuntuhub.co.tz
+addressLine1: Mega Complex-Arusha
 articles:
-  - "http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=7009"
-description: "Obuntu Hub is inspired by the notion of �obuntu� which can be translated as �collective progress.� We conceived the hub as a catalyst to drive collective progress for entrepreneurs and the community at large. Our focus is on empowering young entrepreneurs who innovate through tech or unique business models. \n"
-name: "Obuntu Hub"
-lat:
-lng:
-websiteUrl: https://obuntuhub.co.tz/
-id: obuntu-hub
-city:
-region:
+  - http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=7009
+city: null
 country: Tanzania
-email: hello@obuntuhub.co.tz
-articles:
-  - "http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=7009"
 description: "Obuntu Hub is inspired by the notion of �obuntu� which can be translated as �collective progress.� We conceived the hub as a catalyst to drive collective progress for entrepreneurs and the community at large. Our focus is on empowering young entrepreneurs who innovate through tech or unique business models. \n"
-name: "Obuntu Hub"
-lat:
-lng:
-websiteUrl: https://obuntuhub.co.tz/
-twitterHandle: obuntuhub
+email: hello@obuntuhub.co.tz
 facebookUrl: https://web.facebook.com/obuntuhub/?_rdc=1&_rdr
-linkedUrl:
-addressLine1: "Mega Complex-Arusha"
+id: obuntu-hub
+lat: null
+linkedUrl: null
+lng: null
+name: Obuntu Hub
+region: null
+twitterHandle: obuntuhub
+websiteUrl: https://obuntuhub.co.tz/

@@ -1,44 +1,24 @@
-id: shinga-entrepreneurship-and-learning-hub
-city: Harare
-region: Harare Province
-country: Zimbabwe
-email:
+addressLine1: Mutare Road, Harare, Zimbabwe
 articles:
-  - "https://www.manicapost.co.zw/create-business-hub-to-generate-employment/"
-  - "https://ventureburn.com/2018/06/afrilabs-extends-deeper-into-north-africa-w/"
-  - "https://www.radiovop.com/shinga-innovative-hub-opens-doors-to-rural-creatives/"
-  - "https://www.techinafrica.com/afrilabs-reaches-milestone-100-hubs/"
-  - "https://www.techinafrica.com/details-youngest-african-win-africa-prize-engineering-innovation-2018/"
-  - "https://www.radiovop.com/shinga-innovative-hub-opens-doors-to-rural-creatives/"
-  - "https://18.189.87.50/afrilabs-introduces-40-new-hubs-into-its-network/"
-  - "https://howafrica.com/afrilabs-admits-40-new-hubs-across-africa/"
+  - https://www.manicapost.co.zw/create-business-hub-to-generate-employment/
+  - https://ventureburn.com/2018/06/afrilabs-extends-deeper-into-north-africa-w/
+  - https://www.radiovop.com/shinga-innovative-hub-opens-doors-to-rural-creatives/
+  - https://www.techinafrica.com/afrilabs-reaches-milestone-100-hubs/
+  - https://www.techinafrica.com/details-youngest-african-win-africa-prize-engineering-innovation-2018/
+  - https://www.radiovop.com/shinga-innovative-hub-opens-doors-to-rural-creatives/
+  - https://18.189.87.50/afrilabs-introduces-40-new-hubs-into-its-network/
+  - https://howafrica.com/afrilabs-admits-40-new-hubs-across-africa/
+city: Harare
+country: Zimbabwe
 description: |
   Shinga Hub is a coworking space that is focused on job creation, skill acquisition and innovation
-name: "Shinga Entrepreneurship and Learning Hub"
-lat: -17.8330168
-lng: 31.0855879000001
-websiteUrl: http://www.shinga.co.zw/
-id: shinga-entrepreneurship-and-learning-hub
-city: Harare
-region: Harare Province
-country: Zimbabwe
-email:
-articles:
-  - "https://www.manicapost.co.zw/create-business-hub-to-generate-employment/"
-  - "https://ventureburn.com/2018/06/afrilabs-extends-deeper-into-north-africa-w/"
-  - "https://www.radiovop.com/shinga-innovative-hub-opens-doors-to-rural-creatives/"
-  - "https://www.techinafrica.com/afrilabs-reaches-milestone-100-hubs/"
-  - "https://www.techinafrica.com/details-youngest-african-win-africa-prize-engineering-innovation-2018/"
-  - "https://www.radiovop.com/shinga-innovative-hub-opens-doors-to-rural-creatives/"
-  - "https://18.189.87.50/afrilabs-introduces-40-new-hubs-into-its-network/"
-  - "https://howafrica.com/afrilabs-admits-40-new-hubs-across-africa/"
-description: |
-  Shinga Hub is a coworking space that is focused on job creation, skill acquisition and innovation
-name: "Shinga Entrepreneurship and Learning Hub"
-lat: -17.8330168
-lng: 31.0855879000001
-websiteUrl: http://www.shinga.co.zw/
-twitterHandle: shingahub
+email: null
 facebookUrl: https://www.facebook.com/shingathespace/
-linkedUrl:
-addressLine1: "Mutare Road, Harare, Zimbabwe"
+id: shinga-entrepreneurship-and-learning-hub
+lat: -17.8330168
+linkedUrl: null
+lng: 31.0855879000001
+name: Shinga Entrepreneurship and Learning Hub
+region: Harare Province
+twitterHandle: shingahub
+websiteUrl: http://www.shinga.co.zw/

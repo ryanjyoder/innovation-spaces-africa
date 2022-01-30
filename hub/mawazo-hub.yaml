@@ -1,30 +1,17 @@
-id: mawazo-hub
-city: Kampala
-region: Central Region
-country: Uganda
-email:
+addressLine1: Uganda House, Kampala, Uganda
 articles:
-  - "https://pctechmag.com/2015/09/interview-patrick-kadama-on-equipping-the-next-generation-of-innovators/"
-  - "https://pctechmag.com/2017/03/a-new-hub-opens-in-uganda-targeting-youth-passionate-in-entrepreneurship-tech-startups/"
-description: "The Mawazo Innovation Hub, a division of NFT Consult, was established to support emerging Next Generation ICT businesses through accelerated technology commercialization. The Mawazo Innovation Hub has created a unique space for high tech entrepreneurs, academics, researchers and venture capitalists to meet, network and collectively work towards growing the Ugandan economy through innovation.  \n"
-name: "Mawazo Hub"
-lat: 0.3119942
-lng: 32.5844634
-websiteUrl: http://www.nftmawazo.com/
-id: mawazo-hub
+  - https://pctechmag.com/2015/09/interview-patrick-kadama-on-equipping-the-next-generation-of-innovators/
+  - https://pctechmag.com/2017/03/a-new-hub-opens-in-uganda-targeting-youth-passionate-in-entrepreneurship-tech-startups/
 city: Kampala
-region: Central Region
 country: Uganda
-email:
-articles:
-  - "https://pctechmag.com/2015/09/interview-patrick-kadama-on-equipping-the-next-generation-of-innovators/"
-  - "https://pctechmag.com/2017/03/a-new-hub-opens-in-uganda-targeting-youth-passionate-in-entrepreneurship-tech-startups/"
 description: "The Mawazo Innovation Hub, a division of NFT Consult, was established to support emerging Next Generation ICT businesses through accelerated technology commercialization. The Mawazo Innovation Hub has created a unique space for high tech entrepreneurs, academics, researchers and venture capitalists to meet, network and collectively work towards growing the Ugandan economy through innovation.  \n"
-name: "Mawazo Hub"
+email: null
+facebookUrl: null
+id: mawazo-hub
 lat: 0.3119942
+linkedUrl: null
 lng: 32.5844634
+name: Mawazo Hub
+region: Central Region
+twitterHandle: null
 websiteUrl: http://www.nftmawazo.com/
-twitterHandle:
-facebookUrl:
-linkedUrl:
-addressLine1: "Uganda House, Kampala, Uganda"

@@ -1,28 +1,15 @@
-id: senfablab
-city:
-region:
-country: Senegal
-country: Senegal
-email:
-articles:
-description: ""
-name: "senfablab"
-lat:
-lng:
-websiteUrl:
-id: senfablab
-city:
-region:
-country: Senegal
-country: Senegal
-email:
-articles:
-description: ""
-name: "senfablab"
-lat:
-lng:
-websiteUrl:
-twitterHandle: senfablab
-facebookUrl: https://www.facebook.com/senfablab
-linkedUrl:
 addressLine1: ""
+articles: null
+city: null
+country: Senegal
+description: ""
+email: null
+facebookUrl: https://www.facebook.com/senfablab
+id: senfablab
+lat: null
+linkedUrl: null
+lng: null
+name: senfablab
+region: null
+twitterHandle: senfablab
+websiteUrl: null

@@ -1,28 +1,16 @@
-id: imani-hub
-city: Kinshasa
-region:
-country: DRC
-email:
-articles:
-  - "https://www.contrepoints.org/2014/11/23/189103-imani-hub-premier-espace-de-coworking-en-rdc"
-description: ""
-name: "Imani Hub"
-lat:
-lng:
-websiteUrl: http://www.imanihub.net/
-id: imani-hub
-city: Kinshasa
-region:
-country: DRC
-email:
-articles:
-  - "https://www.contrepoints.org/2014/11/23/189103-imani-hub-premier-espace-de-coworking-en-rdc"
-description: ""
-name: "Imani Hub"
-lat:
-lng:
-websiteUrl: http://www.imanihub.net/
-twitterHandle:
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://www.contrepoints.org/2014/11/23/189103-imani-hub-premier-espace-de-coworking-en-rdc
+city: Kinshasa
+country: DRC
+description: ""
+email: null
+facebookUrl: null
+id: imani-hub
+lat: null
+linkedUrl: null
+lng: null
+name: Imani Hub
+region: null
+twitterHandle: null
+websiteUrl: http://www.imanihub.net/

@@ -1,28 +1,16 @@
-id: mwasi-tech-hub
-city: Kinshasa
-region:
-country: Cote D'Ivoire
-email:
-articles:
-  - "https://sarahclavel.com/2014/07/14/hubs-in-africa-what-are-they-up-to/"
-description: ""
-name: "Mwasi Tech Hub"
-lat:
-lng:
-websiteUrl:
-id: mwasi-tech-hub
-city: Kinshasa
-region:
-country: Cote D'Ivoire
-email:
-articles:
-  - "https://sarahclavel.com/2014/07/14/hubs-in-africa-what-are-they-up-to/"
-description: ""
-name: "Mwasi Tech Hub"
-lat:
-lng:
-websiteUrl:
-twitterHandle:
-facebookUrl: https://www.facebook.com/mwasitechhub
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://sarahclavel.com/2014/07/14/hubs-in-africa-what-are-they-up-to/
+city: Kinshasa
+country: Cote D'Ivoire
+description: ""
+email: null
+facebookUrl: https://www.facebook.com/mwasitechhub
+id: mwasi-tech-hub
+lat: null
+linkedUrl: null
+lng: null
+name: Mwasi Tech Hub
+region: null
+twitterHandle: null
+websiteUrl: null

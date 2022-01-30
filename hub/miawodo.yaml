@@ -1,34 +1,19 @@
-id: miawodo
-city:
-region:
-country:
-email: edm.togo@entrepreneursdumonde.org
+addressLine1: Carrefour de la rue 71 et de la rue 232 � Aflao Gakli ,  Lom�
 articles:
-  - "https://www.entrepreneursdumonde.org/en/program/miawodo-support-to-very-small-businesses-in-burkina-faso/"
-  - "https://doingbuzz.com/le-programme-miawodo-de-long-entrepreneurs-du-monde-recherche-son-superviseur-sur-le-volet-creation-et-accompagnement-des-tres-petites-entreprises/"
-  - "https://www.faiej.tg/fr/le-faiej-prend-part-latelier-de-capitalisation-du-piscca?language_content_entity=fr"
-  - "https://leconomistedutogo.com/article/1241262874"
+  - https://www.entrepreneursdumonde.org/en/program/miawodo-support-to-very-small-businesses-in-burkina-faso/
+  - https://doingbuzz.com/le-programme-miawodo-de-long-entrepreneurs-du-monde-recherche-son-superviseur-sur-le-volet-creation-et-accompagnement-des-tres-petites-entreprises/
+  - https://www.faiej.tg/fr/le-faiej-prend-part-latelier-de-capitalisation-du-piscca?language_content_entity=fr
+  - https://leconomistedutogo.com/article/1241262874
+city: null
+country: null
 description: "Miawodo identifie les femmes et jeunes qui poss�dent des id�es ou des projets novateurs � fort potentiel de croissance et les accompagne � la cr�ation et au d�veloppement de leurs entreprises afin d�hisser ces entreprises au rang d�entreprises de croissance ou d�impacts � l��chelle nationale.  \n"
-name: "MIAWODO"
-lat:
-lng:
-websiteUrl: http://www.entrepreneursdumonde.org
-id: miawodo
-city:
-region:
-country:
 email: edm.togo@entrepreneursdumonde.org
-articles:
-  - "https://www.entrepreneursdumonde.org/en/program/miawodo-support-to-very-small-businesses-in-burkina-faso/"
-  - "https://doingbuzz.com/le-programme-miawodo-de-long-entrepreneurs-du-monde-recherche-son-superviseur-sur-le-volet-creation-et-accompagnement-des-tres-petites-entreprises/"
-  - "https://www.faiej.tg/fr/le-faiej-prend-part-latelier-de-capitalisation-du-piscca?language_content_entity=fr"
-  - "https://leconomistedutogo.com/article/1241262874"
-description: "Miawodo identifie les femmes et jeunes qui poss�dent des id�es ou des projets novateurs � fort potentiel de croissance et les accompagne � la cr�ation et au d�veloppement de leurs entreprises afin d�hisser ces entreprises au rang d�entreprises de croissance ou d�impacts � l��chelle nationale.  \n"
-name: "MIAWODO"
-lat:
-lng:
-websiteUrl: http://www.entrepreneursdumonde.org
-twitterHandle: entrep_monde
 facebookUrl: https://www.facebook.com/miawodo/
-linkedUrl:
-addressLine1: "Carrefour de la rue 71 et de la rue 232 � Aflao Gakli ,  Lom�"
+id: miawodo
+lat: null
+linkedUrl: null
+lng: null
+name: MIAWODO
+region: null
+twitterHandle: entrep_monde
+websiteUrl: http://www.entrepreneursdumonde.org

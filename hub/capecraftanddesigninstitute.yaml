@@ -1,23 +1,21 @@
-id: capecraftanddesigninstitute
-name: Cape Craft and Design Institute
-kind_name: fab_lab
-parent_id: null
-blurb: null
-description: ""
-slug: capecraftanddesigninstitute
-avatar_url: null
-header_url: null
+activity_status: null
 address_1: ""
 address_2: ""
-city: Cape Town
-county: Western Cape
-postal_code: "8000"
-country_code: ZA
 address_notes: ""
-phone: ""
-email: ""
+articles:
+  - https://www.businessinsider.co.za/the-va-waterfront-has-a-new-incubator-store-and-it-is-selling-wearable-art-and-leather-jewellery-2022-1
+avatar_url: null
+blurb: null
 capabilities: []
-activity_status: null
+city: Cape Town
+country_code: ZA
+county: Western Cape
+description: ""
+email: ""
+header_url: null
+id: capecraftanddesigninstitute
+kind_name: fab_lab
+lat: -33.9248685
 links:
   - id: 108
     url: http://www.ccdi.org.za
@@ -27,73 +25,9 @@ links:
     url: http://www.pinterest.com/capecraftdesign/
   - id: 252
     url: http://www.youtube.com/user/capecraftanddesign?feature=watch
-articles:
-  - "https://www.businessinsider.co.za/the-va-waterfront-has-a-new-incubator-store-and-it-is-selling-wearable-art-and-leather-jewellery-2022-1"
-lat: -33.9248685
 lng: 18.4240553
-id: capecraftanddesigninstitute
 name: Cape Craft and Design Institute
-kind_name: fab_lab
 parent_id: null
-blurb: null
-description: ""
-slug: capecraftanddesigninstitute
-avatar_url: null
-header_url: null
-address_1: ""
-address_2: ""
-city: Cape Town
-county: Western Cape
-postal_code: "8000"
-country_code: ZA
-address_notes: ""
 phone: ""
-email: ""
-capabilities: []
-activity_status: null
-links:
-  - id: 108
-    url: http://www.ccdi.org.za
-  - id: 250
-    url: https://www.facebook.com/pages/Cape-Craft-and-Design-Institute/152396544910856
-  - id: 251
-    url: http://www.pinterest.com/capecraftdesign/
-  - id: 252
-    url: http://www.youtube.com/user/capecraftanddesign?feature=watch
-articles:
-  - "https://www.businessinsider.co.za/the-va-waterfront-has-a-new-incubator-store-and-it-is-selling-wearable-art-and-leather-jewellery-2022-1"
-lat: -33.9248685
-lng: 18.4240553
-id: capecraftanddesigninstitute
-name: Cape Craft and Design Institute
-kind_name: fab_lab
-parent_id: null
-blurb: null
-description: ""
-slug: capecraftanddesigninstitute
-avatar_url: null
-header_url: null
-address_1: ""
-address_2: ""
-city: Cape Town
-county: Western Cape
 postal_code: "8000"
-country_code: ZA
-address_notes: ""
-phone: ""
-email: ""
-capabilities: []
-activity_status: null
-links:
-  - id: 108
-    url: http://www.ccdi.org.za
-  - id: 250
-    url: https://www.facebook.com/pages/Cape-Craft-and-Design-Institute/152396544910856
-  - id: 251
-    url: http://www.pinterest.com/capecraftdesign/
-  - id: 252
-    url: http://www.youtube.com/user/capecraftanddesign?feature=watch
-articles:
-  - "https://www.businessinsider.co.za/the-va-waterfront-has-a-new-incubator-store-and-it-is-selling-wearable-art-and-leather-jewellery-2022-1"
-lat: -33.9248685
-lng: 18.4240553
+slug: capecraftanddesigninstitute

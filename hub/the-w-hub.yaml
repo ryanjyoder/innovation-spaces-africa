@@ -1,26 +1,15 @@
-id: the-w-hub
-city: Abidjan
-region:
-country: Cote d'Ivoire
-email:
-articles:
-description: ""
-name: "The W Hub"
-lat:
-lng:
-websiteUrl: http://www.thewhub.com/
-id: the-w-hub
-city: Abidjan
-region:
-country: Cote d'Ivoire
-email:
-articles:
-description: ""
-name: "The W Hub"
-lat:
-lng:
-websiteUrl: http://www.thewhub.com/
-twitterHandle: thewhub
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles: null
+city: Abidjan
+country: Cote d'Ivoire
+description: ""
+email: null
+facebookUrl: null
+id: the-w-hub
+lat: null
+linkedUrl: null
+lng: null
+name: The W Hub
+region: null
+twitterHandle: thewhub
+websiteUrl: http://www.thewhub.com/

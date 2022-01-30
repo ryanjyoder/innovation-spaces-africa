@@ -1,40 +1,22 @@
-id: cairo-hackerspace
-city: Cairo
-region: Cairo Governorate
-country: Egypt
-email:
+addressLine1: Cairo, Egypt
 articles:
-  - "https://egyptindependent.com/cairo-hackerspace-infectiously-inventive/"
-  - "https://dailynewsegypt.com/2014/09/14/hacking-like-egyptians/"
-  - "https://hackaday.com/tag/cairo-hackerspace/"
-  - "https://makezine.com/2016/01/22/cairo-hackerspace-closed-down/"
-  - "https://www.egypttoday.com/Article/3/104771/Coping-with-Egypt-s-blossoming-digital-technology-scene"
-  - "https://egyptianstreets.com/2016/12/24/the-egyptian-microbus-changing-the-meaning-of-innovation/"
-  - "https://x-team.com/blog/x-volunteers-egypt/"
-description: "Cairo Hackerspace is an innovation hub that focuses on social impact and innovation.   \n"
-name: "Cairo Hackerspace"
-lat: 30.0444196
-lng: 31.2357116000001
-websiteUrl: https://cairohackerspace.org/
-id: cairo-hackerspace
+  - https://egyptindependent.com/cairo-hackerspace-infectiously-inventive/
+  - https://dailynewsegypt.com/2014/09/14/hacking-like-egyptians/
+  - https://hackaday.com/tag/cairo-hackerspace/
+  - https://makezine.com/2016/01/22/cairo-hackerspace-closed-down/
+  - https://www.egypttoday.com/Article/3/104771/Coping-with-Egypt-s-blossoming-digital-technology-scene
+  - https://egyptianstreets.com/2016/12/24/the-egyptian-microbus-changing-the-meaning-of-innovation/
+  - https://x-team.com/blog/x-volunteers-egypt/
 city: Cairo
-region: Cairo Governorate
 country: Egypt
-email:
-articles:
-  - "https://egyptindependent.com/cairo-hackerspace-infectiously-inventive/"
-  - "https://dailynewsegypt.com/2014/09/14/hacking-like-egyptians/"
-  - "https://hackaday.com/tag/cairo-hackerspace/"
-  - "https://makezine.com/2016/01/22/cairo-hackerspace-closed-down/"
-  - "https://www.egypttoday.com/Article/3/104771/Coping-with-Egypt-s-blossoming-digital-technology-scene"
-  - "https://egyptianstreets.com/2016/12/24/the-egyptian-microbus-changing-the-meaning-of-innovation/"
-  - "https://x-team.com/blog/x-volunteers-egypt/"
 description: "Cairo Hackerspace is an innovation hub that focuses on social impact and innovation.   \n"
-name: "Cairo Hackerspace"
+email: null
+facebookUrl: null
+id: cairo-hackerspace
 lat: 30.0444196
+linkedUrl: null
 lng: 31.2357116000001
+name: Cairo Hackerspace
+region: Cairo Governorate
+twitterHandle: null
 websiteUrl: https://cairohackerspace.org/
-twitterHandle:
-facebookUrl:
-linkedUrl:
-addressLine1: "Cairo, Egypt"

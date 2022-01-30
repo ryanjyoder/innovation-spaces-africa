@@ -1,30 +1,17 @@
-id: invo-tech-incubator
-city: Durban
-region:
-country: South Africa
-email:
-articles:
-  - "https://ventureburn.com/2019/07/university-incubators-african-entrepreneurs/"
-  - "https://www.entrepreneur.com/article/327566"
-description: ""
-name: "Invo Tech incubator"
-lat:
-lng:
-websiteUrl: www.invotech.dut.ac.za
-id: invo-tech-incubator
-city: Durban
-region:
-country: South Africa
-email:
-articles:
-  - "https://ventureburn.com/2019/07/university-incubators-african-entrepreneurs/"
-  - "https://www.entrepreneur.com/article/327566"
-description: ""
-name: "Invo Tech incubator"
-lat:
-lng:
-websiteUrl: www.invotech.dut.ac.za
-twitterHandle:
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://ventureburn.com/2019/07/university-incubators-african-entrepreneurs/
+  - https://www.entrepreneur.com/article/327566
+city: Durban
+country: South Africa
+description: ""
+email: null
+facebookUrl: null
+id: invo-tech-incubator
+lat: null
+linkedUrl: null
+lng: null
+name: Invo Tech incubator
+region: null
+twitterHandle: null
+websiteUrl: www.invotech.dut.ac.za

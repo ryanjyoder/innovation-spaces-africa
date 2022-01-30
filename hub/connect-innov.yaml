@@ -1,34 +1,19 @@
-id: connect-innov
-city: Tunis 1053
-region:
-country: Tunsia
-email: contact@connect-innov.com
+addressLine1: Rue Lac Victoria
 articles:
-  - "https://santedesiles.com/table-kids-by-connect-innov/"
-  - "https://www.ilboursa.com/marches/connectinnov-lance-connectinnov-lab--premier-incubateur-healthtech-en-tunisie_28256"
-  - "https://upsat.tn/en/events-2/collaboration-with-connectinnov/"
-  - "https://upsat.tn/en/events-2/collaboration-with-connectinnov/"
-description: ""
-name: "CONNECT�INNOV"
-lat:
-lng:
-websiteUrl: https://connect-innov.com/
-id: connect-innov
+  - https://santedesiles.com/table-kids-by-connect-innov/
+  - https://www.ilboursa.com/marches/connectinnov-lance-connectinnov-lab--premier-incubateur-healthtech-en-tunisie_28256
+  - https://upsat.tn/en/events-2/collaboration-with-connectinnov/
+  - https://upsat.tn/en/events-2/collaboration-with-connectinnov/
 city: Tunis 1053
-region:
 country: Tunsia
-email: contact@connect-innov.com
-articles:
-  - "https://santedesiles.com/table-kids-by-connect-innov/"
-  - "https://www.ilboursa.com/marches/connectinnov-lance-connectinnov-lab--premier-incubateur-healthtech-en-tunisie_28256"
-  - "https://upsat.tn/en/events-2/collaboration-with-connectinnov/"
-  - "https://upsat.tn/en/events-2/collaboration-with-connectinnov/"
 description: ""
-name: "CONNECT�INNOV"
-lat:
-lng:
+email: contact@connect-innov.com
+facebookUrl: null
+id: connect-innov
+lat: null
+linkedUrl: null
+lng: null
+name: CONNECT�INNOV
+region: null
+twitterHandle: null
 websiteUrl: https://connect-innov.com/
-twitterHandle:
-facebookUrl:
-linkedUrl:
-addressLine1: "Rue Lac Victoria"

@@ -1,28 +1,16 @@
-id: startopp-zone
-city: 22/121 Atron, N&#039;Djamena
-region:
-country:
-email: startoppzone@rjdlt.com
-articles:
-  - "https://www.digitaltimes.africa/afrilab-welcomes-27-new-members/"
-description: ""
-name: "StartOpp Zone"
-lat:
-lng:
-websiteUrl: http://startoppzone.com
-id: startopp-zone
-city: 22/121 Atron, N&#039;Djamena
-region:
-country:
-email: startoppzone@rjdlt.com
-articles:
-  - "https://www.digitaltimes.africa/afrilab-welcomes-27-new-members/"
-description: ""
-name: "StartOpp Zone"
-lat:
-lng:
-websiteUrl: http://startoppzone.com
-twitterHandle:
-facebookUrl: http://https
-linkedUrl: //facebook.com/startoppzone
 addressLine1: ""
+articles:
+  - https://www.digitaltimes.africa/afrilab-welcomes-27-new-members/
+city: 22/121 Atron, N&#039;Djamena
+country: null
+description: ""
+email: startoppzone@rjdlt.com
+facebookUrl: http://https
+id: startopp-zone
+lat: null
+linkedUrl: //facebook.com/startoppzone
+lng: null
+name: StartOpp Zone
+region: null
+twitterHandle: null
+websiteUrl: http://startoppzone.com

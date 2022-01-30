@@ -1,30 +1,17 @@
-id: alexandria-hackerspace
-city: Alexandria
-region:
-country: Egypt
-email:
-articles:
-  - "https://dailynewsegypt.com/2014/09/14/hacking-like-egyptians/"
-  - "https://www.wamda.com/2013/04/9-hackerspaces-changing-the-arab-world"
-description: ""
-name: "Alexandria Hackerspace"
-lat:
-lng:
-websiteUrl: http://www.alexhacker.com/
-id: alexandria-hackerspace
-city: Alexandria
-region:
-country: Egypt
-email:
-articles:
-  - "https://dailynewsegypt.com/2014/09/14/hacking-like-egyptians/"
-  - "https://www.wamda.com/2013/04/9-hackerspaces-changing-the-arab-world"
-description: ""
-name: "Alexandria Hackerspace"
-lat:
-lng:
-websiteUrl: http://www.alexhacker.com/
-twitterHandle:
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://dailynewsegypt.com/2014/09/14/hacking-like-egyptians/
+  - https://www.wamda.com/2013/04/9-hackerspaces-changing-the-arab-world
+city: Alexandria
+country: Egypt
+description: ""
+email: null
+facebookUrl: null
+id: alexandria-hackerspace
+lat: null
+linkedUrl: null
+lng: null
+name: Alexandria Hackerspace
+region: null
+twitterHandle: null
+websiteUrl: http://www.alexhacker.com/

@@ -1,28 +1,28 @@
-id: fablabfayoum
-name: Fab Lab Fayoum
-kind_name: fab_lab
-parent_id: 895
-blurb: ""
-description: "Fab Lab Fayoum is an open-maker space and fabrication laboratory to help all makers to turn their ideas into prototypes, help anyone to be amaker. Trying to solve the challenges of our society based on our SDGs Goals, we are part of bigger Makerspace program run by Giza Systems Education Foundation.\r\n\r\n"
-slug: fablabfayoum
-avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/24/18/00/32/6807433c-2e56-4a77-8497-cea2ca095f6e/FayoumLOGO.jpg
-header_url: http://fablabs.io.s3.amazonaws.com/2019/07/24/18/00/32/ede4191c-b6a9-48f0-ba72-7a4376c3f1b7/FayouCover.jpg
+activity_status: active
 address_1: "\tمنطقة مستشفي الصدر ، أمام معهد الأورام ، برج الأخوة الدور الأول, Faiyum"
 address_2: ""
-city: Fayoum
-county: Fayoum
-postal_code: "63512"
-country_code: EG
-latitude: null
-longitude: null
 address_notes: ""
-phone: "0842184339"
-email: fablab.fayoum@gizasystems.com
+avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/24/18/00/32/6807433c-2e56-4a77-8497-cea2ca095f6e/FayoumLOGO.jpg
+blurb: ""
 capabilities:
   - three_d_printing
   - circuit_production
   - laser
-activity_status: active
+city: Fayoum
+country_code: EG
+county: Fayoum
+description: "Fab Lab Fayoum is an open-maker space and fabrication laboratory to help all makers to turn their ideas into prototypes, help anyone to be amaker. Trying to solve the challenges of our society based on our SDGs Goals, we are part of bigger Makerspace program run by Giza Systems Education Foundation.\r\n\r\n"
+email: fablab.fayoum@gizasystems.com
+header_url: http://fablabs.io.s3.amazonaws.com/2019/07/24/18/00/32/ede4191c-b6a9-48f0-ba72-7a4376c3f1b7/FayouCover.jpg
+id: fablabfayoum
+kind_name: fab_lab
+latitude: null
 links:
   - id: 7383
     url: https://www.facebook.com/FabLabFayoum/
+longitude: null
+name: Fab Lab Fayoum
+parent_id: 895
+phone: "0842184339"
+postal_code: "63512"
+slug: fablabfayoum

@@ -1,28 +1,16 @@
-id: oguaa-business-incubator
-city: Cape Coast
-region:
-country: Ghana
-email:
-articles:
-  - "http://geniusghana.blogspot.com/2007/05/?m=1"
-description: ""
-name: "Oguaa Business Incubator"
-lat:
-lng:
-websiteUrl:
-id: oguaa-business-incubator
-city: Cape Coast
-region:
-country: Ghana
-email:
-articles:
-  - "http://geniusghana.blogspot.com/2007/05/?m=1"
-description: ""
-name: "Oguaa Business Incubator"
-lat:
-lng:
-websiteUrl:
-twitterHandle:
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - http://geniusghana.blogspot.com/2007/05/?m=1
+city: Cape Coast
+country: Ghana
+description: ""
+email: null
+facebookUrl: null
+id: oguaa-business-incubator
+lat: null
+linkedUrl: null
+lng: null
+name: Oguaa Business Incubator
+region: null
+twitterHandle: null
+websiteUrl: null

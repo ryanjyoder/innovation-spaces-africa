@@ -1,81 +1,27 @@
-id: takoraditechnicalinstitute
-name: Takoradi Technical Institute
-kind_name: fab_lab
-parent_id: null
-blurb: null
-description: ""
-slug: takoraditechnicalinstitute
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/10/40/d5e8712e-1d66-4f32-b50d-05d10372035d/Takoradi Technical Institute.jpg
-header_url: null
+activity_status: null
 address_1: ""
 address_2: ""
-city: Takoradi
-county: Western
-postal_code: ""
-country_code: GH
 address_notes: ""
-phone: ""
-email: ""
+avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/10/40/d5e8712e-1d66-4f32-b50d-05d10372035d/Takoradi Technical Institute.jpg
+blurb: null
 capabilities: []
-activity_status: null
+city: Takoradi
+country_code: GH
+county: Western
+description: ""
+email: ""
+header_url: null
+id: takoraditechnicalinstitute
+kind_name: fab_lab
+lat: 4.9
 links:
   - id: 67
     url: http://ttifab.wikispaces.com/How+to+Use+the+TTI+Fab+Lab+Wiki
   - id: 288
     url: http://www.takoraditech.org/?q=node/34
-lat: 4.9
 lng: -1.76666669999997
-id: takoraditechnicalinstitute
 name: Takoradi Technical Institute
-kind_name: fab_lab
 parent_id: null
-blurb: null
-description: ""
-slug: takoraditechnicalinstitute
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/10/40/d5e8712e-1d66-4f32-b50d-05d10372035d/Takoradi Technical Institute.jpg
-header_url: null
-address_1: ""
-address_2: ""
-city: Takoradi
-county: Western
-postal_code: ""
-country_code: GH
-address_notes: ""
 phone: ""
-email: ""
-capabilities: []
-activity_status: null
-links:
-  - id: 67
-    url: http://ttifab.wikispaces.com/How+to+Use+the+TTI+Fab+Lab+Wiki
-  - id: 288
-    url: http://www.takoraditech.org/?q=node/34
-lat: 4.9
-lng: -1.76666669999997
-id: takoraditechnicalinstitute
-name: Takoradi Technical Institute
-kind_name: fab_lab
-parent_id: null
-blurb: null
-description: ""
-slug: takoraditechnicalinstitute
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/10/40/d5e8712e-1d66-4f32-b50d-05d10372035d/Takoradi Technical Institute.jpg
-header_url: null
-address_1: ""
-address_2: ""
-city: Takoradi
-county: Western
 postal_code: ""
-country_code: GH
-address_notes: ""
-phone: ""
-email: ""
-capabilities: []
-activity_status: null
-links:
-  - id: 67
-    url: http://ttifab.wikispaces.com/How+to+Use+the+TTI+Fab+Lab+Wiki
-  - id: 288
-    url: http://www.takoraditech.org/?q=node/34
-lat: 4.9
-lng: -1.76666669999997
+slug: takoraditechnicalinstitute

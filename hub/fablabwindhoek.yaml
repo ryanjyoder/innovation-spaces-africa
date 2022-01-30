@@ -1,75 +1,25 @@
-id: fablabwindhoek
-name: Fab Lab Windhoek
-kind_name: fab_lab
-parent_id: null
-blurb: null
-description: ""
-slug: fablabwindhoek
-avatar_url: null
-header_url: null
+activity_status: planned
 address_1: ""
 address_2: ""
-city: Windhoek
-county: Khomas
-postal_code: ""
-country_code: NA
 address_notes: ""
-phone: ""
-email: ""
+avatar_url: null
+blurb: null
 capabilities: []
-activity_status: planned
+city: Windhoek
+country_code: NA
+county: Khomas
+description: ""
+email: ""
+header_url: null
+id: fablabwindhoek
+kind_name: fab_lab
+lat: -22.5589039
 links:
   - id: 287
     url: https://www.facebook.com/fablab.namibia
-lat: -22.5589039
 lng: 17.082481
-id: fablabwindhoek
 name: Fab Lab Windhoek
-kind_name: fab_lab
 parent_id: null
-blurb: null
-description: ""
-slug: fablabwindhoek
-avatar_url: null
-header_url: null
-address_1: ""
-address_2: ""
-city: Windhoek
-county: Khomas
-postal_code: ""
-country_code: NA
-address_notes: ""
 phone: ""
-email: ""
-capabilities: []
-activity_status: planned
-links:
-  - id: 287
-    url: https://www.facebook.com/fablab.namibia
-lat: -22.5589039
-lng: 17.082481
-id: fablabwindhoek
-name: Fab Lab Windhoek
-kind_name: fab_lab
-parent_id: null
-blurb: null
-description: ""
-slug: fablabwindhoek
-avatar_url: null
-header_url: null
-address_1: ""
-address_2: ""
-city: Windhoek
-county: Khomas
 postal_code: ""
-country_code: NA
-address_notes: ""
-phone: ""
-email: ""
-capabilities: []
-activity_status: planned
-links:
-  - id: 287
-    url: https://www.facebook.com/fablab.namibia
-lat: -22.5589039
-lng: 17.082481
+slug: fablabwindhoek

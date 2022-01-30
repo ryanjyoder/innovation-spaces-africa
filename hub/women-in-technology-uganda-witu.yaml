@@ -1,28 +1,16 @@
-id: women-in-technology-uganda-witu
-city: Kampala
-region:
-country: Uganda
-email:
-articles:
-  - "https://techjaja.com/top-5-women-in-tech-programs-in-uganda/"
-description: ""
-name: "Women in Technology Uganda (WITU)"
-lat:
-lng:
-websiteUrl: http://witug.org/
-id: women-in-technology-uganda-witu
-city: Kampala
-region:
-country: Uganda
-email:
-articles:
-  - "https://techjaja.com/top-5-women-in-tech-programs-in-uganda/"
-description: ""
-name: "Women in Technology Uganda (WITU)"
-lat:
-lng:
-websiteUrl: http://witug.org/
-twitterHandle: wituganda
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://techjaja.com/top-5-women-in-tech-programs-in-uganda/
+city: Kampala
+country: Uganda
+description: ""
+email: null
+facebookUrl: null
+id: women-in-technology-uganda-witu
+lat: null
+linkedUrl: null
+lng: null
+name: Women in Technology Uganda (WITU)
+region: null
+twitterHandle: wituganda
+websiteUrl: http://witug.org/

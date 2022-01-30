@@ -1,32 +1,18 @@
-id: iris-hub
-city: Kigali
-region: Kigali City
-country: Rwanda
-email:
+addressLine1: Kigali, Rwanda
 articles:
-  - "https://africabusinesscommunities.com/tech/tech-features/startup-interview-benjamin-manirafasha-ceo-iris-hub-rwanda/"
-  - "https://www.techinafrica.com/in-the-hub-benjamin-manirafasha-iris-hub-rwanda/"
-  - "https://techbuild.africa/innovation-economy-benjamin-manirafasha-iris-hub/"
-description: "Iris Hub is an incubator and accelerator focused on job creation, youth engagement and innovation. \n"
-name: "Iris Hub"
-lat: -1.9705786
-lng: 30.1044288000001
-websiteUrl: https://www.irishub.rw/
-id: iris-hub
+  - https://africabusinesscommunities.com/tech/tech-features/startup-interview-benjamin-manirafasha-ceo-iris-hub-rwanda/
+  - https://www.techinafrica.com/in-the-hub-benjamin-manirafasha-iris-hub-rwanda/
+  - https://techbuild.africa/innovation-economy-benjamin-manirafasha-iris-hub/
 city: Kigali
-region: Kigali City
 country: Rwanda
-email:
-articles:
-  - "https://africabusinesscommunities.com/tech/tech-features/startup-interview-benjamin-manirafasha-ceo-iris-hub-rwanda/"
-  - "https://www.techinafrica.com/in-the-hub-benjamin-manirafasha-iris-hub-rwanda/"
-  - "https://techbuild.africa/innovation-economy-benjamin-manirafasha-iris-hub/"
 description: "Iris Hub is an incubator and accelerator focused on job creation, youth engagement and innovation. \n"
-name: "Iris Hub"
+email: null
+facebookUrl: null
+id: iris-hub
 lat: -1.9705786
+linkedUrl: null
 lng: 30.1044288000001
-websiteUrl: https://www.irishub.rw/
+name: Iris Hub
+region: Kigali City
 twitterHandle: irishub_rw
-facebookUrl:
-linkedUrl:
-addressLine1: "Kigali, Rwanda"
+websiteUrl: https://www.irishub.rw/

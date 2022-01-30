@@ -1,26 +1,15 @@
-id: voisinage
-city:
-region:
-country:
-email: muhamad.adebayo@uvci.edu.ci&gt
-articles:
-description: ""
-name: "VOISINAGE"
-lat:
-lng:
-websiteUrl: https://www.uvci.edu.ci/
-id: voisinage
-city:
-region:
-country:
-email: muhamad.adebayo@uvci.edu.ci&gt
-articles:
-description: ""
-name: "VOISINAGE"
-lat:
-lng:
-websiteUrl: https://www.uvci.edu.ci/
-twitterHandle:
-facebookUrl: https://www.facebook.com/uvciv/
-linkedUrl:
 addressLine1: ""
+articles: null
+city: null
+country: null
+description: ""
+email: muhamad.adebayo@uvci.edu.ci&gt
+facebookUrl: https://www.facebook.com/uvciv/
+id: voisinage
+lat: null
+linkedUrl: null
+lng: null
+name: VOISINAGE
+region: null
+twitterHandle: null
+websiteUrl: https://www.uvci.edu.ci/

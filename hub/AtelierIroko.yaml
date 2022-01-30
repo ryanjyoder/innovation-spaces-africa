@@ -1,29 +1,23 @@
-id: AtelierIroko
-name: 'Iroko FabLab '
-kind_name: fab_lab
-parent_id: null
-blurb: Nous somme une communauté de makers qui a pour vocation de favoriser l'innovation frugale, promouvoir le DIY, l'éducation numérique et le partage de savoir-faire artisanal et du design.
-description: 'Iroko FabLab dispose d''un atelier partagé, équipé de machines et d''outils manuels/électriques, d''un espace de coworking, d''un espace d''impression 3D et de bidouillage électronique, d''un Café dans le patio et d''une cuisine pour quand vous avez un petit creux. '
-slug: AtelierIroko
-avatar_url: null
-header_url: null
+activity_status: active
 address_1: '237 Ave de la Libération, Jéricho, Cotonou '
 address_2: ""
-city: 'Cotonou '
-county: ""
-postal_code: ""
-country_code: BJ
-latitude: null
-longitude: null
 address_notes: ""
-phone: +229 96084713
-email: hello@iroko.com
+avatar_url: null
+blurb: Nous somme une communauté de makers qui a pour vocation de favoriser l'innovation frugale, promouvoir le DIY, l'éducation numérique et le partage de savoir-faire artisanal et du design.
 capabilities:
   - three_d_printing
   - cnc_milling
   - laser
   - precision_milling
-activity_status: active
+city: 'Cotonou '
+country_code: BJ
+county: ""
+description: 'Iroko FabLab dispose d''un atelier partagé, équipé de machines et d''outils manuels/électriques, d''un espace de coworking, d''un espace d''impression 3D et de bidouillage électronique, d''un Café dans le patio et d''une cuisine pour quand vous avez un petit creux. '
+email: hello@iroko.com
+header_url: null
+id: AtelierIroko
+kind_name: fab_lab
+latitude: null
 links:
   - id: 7007
     url: https://www.instagram.com/irokofablab
@@ -31,3 +25,9 @@ links:
     url: https://twitter.com/IrokoFablab
   - id: 7005
     url: https://www.facebook.com/IrokoFabLab
+longitude: null
+name: 'Iroko FabLab '
+parent_id: null
+phone: +229 96084713
+postal_code: ""
+slug: AtelierIroko

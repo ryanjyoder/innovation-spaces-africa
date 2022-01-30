@@ -1,46 +1,25 @@
-id: klab
-city:
-region:
-country: Rwanda
-email:
+addressLine1: Rwanda
 articles:
-  - "https://www.centreforpublicimpact.org/insights/driving-growth-rwandas-klab"
-  - "https://www.howwemadeitinafrica.com/klab-a-space-for-innovation-in-rwanda/18942/"
-  - "https://www.oii.ox.ac.uk/blog/a-tech-innovation-hub-in-the-making-klab-and-its-many-roles-and-stakeholders-2/"
-  - "https://www.newtimes.co.rw/section/read/209011"
-  - "https://disrupt-africa.com/2018/05/23/fintech-cluster-established-at-rwandas-klab/"
-  - "https://www.lepoint.fr/economie/kigali-un-fleuron-high-tech-nomme-klab-06-12-2017-2177588_28.php"
-  - "https://time.com/3770968/rwanda-technology-genocide/"
-  - "https://www.lepoint.fr/economie/kigali-un-fleuron-high-tech-nomme-klab-06-12-2017-2177588_28.php"
-  - "https://time.com/3770968/rwanda-technology-genocide/"
-  - "https://venturebeat.com/2014/12/27/rwandan-revival-the-rise-of-tech-entrepreneurship-in-rwanda/"
-description: "kLab (knowledge Lab) is a unique open technology hub in Kigali where students, entrepreneurs and innovators come to work.  \n"
-name: "kLab"
-lat: -1.940278
-lng: 29.873888
-websiteUrl: http://klab.rw/
-id: klab
-city:
-region:
+  - https://www.centreforpublicimpact.org/insights/driving-growth-rwandas-klab
+  - https://www.howwemadeitinafrica.com/klab-a-space-for-innovation-in-rwanda/18942/
+  - https://www.oii.ox.ac.uk/blog/a-tech-innovation-hub-in-the-making-klab-and-its-many-roles-and-stakeholders-2/
+  - https://www.newtimes.co.rw/section/read/209011
+  - https://disrupt-africa.com/2018/05/23/fintech-cluster-established-at-rwandas-klab/
+  - https://www.lepoint.fr/economie/kigali-un-fleuron-high-tech-nomme-klab-06-12-2017-2177588_28.php
+  - https://time.com/3770968/rwanda-technology-genocide/
+  - https://www.lepoint.fr/economie/kigali-un-fleuron-high-tech-nomme-klab-06-12-2017-2177588_28.php
+  - https://time.com/3770968/rwanda-technology-genocide/
+  - https://venturebeat.com/2014/12/27/rwandan-revival-the-rise-of-tech-entrepreneurship-in-rwanda/
+city: null
 country: Rwanda
-email:
-articles:
-  - "https://www.centreforpublicimpact.org/insights/driving-growth-rwandas-klab"
-  - "https://www.howwemadeitinafrica.com/klab-a-space-for-innovation-in-rwanda/18942/"
-  - "https://www.oii.ox.ac.uk/blog/a-tech-innovation-hub-in-the-making-klab-and-its-many-roles-and-stakeholders-2/"
-  - "https://www.newtimes.co.rw/section/read/209011"
-  - "https://disrupt-africa.com/2018/05/23/fintech-cluster-established-at-rwandas-klab/"
-  - "https://www.lepoint.fr/economie/kigali-un-fleuron-high-tech-nomme-klab-06-12-2017-2177588_28.php"
-  - "https://time.com/3770968/rwanda-technology-genocide/"
-  - "https://www.lepoint.fr/economie/kigali-un-fleuron-high-tech-nomme-klab-06-12-2017-2177588_28.php"
-  - "https://time.com/3770968/rwanda-technology-genocide/"
-  - "https://venturebeat.com/2014/12/27/rwandan-revival-the-rise-of-tech-entrepreneurship-in-rwanda/"
 description: "kLab (knowledge Lab) is a unique open technology hub in Kigali where students, entrepreneurs and innovators come to work.  \n"
-name: "kLab"
+email: null
+facebookUrl: null
+id: klab
 lat: -1.940278
+linkedUrl: null
 lng: 29.873888
-websiteUrl: http://klab.rw/
+name: kLab
+region: null
 twitterHandle: klabrw
-facebookUrl:
-linkedUrl:
-addressLine1: "Rwanda"
+websiteUrl: http://klab.rw/

@@ -1,30 +1,17 @@
-id: maison-de-la-petite-entreprise
-city:
-region:
-country:
-email:
+addressLine1: 'Quartier Moursal, Boulevard SAO, Rue 5018, B.P.: 111 , N&#039;Djamena'
 articles:
-  - "http://www.lepaystchad.com/2053/"
-  - "https://france3-regions.francetvinfo.fr/normandie/2014/01/30/loxos-une-petite-entreprise-normande-qui-reussit-en-france-et-l-etranger-405525.html"
+  - http://www.lepaystchad.com/2053/
+  - https://france3-regions.francetvinfo.fr/normandie/2014/01/30/loxos-une-petite-entreprise-normande-qui-reussit-en-france-et-l-etranger-405525.html
+city: null
+country: null
 description: ""
-name: "Maison de la Petite Entreprise"
-lat:
-lng:
-websiteUrl: http://www.mpetchad.com
+email: null
+facebookUrl: null
 id: maison-de-la-petite-entreprise
-city:
-region:
-country:
-email:
-articles:
-  - "http://www.lepaystchad.com/2053/"
-  - "https://france3-regions.francetvinfo.fr/normandie/2014/01/30/loxos-une-petite-entreprise-normande-qui-reussit-en-france-et-l-etranger-405525.html"
-description: ""
-name: "Maison de la Petite Entreprise"
-lat:
-lng:
+lat: null
+linkedUrl: null
+lng: null
+name: Maison de la Petite Entreprise
+region: null
+twitterHandle: null
 websiteUrl: http://www.mpetchad.com
-twitterHandle:
-facebookUrl:
-linkedUrl:
-addressLine1: "Quartier Moursal, Boulevard SAO, Rue 5018, B.P.: 111 , N&#039;Djamena"

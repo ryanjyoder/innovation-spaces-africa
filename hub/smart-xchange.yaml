@@ -1,30 +1,17 @@
-id: smart-xchange
-city: Durban
-region:
-country: South Africa
-email:
-articles:
-  - "https://www.brandsouthafrica.com/tag/smart-xchange"
-  - "https://blogs.worldbank.org/digital-development/tech-hubs-across-africa-which-will-be-legacy-makers"
-description: ""
-name: "Smart Xchange"
-lat:
-lng:
-websiteUrl: http://www.smartxchange.co.za/
-id: smart-xchange
-city: Durban
-region:
-country: South Africa
-email:
-articles:
-  - "https://www.brandsouthafrica.com/tag/smart-xchange"
-  - "https://blogs.worldbank.org/digital-development/tech-hubs-across-africa-which-will-be-legacy-makers"
-description: ""
-name: "Smart Xchange"
-lat:
-lng:
-websiteUrl: http://www.smartxchange.co.za/
-twitterHandle:
-facebookUrl:
-linkedUrl:
 addressLine1: ""
+articles:
+  - https://www.brandsouthafrica.com/tag/smart-xchange
+  - https://blogs.worldbank.org/digital-development/tech-hubs-across-africa-which-will-be-legacy-makers
+city: Durban
+country: South Africa
+description: ""
+email: null
+facebookUrl: null
+id: smart-xchange
+lat: null
+linkedUrl: null
+lng: null
+name: Smart Xchange
+region: null
+twitterHandle: null
+websiteUrl: http://www.smartxchange.co.za/

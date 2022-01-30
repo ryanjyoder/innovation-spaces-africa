@@ -1,30 +1,17 @@
-id: guerra-tech-hub
-city:
-region:
-country:
-email: contact@guerrahub.com
+addressLine1: Banikanni, rue de la pharmacie du Campus ,  Parakou
 articles:
-  - "http://ecostartup.org/guerra-tech-hub-lincubateur-du-nord-mise-pour-une-industrie-numerique-inclusive-mixte-et-egalitaire/"
+  - http://ecostartup.org/guerra-tech-hub-lincubateur-du-nord-mise-pour-une-industrie-numerique-inclusive-mixte-et-egalitaire/
+city: null
+country: null
 description: |
   Avec Guerra, nous souhaitons d�velopper une communaut�, un p�le social, durable, multiculturel et interg�n�rationnel autour des enjeux du num�rique. A cet effet, nous avons mis en place 3 grands programmes de d�veloppement et offrons de multiples services pour soutenir notre communaut� technologique.
-name: "Guerra Tech Hub"
-lat:
-lng:
-websiteUrl: https://guerrahub.com
-id: guerra-tech-hub
-city:
-region:
-country:
 email: contact@guerrahub.com
-articles:
-  - "http://ecostartup.org/guerra-tech-hub-lincubateur-du-nord-mise-pour-une-industrie-numerique-inclusive-mixte-et-egalitaire/"
-description: |
-  Avec Guerra, nous souhaitons d�velopper une communaut�, un p�le social, durable, multiculturel et interg�n�rationnel autour des enjeux du num�rique. A cet effet, nous avons mis en place 3 grands programmes de d�veloppement et offrons de multiples services pour soutenir notre communaut� technologique.
-name: "Guerra Tech Hub"
-lat:
-lng:
-websiteUrl: https://guerrahub.com
-twitterHandle: guerra_hub
 facebookUrl: https://www.facebook.com/GuerraHub
-linkedUrl:
-addressLine1: "Banikanni, rue de la pharmacie du Campus ,  Parakou"
+id: guerra-tech-hub
+lat: null
+linkedUrl: null
+lng: null
+name: Guerra Tech Hub
+region: null
+twitterHandle: guerra_hub
+websiteUrl: https://guerrahub.com
