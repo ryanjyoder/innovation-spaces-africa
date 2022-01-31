@@ -21,6 +21,6 @@ longitude: null
 name: FabLab USMS
 parent_id: 21
 phone: ""
-postal_code: "23000"
 slug: fablabusms
 addressNotes: ""
+postalCode: "23000"

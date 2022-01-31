@@ -21,6 +21,6 @@ longitude: null
 name: UC2 Smart FabLab
 parent_id: null
 phone: "00213550069833"
-postal_code: "25000"
 slug: uc2smartfablab
 addressNotes: Université Constantine 2
+postalCode: "25000"

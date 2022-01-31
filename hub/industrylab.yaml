@@ -22,6 +22,6 @@ longitude: null
 name: IndustryLab
 parent_id: null
 phone: "00212678634727"
-postal_code: "21090"
 slug: industrylab
 addressNotes: ""
+postalCode: "21090"

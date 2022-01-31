@@ -23,6 +23,6 @@ longitude: null
 name: FabLab UIR
 parent_id: 887
 phone: 05 30 10 40 22
-postal_code: "11100"
 slug: FabLabUIR
 addressNotes: Ground floor of Building 2
+postalCode: "11100"
