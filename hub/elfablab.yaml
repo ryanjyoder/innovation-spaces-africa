@@ -1,7 +1,6 @@
 activity_status: null
 address_1: Marsa
 address_2: ""
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/25/17/c81160c6-5d6a-496d-8cca-de20fdf9e400/elFabLab.jpg
 blurb: El FabLab est le 1er Maker Space tunsien indépendant
 capabilities:
@@ -26,3 +25,4 @@ parent_id: null
 phone: ""
 postal_code: "2078"
 slug: elfablab
+addressNotes: ""

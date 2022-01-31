@@ -1,7 +1,6 @@
 activity_status: active
 address_1: 18 rue Albert Lougnon
 address_2: Village d'entreprises Nord, Parc Technor
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/03/07/12/55/41/3a55e410-8d93-4b1c-91c0-82ff97441309/logo_RunFabLab.png
 blurb: runFabLab is located in the technological area. It aims to support innovative projects and science students thanks to an agreement with the university. We're opened 6 days per week, from 9h00 to 17h00
 capabilities:
@@ -31,3 +30,4 @@ parent_id: null
 phone: "0692940626"
 postal_code: "97490"
 slug: runfablab
+addressNotes: ""

@@ -1,7 +1,6 @@
 activity_status: active
 address_1: Faculty of Art, Design and Architecture
 address_2: Bunting Road
-address_notes: The security personal at the front entrance of FADA will kindly direct you to the FabLab on ground level at the rear of the building
 avatar_url: http://fablabs.io.s3.amazonaws.com/2020/09/30/15/23/59/e80b96f5-05a2-4e1c-bc61-5f69267a7890/WhatsApp Image 2020-09-28 at 20.00.47.jpeg
 blurb: We are a FabLab based within the University of Johannesburg's Faculty of Art, Design and Architecture (FADA).
 capabilities:
@@ -33,3 +32,4 @@ parent_id: null
 phone: +27 76 617 3504
 postal_code: "2092"
 slug: fadafablabUJ
+addressNotes: The security personal at the front entrance of FADA will kindly direct you to the FabLab on ground level at the rear of the building

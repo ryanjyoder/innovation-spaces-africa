@@ -1,7 +1,6 @@
 activity_status: planned
 address_1: N53 residence yasmina Avenue Hassane II
 address_2: ""
-address_notes: N°13 Résidence printemps II harhour
 avatar_url: http://fablabs.io.s3.amazonaws.com/2018/01/06/20/52/46/de2b1ec1-8ed6-4019-bdcc-0127b00593de/StemLAb logo.png
 blurb: Our LAB is promoting STEAM education in morocco. we believe that education should give it equal weight to the humanities, communication and languages, science, arts and physical education
 capabilities:
@@ -26,3 +25,4 @@ parent_id: 1051
 phone: "+212661227381"
 postal_code: "12040"
 slug: stemlab
+addressNotes: N°13 Résidence printemps II harhour

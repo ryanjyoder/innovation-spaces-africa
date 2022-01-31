@@ -1,7 +1,6 @@
 activity_status: active
 address_1: Sirs Al Layyanah
 address_2: ""
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/12/40/24/01d55465-ca98-4d9e-8bd2-ce4d718b9652/sho.jpg
 blurb: ""
 capabilities:
@@ -27,3 +26,4 @@ parent_id: null
 phone: "01555544333"
 postal_code: ""
 slug: fablabmenofia
+addressNotes: ""

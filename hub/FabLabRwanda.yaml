@@ -1,7 +1,6 @@
 activity_status: active
 address_1: Telecom House
 address_2: 6th Floor
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/11/21/06/00/53/4eb8d527-221b-4f47-8d36-2fd2f6adcb1e/Fablab.png
 blurb: FabLab Rwanda is a space for members to turn innovative ideas into products specifically in the hardware and electronics domain.
 capabilities:
@@ -33,3 +32,4 @@ parent_id: null
 phone: "+250781187555"
 postal_code: ""
 slug: FabLabRwanda
+addressNotes: ""

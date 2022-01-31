@@ -1,7 +1,6 @@
 activity_status: null
 address_1: Abidjan
 address_2: ""
-address_notes: ""
 avatar_url: null
 blurb: ""
 capabilities:
@@ -25,3 +24,4 @@ parent_id: 14
 phone: "57583482"
 postal_code: "225"
 slug: ayiyikoh
+addressNotes: ""

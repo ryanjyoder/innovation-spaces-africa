@@ -1,7 +1,6 @@
 activity_status: active
 address_1: '237 Ave de la Libération, Jéricho, Cotonou '
 address_2: ""
-address_notes: ""
 avatar_url: null
 blurb: Nous somme une communauté de makers qui a pour vocation de favoriser l'innovation frugale, promouvoir le DIY, l'éducation numérique et le partage de savoir-faire artisanal et du design.
 capabilities:
@@ -31,3 +30,4 @@ parent_id: null
 phone: +229 96084713
 postal_code: ""
 slug: AtelierIroko
+addressNotes: ""

@@ -1,7 +1,6 @@
 activity_status: null
 address_1: '45 Thami Mnyele Drive '
 address_2: ""
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/17/20/17bdda3f-85db-4c9b-88ee-883f4c1da05d/Ekurhuleni fablabs (Fablab Tembisa and Fablab Thokoza).jpg
 blurb: The main goal of the fablab Tembisa and Thokoza is to promote innovation amongst the previously disadvantaged communities
 capabilities:
@@ -27,3 +26,4 @@ parent_id: null
 phone: +27 11 999 7738
 postal_code: "1450"
 slug: ekurhulenifablabs
+addressNotes: ""

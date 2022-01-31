@@ -1,7 +1,6 @@
 activity_status: null
 address_1: Campus de l’UIR, Parc Technopolis Rocade de Rabat-Salé
 address_2: ""
-address_notes: Ground floor of Building 2
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/07/18/14/12/35/61af3972-a8c8-4637-81da-6bce58d5733f/Logo-FABLAB-01.jpg
 blurb: Fablab UIR is a univesity lab created principally to develop the sensitivity of innovation and creation among students. It is a place of share and learn as well as an incubator of novel ideas
 capabilities:
@@ -26,3 +25,4 @@ parent_id: 887
 phone: 05 30 10 40 22
 postal_code: "11100"
 slug: FabLabUIR
+addressNotes: Ground floor of Building 2

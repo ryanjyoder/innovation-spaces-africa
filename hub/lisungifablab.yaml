@@ -1,7 +1,6 @@
 activity_status: active
 address_1: 44 Avenue De La Démocratie (ex-huillerie), Kinshasa-Gombe
 address_2: ""
-address_notes: Campus numérique Francophone de Kinshasa
 avatar_url: http://fablabs.io.s3.amazonaws.com/2018/08/29/17/38/49/8128b772-9924-4c00-9171-2ca65c08386f/LISUNGI FABLAB Full.jpg
 blurb: Lisungi FabLab est un FabLab solidaire qui œuvre dans l'insertion professionnelle des jeunes et des femmes défavorisés à travers l'éducation aux pratiques du numérique génératrices des revenus.
 capabilities:
@@ -31,3 +30,4 @@ parent_id: 1626
 phone: "+243851488888"
 postal_code: ""
 slug: lisungifablab
+addressNotes: Campus numérique Francophone de Kinshasa

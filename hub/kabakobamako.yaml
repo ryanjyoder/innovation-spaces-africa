@@ -1,7 +1,6 @@
 activity_status: null
 address_1: ACI 2000
 address_2: ""
-address_notes: ""
 avatar_url: null
 blurb: bamako fablab was created in order to be helpful first to the local artisans then society cause they have a lot of innovative ideas but they need of course the technology to be competitive worldwide.
 capabilities:
@@ -25,3 +24,4 @@ parent_id: null
 phone: 00223 75154284
 postal_code: BP E 3568
 slug: kabakobamako
+addressNotes: ""

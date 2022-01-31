@@ -1,7 +1,6 @@
 activity_status: null
 address_1: "3188"
 address_2: ""
-address_notes: From Kisumu City, take Bondo Usenge Route and just 1km from Ndori, take a right turn on an all weather road. Signboards for ARC KENYA and MAJIWA Secondary school are available at this turning point. ARO CENTRE where Fablab is located is 800mtrs from the tarmac road.
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/26/26/3ee01f1e-32d7-4d0c-9961-056850bc481b/ARO FABLAB.jpg
 blurb: It is situated in the rural part of Western Kenya - it works with local innovators to use the local materials in creating products that addresses the community needs and encourage home industries.
 capabilities:
@@ -25,3 +24,4 @@ parent_id: 241
 phone: "+254720355951"
 postal_code: "40100"
 slug: arofablab
+addressNotes: From Kisumu City, take Bondo Usenge Route and just 1km from Ndori, take a right turn on an all weather road. Signboards for ARC KENYA and MAJIWA Secondary school are available at this turning point. ARO CENTRE where Fablab is located is 800mtrs from the tarmac road.

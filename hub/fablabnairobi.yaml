@@ -1,7 +1,6 @@
 activity_status: null
 address_1: "30197"
 address_2: ""
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/10/45/7838d689-c661-4a4a-8183-8b97b605f0e5/Fablab Nairobi.jpg
 blurb: ""
 capabilities:
@@ -41,3 +40,4 @@ parent_id: null
 phone: ""
 postal_code: 00100 (GPO)
 slug: fablabnairobi
+addressNotes: ""

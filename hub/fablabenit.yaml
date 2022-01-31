@@ -1,7 +1,6 @@
 activity_status: active
 address_1: ENIT
 address_2: BP 37
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/18/15/b071bc0d-9962-4fc3-a98a-0d82f127e541/FabLab ENIT.jpg
 blurb: FabLab ENIT is located at the National Engineering School of Tunis. The FabLab offers prototyping and 3D printing facilities to ENIT students. It is managed by ENIT's students.
 capabilities:
@@ -28,3 +27,4 @@ parent_id: null
 phone: "0021671874700"
 postal_code: "1002"
 slug: fablabenit
+addressNotes: ""

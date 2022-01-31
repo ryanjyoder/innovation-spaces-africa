@@ -1,7 +1,6 @@
 activity_status: null
 address_1: منقباد
 address_2: ""
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/31/56/527f1d95-9cf0-4b03-b39e-04a38339b176/ASSIUT STEM FAB LAB.jpg
 blurb: ""
 capabilities:
@@ -27,3 +26,4 @@ parent_id: 13
 phone: ""
 postal_code: ""
 slug: assiutstemfablab
+addressNotes: ""

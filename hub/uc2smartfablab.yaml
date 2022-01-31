@@ -1,7 +1,6 @@
 activity_status: planned
 address_1: 'Université Constantine 2 –Nouvelle Ville Ali Mendjeli - BP : 67A, 25000, Constantine. '
 address_2: Algeria
-address_notes: Université Constantine 2
 avatar_url: http://fablabs.io.s3.amazonaws.com/2018/01/28/22/39/32/c6481ec6-10a7-498b-9eb1-196d610c4e34/gfl.jpg
 blurb: UC2 Smart FabLab, est un espace de rencontre et de création collaborative ouvert aux étudiants (es) de l’Université Constantine 2, permettant d’accompagner la mutation vers le « Smart University ».
 capabilities:
@@ -24,3 +23,4 @@ parent_id: null
 phone: "00213550069833"
 postal_code: "25000"
 slug: uc2smartfablab
+addressNotes: Université Constantine 2

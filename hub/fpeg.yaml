@@ -1,7 +1,6 @@
 activity_status: planned
 address_1: 210 Eldelta St. Sporting Area
 address_2: ""
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/22/26/619413ac-82c9-4a20-bb93-2ca4b7a74033/Foundation for Future Production Engineering .jpg
 blurb: Non-profit organization building a bridge between industry and university.
 capabilities:
@@ -28,3 +27,4 @@ parent_id: null
 phone: "+2035917925"
 postal_code: ""
 slug: fpeg
+addressNotes: ""

@@ -1,7 +1,6 @@
 activity_status: closed
 address_1: Plot 87, Vyfde Straat
 address_2: Spaarwater A.H
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/06/30/09/03/36/cdd5f543-13eb-4d8a-99c7-6c6bb1c11a7f/ZS6COG.jpg
 blurb: ZS6COG Fablab is an attempt to increase the skills levels of youths, artisans, technicians, teachers, college lecturers and budding inventors and innovators.
 capabilities:
@@ -26,3 +25,4 @@ parent_id: null
 phone: 083 543 5668
 postal_code: "1438"
 slug: zs6cog
+addressNotes: ""

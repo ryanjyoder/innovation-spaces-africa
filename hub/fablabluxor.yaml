@@ -1,7 +1,6 @@
 activity_status: active
 address_1: Luxor
 address_2: ""
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/14/31/00/574eb495-60d8-4101-8c70-b04473b95f92/Fab-lab-logo-330x165.png
 blurb: ""
 capabilities:
@@ -27,3 +26,4 @@ parent_id: null
 phone: ""
 postal_code: ""
 slug: fablabluxor
+addressNotes: ""

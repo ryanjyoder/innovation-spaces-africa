@@ -1,7 +1,6 @@
 activity_status: active
 address_1: Plot No. 176, Second Sector, 5th District, off El-Teseen st
 address_2: Beside Dusit Thani Hotel, Giza Systems Building
-address_notes: In front of Copper Melt, Ground floor inside Giza systems building.
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/03/05/13/55/51/e9aee512-297b-48e2-b19b-d1bdce19b7be/FLINC LOGO-01.png
 blurb: Fab Lab New Cairo is an open-maker space & fabrication laboratory to help all makers to turn their ideas into prototypes. It's a part of a bigger Makerspace Program run by GSEF.
 capabilities:
@@ -27,3 +26,4 @@ parent_id: 13
 phone: "+201092111434"
 postal_code: "11477"
 slug: fablabnewcairo
+addressNotes: In front of Copper Melt, Ground floor inside Giza systems building.

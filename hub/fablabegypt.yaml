@@ -1,7 +1,6 @@
 activity_status: active
 address_1: Villa 35 - 100 St. - Near Al Horia Square
 address_2: Maadi
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2018/03/02/12/55/07/ca027166-aa37-4494-b89f-912d33950cb6/13612116_805930696174614_4673316763532088645_n.png
 blurb: The first official fab lab and community-run makerspace in Egypt.
 capabilities:
@@ -31,3 +30,4 @@ parent_id: null
 phone: "+201017465650"
 postal_code: ""
 slug: fablabegypt
+addressNotes: ""

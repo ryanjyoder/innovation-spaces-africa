@@ -1,7 +1,6 @@
 activity_status: active
 address_1: École normale supérieure de l'enseignement technique de Rabat Enset
 address_2: ', B.P. 6207 Avenue des Forces Armées Royales Rabat 10100 Maroc'
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2019/06/14/15/02/58/d7ce5fad-659a-413b-8105-8687b9f073a9/enset.jpg
 blurb: The first university fabrication laboratory in Morocco
 capabilities:
@@ -28,3 +27,4 @@ parent_id: null
 phone: "0661695788"
 postal_code: B.P. 6207
 slug: fablabrabat
+addressNotes: ""

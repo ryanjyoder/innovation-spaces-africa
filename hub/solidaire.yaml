@@ -1,7 +1,6 @@
 activity_status: active
 address_1: 69 Avenue Alain Savary
 address_2: ""
-address_notes: Near the Municipality.
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/27/24/3393db52-9fa0-4b3a-abb2-f2c3c70ed95a/FabLab Solidaire - Jeunes Science de Tunisie.jpg
 blurb: Le premier FabLab Solidaire en Tunisie.
 capabilities:
@@ -31,3 +30,4 @@ parent_id: null
 phone: +216 71 772 816
 postal_code: "1003"
 slug: solidaire
+addressNotes: Near the Municipality.

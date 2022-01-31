@@ -1,7 +1,6 @@
 activity_status: null
 address_1: Nouakchott
 address_2: ' Les Echos du Sahel– Zone IND EXTS N°0368, Sebkha'
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/33/43/bc76d437-4a4c-4a87-b939-a44f72e74f28/SahelFablab.jpg
 blurb: First Fablab Mauritanian
 capabilities:
@@ -24,3 +23,4 @@ parent_id: null
 phone: "0022248526105"
 postal_code: BP 2995
 slug: sahelfablab
+addressNotes: ""

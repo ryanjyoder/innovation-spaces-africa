@@ -1,7 +1,6 @@
 activity_status: active
 address_1: 'Civic Innovation Lab, No 50, Ademola Adetokunbo Crescent, Wuse 2, ABUJA 900288, '
 address_2: ""
-address_notes: 'Civic Innovation Lab, No 50, Ademola Adetokunbo Crescent, Wuse 2, ABUJA 900288, '
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/09/16/21/37/46/1e628fc2-7878-4cf6-a13d-33600f3a296d/Fab Lab logo.jpg
 blurb: ITESL Fab Lab is a place where people can collaborate, prototype and create innovative solutions using cutting-edge technology.
 capabilities:
@@ -29,3 +28,4 @@ parent_id: null
 phone: "08034919237"
 postal_code: "900288"
 slug: iteslfablab
+addressNotes: 'Civic Innovation Lab, No 50, Ademola Adetokunbo Crescent, Wuse 2, ABUJA 900288, '

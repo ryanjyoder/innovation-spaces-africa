@@ -1,7 +1,6 @@
 activity_status: null
 address_1: 1025 Science Education Centre, University of Limpopo(Turfloop campus)
 address_2: Private Bag X1106, Sovenga, 0727
-address_notes: First floor at the Science Education Centre
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/14/30/ac16959e-83e0-46e3-9eb8-ecc0201d17c8/Limpopo Fablab.jpg
 blurb: It is a community based Fablab that is focused on strengthening the innovative capability of Limpopo youth.
 capabilities:
@@ -27,3 +26,4 @@ parent_id: 78
 phone: +2715 268 3819
 postal_code: "0727"
 slug: limpopofablab
+addressNotes: First floor at the Science Education Centre

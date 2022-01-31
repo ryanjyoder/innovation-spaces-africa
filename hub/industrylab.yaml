@@ -1,7 +1,6 @@
 activity_status: active
 address_1: Route BO 50
 address_2: Oulad Haddou, Sidi Maârouf
-address_notes: ""
 avatar_url: null
 blurb: IndustryLab is laboratory for innovation and creativity where you give life to your projects by yourself.
 capabilities:
@@ -25,3 +24,4 @@ parent_id: null
 phone: "00212678634727"
 postal_code: "21090"
 slug: industrylab
+addressNotes: ""

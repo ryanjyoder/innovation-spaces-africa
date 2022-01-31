@@ -1,7 +1,6 @@
 activity_status: active
 address_1: Boulevard Laymoune
 address_2: ""
-address_notes: Boulevard Laymoune, Casablanca
 avatar_url: http://fablabs.io.s3.amazonaws.com/2018/01/02/09/19/31/83c1f7c9-497d-46ea-97d9-279fbbb7e6ed/fablabemsi.png
 blurb: fablab emsi casablanca is a fablab open to EMSI students carrying innovative projects
 capabilities:
@@ -28,3 +27,4 @@ parent_id: null
 phone: 05228-94287
 postal_code: ""
 slug: fablabemsicasablanca
+addressNotes: Boulevard Laymoune, Casablanca

@@ -1,7 +1,6 @@
 activity_status: active
 address_1: Maadi
 address_2: ""
-address_notes: ""
 avatar_url: null
 blurb: ""
 capabilities:
@@ -27,3 +26,4 @@ parent_id: null
 phone: "0221224569861"
 postal_code: ""
 slug: maadistem
+addressNotes: ""

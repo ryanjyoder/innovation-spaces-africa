@@ -1,7 +1,6 @@
 activity_status: planned
 address_1: 3 David Hughes Close
 address_2: 'Off Kosoko Street '
-address_notes: Street beside Just Ryte Mall.
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/08/11/16/00/27/342f40e1-9e11-4928-9592-872728146992/IMG-20170804-WA0049.jpg
 blurb: Afconrecruit has been running since 2012 with the focus to strengthen businesses and train individuals to deliver global value. The lab will focus on 3D printing and creating new products for inventor
 capabilities:
@@ -29,3 +28,4 @@ parent_id: null
 phone: +234 8168985593
 postal_code: 234 01
 slug: afconrecruitfablab
+addressNotes: Street beside Just Ryte Mall.

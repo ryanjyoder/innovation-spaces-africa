@@ -1,7 +1,6 @@
 activity_status: active
 address_1: بياض العرب، بني سويف، محافظة بني سويف
 address_2: ""
-address_notes: ""
 avatar_url: null
 blurb: The fablab stem school is start up fablab so is fab lab is new up date the fab lab
 capabilities:
@@ -27,3 +26,4 @@ parent_id: null
 phone: "01100228893"
 postal_code: ""
 slug: fablabbenisuef
+addressNotes: ""

@@ -1,7 +1,6 @@
 activity_status: active
 address_1: 'مصر -الغردقة -مبارك 13 مدرسة المتفوقين  بجوار مدرسة الفرنسية '
 address_2: ""
-address_notes: ""
 avatar_url: null
 blurb: Support the curriculum by helping teachers identify and plan projects within and across their subjects to support learning outcomes
 capabilities:
@@ -27,3 +26,4 @@ parent_id: 13
 phone: "01004269568"
 postal_code: "002065"
 slug: redseafablab
+addressNotes: ""

@@ -1,7 +1,6 @@
 activity_status: active
 address_1: ' Akwa, Boulevard Ahmadou Ahidjo, Orange Agence  Commerciale Soudanaise, 1er étage'
 address_2: ""
-address_notes: ' Akwa, Boulevard Ahmadou Ahidjo, Orange Agence  Commerciale Soudanaise, 1er étage BP:1864 douala'
 avatar_url: http://fablabs.io.s3.amazonaws.com/2020/11/11/15/49/19/e03a00ec-ddd6-4ee5-bc97-21e17d9c0f6c/icone.jpg
 blurb: 'The Orange Digital Center FabLab work in areas such as: digital manufacturing, ecodesign, fashion tech, digital craftsmanship, electronics.'
 capabilities:
@@ -26,3 +25,4 @@ parent_id: 1626
 phone: "699948671"
 postal_code: BP:1864
 slug: wourilab
+addressNotes: ' Akwa, Boulevard Ahmadou Ahidjo, Orange Agence  Commerciale Soudanaise, 1er étage BP:1864 douala'

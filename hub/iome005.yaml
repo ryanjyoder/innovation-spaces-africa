@@ -1,7 +1,6 @@
 activity_status: active
 address_1: Hindi
 address_2: ""
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2021/04/07/08/35/01/3cf17385-b6ee-4a55-9cd2-9c259f0cee0e/i_O_me-logo-2.png
 blurb: I.O.Me005 is a humanitarian, community based innovation and prototyping space with Digital Fabrication tools to facilitate rapid prototyping and small scale manufacturing of innovative ideas/products
 capabilities:
@@ -32,3 +31,4 @@ parent_id: null
 phone: "+254723950037"
 postal_code: ""
 slug: iome005
+addressNotes: ""

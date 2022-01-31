@@ -1,7 +1,6 @@
 activity_status: active
 address_1: No 3 Martin Luther King Jr street Gwarinpa
 address_2: ""
-address_notes: No 3 Martin Luther King Jr street Gwarinpa
 avatar_url: http://fablabs.io.s3.amazonaws.com/2018/08/22/20/08/09/364c0e17-c0af-4fd1-bc01-1d3b88840249/Developers lab.png
 blurb: we are ensuring that we are building Robotics part , Building of simple electronics for IOT and AI inter phasing. we are also ensuring a recycling of our own waste
 capabilities:
@@ -27,3 +26,4 @@ parent_id: null
 phone: "+2348133226669"
 postal_code: "900108"
 slug: developerfablab
+addressNotes: No 3 Martin Luther King Jr street Gwarinpa

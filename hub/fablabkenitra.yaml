@@ -1,7 +1,6 @@
 activity_status: active
 address_1: 28 Rue Maamora
 address_2: ""
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2019/06/10/15/21/52/a6abf761-b38b-42d0-9c3b-f044eae9c9a4/LogoFabLabK1.jpg
 blurb: FABLAB Kenitra est un lieu collaboratif de fabrication, ouvert à tous, qui aidera les créateurs à s’approprier des technologies utiles pour leurs projets.
 capabilities:
@@ -28,3 +27,4 @@ parent_id: 887
 phone: "+212666888860"
 postal_code: "14000"
 slug: fablabkenitra
+addressNotes: ""

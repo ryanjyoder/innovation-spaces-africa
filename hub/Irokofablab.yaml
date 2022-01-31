@@ -1,7 +1,6 @@
 activity_status: active
 address_1: 237 Ave de la Liberation, Jericho
 address_2: ""
-address_notes: 237 Ave de la Liberation, Jericho
 avatar_url: http://fablabs.io.s3.amazonaws.com/2020/07/07/19/47/03/be4fbec6-bee9-41c3-b256-ec16f7945baa/Logo O Iroko FabLab.png
 blurb: A makerspace focus on craftsmanship, low-tech and STEAM education
 capabilities:
@@ -26,3 +25,4 @@ parent_id: null
 phone: "+22996084713"
 postal_code: "00229"
 slug: Irokofablab
+addressNotes: 237 Ave de la Liberation, Jericho

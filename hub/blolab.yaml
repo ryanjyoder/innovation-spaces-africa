@@ -1,7 +1,6 @@
 activity_status: null
 address_1: Cotonou
 address_2: ""
-address_notes: Kindonou
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/20/22/953cabf6-05a8-40b4-9a96-92bb0d0d8f2c/BLOLAB.jpg
 blurb: ""
 capabilities:
@@ -26,3 +25,4 @@ parent_id: 320
 phone: "+22967920003"
 postal_code: ""
 slug: blolab
+addressNotes: Kindonou

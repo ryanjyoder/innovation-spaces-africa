@@ -1,7 +1,6 @@
 activity_status: null
 address_1: Yaoundé
 address_2: Mimboman
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/33/12/a539e6f9-ec2a-47ca-b913-5143732ca488/Ecolia Labs.jpg
 blurb: ECOLIA Labs is a Non-profit leading accelerator and incubator focusing on technology startups.
 capabilities:
@@ -33,3 +32,4 @@ parent_id: null
 phone: +237 677 56 87 66 / 691 42 24 43
 postal_code: ""
 slug: ecolialabs
+addressNotes: ""

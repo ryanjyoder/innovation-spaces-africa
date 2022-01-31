@@ -1,7 +1,6 @@
 activity_status: active
 address_1: Green Garage
 address_2: House 5, Stateline Road, FUTA
-address_notes: Green Garage is 3 minutes walk from the Federal University of Technology Akure (FUTA). You are always welcome to visit us...
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/03/03/08/18/30/d71187cb-e906-4153-91ab-3deebd047053/Logo only.png
 blurb: GreenLab microfactory is a platform for social innovation and social engineering. We provide adequate focus into rural/small-scale research, learning, and grassroots development.
 capabilities:
@@ -29,3 +28,4 @@ parent_id: null
 phone: "+2348092205588"
 postal_code: "340271"
 slug: greenlabmicrofactory
+addressNotes: Green Garage is 3 minutes walk from the Federal University of Technology Akure (FUTA). You are always welcome to visit us...

@@ -1,7 +1,6 @@
 activity_status: active
 address_1: 7 Factory Rd
 address_2: ""
-address_notes: 7 Factory Road by Eziukwu Road, Aba
 avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/16/16/03/35/7803ce2d-affb-410d-9d98-841b50432c38/CIC logo main Cropped.jpg
 blurb: Clintonel Innovation Centre (CIC) provides training, mentoring and equipment for young people to create engineering innovations, build indigenous products and startup new businesses.
 capabilities:
@@ -31,3 +30,4 @@ parent_id: null
 phone: 0806 890 2331
 postal_code: "450211"
 slug: CIC
+addressNotes: 7 Factory Road by Eziukwu Road, Aba

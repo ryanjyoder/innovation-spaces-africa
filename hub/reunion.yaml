@@ -1,7 +1,6 @@
 activity_status: planned
 address_1: La Rivière Saint-Louis
 address_2: ""
-address_notes: ""
 avatar_url: null
 blurb: we are mainly a group of thinkers, geeks and do it yourselfers, still acting unofficially
 capabilities: []
@@ -23,3 +22,4 @@ parent_id: null
 phone: "0262343686"
 postal_code: "97421"
 slug: reunion
+addressNotes: ""

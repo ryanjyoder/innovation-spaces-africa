@@ -1,7 +1,6 @@
 activity_status: planned
 address_1: abdoulaye.deyoko@wanadoo.fr
 address_2: abdoulaye.deyoko@esiau-mali.com
-address_notes: C'est dans l'mmeuble de ESIAU  à la rue 466 porte 28 Badialan1 Bamako Mali
 avatar_url: null
 blurb: une lab créée au sein de l'ESIAU et appuyée par le woelal
 capabilities:
@@ -24,3 +23,4 @@ parent_id: null
 phone: 223 79100764
 postal_code: "223"
 slug: esiaulab
+addressNotes: C'est dans l'mmeuble de ESIAU  à la rue 466 porte 28 Badialan1 Bamako Mali

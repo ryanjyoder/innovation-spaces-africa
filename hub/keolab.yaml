@@ -1,7 +1,6 @@
 activity_status: active
 address_1: BV 30004 Cite An2 Ouagadougou
 address_2: ""
-address_notes: BV 30004 Cite An2 Ouagadougou
 avatar_url: http://fablabs.io.s3.amazonaws.com/2019/08/13/13/48/29/708080ee-3942-4636-8a51-b767a14ec61b/KeoLID-01.jpg
 blurb: KeoLID Innovation Hub est une structure associative, un espace dédié aux expérimentations, au prototypage et au développement de projets innovants au Burkina Faso.
 capabilities:
@@ -29,3 +28,4 @@ parent_id: null
 phone: "+22670713333"
 postal_code: "22670"
 slug: keolab
+addressNotes: BV 30004 Cite An2 Ouagadougou

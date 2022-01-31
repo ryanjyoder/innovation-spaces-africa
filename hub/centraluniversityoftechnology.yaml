@@ -1,7 +1,6 @@
 activity_status: null
 address_1: ""
 address_2: ""
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/11/17/400be726-900b-40fd-a08c-4d0d5bf159ff/Central University of Technology.jpg
 blurb: null
 capabilities: []
@@ -21,3 +20,4 @@ parent_id: null
 phone: ""
 postal_code: "9301"
 slug: centraluniversityoftechnology
+addressNotes: ""

@@ -1,7 +1,6 @@
 activity_status: active
 address_1: 36, rue Abou Chouaïb Doukkali
 address_2: Quartier Gautier
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/04/21/09/32/28/8e2104b6-8096-4a28-bd39-57f8b18ab8fc/Charte de casanostra-4.png
 blurb: Casanostra is an Entrpreneurship Fablab. It is mainly targetted at helping students and entrepreneurs go from Idea to working prototype, and minimal viable products.
 capabilities:
@@ -32,3 +31,4 @@ parent_id: null
 phone: "00212674588596"
 postal_code: "20100"
 slug: casanostra
+addressNotes: ""

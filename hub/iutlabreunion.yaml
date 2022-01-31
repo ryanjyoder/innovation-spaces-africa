@@ -1,7 +1,6 @@
 activity_status: active
 address_1: 40 avenue de Soweto
 address_2: BP 373
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2018/10/16/05/37/49/82a2eac9-1b05-439e-8541-9bd68a85dd44/logo IUTLAB ok 2.png
 blurb: IuTLAB est un Fablab au sein d'un IUT ( Institut universitaire technologique ), il est ouvert à tout type de public qui veux prototyper, fabriquer, inventer ou tout simplement apprendre.
 capabilities:
@@ -28,3 +27,4 @@ parent_id: 1393
 phone: "0262962879"
 postal_code: "97455"
 slug: iutlabreunion
+addressNotes: ""

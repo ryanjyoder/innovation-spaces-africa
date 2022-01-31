@@ -1,7 +1,6 @@
 activity_status: active
 address_1: طرابلس
 address_2: Ben Ashour - Wessaayt Abderri
-address_notes: Near Al-Wehda Bank, Al-Saqqa Mosque Branch
 avatar_url: http://fablabs.io.s3.amazonaws.com/2020/02/10/12/52/10/bc9f5459-be47-44d7-9ce6-8fb30269bd87/FLS Logo.png
 blurb: The first fablab in Tripoli with tools and equipment allowing inventors, entrepreneurs, students and artists to make their creations come to life by designing, prototyping and sharing their projects.
 capabilities:
@@ -31,3 +30,4 @@ parent_id: 13
 phone: "+218911514378"
 postal_code: ""
 slug: streamfablab
+addressNotes: Near Al-Wehda Bank, Al-Saqqa Mosque Branch

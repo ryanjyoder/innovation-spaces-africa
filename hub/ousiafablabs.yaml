@@ -1,7 +1,6 @@
 activity_status: planned
 address_1: Eldoret
 address_2: ""
-address_notes: ""
 avatar_url: null
 blurb: 'A Fab Lab, or digital fabrication laboratory, is a place to play, to create, to mentor and to invent: a place for learning and innovation.'
 capabilities:
@@ -26,3 +25,4 @@ parent_id: null
 phone: "+254728286873"
 postal_code: "30100"
 slug: ousiafablabs
+addressNotes: ""

@@ -1,7 +1,6 @@
 activity_status: active
 address_1: 'Innovation Lane, off Achieng'' Oneko Rd, '
 address_2: "3188"
-address_notes: Opposite Huduma Centre, next to PC's Office (Nyanza Regional Commissioner's office)
 avatar_url: http://fablabs.io.s3.amazonaws.com/2019/02/24/09/10/49/705c48da-9188-45d3-bfce-2fc0db619231/fab logoo.jpg
 blurb: Fablab Winam is a hub of innovation, local manufacturing, research and education, that uses the latest computer-assisted design software and Equipment for the creation of prototypes and products
 capabilities:
@@ -35,3 +34,4 @@ parent_id: null
 phone: "+254720355951"
 postal_code: "40100"
 slug: fablabwinam
+addressNotes: Opposite Huduma Centre, next to PC's Office (Nyanza Regional Commissioner's office)

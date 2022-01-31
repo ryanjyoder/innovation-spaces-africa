@@ -1,7 +1,6 @@
 activity_status: planned
 address_1: S.I.C.A.P. Liberte 2
 address_2: ""
-address_notes: Derrière la place du Jet d'eau, dans une des cantines à côté de la mosquée.
 avatar_url: null
 blurb: Primary focus on free electronics, textile and organic dye, wood, irrigation and urban gardening.
 capabilities:
@@ -28,3 +27,4 @@ parent_id: 17
 phone: ""
 postal_code: ""
 slug: defaralsalabo
+addressNotes: Derrière la place du Jet d'eau, dans une des cantines à côté de la mosquée.

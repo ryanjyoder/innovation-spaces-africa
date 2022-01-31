@@ -1,7 +1,6 @@
 activity_status: active
 address_1: بنغازي
 address_2: ""
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2018/08/13/10/57/13/6ed20c6c-1c26-40df-8fcd-a1d57d996652/fablab libya logo3.jpg
 blurb: ""
 capabilities:
@@ -28,3 +27,4 @@ parent_id: null
 phone: "00218925562440"
 postal_code: ""
 slug: fablablibya
+addressNotes: ""

@@ -1,7 +1,6 @@
 activity_status: null
 address_1: 4 Rue Jacquot
 address_2: ""
-address_notes: front of the bus stop " college de l'étang "
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/02/19/09/34/05/cf7b59f2-ae45-477b-85e4-0bd8917e8802/logo.png
 blurb: a district lab who want to generalize the new technologie for everyone
 capabilities:
@@ -31,3 +30,4 @@ parent_id: null
 phone: ""
 postal_code: ""
 slug: okartie
+addressNotes: front of the bus stop " college de l'étang "

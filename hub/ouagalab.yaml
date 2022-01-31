@@ -1,7 +1,6 @@
 activity_status: active
 address_1: www.ouagalab.bf
 address_2: https://www.facebook.com/pages/Ouagalab/159514010814943
-address_notes: 'Ouagadougou, Kalgoodin avenue Baba sy '
 avatar_url: http://fablabs.io.s3.amazonaws.com/2018/07/11/22/22/11/7acb60aa-be09-4f21-a59e-ca3d38097cda/logo-ou-2.jpg
 blurb: ""
 capabilities:
@@ -33,3 +32,4 @@ parent_id: 21
 phone: +22670766380/+22678927197
 postal_code: 03bp7099ouagadougou03
 slug: ouagalab
+addressNotes: 'Ouagadougou, Kalgoodin avenue Baba sy '

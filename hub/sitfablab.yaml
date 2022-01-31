@@ -1,7 +1,6 @@
 activity_status: active
 address_1: Penyi-Dzodze Road
 address_2: Unit PEN-ANY-266
-address_notes: We are opposite White Dove Hotel.
 avatar_url: http://fablabs.io.s3.amazonaws.com/2019/03/05/22/01/03/acce8f20-332d-4bc9-93fb-38d609bf7078/SIT logo3.png
 blurb: The fab lab is in its early stages. We specialize in making prosthetic using 3D printed parts. We also engage in woodwork, pottery and metal work.
 capabilities:
@@ -24,3 +23,4 @@ parent_id: null
 phone: +1 8572659493
 postal_code: ""
 slug: sitfablab
+addressNotes: We are opposite White Dove Hotel.

@@ -1,7 +1,6 @@
 activity_status: null
 address_1: Avenue Mohamed V, Quartier Takadoum, B.P 591
 address_2: ""
-address_notes: ""
 avatar_url: null
 blurb: ""
 capabilities:
@@ -24,3 +23,4 @@ parent_id: 21
 phone: ""
 postal_code: "23000"
 slug: fablabusms
+addressNotes: ""

@@ -1,7 +1,6 @@
 activity_status: null
 address_1: Casablanca
 address_2: Bd Imam Layte Bnou saad, mgasin n°68، Hay Al Qods, Bernoussi،
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/25/28/b72962af-4c0c-4d31-a3f0-dfa7a2bf7780/FABLAB CASABLANCA.jpg
 blurb: FabLab casablanca est le premier FabLab ou Laboratoire de Fabrication de la région du Grand Casablanca. un lieu à la fois de fabrication d'objets et de partage de connaissances.
 capabilities:
@@ -37,3 +36,4 @@ parent_id: null
 phone: "+212661215305"
 postal_code: "20610"
 slug: fablabcasablanca
+addressNotes: ""

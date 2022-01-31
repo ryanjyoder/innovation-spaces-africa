@@ -1,7 +1,6 @@
 activity_status: active
 address_1: '  جمصة/بلقاس /محافظة الدقهلية/مصر'
 address_2: ""
-address_notes: ""
 avatar_url: null
 blurb: Contains 5 machines,3D printer,Laser cutter,mono fab ,Vinyl cutter and shopboot.
 capabilities:
@@ -27,3 +26,4 @@ parent_id: 1747
 phone: ""
 postal_code: ""
 slug: Dakahliadakahliafablab
+addressNotes: ""

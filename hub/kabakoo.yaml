@@ -1,7 +1,6 @@
 activity_status: active
 address_1: Faladié
 address_2: ""
-address_notes: Bamako, Faladié (Grabal)
 avatar_url: http://fablabs.io.s3.amazonaws.com/2018/07/19/17/42/04/8b290d1a-44f6-475e-9687-925bf6a8ff4f/logo_only visual.png
 blurb: The lab for collaborative imagination ... Kabakoo is a shared space dedicated to the emergence of endogenous solutions to local problems by leveraging the power of place-based learning.
 capabilities:
@@ -29,3 +28,4 @@ parent_id: null
 phone: 00223 94 40 24 63
 postal_code: ""
 slug: kabakoo
+addressNotes: Bamako, Faladié (Grabal)

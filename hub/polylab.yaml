@@ -1,7 +1,6 @@
 activity_status: active
 address_1: VCN, Route de la Base
 address_2: Ecole Polytehcnique de Thiès
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2018/04/12/11/32/13/c2a039a5-3707-475d-8d2b-888efc9fd375/logoPolylab.jpg
 blurb: The Fablab Polylab is an open Faclab in Thies Polytechnic School (Senegal). It is an area of learning, expression and sharing open to the community.
 capabilities:
@@ -32,3 +31,4 @@ parent_id: 16
 phone: "+221775389880"
 postal_code: "22000"
 slug: polylab
+addressNotes: ""

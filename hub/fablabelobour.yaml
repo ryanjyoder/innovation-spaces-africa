@@ -1,7 +1,6 @@
 activity_status: active
 address_1: El Obour City
 address_2: ""
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/16/14/24/05/f1aae8c3-8ca9-4dc1-976a-b2d5afcbd9f7/pp.jpg
 blurb: the FabLab is viry
 capabilities:
@@ -27,3 +26,4 @@ parent_id: 13
 phone: "01003848669"
 postal_code: "13752"
 slug: fablabelobour
+addressNotes: ""

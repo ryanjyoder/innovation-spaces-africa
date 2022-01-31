@@ -1,7 +1,6 @@
 activity_status: active
 address_1: Andrainarivo
 address_2: ""
-address_notes: Go down the street until Panorama, go down (25m) again and the FabLab is just in our left.
 avatar_url: http://fablabs.io.s3.amazonaws.com/2018/10/10/09/31/45/b4c89313-42ce-4efc-aab6-f59ff0540725/Sans titre - 1.png
 blurb: FabLab Solidaire Mamiratra is whichis open for everyone. It's a place which gives a new hope of kid schooled, handicapped person...to have an opportunity to develop a new knowledge.
 capabilities:
@@ -31,3 +30,4 @@ parent_id: null
 phone: +261 32 05 704 40
 postal_code: "101"
 slug: FablabSolidaireMamiratra
+addressNotes: Go down the street until Panorama, go down (25m) again and the FabLab is just in our left.

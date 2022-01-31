@@ -1,7 +1,6 @@
 activity_status: active
 address_1: Kafr El-Shaikh
 address_2: ""
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/13/14/15/34cd90f7-6502-4d05-960b-6646abc683de/Fab_Lab_logo.svg.jpg
 blurb: we can do every thing
 capabilities:
@@ -27,3 +26,4 @@ parent_id: 13
 phone: "00201067811150"
 postal_code: "330115"
 slug: kfsfablab
+addressNotes: ""

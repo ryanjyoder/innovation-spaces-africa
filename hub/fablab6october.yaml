@@ -1,7 +1,6 @@
 activity_status: closed
 address_1: 343-المحور المركزي- الحي الثاني-المجاورة الثانية، 6 أكتوبر، الجيزة
 address_2: block 343, apartment 4
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/27/02/7a24d888-c628-4e2a-bbf5-b19ff41dcf5d/Fab Lab 6 October.jpg
 blurb: Fab Lab 6 October is an initiative to teach the youth in our City about technology, we focus in Economic Empowerment through Technology to raise the standard of living in our city through new ideas
 capabilities:
@@ -23,3 +22,4 @@ parent_id: null
 phone: "01007814519"
 postal_code: "12566"
 slug: fablab6october
+addressNotes: ""

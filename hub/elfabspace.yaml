@@ -1,7 +1,6 @@
 activity_status: active
 address_1: 10 bis rue de algerie
 address_2: ""
-address_notes: 10 bis rue de algerie
 avatar_url: http://fablabs.io.s3.amazonaws.com/2020/05/14/22/47/24/c8130bdc-ddf2-4f06-918d-f692a025edb8/el fabspace.png
 blurb: EL FABSPACE is the first fablab in downtown Tunis located in the vibrant and busy Beb Dzira neighborhood. It is home to a local community of makers working on technology and social impact.
 capabilities:
@@ -29,3 +28,4 @@ parent_id: null
 phone: "+21627883887"
 postal_code: "1000"
 slug: elfabspace
+addressNotes: 10 bis rue de algerie

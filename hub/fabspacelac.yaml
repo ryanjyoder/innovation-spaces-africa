@@ -1,7 +1,6 @@
 activity_status: active
 address_1: Immeuble DRISS, Rue du Lac de Côme, les Berges du Lac
 address_2: ""
-address_notes: ""
 avatar_url: null
 blurb: Located at Lac 1, Tunis, at Orange Digital Center. The FabLab offer training and mentorship and digital fabrication services for students and startups.
 capabilities:
@@ -36,3 +35,4 @@ parent_id: null
 phone: "+21650011731"
 postal_code: "1053"
 slug: fabspacelac
+addressNotes: ""

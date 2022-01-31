@@ -1,7 +1,6 @@
 activity_status: active
 address_1: El Obour City
 address_2: ""
-address_notes: elobour
 avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/16/14/03/14/a6eee3c4-09ef-47b7-8b94-3ff809898aab/pp.jpg
 blurb: This MY FabLab is very important for visitors
 capabilities:
@@ -27,3 +26,4 @@ parent_id: 13
 phone: "01003848669"
 postal_code: "13752"
 slug: elobourfablab
+addressNotes: elobour

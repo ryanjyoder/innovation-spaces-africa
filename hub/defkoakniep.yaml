@@ -1,7 +1,6 @@
 activity_status: null
 address_1: 'Villa N°1695 Sicap Liberté II '
 address_2: Dakar Senegal
-address_notes: Rue 269, Villa 1695 SICAP LIBETE 2
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/26/23/0b034f11-5fdb-431d-a979-db204c679a04/DefkoAkNiep Lab.jpg
 blurb: Place of innovation and collaboration, DefKo Ak Niep (Do it with others) is the new FabLab in Dakar set up by the NGO @Kerthiossane
 capabilities:
@@ -31,3 +30,4 @@ parent_id: null
 phone: "+221338685309"
 postal_code: B.P 10664
 slug: defkoakniep
+addressNotes: Rue 269, Villa 1695 SICAP LIBETE 2

@@ -1,7 +1,6 @@
 activity_status: null
 address_1: Cotonou
 address_2: ""
-address_notes: Quartier Kindonou, 2e immeuble après la pharmacie en quittant le CEG Le Nokoué, 3e étage.
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/30/29/444b8fc2-0975-40f4-9831-63c05eb890cf/Blolab Cotonou.jpg
 blurb: Design and fabrication for spreading sciences and technologies through open source and open hardware projects.
 capabilities:
@@ -24,3 +23,4 @@ parent_id: 21
 phone: (229) 97 38 31 74
 postal_code: "229"
 slug: blolabcotonou
+addressNotes: Quartier Kindonou, 2e immeuble après la pharmacie en quittant le CEG Le Nokoué, 3e étage.

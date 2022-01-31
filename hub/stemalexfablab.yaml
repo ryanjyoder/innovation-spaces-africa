@@ -1,7 +1,6 @@
 activity_status: active
 address_1: Burj Al Arab
 address_2: ""
-address_notes: "new burj elarab \r\nAlexandria stem school"
 avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/15/17/10/da31161b-7af9-42a5-b124-c582c5b922fd/m.Jpg
 blurb: my fab lab in Borj elarab Alexandria Egypt
 capabilities:
@@ -27,3 +26,4 @@ parent_id: 13
 phone: "01227498827"
 postal_code: "00203"
 slug: stemalexfablab
+addressNotes: "new burj elarab \r\nAlexandria stem school"

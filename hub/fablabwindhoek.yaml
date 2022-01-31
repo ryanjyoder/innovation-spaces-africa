@@ -1,7 +1,6 @@
 activity_status: planned
 address_1: ""
 address_2: ""
-address_notes: ""
 avatar_url: null
 blurb: null
 capabilities: []
@@ -23,3 +22,4 @@ parent_id: null
 phone: ""
 postal_code: ""
 slug: fablabwindhoek
+addressNotes: ""

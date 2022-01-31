@@ -1,7 +1,6 @@
 activity_status: null
 address_1: 1317 Solomon Mekgwe Street
 address_2: Old Kitsong Training Centre
-address_notes: 'GPS Coordinates: 28º 42’53.99“ 24º 42’39.35“'
 avatar_url: null
 blurb: null
 capabilities: []
@@ -23,3 +22,4 @@ parent_id: null
 phone: 053 872 2615
 postal_code: "8301"
 slug: kimberly
+addressNotes: 'GPS Coordinates: 28º 42’53.99“ 24º 42’39.35“'

@@ -1,7 +1,6 @@
 activity_status: active
 address_1: 'Al-Pepsi Street – Al Rahba '
 address_2: 'Near Al-Fuwaheat Secondary School for Boys '
-address_notes: "on the first floor apartment in the building right next to Al-Breky supermarket .\r\n"
 avatar_url: http://fablabs.io.s3.amazonaws.com/2019/01/01/10/54/58/28abac7f-bed5-4d61-b8b5-ac4b1ae8bfa5/fablab libya logo5.png
 blurb: Fab Lab Libya is the first of its kind in Libya, as an open access electronics lab and training center. One of the main targets of our lab is introducing and developing STEAM education in Libya .
 capabilities:
@@ -29,3 +28,4 @@ parent_id: null
 phone: "00218911091929"
 postal_code: "+218"
 slug: fablablibyaBen
+addressNotes: "on the first floor apartment in the building right next to Al-Breky supermarket .\r\n"

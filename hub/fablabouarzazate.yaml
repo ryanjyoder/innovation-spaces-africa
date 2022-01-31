@@ -1,7 +1,6 @@
 activity_status: planned
 address_1: FABLAB OUARZAZATE , Ibn Al Haytham Technical Hight School, Ouarzazate, Maroc
 address_2: ""
-address_notes: FABLAB OUARZAZATE , Ibn Al Haytham Technical Hight School, Ouarzazate, Maroc
 avatar_url: http://fablabs.io.s3.amazonaws.com/2018/10/15/21/38/33/28d4b66c-e35c-4944-8e82-ec6289c65fea/Logo-FabLab.png
 blurb: We are students, pensioners, teachers, engineers, IT people, makers, who like to spend in their spare time in technology and enjoyment of making their own projects and do not want to do this alone.
 capabilities:
@@ -24,3 +23,4 @@ parent_id: 887
 phone: "+212614014476"
 postal_code: "45000"
 slug: fablabouarzazate
+addressNotes: FABLAB OUARZAZATE , Ibn Al Haytham Technical Hight School, Ouarzazate, Maroc

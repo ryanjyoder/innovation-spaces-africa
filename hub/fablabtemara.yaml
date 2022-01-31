@@ -1,7 +1,6 @@
 activity_status: closed
 address_1: ""
 address_2: ""
-address_notes: "A cause du COVID-19 FabLab Temara en arrêt d'activité depuis le 16 mars 2020\r\nDue to COVID-19 FabLab Temara has been out of business since March 16, 2020\r\n"
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/28/45/26ae4e91-8bb2-424e-b153-9c104d170771/FabLab Temara.jpg
 blurb: A cause du COVID-19 FabLab Temara en arrêt d'activité depuis le 16 mars 2020 Due to COVID-19 FabLab Temara has been out of business since March 16, 2020
 capabilities: []
@@ -21,3 +20,4 @@ parent_id: null
 phone: "+212612028009"
 postal_code: "12010"
 slug: fablabtemara
+addressNotes: "A cause du COVID-19 FabLab Temara en arrêt d'activité depuis le 16 mars 2020\r\nDue to COVID-19 FabLab Temara has been out of business since March 16, 2020\r\n"

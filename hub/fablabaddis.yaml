@@ -1,7 +1,6 @@
 activity_status: null
 address_1: Addis Ababa University
 address_2: Piaza
-address_notes: We are located in Addis Ababa University; Alle school of fine arts and design around 4 killo next to natural science campus.
 avatar_url: null
 blurb: ""
 capabilities: []
@@ -25,3 +24,4 @@ parent_id: null
 phone: +251 11 123 2832
 postal_code: ""
 slug: fablabaddis
+addressNotes: We are located in Addis Ababa University; Alle school of fine arts and design around 4 killo next to natural science campus.

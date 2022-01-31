@@ -1,7 +1,6 @@
 activity_status: active
 address_1: '   P.O Box 58275-0200'
 address_2: ""
-address_notes: Inside Avon center next to barclays bank
 avatar_url: http://fablabs.io.s3.amazonaws.com/2018/05/02/07/48/38/275adac5-7045-4efe-9b6d-5000fb169fa0/Fab_Lab_logo.svg.png
 blurb: Fablab Gearbox offers people access to prototyping equipment and Mentorship for members that want to build products or are in the research and development stage of their product development life cycle
 capabilities:
@@ -35,3 +34,4 @@ parent_id: 47
 phone: '(0)790.406.265             '
 postal_code: "00200"
 slug: fablabgearbox
+addressNotes: Inside Avon center next to barclays bank

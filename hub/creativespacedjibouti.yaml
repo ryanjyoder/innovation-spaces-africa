@@ -1,7 +1,6 @@
 activity_status: active
 address_1: 'Université de Djibouti - Campus de Balbala '
 address_2: ""
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2020/06/27/19/23/49/6553482b-35fb-4da6-9a42-df97bdf12b42/logo creative space white version.png
 blurb: Creative Spaces is the result of an innovative partnership between IOM, the University of Djibouti and the Swiss-based humanitarian organization, Terre des Hommes.
 capabilities:
@@ -37,3 +36,4 @@ parent_id: null
 phone: "0025377743872"
 postal_code: "1904"
 slug: creativespacedjibouti
+addressNotes: ""

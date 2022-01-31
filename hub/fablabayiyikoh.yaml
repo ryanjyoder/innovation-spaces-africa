@@ -1,7 +1,6 @@
 activity_status: null
 address_1: Abidjan Yopougon Koweit Rez-de-chaussée Collège Staint-Augustin
 address_2: "57088382"
-address_notes: Nous sommes ouverts du lundi au samedi de 8h à 21H
 avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/24/36/f6d0329b-ec6c-4880-b42c-91da152353e1/Fablab Ayiyikoh.jpg
 blurb: ""
 capabilities:
@@ -28,3 +27,4 @@ parent_id: 360
 phone: "+22547629362"
 postal_code: "225"
 slug: fablabayiyikoh
+addressNotes: Nous sommes ouverts du lundi au samedi de 8h à 21H

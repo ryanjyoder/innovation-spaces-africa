@@ -1,7 +1,6 @@
 activity_status: active
 address_1: El Obour City
 address_2: ""
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/21/22/07/41/a4d1504e-7ac8-45b0-bc3c-dc08efcdf958/Fab_Lab_logo.svg.png
 blurb: ""
 capabilities:
@@ -27,3 +26,4 @@ parent_id: 13
 phone: ""
 postal_code: ""
 slug: fablabkalubya
+addressNotes: ""

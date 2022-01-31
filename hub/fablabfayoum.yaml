@@ -1,7 +1,6 @@
 activity_status: active
 address_1: "\tمنطقة مستشفي الصدر ، أمام معهد الأورام ، برج الأخوة الدور الأول, Faiyum"
 address_2: ""
-address_notes: ""
 avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/24/18/00/32/6807433c-2e56-4a77-8497-cea2ca095f6e/FayoumLOGO.jpg
 blurb: ""
 capabilities:
@@ -26,3 +25,4 @@ parent_id: 895
 phone: "0842184339"
 postal_code: "63512"
 slug: fablabfayoum
+addressNotes: ""
