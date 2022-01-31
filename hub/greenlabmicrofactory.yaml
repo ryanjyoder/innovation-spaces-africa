@@ -12,7 +12,6 @@ county: Ondo State
 description: The mission of the GreenLab is to hearten the innovativeness of the Nigerian populace by encouraging the utilization of dormant and abundant eco-friendly resources in the urban/rural areas of Nigeria. As well as to collaborate with other facilities in promoting the sustainable development of NIGERIA and AFRICA as a whole.
 email: info@greenlab-microfactory.org
 header_url: http://fablabs.io.s3.amazonaws.com/2021/03/10/10/07/13/3a3714f3-298c-407a-b0ee-e9602bcf8428/IMG-20200731-WA0012.jpg
-id: greenlabmicrofactory
 kind_name: fab_lab
 lat: 7.3228734
 links:
@@ -29,3 +28,4 @@ phone: "+2348092205588"
 slug: greenlabmicrofactory
 addressNotes: Green Garage is 3 minutes walk from the Federal University of Technology Akure (FUTA). You are always welcome to visit us...
 postalCode: "340271"
+hubID: greenlabmicrofactory

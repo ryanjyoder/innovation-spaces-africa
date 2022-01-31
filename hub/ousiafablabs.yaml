@@ -13,7 +13,6 @@ county: UASIN GISHU
 description: "A Fab Lab, or digital fabrication laboratory, is a place to play, to create, to mentor and to invent: a place for learning and innovation.\r\nFab Labs provide access to the environment, the skills, the materials and the advanced technology to allow anyone anywhere to make (almost) anything."
 email: evans.njagimwendia@gmail.com
 header_url: null
-id: ousiafablabs
 kind_name: fab_lab
 lat: 0.5173983
 links:
@@ -26,3 +25,4 @@ phone: "+254728286873"
 slug: ousiafablabs
 addressNotes: ""
 postalCode: "30100"
+hubID: ousiafablabs

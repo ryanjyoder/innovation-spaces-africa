@@ -13,7 +13,6 @@ county: Egypt
 description: FabLab 10Th City is  committed to the creation of an inclusive learning society in which innovation, instruction, inclusion and fundamental values are all combined to work together. The potential benefits offered by learning, new technologies and innovation must be made available to everyone without any form of discrimination. The mission is to promote the sharing of human knowledge, social innovation, and social inclusion
 email: fablab10thcity@gmail.com
 header_url: null
-id: fablab10thcity
 kind_name: fab_lab
 lat: 30.2805578
 links:
@@ -26,3 +25,4 @@ phone: +2 010 15 69 5057
 slug: fablab10thcity
 addressNotes: ""
 postalCode: ""
+hubID: fablab10thcity

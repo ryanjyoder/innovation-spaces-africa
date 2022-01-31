@@ -16,7 +16,6 @@ county: Gharbiya
 description: Having 5 cnc machines, electronics workbench, mechanical tools.
 email: a.alshazly@stemgharbiya.moe.edu.eg
 header_url: null
-id: gharbiyafablab
 kind_name: fab_lab
 lat: 30.7709949
 links:
@@ -29,3 +28,4 @@ phone: "+201228225357"
 slug: gharbiyafablab
 addressNotes: algalaa - mogamaa almadares
 postalCode: "31511"
+hubID: gharbiyafablab

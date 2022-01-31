@@ -8,7 +8,6 @@ description: |
   Notre exp�rience dans l'accompagnement de projets innovants nous permet de s�lectionner et de suivre avec soin des projets de qualit� gr�ce � une �quipe d'accompagnement d�di�e, des locaux � disposition des entrepreneurs, un r�seau actif en France et en Afrique, des formations collectives, un p�le d'experts, et de nombreux autres services !
 email: contact@bondinnov.com
 facebookUrl: https://www.facebook.com/incubateurbondinnov/
-id: bond-innov
 lat: null
 linkedUrl: null
 lng: null
@@ -16,3 +15,4 @@ name: Bond innov
 region: null
 twitterHandle: Bondinnov
 websiteUrl: http://www.bondinnov.com/
+hubID: bond-innov

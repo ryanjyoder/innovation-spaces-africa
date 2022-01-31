@@ -8,7 +8,6 @@ description: |-
   Established in 2008 with support from Pace University in the US, MobileSenegal (now established as the Mobile4Senegal association) was the first Francophone mobile focused incubator in Africa. MobileSenegal focuses on training mobile developers - to date, over 450 participants have completed boot camps and competitions and developed more than 70 applications. To date, grant funding has been provided through Pace University (Google, NCIIA, IBM), and local companies.
 email: null
 facebookUrl: https://www.facebook.com/mobilesenegal
-id: mobile-senegal
 lat: null
 linkedUrl: null
 lng: null
@@ -17,3 +16,4 @@ region: null
 twitterHandle: mobilesenegal
 websiteUrl: http://mobilesenegal.org/
 youtube: https://youtube.com/mobilesenegal
+hubID: mobile-senegal

@@ -9,7 +9,6 @@ description: |
   <b>Pionnier de l�innovation ouverte, de la transformation digitale et de l�entrepreneuriat social en Afrique, Jokkolabs �uvre � la structuration d�un �cosyst�me o� s�op�rent des dynamiques collaboratives porteuses de changement.</b>
 email: null
 facebookUrl: null
-id: jokkolabs-bamako
 lat: null
 linkedUrl: null
 lng: null
@@ -17,3 +16,4 @@ name: Jokkolabs Bamako
 region: null
 twitterHandle: JklBamako
 websiteUrl: http://www.jokkolabs.net/Bamako
+hubID: jokkolabs-bamako

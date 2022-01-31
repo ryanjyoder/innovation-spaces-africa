@@ -14,7 +14,6 @@ county: ""
 description: Le projet Lisungi FabLab est un atelier de fabrication numérique ouvert à tous. Il a pour but de sensibiliser et développer les compétences numériques des jeunes défavorisés ou en rupture scolaire et des femmes en situation précaire en particulier, en leur dispensant des formations métiers dans le domaine de l’informatique, l’électronique et la télécommunication.  Le projet met en place des actions qui les impliqueront dans la valorisation de leurs compétences, par le biais de l’initiation et la pratique dans différents ateliers. 2 types d’activités sont prévus, notamment les formations à la fabrication numérique et l’accompagnement.
 email: info@lisungifablab.org
 header_url: http://fablabs.io.s3.amazonaws.com/2018/08/29/17/38/49/d475e2a3-1876-48d6-9bce-df4ef401aaf2/fablab page.jpeg
-id: lisungifablab
 kind_name: fab_lab
 lat: -4.3117345
 links:
@@ -31,3 +30,4 @@ phone: "+243851488888"
 slug: lisungifablab
 addressNotes: Campus numérique Francophone de Kinshasa
 postalCode: ""
+hubID: lisungifablab

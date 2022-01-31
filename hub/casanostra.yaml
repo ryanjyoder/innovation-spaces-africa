@@ -15,7 +15,6 @@ county: Casablanca
 description: "Casanostra est un espace ouvert aux idées novatrices, situé au coeur de Casablanca,dans le quartier Gautier. Casanostra offre la possiblité de disposer d'un panel de services : \r\n- Un espace de travail convivial permettant de travailler dans des conditions idéales à la création, avec une connexion internet par fibre optique. \r\n- Un Fab Lab équipé, comprenant des imprimantes 3d, CNC, découpe laser, découpe Vinyle,  et tout l’outillage nécessaire au prototypage et à la réalisation de produits finis. \r\n- Un studio d'enregistrement vidéo et son pour la réalisation de clip, podcast, web-radio. \r\n- Des cursus de coaching et de formation adaptés au personnes actives.\r\nCasanostra est aussi un incubateur de start-up qui accompagne les porteurs de projets, de l’idée jusqu’au lancement (Prototypage, levée de fond développement)"
 email: imad.bougataya@gmail.com
 header_url: http://fablabs.io.s3.amazonaws.com/2017/04/21/09/32/28/494dd1be-5a58-46a0-b1f2-5703dfc9b1c0/header.png
-id: casanostra
 kind_name: fab_lab
 latitude: null
 links:
@@ -32,3 +31,4 @@ phone: "00212674588596"
 slug: casanostra
 addressNotes: ""
 postalCode: "20100"
+hubID: casanostra

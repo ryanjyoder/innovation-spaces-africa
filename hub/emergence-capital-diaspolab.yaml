@@ -5,7 +5,6 @@ country: Senegal
 description: ""
 email: ncamara@emergence.africa
 facebookUrl: null
-id: emergence-capital-diaspolab
 lat: null
 linkedUrl: null
 lng: null
@@ -13,3 +12,4 @@ name: Emergence Capital / DiaspoLab
 region: null
 twitterHandle: null
 websiteUrl: http://www.emergence.africa
+hubID: emergence-capital-diaspolab

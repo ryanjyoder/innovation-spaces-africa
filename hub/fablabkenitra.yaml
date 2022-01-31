@@ -15,7 +15,6 @@ county: ""
 description: "Fablab Kenitra propose et conçoit des formations inter et intra-entreprises, pour l'acquisition de compétences reconnues par les professionnels selon 2 axes :\r\n*Promotion de l’innovation à tout acteur de Kenitra et de sa région (universitaires, étudiants, porteurs de projet et d’idée …)\r\n*Soutien au développement de la Zone Industrielle de Kenitra : Il apportera une valeur ajoutée en termes de soutien à la recherche et à la formation.\r\n"
 email: contact@fablab-kenitra.com
 header_url: null
-id: fablabkenitra
 kind_name: fab_lab
 lat: 34.2562785
 links:
@@ -28,3 +27,4 @@ phone: "+212666888860"
 slug: fablabkenitra
 addressNotes: ""
 postalCode: "14000"
+hubID: fablabkenitra

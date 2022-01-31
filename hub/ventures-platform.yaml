@@ -19,7 +19,6 @@ description: |
   Ventures Platform (VP) is a world-class full-service innovation hub in Abuja. At the core of VP's value proposition is an intensive 16-week hybrid incubation program, a residence for need-based cohorts and a paid co-working space for free-lance entrepreneurs and professionals on the go. VP�s Incubation program offers start-ups a unique mix of workspace, business strategy and capacity building, short term residency for accepted fellows and seed funding for innovative ideas. And every tool needed to survive, grow and ultimately thrive.
 email: null
 facebookUrl: null
-id: ventures-platform
 lat: 9.0438014
 linkedUrl: null
 lng: 7.49190239999996
@@ -27,3 +26,4 @@ name: Ventures Platform
 region: Federal Capital Territory
 twitterHandle: vplatformhub
 websiteUrl: http://www.venturesplatform.com/
+hubID: ventures-platform

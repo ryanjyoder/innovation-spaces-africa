@@ -5,7 +5,6 @@ country: Ghana
 description: ""
 email: null
 facebookUrl: null
-id: mfriday
 lat: null
 linkedUrl: null
 lng: null
@@ -13,3 +12,4 @@ name: mFriday
 region: null
 twitterHandle: mfridays
 websiteUrl: http://www.mfriday.org/
+hubID: mfriday

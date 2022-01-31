@@ -8,7 +8,6 @@ country: South Africa
 description: "JoziHub is a co-creation space in Johannesburg dedicated to creating sustainable change in Africa 44 Stanley Ave, Milpark, Johannesburg, 2092, South Africa. \n"
 email: info@jozihub.org
 facebookUrl: null
-id: jozihub
 lat: -26.1934093
 linkedUrl: null
 lng: 27.9849379
@@ -16,3 +15,4 @@ name: JoziHub
 region: Gauteng
 twitterHandle: JoziHub
 websiteUrl: http://jozihub.org/
+hubID: jozihub

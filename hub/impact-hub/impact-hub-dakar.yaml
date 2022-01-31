@@ -5,7 +5,6 @@ country: Senegal
 description: '"A startup incubation program, workspaces (co-working, private offices, event rooms and seminars), dynamic networking events, workshops and more, it’s a Hub."'
 email: null
 facebookUrl: https://facebook.com/impacthubdakar
-id: impact-hub-dakar
 lat: 12.6392316
 linkedUrl: https://www.linkedin.com/company/impact-hub-dakar/
 lng: -8.00288920000003
@@ -13,3 +12,4 @@ name: Impact Hub Dakar
 region: null
 twitterHandle: impacthubdakar
 websiteUrl: https://dakar.impacthub.net/
+hubID: impact-hub-dakar

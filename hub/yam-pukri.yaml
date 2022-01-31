@@ -9,7 +9,6 @@ country: Burkina Faso
 description: ""
 email: null
 facebookUrl: null
-id: yam-pukri
 lat: null
 linkedUrl: null
 lng: null
@@ -17,3 +16,4 @@ name: Yam Pukri
 region: null
 twitterHandle: yam_pukri
 websiteUrl: http://www.yam-pukri.org/
+hubID: yam-pukri

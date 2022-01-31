@@ -10,7 +10,6 @@ country: Kenya
 description: "iHub is Nairobi�s innovation hub for the technology community and serve as an open space for the technologists, investors, tech companies and hackers   \n"
 email: null
 facebookUrl: null
-id: ihub
 lat: -0.023559
 linkedUrl: null
 lng: 37.906193
@@ -18,3 +17,4 @@ name: iHub
 region: null
 twitterHandle: iHub
 websiteUrl: https://ihub.co.ke/
+hubID: ihub

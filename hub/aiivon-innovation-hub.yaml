@@ -13,7 +13,6 @@ country: Nigeria
 description: "Aiivon Hub is an innovation hub that is focused on social impact, job creation, skill acquisition, youth engagement and innovation. \n"
 email: null
 facebookUrl: null
-id: aiivon-innovation-hub
 lat: 9.0764785
 linkedUrl: null
 lng: 7.39857400000005
@@ -21,3 +20,4 @@ name: Aiivon innovation hub
 region: Federal Capital Territory
 twitterHandle: AiivonHub
 websiteUrl: https://hub.aiivon.com
+hubID: aiivon-innovation-hub

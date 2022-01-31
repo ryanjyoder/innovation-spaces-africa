@@ -12,7 +12,6 @@ country: South Africa
 description: ""
 email: null
 facebookUrl: null
-id: grindstone
 lat: null
 linkedUrl: null
 lng: null
@@ -20,3 +19,4 @@ name: Grindstone
 region: Western Cape South Africa
 twitterHandle: null
 websiteUrl: null
+hubID: grindstone

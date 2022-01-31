@@ -6,7 +6,6 @@ country: Madagascar
 description: ""
 email: null
 facebookUrl: null
-id: i-hub-malagasy
 lat: null
 linkedUrl: null
 lng: null
@@ -14,3 +13,4 @@ name: I-Hub Malagasy
 region: null
 twitterHandle: null
 websiteUrl: http://www.i-hub.mg/
+hubID: i-hub-malagasy

@@ -6,7 +6,6 @@ country: Ghana
 description: '"At Impact Hub Accra, we believe that the world’s greatest challenges will never be solved by one person or organization alone. We need to work together. That’s why we set out to create a thriving innovation ecosystem where people collaborate across organizations, cultures and generations to solve the grand challenges of our time."'
 email: null
 facebookUrl: https://www.facebook.com/impacthubaccra/
-id: impact-hub-accra
 instagramHandle: https://www.instagram.com/impacthubaccra/
 lat: null
 linkedUrl: null
@@ -15,3 +14,4 @@ name: Impact Hub Accra
 region: null
 twitterHandle: impacthubaccra
 websiteUrl: https://accra.impacthub.net/
+hubID: impact-hub-accra

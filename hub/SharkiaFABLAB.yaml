@@ -14,7 +14,6 @@ county: Egypt
 description: A new FAB LAB in Sharkia Governerate
 email: esam1972_sal@yahoo.com
 header_url: null
-id: SharkiaFABLAB
 kind_name: fab_lab
 lat: 30.7326853
 links: []
@@ -25,3 +24,4 @@ phone: "0553739496"
 slug: SharkiaFABLAB
 addressNotes: Sharkia stem school - Sharkia - Zeraa field
 postalCode: "02"
+hubID: SharkiaFABLAB

@@ -16,7 +16,6 @@ county: Madagascar
 description: "FabLab Solidaire Mamiratra is a place which:\r\n- test new method, build machine to improve the malagasy life\r\n-help students in those projects, books...\r\n-give a knew knowledge to people, kids shooled which don't have opportunity to have a good schoolar education, with the new technology(using CNC, laser printer, 3D printer...)\r\n-help Malagasy people to discover a new life, job teaching\r\nwith the any machines in the FabLab\r\n   -a laser printer(Trotec Speedy 100R)\r\n   -a shooper PRS Alpha 96*48\r\n   -a Drill press\r\n   -two Zortrax M200\r\n   -a MonoFab SRM20\r\n   -a Vinyl cutter(Roland GS-24)\r\n   -Fab tools\r\n   -electronic laboratory(oscilloscope, frequency generator, laboratory power supply, soldering iron)\r\n   -computer for the PAO and CAD"
 email: resp.fablab@vesosmad.org
 header_url: http://fablabs.io.s3.amazonaws.com/2018/10/10/09/31/45/a3e82f81-530d-4837-b631-77938d1affe4/IMG_0933.JPG
-id: FablabSolidaireMamiratra
 kind_name: fab_lab
 lat: -18.9107003
 links:
@@ -31,3 +30,4 @@ phone: +261 32 05 704 40
 slug: FablabSolidaireMamiratra
 addressNotes: Go down the street until Panorama, go down (25m) again and the FabLab is just in our left.
 postalCode: "101"
+hubID: FablabSolidaireMamiratra

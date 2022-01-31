@@ -14,7 +14,6 @@ county: ""
 description: "The Fablab is located in the University of Djibouti and operates an open-door policy to offer digital, technology, and entrepreneurial skills training to university students, local community and young returnee, or potential migrants who have had varying access to higher education and training opportunities. \r\nThe Fablab aims to furnish an open space for collaboration and to provide users with the basic knowledge and assistance necessary for the creation of personal and participatory projects, thus to empower young people and their communities to engage more effectively in dialogue and action by leveraging digital tools and networks. \r\nThe dual role of the Creative Space, both educational and humanitarian promotes protection, employability, research, creation, and achievement.\r\n\r\n"
 email: creativespacedjibouti@hotmail.com
 header_url: http://fablabs.io.s3.amazonaws.com/2020/06/27/19/54/37/7bc1a6f7-a7ac-4c53-9ef1-e7bb780cc695/learn - make - share(2).png
-id: creativespacedjibouti
 kind_name: fab_lab
 lat: 11.5391458
 links:
@@ -37,3 +36,4 @@ phone: "0025377743872"
 slug: creativespacedjibouti
 addressNotes: ""
 postalCode: "1904"
+hubID: creativespacedjibouti

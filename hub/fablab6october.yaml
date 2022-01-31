@@ -12,7 +12,6 @@ county: 6october
 description: "This Fablab has an amazing story We collected the needed fund to buy the machinery for our fablab via a crowdfunding campaign you can check it from here http://www.zoomaal.com/projects/qafeer?ref=40246675 \r\nWe have a strong Community\r\nour Lab is incubated in Qafeer Labs in 6 October City."
 email: connect@qafeer.com
 header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/14/03/45/8707af85-1d9e-4627-a1c5-e43f58ef6ca8/Fab Lab 6 October.jpg
-id: fablab6october
 kind_name: fab_lab
 lat: 29.9688129
 links: []
@@ -23,3 +22,4 @@ phone: "01007814519"
 slug: fablab6october
 addressNotes: ""
 postalCode: "12566"
+hubID: fablab6october

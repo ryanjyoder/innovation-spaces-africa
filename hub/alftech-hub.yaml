@@ -7,7 +7,6 @@ country: Nigeria
 description: "ALFTech Hub is  an innovation hub that is focused on social impact, job creation, skill acquisition, youth engagement and innovation. \n"
 email: null
 facebookUrl: https://www.facebook.com/pg/alftechhub/services/
-id: alftech-hub
 lat: 6.6927446
 linkedUrl: null
 lng: 3.23648539999999
@@ -15,3 +14,4 @@ name: ALFTech Hub
 region: Ogun State
 twitterHandle: null
 websiteUrl: http://alftechhub.com/
+hubID: alftech-hub

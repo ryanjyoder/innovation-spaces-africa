@@ -6,7 +6,6 @@ description: |
   Mashinani Hub is an innovation center that is focused on social impact, job creation and innovation.
 email: null
 facebookUrl: https://www.facebook.com/mashinanihub/
-id: mashinani-hub
 lat: -0.6708163
 linkedUrl: null
 lng: 34.7771001
@@ -14,3 +13,4 @@ name: Mashinani Hub
 region: Kisii County
 twitterHandle: null
 websiteUrl: null
+hubID: mashinani-hub

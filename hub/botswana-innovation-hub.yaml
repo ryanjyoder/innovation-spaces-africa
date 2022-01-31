@@ -15,7 +15,6 @@ country: Botswana
 description: ""
 email: null
 facebookUrl: null
-id: botswana-innovation-hub
 lat: null
 linkedUrl: null
 lng: null
@@ -23,3 +22,4 @@ name: Botswana Innovation Hub
 region: null
 twitterHandle: YourBIH
 websiteUrl: http://www.bih.co.bw/
+hubID: botswana-innovation-hub

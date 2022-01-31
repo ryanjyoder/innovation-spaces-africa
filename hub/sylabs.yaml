@@ -8,7 +8,6 @@ description: |
   Sylabs is an innovation hub that is focused on social impact, skill acquisition and innovation.
 email: hello@sylabs-dz.com
 facebookUrl: null
-id: sylabs
 lat: 28.033886
 linkedUrl: null
 lng: 1.659626
@@ -16,3 +15,4 @@ name: Sylabs
 region: null
 twitterHandle: sylabsdz
 websiteUrl: http://sylabs-dz.com/
+hubID: sylabs

@@ -8,7 +8,6 @@ country: Togo
 description: ""
 email: null
 facebookUrl: null
-id: mara-launchpad
 lat: null
 linkedUrl: null
 lng: null
@@ -16,3 +15,4 @@ name: Mara Launchpad
 region: null
 twitterHandle: MaraPhones
 websiteUrl: http://www.mara-foundation.org/
+hubID: mara-launchpad

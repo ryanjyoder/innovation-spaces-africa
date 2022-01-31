@@ -5,7 +5,6 @@ country: null
 description: ""
 email: null
 facebookUrl: null
-id: mcise
 lat: null
 linkedUrl: null
 lng: null
@@ -13,3 +12,4 @@ name: MCISE
 region: null
 twitterHandle: moroccancise
 websiteUrl: http://Mcise.org
+hubID: mcise

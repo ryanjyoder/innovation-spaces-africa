@@ -16,7 +16,6 @@ county: Qalubia
 description: fablab
 email: gad.elhebry@stemkalubya.moe.edu.eg
 header_url: null
-id: fablabelobour
 kind_name: fab_lab
 lat: 30.2283408
 links: []
@@ -27,3 +26,4 @@ phone: "01003848669"
 slug: fablabelobour
 addressNotes: ""
 postalCode: "13752"
+hubID: fablabelobour

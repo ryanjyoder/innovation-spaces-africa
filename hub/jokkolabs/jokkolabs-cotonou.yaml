@@ -6,7 +6,6 @@ description: |
   Coworkingspace et action tank qui recherche des approches innovantes li�es aux nouvelles technologies pour r�pondre aux enjeux sociaux-�conomiques de ce si�cle.
 email: null
 facebookUrl: null
-id: jokkolabs-cotonou
 lat: null
 linkedUrl: null
 lng: null
@@ -14,3 +13,4 @@ name: Jokkolabs Cotonou
 region: null
 twitterHandle: JklCotonou
 websiteUrl: http://jokkolabs.net
+hubID: jokkolabs-cotonou

@@ -11,7 +11,6 @@ country: South Africa
 description: ""
 email: null
 facebookUrl: null
-id: codebridge
 lat: null
 linkedUrl: null
 lng: null
@@ -19,3 +18,4 @@ name: Codebridge
 region: null
 twitterHandle: codebridge
 websiteUrl: www.codebridge.co.za/
+hubID: codebridge

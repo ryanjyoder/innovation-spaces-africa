@@ -14,7 +14,6 @@ description: |
   Notre objectif est de contribuer � inverser la tendance pour que des jeunes traditionnellement chercheurs d�emploi deviennent des entrepreneurs innovants, des cr�ateurs d�emplois via la cr�ation d�entreprises p�rennes et � forte valeur ajout�e.
 email: contact@osetonemploi.com
 facebookUrl: http://@OseTonEmploi
-id: incubateur-ose-ton-emploi
 lat: null
 linkedUrl: null
 lng: null
@@ -22,3 +21,4 @@ name: Incubateur Ose Ton Emploi
 region: null
 twitterHandle: osetonemploi
 websiteUrl: http://www.osetonemploi.com
+hubID: incubateur-ose-ton-emploi

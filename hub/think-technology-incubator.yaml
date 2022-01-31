@@ -7,7 +7,6 @@ country: Rwanda
 description: ""
 email: null
 facebookUrl: null
-id: think-technology-incubator
 lat: null
 linkedUrl: null
 lng: null
@@ -15,3 +14,4 @@ name: 'THINK Technology Incubator '
 region: null
 twitterHandle: null
 websiteUrl: http://www.think.rw
+hubID: think-technology-incubator

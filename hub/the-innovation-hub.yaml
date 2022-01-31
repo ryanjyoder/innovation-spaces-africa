@@ -9,7 +9,6 @@ country: South Africa
 description: "The Innovation Hub \n"
 email: info@theinnovationhub.com
 facebookUrl: null
-id: the-innovation-hub
 lat: -30.559482
 linkedUrl: null
 lng: 22.937506
@@ -17,3 +16,4 @@ name: The Innovation Hub
 region: null
 twitterHandle: InnovHub
 websiteUrl: https://theinnovationhub.com/
+hubID: the-innovation-hub

@@ -7,7 +7,6 @@ description: |
   NorthEast Innovation Hub is a dynamic community of creative minds and game changers collaborating on innovative solutions to the challenges faced by communities in North-Eastern part of Nigeria and the World as a whole.
 email: info@humanitarianihub.org
 facebookUrl: null
-id: northeast-innovation-hub
 lat: null
 linkedUrl: null
 lng: null
@@ -15,3 +14,4 @@ name: NorthEast Innovation Hub
 region: Adamawa
 twitterHandle: Northeast_iHub
 websiteUrl: humanitarianihub.org
+hubID: northeast-innovation-hub

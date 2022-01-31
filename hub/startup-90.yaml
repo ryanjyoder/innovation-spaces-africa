@@ -7,7 +7,6 @@ country: South Africa
 description: ""
 email: null
 facebookUrl: https://www.facebook.com/startup90
-id: startup-90
 instagramHandle: http://instagram.com/startup_90/
 lat: null
 linkedUrl: null
@@ -17,3 +16,4 @@ region: null
 twitterHandle: startup90
 websiteUrl: https://www.startup90.com
 postalCode: 7925
+hubID: startup-90

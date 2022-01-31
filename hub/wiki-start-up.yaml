@@ -10,7 +10,6 @@ country: Tunisia
 description: ""
 email: null
 facebookUrl: null
-id: wiki-start-up
 lat: null
 linkedUrl: null
 lng: null
@@ -18,3 +17,4 @@ name: Wiki Start Up
 region: null
 twitterHandle: WIKISTARTUP
 websiteUrl: http://www.wikistartup.tn/
+hubID: wiki-start-up

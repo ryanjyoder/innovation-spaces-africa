@@ -6,7 +6,6 @@ country: South Africa
 description: ""
 email: null
 facebookUrl: null
-id: capetown-garage
 lat: null
 linkedUrl: null
 lng: null
@@ -14,3 +13,4 @@ name: Capetown Garage
 region: null
 twitterHandle: capetowngarage
 websiteUrl: www.capetowngarage.com
+hubID: capetown-garage

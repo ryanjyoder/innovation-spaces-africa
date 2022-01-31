@@ -6,7 +6,6 @@ country: Burkina Faso
 description: ""
 email: null
 facebookUrl: null
-id: jokkolabs-ouagadougou
 lat: null
 linkedUrl: null
 lng: null
@@ -14,3 +13,4 @@ name: Jokkolabs Ouagadougou
 region: null
 twitterHandle: JklOuaga
 websiteUrl: http://ouaga.jokkolabs.net/
+hubID: jokkolabs-ouagadougou

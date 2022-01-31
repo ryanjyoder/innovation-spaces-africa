@@ -15,7 +15,6 @@ county: Gauteng
 description: "ZS6COG Fablab is an educational training facility with a manufacturing and maker-space flavor thereto.\r\n\r\nWe train all kinds of skills programmes and we also develop skills training programmes to the needs of our clients and stakeholders.\r\n\r\nWith 23 years curriculum development and support experience in technical and vocational education  ZS6COG aims to train all and sundry!\r\n\r\nCapabilities of ZS6COG includes:\r\nElectrical Training Panels\r\nElectronic Training Equipment\r\nPLC Training Equipment\r\nHand Skills\r\n3D Printing\r\n3D Scanning\r\nLarge Format Printing\r\nCNC Routering\r\nCNC Drilling\r\nMilling\r\nLathe Work\r\nHand Skills\r\nWoodwork\r\nWelding and sheet metalwork\r\n\r\nThe centre is preparing for the artisans skills training of 2 trades. These are:\r\n1.\tElectrician\r\n2.\tElectronic Mechanician\r\n\r\n\r\n\r\nThe skills training program is rolled out over two years which includes 6 months training in year one and 3 months training in year two.\r\nThe centre is preparing for the artisans skills training of 2 trades. These are:\r\n1.\tElectrician\r\n2.\tElectronic Mechanician\r\n\r\nThe skills training program is rolled out over two years which includes 6 months training in year one and 3 months training in year two.\r\n"
 email: zs6cog@gmail.com
 header_url: http://fablabs.io.s3.amazonaws.com/2017/06/30/09/03/36/0b67ada1-3efe-4556-90e1-674724b269e2/ZS6COG.jpg
-id: zs6cog
 kind_name: fab_lab
 lat: -26.4198791
 links: []
@@ -26,3 +25,4 @@ phone: 083 543 5668
 slug: zs6cog
 addressNotes: ""
 postalCode: "1438"
+hubID: zs6cog

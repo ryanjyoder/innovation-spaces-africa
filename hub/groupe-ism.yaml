@@ -10,7 +10,6 @@ country: null
 description: ""
 email: incubateurs@ism.edu.sn
 facebookUrl: https://fr-fr.facebook.com/GroupeISM/
-id: groupe-ism
 lat: null
 linkedUrl: null
 lng: null
@@ -18,3 +17,4 @@ name: Groupe ISM
 region: null
 twitterHandle: null
 websiteUrl: https://www.ismincub.com/
+hubID: groupe-ism

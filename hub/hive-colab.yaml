@@ -10,7 +10,6 @@ description: |
   The Hive Colab is a community-owned, collaborative and co-working space for Uganda�s technology based community
 email: null
 facebookUrl: null
-id: hive-colab
 lat: 0.3355622
 linkedUrl: null
 lng: 32.582343
@@ -18,3 +17,4 @@ name: Hive Colab
 region: Central Region
 twitterHandle: hivecolab
 websiteUrl: http://hivecolab.org/
+hubID: hive-colab

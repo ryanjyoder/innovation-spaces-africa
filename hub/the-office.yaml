@@ -6,7 +6,6 @@ country: Rwanda
 description: "The Office is a coworking space, a community innovation hub, a physical entrepreneurial ecosystem, and an art gallery...among other things. \n"
 email: null
 facebookUrl: https://facebook.com/TheOfficeRW/?__tn__=%2AsH-R
-id: the-office
 lat: -1.9517449
 linkedUrl: null
 lng: 30.0610748
@@ -14,3 +13,4 @@ name: The Office
 region: Kigali City
 twitterHandle: TheOfficeRW
 websiteUrl: http://theoffice.rw/
+hubID: the-office

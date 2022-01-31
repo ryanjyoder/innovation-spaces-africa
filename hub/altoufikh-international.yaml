@@ -9,7 +9,6 @@ country: Chad
 description: "Altoufikh International is an open space focused on social impact, youth engagement and innovation. \n"
 email: null
 facebookUrl: null
-id: altoufikh-international
 lat: 12.1348457
 linkedUrl: null
 lng: 15.0557415000001
@@ -17,3 +16,4 @@ name: Altoufikh International
 region: N'Djamena
 twitterHandle: null
 websiteUrl: null
+hubID: altoufikh-international

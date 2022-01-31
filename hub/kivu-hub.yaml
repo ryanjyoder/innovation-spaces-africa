@@ -6,7 +6,6 @@ country: Democratic Republic of the Congo
 description: "Kivu Hub is an incubator and accelerator that are focused on social impact, job creation and innovation. \n"
 email: null
 facebookUrl: null
-id: kivu-hub
 lat: -4.3919893
 linkedUrl: null
 lng: 15.3127824000001
@@ -14,3 +13,4 @@ name: Kivu Hub
 region: Kinshasa
 twitterHandle: kivuhub
 websiteUrl: https://kivuhub.net/
+hubID: kivu-hub

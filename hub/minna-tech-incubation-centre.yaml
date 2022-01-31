@@ -6,7 +6,6 @@ country: Nigeria
 description: ""
 email: null
 facebookUrl: null
-id: minna-tech-incubation-centre
 lat: null
 linkedUrl: null
 lng: null
@@ -14,3 +13,4 @@ name: 'Minna Tech Incubation Centre '
 region: null
 twitterHandle: null
 websiteUrl: https://www.govserv.org/NG/Minna/537527556399104/Technology-Incubation-Centre-Minna
+hubID: minna-tech-incubation-centre

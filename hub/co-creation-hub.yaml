@@ -13,7 +13,6 @@ country: Nigeria
 description: ""
 email: null
 facebookUrl: null
-id: co-creation-hub
 lat: null
 linkedUrl: null
 lng: null
@@ -21,3 +20,4 @@ name: Co-creation Hub
 region: null
 twitterHandle: Cc_HUB
 websiteUrl: www.cchubnigeria.com
+hubID: co-creation-hub

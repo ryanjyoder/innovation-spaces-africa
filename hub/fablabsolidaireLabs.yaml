@@ -15,7 +15,6 @@ county: SENEGAL
 description: 'in this fab lab the public has access to the machines that are often found in fablabs'' laser cutting, cnc, 3D printer, digital embroidery machine'' membership is free and it is open all week '
 email: mamadou.diallo@sonatelacademy.sn
 header_url: http://fablabs.io.s3.amazonaws.com/2020/06/24/09/25/42/35f4f521-b461-4c2f-85fe-f11c70f19d04/1W4A26271.JPG
-id: fablabsolidaireLabs
 kind_name: fab_lab
 latitude: null
 links:
@@ -28,3 +27,4 @@ phone: "+221772448404"
 slug: fablabsolidaireLabs
 addressNotes: Ecole Police, Immeuble Scalène Mermoz lot B, Rue KA 05, Dakar
 postalCode: "\t10700"
+hubID: fablabsolidaireLabs

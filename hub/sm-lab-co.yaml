@@ -5,7 +5,6 @@ country: Burkina Faso
 description: ""
 email: contact@smlab.cool
 facebookUrl: https://web.facebook.com/SMLabCO
-id: sm-lab-co
 lat: null
 linkedUrl: null
 lng: null
@@ -13,3 +12,4 @@ name: SM LAB & CO
 region: null
 twitterHandle: switch_maker
 websiteUrl: http://smlab.cool/
+hubID: sm-lab-co

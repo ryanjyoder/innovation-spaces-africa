@@ -10,7 +10,6 @@ county: ""
 description: we are mainly a group of thinkers, geeks and do it yourselfers, still acting unofficially
 email: openatlas@gmail.com
 header_url: null
-id: reunion
 kind_name: fab_lab
 lat: -21.2583341
 links:
@@ -23,3 +22,4 @@ phone: "0262343686"
 slug: reunion
 addressNotes: ""
 postalCode: "97421"
+hubID: reunion

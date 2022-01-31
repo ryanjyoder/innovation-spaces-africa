@@ -6,7 +6,6 @@ country: Tanzania
 description: "Obuntu Hub is inspired by the notion of �obuntu� which can be translated as �collective progress.� We conceived the hub as a catalyst to drive collective progress for entrepreneurs and the community at large. Our focus is on empowering young entrepreneurs who innovate through tech or unique business models. \n"
 email: hello@obuntuhub.co.tz
 facebookUrl: https://web.facebook.com/obuntuhub/?_rdc=1&_rdr
-id: obuntu-hub
 lat: null
 linkedUrl: null
 lng: null
@@ -14,3 +13,4 @@ name: Obuntu Hub
 region: null
 twitterHandle: obuntuhub
 websiteUrl: https://obuntuhub.co.tz/
+hubID: obuntu-hub

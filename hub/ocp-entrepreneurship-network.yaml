@@ -13,7 +13,6 @@ country: Morocco
 description: ""
 email: null
 facebookUrl: null
-id: ocp-entrepreneurship-network
 lat: null
 linkedUrl: null
 lng: null
@@ -21,3 +20,4 @@ name: OCP Entrepreneurship Network
 region: null
 twitterHandle: null
 websiteUrl: http://www.ocpentrepreneurship.org/
+hubID: ocp-entrepreneurship-network

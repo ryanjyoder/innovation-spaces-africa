@@ -17,7 +17,6 @@ description: |
   Nairobi Garage is a co-working space that is focused on social impact and professional solutions.
 email: null
 facebookUrl: null
-id: nairobi-garage
 lat: -1.2920659
 linkedUrl: null
 lng: 36.8219462
@@ -25,3 +24,4 @@ name: Nairobi Garage
 region: Nairobi County
 twitterHandle: nairobigarage
 websiteUrl: https://nairobigarage.com/
+hubID: nairobi-garage

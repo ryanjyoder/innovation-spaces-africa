@@ -8,7 +8,6 @@ country: null
 description: ""
 email: null
 facebookUrl: null
-id: congo-business-network
 lat: null
 linkedUrl: null
 lng: null
@@ -16,3 +15,4 @@ name: Congo Business Network
 region: null
 twitterHandle: CongoBizNetwork
 websiteUrl: http://www.congobusinessnetwork.org
+hubID: congo-business-network

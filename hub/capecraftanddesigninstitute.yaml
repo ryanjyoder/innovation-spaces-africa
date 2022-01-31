@@ -12,7 +12,6 @@ county: Western Cape
 description: ""
 email: ""
 header_url: null
-id: capecraftanddesigninstitute
 kind_name: fab_lab
 lat: -33.9248685
 links:
@@ -31,3 +30,4 @@ phone: ""
 slug: capecraftanddesigninstitute
 addressNotes: ""
 postalCode: "8000"
+hubID: capecraftanddesigninstitute

@@ -13,7 +13,6 @@ county: ""
 description: FablabEMSICASABLANCA is a new fablab created in the EMSI Casablanca School. The main objective is the support of EMSI students to innovation in engineering sciences
 email: med.tabaa@gmail.com
 header_url: http://fablabs.io.s3.amazonaws.com/2018/01/02/09/19/31/4b3f7cfc-3385-4112-bc7b-181d2587aa95/fablabemsi.png
-id: fablabemsicasablanca
 kind_name: fab_lab
 lat: 33.5413023
 links:
@@ -28,3 +27,4 @@ phone: 05228-94287
 slug: fablabemsicasablanca
 addressNotes: Boulevard Laymoune, Casablanca
 postalCode: ""
+hubID: fablabemsicasablanca

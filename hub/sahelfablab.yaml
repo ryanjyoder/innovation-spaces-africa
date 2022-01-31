@@ -11,7 +11,6 @@ county: ""
 description: "\r\nIt is a convivial space open to all, discovery, learning, sharing knowledge, prototyping and technical skills"
 email: sahelfablab@gmail.com
 header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/14/54/30/135743f7-b513-4024-8146-a22c5a43c6d7/SahelFablab.jpg
-id: sahelfablab
 kind_name: fab_lab
 lat: 18.0769014
 links:
@@ -24,3 +23,4 @@ phone: "0022248526105"
 slug: sahelfablab
 addressNotes: ""
 postalCode: BP 2995
+hubID: sahelfablab

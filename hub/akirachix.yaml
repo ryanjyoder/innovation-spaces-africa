@@ -20,7 +20,6 @@ description: |
   AkiraChix is a not for profit organisation that aims to inspire and develop a successful force of women in technology who will change Africa�s future.
 email: null
 facebookUrl: null
-id: akirachix
 lat: -0.2849853
 linkedUrl: null
 lng: 36.0693113
@@ -28,3 +27,4 @@ name: AkiraChix
 region: Nakuru County
 twitterHandle: akirachix
 websiteUrl: http://akirachix.com/
+hubID: akirachix

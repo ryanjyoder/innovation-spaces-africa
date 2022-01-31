@@ -11,7 +11,6 @@ county: Volta Region
 description: 'The lab is situated in Ghana as part of Sena Institute of Technology. The lab is working with experts in Boston and Ghana to develop innovative solutions using 3D printing, wood work,pottery and metal works. '
 email: info@sitghana.org
 header_url: http://fablabs.io.s3.amazonaws.com/2019/03/14/02/42/56/1ab9eb45-62d9-40b0-a469-1af55bd97989/SIT fab lab.jpg
-id: sitfablab
 kind_name: fab_lab
 latitude: null
 links:
@@ -24,3 +23,4 @@ phone: +1 8572659493
 slug: sitfablab
 addressNotes: We are opposite White Dove Hotel.
 postalCode: ""
+hubID: sitfablab

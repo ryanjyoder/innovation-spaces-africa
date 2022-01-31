@@ -8,7 +8,6 @@ country: Morocco
 description: ""
 email: contact@technopark.ma
 facebookUrl: https://web.facebook.com/pages/Technopark
-id: technopark
 lat: null
 linkedUrl: null
 lng: null
@@ -16,3 +15,4 @@ name: TECHNOPARK
 region: null
 twitterHandle: technopark
 websiteUrl: https://www.technopark.ma/s/
+hubID: technopark

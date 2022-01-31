@@ -8,7 +8,6 @@ description: |
   Diaspo Hub is an incubator and accelerator  that are focused on skill acquisition, social impact and innovation.
 email: secretariat@diaspohub.com
 facebookUrl: https://www.facebook.com/DiaspoHub/
-id: diaspo-hub
 lat: 12.6250651
 linkedUrl: https://ng.linkedin.com/company/ddhubng
 lng: -7.98821799999996
@@ -16,3 +15,4 @@ name: Diaspo Hub
 region: District de Bamako
 twitterHandle: null
 websiteUrl: null
+hubID: diaspo-hub

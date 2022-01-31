@@ -15,7 +15,6 @@ country: null
 description: ""
 email: mehdi@lafactory.co // omaima@lafactory.co
 facebookUrl: https://www.facebook.com/LaFactoryByScreenDy/?ref=br_rs
-id: lafactory
 lat: null
 linkedUrl: null
 lng: null
@@ -23,3 +22,4 @@ name: LaFactory
 region: null
 twitterHandle: lafactory_co
 websiteUrl: http://www.lafactory.co/
+hubID: lafactory

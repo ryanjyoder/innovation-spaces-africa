@@ -7,7 +7,6 @@ country: South Africa
 description: ""
 email: null
 facebookUrl: null
-id: smart-xchange
 lat: null
 linkedUrl: null
 lng: null
@@ -15,3 +14,4 @@ name: Smart Xchange
 region: null
 twitterHandle: null
 websiteUrl: http://www.smartxchange.co.za/
+hubID: smart-xchange

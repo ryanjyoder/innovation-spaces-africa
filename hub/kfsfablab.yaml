@@ -16,7 +16,6 @@ county: kafr el-shaikh
 description: ""
 email: elsayed.rashwan@gmail.com
 header_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/13/20/13/d8d4c693-afb4-4735-8a71-d3a42a80e395/2019-01-14_10-36-46.jpg
-id: kfsfablab
 kind_name: fab_lab
 lat: 31.1061428
 links: []
@@ -27,3 +26,4 @@ phone: "00201067811150"
 slug: kfsfablab
 addressNotes: ""
 postalCode: "330115"
+hubID: kfsfablab

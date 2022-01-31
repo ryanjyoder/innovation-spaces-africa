@@ -11,7 +11,6 @@ country: South Africa
 description: ""
 email: null
 facebookUrl: null
-id: thoughtworks
 lat: null
 linkedUrl: null
 lng: null
@@ -19,3 +18,4 @@ name: ThoughtWorks
 region: null
 twitterHandle: thoughtworks
 websiteUrl: http://info.thoughtworks.com/
+hubID: thoughtworks

@@ -10,7 +10,6 @@ country: Cameroon
 description: ""
 email: contact@obotama.com
 facebookUrl: https://www.facebook.com/OBotama2018/
-id: o-botama
 lat: null
 linkedUrl: null
 lng: null
@@ -18,3 +17,4 @@ name: OBotama
 region: Center
 twitterHandle: OBotama_aic
 websiteUrl: http://www.obotama.com
+hubID: o-botama

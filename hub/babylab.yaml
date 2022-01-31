@@ -10,7 +10,6 @@ description: |
   BabyLab is an innovation center that is focused on social impact, youth engagement and innovation.
 email: contact@baby-lab.org
 facebookUrl: http://Guiako OBIN
-id: babylab
 lat: 5.3173556
 linkedUrl: null
 lng: -4.01906439999993
@@ -18,3 +17,4 @@ name: BabyLab
 region: Abidjan
 twitterHandle: BabyLabCI
 websiteUrl: http://www.baby-lab.org/
+hubID: babylab

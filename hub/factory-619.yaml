@@ -7,7 +7,6 @@ country: null
 description: ""
 email: hedi@factory319.com
 facebookUrl: https://www.facebook.com/factory619
-id: factory-619
 lat: null
 linkedUrl: null
 lng: null
@@ -15,3 +14,4 @@ name: FACTORY 619
 region: null
 twitterHandle: null
 websiteUrl: https://factory619.com
+hubID: factory-619

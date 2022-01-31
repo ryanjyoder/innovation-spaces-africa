@@ -9,7 +9,6 @@ description: |
   Reconstructed Living Lab (RLabs) is a global movement and registered social enterprise that provides innovative solutions to address various complex problems.
 email: info@rlabs.org
 facebookUrl: null
-id: reconstructed-living-lab-rlabs
 lat: -33.9538889
 linkedUrl: null
 lng: 18.532508
@@ -17,3 +16,4 @@ name: Reconstructed Living Lab (RLabs)
 region: Western Cape
 twitterHandle: RLabs
 websiteUrl: http://rlabs.org/
+hubID: reconstructed-living-lab-rlabs

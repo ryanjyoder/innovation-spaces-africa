@@ -14,7 +14,6 @@ country: Zimbabwe
 description: ""
 email: null
 facebookUrl: null
-id: hypercube-hub
 lat: null
 linkedUrl: null
 lng: null
@@ -22,3 +21,4 @@ name: Hypercube Hub
 region: null
 twitterHandle: hypercubehub
 websiteUrl: http://www.hypercubehub.co/en
+hubID: hypercube-hub

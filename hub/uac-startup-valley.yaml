@@ -5,7 +5,6 @@ country: null
 description: ""
 email: uacstartupvalley@uacstartupvalley.com
 facebookUrl: https://www.facebook.com/uacstartupvalley/
-id: uac-startup-valley
 lat: null
 linkedUrl: null
 lng: null
@@ -13,3 +12,4 @@ name: UAC Startup Valley
 region: null
 twitterHandle: null
 websiteUrl: http://www.uacstartupvalley.com
+hubID: uac-startup-valley

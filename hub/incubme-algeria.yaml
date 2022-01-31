@@ -12,7 +12,6 @@ description: |
   Incubme is an incubator and accelerator  that are focused on skill acquisition, job creation and innovation.
 email: null
 facebookUrl: https://www.facebook.com/IncubMeDz/
-id: incubme-algeria
 lat: 28.033886
 linkedUrl: null
 lng: 1.659626
@@ -20,3 +19,4 @@ name: Incubme Algeria
 region: null
 twitterHandle: null
 websiteUrl: www.incubme.com
+hubID: incubme-algeria

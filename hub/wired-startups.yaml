@@ -8,7 +8,6 @@ description: |
   Wired Startups is an Incubator/Accelerator that is focused on job creation, skill acquisition and innovation.
 email: null
 facebookUrl: null
-id: wired-startups
 lat: 31.791702
 linkedUrl: null
 lng: -7.09262000000001
@@ -16,3 +15,4 @@ name: Wired Startups
 region: null
 twitterHandle: WiredStartups
 websiteUrl: https://wiredstartups.business.site/
+hubID: wired-startups

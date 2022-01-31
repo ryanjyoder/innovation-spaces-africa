@@ -12,7 +12,6 @@ county: Choose your State or Province below:NYANZA
 description: "Aro Fablab works under Arc-Kenya which is a local NGO with a mission of leading transformation of lives of poor rural communities using technology and innovation. For this reason this Fablab provides a research station for the potential programmes intended to give solutions to the corresponding challenges. It also works with learning institutions and entrepreneurs. \r\nThe lab focuses most on using wastes to create something needed by the community which can be both cost effective and environmental friendly\r\n"
 email: aro.fablab@gmail.com
 header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/14/03/10/9a065a2c-4893-4492-8358-919ebe5f8e31/ARO FABLAB.jpg
-id: arofablab
 kind_name: fab_lab
 latitude: null
 links:
@@ -25,3 +24,4 @@ phone: "+254720355951"
 slug: arofablab
 addressNotes: From Kisumu City, take Bondo Usenge Route and just 1km from Ndori, take a right turn on an all weather road. Signboards for ARC KENYA and MAJIWA Secondary school are available at this turning point. ARO CENTRE where Fablab is located is 800mtrs from the tarmac road.
 postalCode: "40100"
+hubID: arofablab

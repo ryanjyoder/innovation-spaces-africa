@@ -12,7 +12,6 @@ country: Gabon
 description: "Ogooue Labs is the first coworking space in Gabon for entrepreneurs free, that are willing to get together in order to share & develop synergy.  \n"
 email: null
 facebookUrl: null
-id: ogooue-labs
 lat: 0.3606914
 linkedUrl: null
 lng: 9.46803190000003
@@ -20,3 +19,4 @@ name: Ogooue Labs
 region: Estuaire
 twitterHandle: OgooueLabs
 websiteUrl: https://about.me/ogoouelabs
+hubID: ogooue-labs

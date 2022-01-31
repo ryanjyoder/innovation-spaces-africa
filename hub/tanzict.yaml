@@ -8,7 +8,6 @@ country: Tanzania
 description: ""
 email: null
 facebookUrl: null
-id: tanzict
 lat: null
 linkedUrl: null
 lng: null
@@ -16,3 +15,4 @@ name: TANZICT
 region: null
 twitterHandle: null
 websiteUrl: http://tanzict.or.tz/
+hubID: tanzict

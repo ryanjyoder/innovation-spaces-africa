@@ -5,7 +5,6 @@ country: Cote d'Ivoire
 description: ""
 email: null
 facebookUrl: null
-id: the-w-hub
 lat: null
 linkedUrl: null
 lng: null
@@ -13,3 +12,4 @@ name: The W Hub
 region: null
 twitterHandle: thewhub
 websiteUrl: http://www.thewhub.com/
+hubID: the-w-hub

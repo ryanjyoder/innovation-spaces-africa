@@ -9,7 +9,6 @@ description: |
   Uplift Hub is an innovation hub that is focused on social impact, job creation, skill acquisition, youth engagement and innovation.
 email: info@uplift.ng
 facebookUrl: null
-id: uplift-hub
 lat: 10.3009641
 linkedUrl: null
 lng: 9.82365329999993
@@ -17,3 +16,4 @@ name: Uplift Hub
 region: Bauchi
 twitterHandle: uplifthubng
 websiteUrl: https://uplift.ng/
+hubID: uplift-hub

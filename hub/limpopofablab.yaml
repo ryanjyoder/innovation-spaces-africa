@@ -14,7 +14,6 @@ county: Limpopo
 description: ""
 email: meletsoalo@gmail.com
 header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/13/51/01/4b1b7ba9-503d-425e-aa22-580b52bbdb2a/Limpopo Fablab.jpg
-id: limpopofablab
 kind_name: fab_lab
 lat: -23.88648
 links:
@@ -27,3 +26,4 @@ phone: +2715 268 3819
 slug: limpopofablab
 addressNotes: First floor at the Science Education Centre
 postalCode: "0727"
+hubID: limpopofablab

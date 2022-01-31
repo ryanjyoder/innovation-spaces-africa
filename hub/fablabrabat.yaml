@@ -15,7 +15,6 @@ county: ""
 description: The FabLab is localised in the engineering school ENSET in Rabat. The equipment are state of the art, it contains SLS and SLM machines, added to the laser cutter and 3d printers. it is also possible to use CNC machines and a metrology lab. Thanks to the proximity of students and professors, the visitor can find help easily.
 email: houcine.salem@um5s.net.ma
 header_url: http://fablabs.io.s3.amazonaws.com/2019/06/14/15/02/58/ffb99738-a26a-4872-856f-633af4bab57d/fablab.png
-id: fablabrabat
 kind_name: fab_lab
 lat: 33.9677612
 links:
@@ -28,3 +27,4 @@ phone: "0661695788"
 slug: fablabrabat
 addressNotes: ""
 postalCode: B.P. 6207
+hubID: fablabrabat

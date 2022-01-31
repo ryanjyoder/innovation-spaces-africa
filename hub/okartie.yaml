@@ -16,7 +16,6 @@ county: Reunion
 description: "Okartié ( in english \"open district\" ) are create by the CCSTI of Reunion Island\r\n\r\nwe are 5 man axis :\r\n- education\r\n- innovation\r\n- popularize new technology\r\n- create a social cohesion"
 email: o-kartie@sciences-reunion.net
 header_url: http://fablabs.io.s3.amazonaws.com/2017/02/19/09/34/05/aa12d277-d60f-4b4f-b994-8248000347b0/IMG_7557.jpg
-id: okartie
 kind_name: fab_lab
 lat: -20.9828894
 links:
@@ -31,3 +30,4 @@ phone: ""
 slug: okartie
 addressNotes: front of the bus stop " college de l'étang "
 postalCode: ""
+hubID: okartie

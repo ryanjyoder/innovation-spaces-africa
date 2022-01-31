@@ -14,7 +14,6 @@ description: |
   Innovate Ventures is an open space, co-working space, incubation/acceleration and an innovation center that focuses on job creation, social impact and innovation.
 email: null
 facebookUrl: null
-id: innovate-ventures
 lat: 9.562389
 linkedUrl: null
 lng: 44.0770133999999
@@ -22,3 +21,4 @@ name: Innovate Ventures
 region: Woqooyi Galbeed
 twitterHandle: null
 websiteUrl: https://www.innovate.so/
+hubID: innovate-ventures

@@ -11,7 +11,6 @@ description: |
   Notre cr�do c'est : <b>discipline</b>, <b>travail</b> et <b>performance</b> et nous souhaitons participer activement � la construction de l'�cosyst�me entrepreneurial africain.
 email: gkamande@technipole-supvalor.com
 facebookUrl: null
-id: technipole-sup-valor
 lat: null
 linkedUrl: null
 lng: null
@@ -19,3 +18,4 @@ name: TECHNIPOLE SUP VALOR
 region: null
 twitterHandle: null
 websiteUrl: http://www.technipole-supvalor.com
+hubID: technipole-sup-valor

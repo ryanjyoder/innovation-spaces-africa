@@ -5,7 +5,6 @@ country: Tanzania
 description: ""
 email: null
 facebookUrl: null
-id: sahara-ventures
 lat: null
 linkedUrl: null
 lng: null
@@ -13,3 +12,4 @@ name: Sahara Ventures
 region: null
 twitterHandle: VenturesSahara
 websiteUrl: https://saharaventures.com/sahara-accelerator
+hubID: sahara-ventures

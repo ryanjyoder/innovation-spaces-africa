@@ -8,7 +8,6 @@ description: |
   � travers cet incubateur, nous aidons les Jeunes et les Femmes � s�approprier le potentiel innovant des technologies modernes afin de stimuler leur cr�ativit�, et utiliser le num�rique pour proposer des solutions innovantes et frugales aux probl�mes de notre soci�t�.
 email: contact@ecolialabs.org
 facebookUrl: https://www.facebook.com/EcoliaLabs/
-id: ecolia-labs
 lat: null
 linkedUrl: null
 lng: null
@@ -16,3 +15,4 @@ name: ECOLIA Labs
 region: null
 twitterHandle: ecolialabs
 websiteUrl: http://ecolialabs.org
+hubID: ecolia-labs

@@ -10,7 +10,6 @@ country: Benin
 description: "EtriLabs is the first and only technology hub in Cotonou (Benin). It offers co-working, start-up incubation, training and outsourcing services. With a particular focus on economic development, EtriLabs helps NGOs, businesses and government use technology to achieve their goals. Local developers and entrepreneurs gravitate around the hub for resources and opportunities. \n"
 email: null
 facebookUrl: https://www.facebook.com/etrilabscotonou/
-id: etrilabs
 lat: 6.3628451
 linkedUrl: null
 lng: 2.42312849999996
@@ -18,3 +17,4 @@ name: EtriLabs
 region: Littoral Department
 twitterHandle: EtriLabs
 websiteUrl: http://www.etrilabs.com/
+hubID: etrilabs

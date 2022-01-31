@@ -13,7 +13,6 @@ description: |
   NexGen is an innovation hub that is focused on skill acquisition, youth engagement and innovation.
 email: nextgentechcenter@gmail.com
 facebookUrl: null
-id: nexgen-technology-center
 lat: 3.8480325
 linkedUrl: null
 lng: 11.5020752
@@ -21,3 +20,4 @@ name: NexGen Technology Center
 region: Centre
 twitterHandle: NexGenTechC
 websiteUrl: http://nexgentechs.org/
+hubID: nexgen-technology-center

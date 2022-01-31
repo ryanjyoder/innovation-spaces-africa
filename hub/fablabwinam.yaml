@@ -16,7 +16,6 @@ county: NYANZA
 description: "Winam Fablab offers a hub for sharing ideas, tools and other resources by makers, Artisans (Jua Kali), professionals, educators, students, entrepreneurs, learning institutions, hobbyists, kids etc. It taps into gaps between classroom-learnt skills and market needs experiences to build products that address challenges and emphasizes on local manufacturing using emerging tech-based trends like IoT. Based in Western Kenya region in Kisumu where there are just a few industries, the Fablab Winam will be keen on using people-centred design approaches for socio-economic challenges and incubation\r\nCurrently Fablab Winam caries out the following programs\r\n1. Fab Academy - International MOOC course on Digital Fabrication. We have 5 students attending\r\n2. Fab Kids - a STEAM cause for kids an primary and early high school teaching hands-on skills \r\n3. Other short term courses on 3D Printing, Laser cutting. designing, CNC operation etc\r\n4. Innopreneur Bootcamp - a monthly bootcamp for makers and innovators in the region\r\n5. Fabrication, Prototyping,mentorship\r\n6. Contracting & Consultation"
 email: fablabwinam@gmail.com
 header_url: http://fablabs.io.s3.amazonaws.com/2018/07/03/16/30/18/1d0fca60-d93a-4852-894e-144e99972fbd/IMG-20180630-WA0024.jpg
-id: fablabwinam
 kind_name: fab_lab
 lat: -0.0768085
 links:
@@ -35,3 +34,4 @@ phone: "+254720355951"
 slug: fablabwinam
 addressNotes: Opposite Huduma Centre, next to PC's Office (Nyanza Regional Commissioner's office)
 postalCode: "40100"
+hubID: fablabwinam

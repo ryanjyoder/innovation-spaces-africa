@@ -16,7 +16,6 @@ country: Egypt
 description: ""
 email: null
 facebookUrl: null
-id: the-greek-campus
 lat: null
 linkedUrl: null
 lng: null
@@ -24,3 +23,4 @@ name: The Greek Campus
 region: null
 twitterHandle: TheGrEEKCampus
 websiteUrl: http://www.thegreekcampus.com/#
+hubID: the-greek-campus

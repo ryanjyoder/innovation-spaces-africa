@@ -5,7 +5,6 @@ country: null
 description: ""
 email: null
 facebookUrl: null
-id: verde-ventures-ltd
 lat: null
 linkedUrl: null
 lng: null
@@ -13,3 +12,4 @@ name: VERDE VENTURES LTD
 region: null
 twitterHandle: null
 websiteUrl: http://www.verdefrontier.mu/
+hubID: verde-ventures-ltd

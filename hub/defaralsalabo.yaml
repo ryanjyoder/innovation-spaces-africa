@@ -13,7 +13,6 @@ county: ""
 description: Located at the heart of Dakar (Sicap Liberté II), this Lab is supported by the NGO Ker-Thiossane. It is the sequel of a series of DIY workshops held in 2013 (Defko Yaw Rek in wolof, a senegalese tongue). Our first public workshop on textile/knitting/PRocessing designed patterns will happen in the frame of the Afropixel festival, during the Dak'Art African Art Biennale, May 2014.
 email: honou003@gmail.com
 header_url: null
-id: defaralsalabo
 kind_name: fab_lab
 lat: 14.7139787
 links:
@@ -28,3 +27,4 @@ phone: ""
 slug: defaralsalabo
 addressNotes: Derrière la place du Jet d'eau, dans une des cantines à côté de la mosquée.
 postalCode: ""
+hubID: defaralsalabo

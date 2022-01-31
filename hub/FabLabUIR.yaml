@@ -13,7 +13,6 @@ county: Rabat
 description: "FabLab UIR ,created at 2015, is the first university manufacturing laboratory in Morocco, based in International University of Rabat . It's a place for both objects making and knowledge sharing.\r\n\r\nThe lab is intended to entrepreneurs who want to move quickly from concept to prototype; Designers ,and Students wishing to experiment and enrich their practical knowledge in electronics, CAD / CAM, Design \r\n\r\nFabLab UIR provides to visitors several facilities and services. it offers a free access to prototyping machines , Design and FE softwares , Electronic kits , and technical documentations\r\n\r\nMoreover ,thanks to university environnement , FabLab UIR could offer the service of protecting designs and processes ,by filing patents quickly and easily.   Innovative Ideas might be followed within the university Incubator .\r\n\r\nFablab UIR is a real place of prototyping , manufacturing , learn ,and meeting\r\n\r\n\r\n"
 email: adnane.saoud@uir.ac.ma
 header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/14/56/25/58057d64-0bdf-443d-82e3-8292b6db1102/FabLab UIR.jpg
-id: FabLabUIR
 kind_name: fab_lab
 latitude: null
 links:
@@ -26,3 +25,4 @@ phone: 05 30 10 40 22
 slug: FabLabUIR
 addressNotes: Ground floor of Building 2
 postalCode: "11100"
+hubID: FabLabUIR

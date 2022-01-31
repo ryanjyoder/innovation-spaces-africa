@@ -10,7 +10,6 @@ country: null
 description: ""
 email: contact@lafabrique-bf.com
 facebookUrl: https://www.facebook.com/lafabriquebf/
-id: la-fabrique
 lat: null
 linkedUrl: null
 lng: null
@@ -18,3 +17,4 @@ name: La Fabrique
 region: null
 twitterHandle: null
 websiteUrl: http://www.lafabrique-bf.com
+hubID: la-fabrique

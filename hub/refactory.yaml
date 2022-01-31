@@ -7,7 +7,6 @@ description: |
   Refactory is a tech program tailored to make tech talents job-ready. The program is created in partnership with � and for � the tech sector in Uganda.
 email: null
 facebookUrl: null
-id: refactory
 lat: null
 linkedUrl: null
 lng: null
@@ -15,3 +14,4 @@ name: Refactory
 region: null
 twitterHandle: null
 websiteUrl: https://www.refactory.ug/
+hubID: refactory

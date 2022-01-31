@@ -6,7 +6,6 @@ country: Senegal
 description: ""
 email: null
 facebookUrl: null
-id: makesense
 lat: null
 linkedUrl: null
 lng: null
@@ -14,3 +13,4 @@ name: makesense
 region: null
 twitterHandle: africamakesense
 websiteUrl: http://africa.makesense.org
+hubID: makesense

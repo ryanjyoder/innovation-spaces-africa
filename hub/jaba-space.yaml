@@ -6,7 +6,6 @@ country: null
 description: ""
 email: hello@jabaspace.co
 facebookUrl: https://www.facebook.com/jabaspacecoworking/
-id: jaba-space
 lat: null
 linkedUrl: null
 lng: null
@@ -14,3 +13,4 @@ name: JABA SPACE
 region: null
 twitterHandle: JabaSpace
 websiteUrl: https://jabaspace.co/
+hubID: jaba-space

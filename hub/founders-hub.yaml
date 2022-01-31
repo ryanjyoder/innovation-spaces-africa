@@ -6,7 +6,6 @@ description: |
   Founders Hub is an innovation hub that is focused on skill acquisition, youth engagement and innovation.
 email: null
 facebookUrl: null
-id: founders-hub
 lat: 8.9847995
 linkedUrl: null
 lng: 4.56244259999994
@@ -14,3 +13,4 @@ name: Founders Hub
 region: Kwara
 twitterHandle: foundershubng
 websiteUrl: http://foundershub.xyz/holder/
+hubID: founders-hub

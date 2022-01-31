@@ -12,7 +12,6 @@ county: Yopougon
 description: ""
 email: ayiyikoh@gmail.com
 header_url: null
-id: ayiyikoh
 kind_name: fab_lab
 lat: 5.316667
 links:
@@ -25,3 +24,4 @@ phone: "57583482"
 slug: ayiyikoh
 addressNotes: ""
 postalCode: "225"
+hubID: ayiyikoh

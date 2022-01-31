@@ -16,7 +16,6 @@ county: ""
 description: ""
 email: gad.elhebry@stemkalubya.moe.edu.eg
 header_url: null
-id: fablabkalubya
 kind_name: fab_lab
 lat: 30.2283408
 links: []
@@ -27,3 +26,4 @@ phone: ""
 slug: fablabkalubya
 addressNotes: ""
 postalCode: ""
+hubID: fablabkalubya

@@ -10,7 +10,6 @@ county: Oromia
 description: ""
 email: bereketnesh@yahoo.com
 header_url: null
-id: fablabaddis
 kind_name: fab_lab
 lat: 9.0377172
 links:
@@ -25,3 +24,4 @@ phone: +251 11 123 2832
 slug: fablabaddis
 addressNotes: We are located in Addis Ababa University; Alle school of fine arts and design around 4 killo next to natural science campus.
 postalCode: ""
+hubID: fablabaddis

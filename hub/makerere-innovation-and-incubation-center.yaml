@@ -10,7 +10,6 @@ description: |
   Makerere University Startup Hub - Transforming ideas and innovations into successful companies.
 email: null
 facebookUrl: null
-id: makerere-innovation-and-incubation-center
 lat: null
 linkedUrl: null
 lng: null
@@ -18,3 +17,4 @@ name: Makerere Innovation and Incubation Center
 region: null
 twitterHandle: miic_ug
 websiteUrl: https://miichub.com/
+hubID: makerere-innovation-and-incubation-center

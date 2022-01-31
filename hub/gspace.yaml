@@ -6,7 +6,6 @@ country: Ghana
 description: ""
 email: null
 facebookUrl: null
-id: gspace
 lat: null
 linkedUrl: null
 lng: null
@@ -14,3 +13,4 @@ name: gSpace
 region: null
 twitterHandle: null
 websiteUrl: http://gspace.addhen.org/
+hubID: gspace

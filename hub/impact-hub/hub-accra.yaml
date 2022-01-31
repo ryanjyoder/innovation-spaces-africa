@@ -5,7 +5,6 @@ country: Ghana
 description: ""
 email: null
 facebookUrl: null
-id: hub-accra
 lat: null
 linkedUrl: null
 lng: null
@@ -13,3 +12,4 @@ name: Impact Hub Accra
 region: null
 twitterHandle: impacthubaccra
 websiteUrl: accra.impacthub.net
+hubID: hub-accra

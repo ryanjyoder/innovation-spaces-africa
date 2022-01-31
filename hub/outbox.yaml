@@ -13,7 +13,6 @@ country: Uganda
 description: "Outbox is a Kampala-based incubation, collaboration and co-creation space that supports techies and entrepreneurs  to turn their ideas into businesses while leveraging mobile and web technologies. \n"
 email: null
 facebookUrl: null
-id: outbox
 lat: 0.3229945
 linkedUrl: null
 lng: 32.5766
@@ -21,3 +20,4 @@ name: Outbox
 region: Central Region
 twitterHandle: OutboxHub
 websiteUrl: http://www.outbox.co.ug/
+hubID: outbox

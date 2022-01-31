@@ -15,7 +15,6 @@ description: |
   Addis Ababa�s xHub Innovative Society is an open space for IT entrepreneurs, innovators, technologists, investors, tech companies..
 email: null
 facebookUrl: null
-id: xhub
 lat: 8.9806034
 linkedUrl: null
 lng: 38.7577605
@@ -23,3 +22,4 @@ name: xHub
 region: Addis Ababa
 twitterHandle: xhubaddis
 websiteUrl: http://www.xhubaddis.com/
+hubID: xhub

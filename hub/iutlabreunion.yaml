@@ -13,7 +13,6 @@ county: ""
 description: "IuT Lab est le premier FabLab ou Laboratoire de Fabrication du Sud de la Réunion. Il a été inauguré en mars 2017 et est un lieu à la fois de fabrication d'objets et de partage de connaissances. Il est implanté sur le campus de l'IUT de Saint Pierre à la Réunion et souhaite regrouper et accompagner le plus grand nombre d'acteurs innovants de cette zone géographique.\r\n\r\nIuT Lab se veut complet dans l'offre des équipements et des services qu'il offre et souhaite élargir au maximum les partenariats et les collaborations entre les étudiants et les industriels du Sud de l'île de la Réunion.\r\n\r\nVous pouvez venir visiter les lieux, rencontrer, échanger avec les membres de la communautés, suivre des conférences régulièrement planifiées sur des thèmes chers à la communauté, apprendre à utiliser des équipements à la pointe de la technologie ou encore les utiliser librement (mode FreeLab) tout en respectant le règlement intérieur et la charte des FabLabs."
 email: fablab@univ-reunion.fr
 header_url: http://fablabs.io.s3.amazonaws.com/2018/11/16/07/55/58/409732c1-7cfa-48ac-b08d-2965d754fed6/PhotoCouverture-01.png
-id: iutlabreunion
 kind_name: fab_lab
 latitude: null
 links:
@@ -28,3 +27,4 @@ phone: "0262962879"
 slug: iutlabreunion
 addressNotes: ""
 postalCode: "97455"
+hubID: iutlabreunion

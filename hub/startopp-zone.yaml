@@ -6,7 +6,6 @@ country: null
 description: ""
 email: startoppzone@rjdlt.com
 facebookUrl: http://https
-id: startopp-zone
 lat: null
 linkedUrl: //facebook.com/startoppzone
 lng: null
@@ -14,3 +13,4 @@ name: StartOpp Zone
 region: null
 twitterHandle: null
 websiteUrl: http://startoppzone.com
+hubID: startopp-zone

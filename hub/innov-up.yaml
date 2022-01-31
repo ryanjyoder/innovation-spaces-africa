@@ -14,7 +14,6 @@ description: |
   "Pour en savoir plus visitez notre site <a href=""http://innovup.fefa.tg"">http://innovup.fefa.tg</a>�"
 email: innovup@fefa-togo.org
 facebookUrl: https://www.facebook.com/centreInnovupTogo/
-id: innov-up
 lat: null
 linkedUrl: null
 lng: null
@@ -22,3 +21,4 @@ name: Innov’up
 region: null
 twitterHandle: null
 websiteUrl: http://innovup.fefa.tg/
+hubID: innov-up

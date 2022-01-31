@@ -13,7 +13,6 @@ county: Littoral
 description: "We aim to foster frugal innovation (low-tech), promote Do It Yourself, design thinking and\r\ndigital technologies.\r\nWe sensitize to 21st century skills by developing partnerships with local primary and\r\nsecondary schools by proposing STEAM activities for young people outside of the school\r\nterms. We promote local production and the sharing of craftsmanship through DIY\r\nworkshops for kids and adults, and master class for professionals wishing to be trained in\r\ndesign and digital manufacturing."
 email: hello@irokolab.org
 header_url: http://fablabs.io.s3.amazonaws.com/2020/07/07/19/47/07/ab140920-e8a7-4757-bbd9-49cc76cd10a0/IROKO Fablab_Space Apps Challenge.jpg
-id: Irokofablab
 kind_name: fab_lab
 lat: 6.3736274
 links:
@@ -26,3 +25,4 @@ phone: "+22996084713"
 slug: Irokofablab
 addressNotes: 237 Ave de la Liberation, Jericho
 postalCode: "00229"
+hubID: Irokofablab

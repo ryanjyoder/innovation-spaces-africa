@@ -9,7 +9,6 @@ country: Côte d’Ivoire
 description: ""
 email: incubinfo@caamonde.org
 facebookUrl: https://www.facebook.com/incubivoir1/
-id: incub-ivoir
 lat: null
 linkedUrl: null
 lng: null
@@ -17,3 +16,4 @@ name: 'Incub’ivoir '
 region: null
 twitterHandle: ivoirincub
 websiteUrl: http://incubivoir.net/
+hubID: incub-ivoir

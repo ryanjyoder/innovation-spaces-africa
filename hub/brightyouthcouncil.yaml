@@ -10,7 +10,6 @@ county: Gauteng
 description: ""
 email: ""
 header_url: null
-id: brightyouthcouncil
 kind_name: fab_lab
 lat: -25.5253546
 links:
@@ -23,3 +22,4 @@ phone: ""
 slug: brightyouthcouncil
 addressNotes: ""
 postalCode: "0152"
+hubID: brightyouthcouncil

@@ -12,7 +12,6 @@ county: Egypt
 description: Fab Lab Beni Suef is an open-maker space and fabrication laboratory to help all makers to turn their ideas into prototypes, help anyone to be amaker. we are part of bigger Makerspace program run by Giza Systems Education Foundation
 email: fablab.benisuef@gizasystems.com
 header_url: null
-id: benisuef18
 kind_name: fab_lab
 latitude: null
 links:
@@ -25,3 +24,4 @@ phone: "01030734666"
 slug: benisuef18
 addressNotes: Go to McDonald's  then up to fifth floor
 postalCode: ""
+hubID: benisuef18

@@ -12,7 +12,6 @@ country: Nigeria
 description: "Passion Incubator is an innovation hub that focuses on job creation, skill acquisition and innovation. \n"
 email: null
 facebookUrl: null
-id: passion-incubator
 lat: 6.4524039
 linkedUrl: null
 lng: 3.39685350000002
@@ -20,3 +19,4 @@ name: Passion Incubator
 region: Lagos
 twitterHandle: P_Incubator
 websiteUrl: https://www.passionincubator.ng/
+hubID: passion-incubator

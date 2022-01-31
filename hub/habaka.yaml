@@ -11,7 +11,6 @@ country: Madagascar
 description: "Habaka is a technology innovation space that brings together academicians, the private sector and investors to support the tech community and entrepreneurship. Its ambition is to hack local problems with ingenious technology solutions. \n"
 email: null
 facebookUrl: https://web.facebook.com/habakamg?_rdr
-id: habaka
 lat: -18.9078944
 linkedUrl: null
 lng: 47.5287605
@@ -19,3 +18,4 @@ name: Habaka
 region: Antananarivo Province
 twitterHandle: null
 websiteUrl: null
+hubID: habaka

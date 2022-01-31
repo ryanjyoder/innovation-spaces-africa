@@ -14,7 +14,6 @@ county: HAMDALLAYE
 description: 'our fablab will be based on the assistance of local artisans then the people. we have an hardworking youth but they don''t have access to the technology so what they make cannot be worldwide competitive. then with the part of the youth which is in school, our vision is to make them understand there is another world different than fuly days of theory. we want them to be able to create by their own whatever they see on tv , internet, or what they think about. '
 email: moussaseydouhan@gmail.com
 header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/13/55/30/58aef2fb-9022-46e3-ab80-e670252b7d2a/Kabako Bamako.jpg
-id: kabakobamako
 kind_name: fab_lab
 lat: 12.6299491
 links: []
@@ -25,3 +24,4 @@ phone: 00223 75154284
 slug: kabakobamako
 addressNotes: ""
 postalCode: BP E 3568
+hubID: kabakobamako

@@ -9,7 +9,6 @@ country: Tanzania
 description: "Buni is a technology hub that fosters innovation and technology entrepreneurship through capacity building & mentoring programs.  \n"
 email: null
 facebookUrl: null
-id: buni-lab
 lat: -6.369028
 linkedUrl: null
 lng: 34.888822
@@ -17,3 +16,4 @@ name: Buni Lab
 region: null
 twitterHandle: bunihub
 websiteUrl: http://buni.or.tz/
+hubID: buni-lab

@@ -7,7 +7,6 @@ country: Uganda
 description: ""
 email: null
 facebookUrl: null
-id: thehub
 lat: null
 linkedUrl: null
 lng: null
@@ -15,3 +14,4 @@ name: TheHub
 region: null
 twitterHandle: HUBKampala
 websiteUrl: http://thehubkampala.com/
+hubID: thehub

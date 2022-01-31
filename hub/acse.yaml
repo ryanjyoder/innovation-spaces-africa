@@ -8,7 +8,6 @@ description: |
   <b>The Algerian Center for Social Entrepreneurship (ACSE)</b> a �t� cr�� en 2013 et a comme mission que chaque probl�me social et environnemental en Alg�rie trouve une solution innovante et entrepreneuriale. Pour ce faire, ACSE d�veloppe deux volets : <b>un volet promotion</b>, visant � sensibiliser, valoriser et f�d�rer autour de l'entrepreneuriat social en Alg�rie, et <b>un volet accompagnement</b> se concr�tisant par une incubation de huit mois. Plus qu'un incubateur d'entreprises sociales, ACSE UP, est �galement<b> le plus grand coworking space d'Alg�rie. </b>
 email: j.ferreira@acsedz.com
 facebookUrl: https://www.facebook.com/AlgerianCenterForSocialEntrepreneurship
-id: acse
 lat: null
 linkedUrl: null
 lng: null
@@ -16,3 +15,4 @@ name: ACSE
 region: null
 twitterHandle: null
 websiteUrl: null
+hubID: acse

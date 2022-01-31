@@ -14,7 +14,6 @@ county: ""
 description: 'Iroko FabLab dispose d''un atelier partagé, équipé de machines et d''outils manuels/électriques, d''un espace de coworking, d''un espace d''impression 3D et de bidouillage électronique, d''un Café dans le patio et d''une cuisine pour quand vous avez un petit creux. '
 email: hello@iroko.com
 header_url: null
-id: AtelierIroko
 kind_name: fab_lab
 latitude: null
 links:
@@ -31,3 +30,4 @@ phone: +229 96084713
 slug: AtelierIroko
 addressNotes: ""
 postalCode: ""
+hubID: AtelierIroko

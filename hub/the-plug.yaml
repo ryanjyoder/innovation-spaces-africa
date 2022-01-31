@@ -6,7 +6,6 @@ description: |
   The Plug est un programme d�incubation propose? par BOPlug a? toute entrepreneur ayant un projet en lien avec le de?veloppement de l'expe?rience client. Plus innovant, plus digitale et plus respectueux des nouvelles attentes environnementales.
 email: contact@thepugbybo.com
 facebookUrl: https://www.facebook.com/the.plug.by.bo
-id: the-plug
 lat: null
 linkedUrl: null
 lng: null
@@ -14,3 +13,4 @@ name: THE PLUG
 region: null
 twitterHandle: null
 websiteUrl: http://www.theplugbybo.com
+hubID: the-plug

@@ -11,7 +11,6 @@ county: ""
 description: ""
 email: haguessy@udl-benin.org
 header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/13/57/06/b497a0c1-0c87-4faa-989e-f699b4c4df57/BLOLAB.jpg
-id: blolab
 kind_name: fab_lab
 lat: 6.39464507497887
 links:
@@ -26,3 +25,4 @@ phone: "+22967920003"
 slug: blolab
 addressNotes: Kindonou
 postalCode: ""
+hubID: blolab

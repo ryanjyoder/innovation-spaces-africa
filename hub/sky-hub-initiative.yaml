@@ -6,7 +6,6 @@ country: Zimbabwe
 description: ""
 email: null
 facebookUrl: null
-id: sky-hub-initiative
 lat: null
 linkedUrl: null
 lng: null
@@ -14,3 +13,4 @@ name: Sky Hub Initiative
 region: null
 twitterHandle: null
 websiteUrl: http://www.skyhub.co.zw/
+hubID: sky-hub-initiative

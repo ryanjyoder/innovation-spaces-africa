@@ -6,7 +6,6 @@ country: Morocco
 description: ""
 email: null
 facebookUrl: null
-id: girls-in-tech-git-morocco-chapter
 lat: null
 linkedUrl: null
 lng: null
@@ -14,3 +13,4 @@ name: Girls in Tech (GIT)-Morocco Chapter
 region: null
 twitterHandle: girlsintech
 websiteUrl: http://morocco.girlsintech.org/
+hubID: girls-in-tech-git-morocco-chapter

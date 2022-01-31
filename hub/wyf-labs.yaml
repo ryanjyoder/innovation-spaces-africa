@@ -6,7 +6,6 @@ country: Egypt
 description: ""
 email: null
 facebookUrl: https://www.facebook.com/wyfegypt
-id: wyf-labs
 lat: null
 linkedUrl: null
 lng: null
@@ -15,3 +14,4 @@ region: null
 twitterHandle: wyfegypt
 websiteUrl: https://wyfegypt.com/wyf_labs.php
 youtube: https://www.youtube.com/c/WorldYouthForum
+hubID: wyf-labs

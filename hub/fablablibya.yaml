@@ -13,7 +13,6 @@ county: ""
 description: ""
 email: info@fablablibya.org
 header_url: null
-id: fablablibya
 kind_name: fab_lab
 lat: 32.0793436
 links:
@@ -28,3 +27,4 @@ phone: "00218925562440"
 slug: fablablibya
 addressNotes: ""
 postalCode: ""
+hubID: fablablibya

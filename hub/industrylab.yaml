@@ -14,7 +14,6 @@ county: Morocco
 description: "IndustryLab is laboratory invested by Moroccan Office of Industrial and Commercial Property. Its purpose is to promote innovation in different industrial sectors, universities and R&D institutions also individual inventors and new technologies fan. \r\n"
 email: khalid.ezzemani@outlook.com
 header_url: null
-id: industrylab
 kind_name: fab_lab
 latitude: null
 links: []
@@ -25,3 +24,4 @@ phone: "00212678634727"
 slug: industrylab
 addressNotes: ""
 postalCode: "21090"
+hubID: industrylab

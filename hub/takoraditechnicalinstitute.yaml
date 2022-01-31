@@ -10,7 +10,6 @@ county: Western
 description: ""
 email: ""
 header_url: null
-id: takoraditechnicalinstitute
 kind_name: fab_lab
 lat: 4.9
 links:
@@ -25,3 +24,4 @@ phone: ""
 slug: takoraditechnicalinstitute
 addressNotes: ""
 postalCode: ""
+hubID: takoraditechnicalinstitute

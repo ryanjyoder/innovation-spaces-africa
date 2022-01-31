@@ -7,7 +7,6 @@ country: null
 description: ""
 email: info@bujahub.com
 facebookUrl: https://www.facebook.com/bujahub/
-id: bujahub
 lat: null
 linkedUrl: null
 lng: null
@@ -15,3 +14,4 @@ name: BujaHub
 region: null
 twitterHandle: null
 websiteUrl: http://www.bujahub.com
+hubID: bujahub

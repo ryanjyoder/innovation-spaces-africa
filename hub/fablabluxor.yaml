@@ -16,7 +16,6 @@ county: ""
 description: ""
 email: peter.samir@gmail.moe.edu.eg
 header_url: null
-id: fablabluxor
 kind_name: fab_lab
 lat: 25.6877424
 links: []
@@ -27,3 +26,4 @@ phone: ""
 slug: fablabluxor
 addressNotes: ""
 postalCode: ""
+hubID: fablabluxor

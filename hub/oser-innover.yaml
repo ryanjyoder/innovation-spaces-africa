@@ -9,7 +9,6 @@ country: null
 description: ""
 email: null
 facebookUrl: https://fr-fr.facebook.com/DaretoInnovate/
-id: oser-innover
 lat: null
 linkedUrl: null
 lng: null
@@ -17,3 +16,4 @@ name: Oser Innover
 region: null
 twitterHandle: DaretoInnovate
 websiteUrl: http://daretoinnovate.com/
+hubID: oser-innover

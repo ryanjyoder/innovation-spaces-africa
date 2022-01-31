@@ -8,7 +8,6 @@ country: Ghana
 description: ""
 email: null
 facebookUrl: null
-id: ghana-multimedia-incubator-centre
 lat: null
 linkedUrl: null
 lng: null
@@ -16,3 +15,4 @@ name: Ghana Multimedia Incubator Centre
 region: null
 twitterHandle: null
 websiteUrl: http://gmic.gov.gh/
+hubID: ghana-multimedia-incubator-centre

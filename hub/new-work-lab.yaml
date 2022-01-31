@@ -12,7 +12,6 @@ country: Morocco
 description: ""
 email: null
 facebookUrl: null
-id: new-work-lab
 lat: null
 linkedUrl: null
 lng: null
@@ -20,3 +19,4 @@ name: New Work Lab
 region: null
 twitterHandle: newworklab
 websiteUrl: http://www.newworklab.com
+hubID: new-work-lab

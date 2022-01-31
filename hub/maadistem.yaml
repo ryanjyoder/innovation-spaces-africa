@@ -16,7 +16,6 @@ county: ""
 description: ""
 email: dr.ade.salah@stemmaadi.moe.edu.eg
 header_url: null
-id: maadistem
 kind_name: fab_lab
 lat: 29.9636527382043
 links: []
@@ -27,3 +26,4 @@ phone: "0221224569861"
 slug: maadistem
 addressNotes: ""
 postalCode: ""
+hubID: maadistem

@@ -10,7 +10,6 @@ country: Angola
 description: "Kianda Hub is an open space, coworking, co creation space and innovation center that focuses on social impact, job creation and innovation. \n"
 email: null
 facebookUrl: null
-id: kianda-hub
 lat: -8.8249255
 linkedUrl: null
 lng: 13.2279833
@@ -18,3 +17,4 @@ name: Kianda Hub
 region: Luanda
 twitterHandle: KiandaHUB
 websiteUrl: https://kiandahub.com/
+hubID: kianda-hub

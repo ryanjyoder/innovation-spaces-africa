@@ -13,7 +13,6 @@ county: Fayoum
 description: "Fab Lab Fayoum is an open-maker space and fabrication laboratory to help all makers to turn their ideas into prototypes, help anyone to be amaker. Trying to solve the challenges of our society based on our SDGs Goals, we are part of bigger Makerspace program run by Giza Systems Education Foundation.\r\n\r\n"
 email: fablab.fayoum@gizasystems.com
 header_url: http://fablabs.io.s3.amazonaws.com/2019/07/24/18/00/32/ede4191c-b6a9-48f0-ba72-7a4376c3f1b7/FayouCover.jpg
-id: fablabfayoum
 kind_name: fab_lab
 latitude: null
 links:
@@ -26,3 +25,4 @@ phone: "0842184339"
 slug: fablabfayoum
 addressNotes: ""
 postalCode: "63512"
+hubID: fablabfayoum

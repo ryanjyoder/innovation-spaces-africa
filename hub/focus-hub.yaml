@@ -6,7 +6,6 @@ country: Nigeria
 description: ""
 email: null
 facebookUrl: null
-id: focus-hub
 lat: null
 linkedUrl: null
 lng: null
@@ -14,3 +13,4 @@ name: Focus Hub
 region: null
 twitterHandle: null
 websiteUrl: http://focushub.net/
+hubID: focus-hub

@@ -6,7 +6,6 @@ description: |
   Lumumba Labs began operation in October, 2014, and was officially registered in May, 2015 with a staff strength of 4.
 email: start@llab.cd
 facebookUrl: https://www.facebook.com/ZairInnov/
-id: lumumba-labs
 lat: -4.038333
 linkedUrl: null
 lng: 21.758664
@@ -14,3 +13,4 @@ name: Lumumba Labs
 region: null
 twitterHandle: LabLumumba
 websiteUrl: http://www.llab.cd/
+hubID: lumumba-labs

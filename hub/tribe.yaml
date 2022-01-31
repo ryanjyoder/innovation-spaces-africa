@@ -6,7 +6,6 @@ country: Nigeria
 description: "Tribe is an innovation centre that is focuses on skill acquisition, social impact and innovation.  \n"
 email: null
 facebookUrl: null
-id: tribe
 lat: 6.2757656
 linkedUrl: null
 lng: 7.00683930000002
@@ -14,3 +13,4 @@ name: Tribe
 region: Anambra
 twitterHandle: null
 websiteUrl: null
+hubID: tribe

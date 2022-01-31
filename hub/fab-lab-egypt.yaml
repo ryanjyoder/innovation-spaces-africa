@@ -10,7 +10,6 @@ country: Egypt
 description: ""
 email: null
 facebookUrl: null
-id: fab-lab-egypt
 lat: null
 linkedUrl: null
 lng: null
@@ -18,3 +17,4 @@ name: Fab Lab Egypt
 region: null
 twitterHandle: null
 websiteUrl: http://fablab-egypt.com/
+hubID: fab-lab-egypt

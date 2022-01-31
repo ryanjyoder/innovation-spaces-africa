@@ -9,7 +9,6 @@ country: South Africa
 description: ""
 email: null
 facebookUrl: null
-id: angel-hub
 lat: null
 linkedUrl: null
 lng: null
@@ -17,3 +16,4 @@ name: Angel Hub
 region: null
 twitterHandle: null
 websiteUrl: http://www.angelhub.co.za/
+hubID: angel-hub

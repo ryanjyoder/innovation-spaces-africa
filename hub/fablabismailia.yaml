@@ -16,7 +16,6 @@ county: Egypt
 description: fabrication lab
 email: eman.elshabrawy@ismailia.moe.edu.eg
 header_url: null
-id: fablabismailia
 kind_name: fab_lab
 lat: 30.6214053807067
 links: []
@@ -27,3 +26,4 @@ phone: "01224448985"
 slug: fablabismailia
 addressNotes: ""
 postalCode: ""
+hubID: fablabismailia

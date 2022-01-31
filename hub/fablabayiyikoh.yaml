@@ -11,7 +11,6 @@ county: Yopougon
 description: ""
 email: fablab@ayiyikoh.org
 header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/14/01/00/64e5a94d-22ca-4be1-bd50-beef7940d077/Fablab Ayiyikoh.jpg
-id: fablabayiyikoh
 kind_name: fab_lab
 latitude: null
 links:
@@ -28,3 +27,4 @@ phone: "+22547629362"
 slug: fablabayiyikoh
 addressNotes: Nous sommes ouverts du lundi au samedi de 8h à 21H
 postalCode: "225"
+hubID: fablabayiyikoh

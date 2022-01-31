@@ -13,7 +13,6 @@ county: Tunis
 description: "El FabLab est le 1er Maker Space tunsien indépendant. C'est à la fois un lieu, une communauté, et une façon d'être.\r\n\r\nvous pourrez venir concrétiser vos projets à El Fablab : maquette, prototype, petits objets, etc.....\r\n\r\n"
 email: contact@elfablab.com
 header_url: null
-id: elfablab
 kind_name: fab_lab
 lat: 36.8964803
 links:
@@ -26,3 +25,4 @@ phone: ""
 slug: elfablab
 addressNotes: ""
 postalCode: "2078"
+hubID: elfablab

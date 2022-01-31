@@ -11,7 +11,6 @@ description: |
   A shared innovation, co-working and community space for organizations focusing on the intersection of ICTs, entrepreneurship & social change in Liberia.
 email: null
 facebookUrl: null
-id: icampus-liberia
 lat: null
 linkedUrl: null
 lng: null
@@ -19,3 +18,4 @@ name: iCampus Liberia
 region: null
 twitterHandle: icampuslib
 websiteUrl: https://www.icampus.io/
+hubID: icampus-liberia

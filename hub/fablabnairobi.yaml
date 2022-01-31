@@ -16,7 +16,6 @@ county: Nairobi
 description: ""
 email: stp@uonbi.ac.ke
 header_url: null
-id: fablabnairobi
 kind_name: fab_lab
 lat: -1.2790019
 links:
@@ -41,3 +40,4 @@ phone: ""
 slug: fablabnairobi
 addressNotes: ""
 postalCode: 00100 (GPO)
+hubID: fablabnairobi

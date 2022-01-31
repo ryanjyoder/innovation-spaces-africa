@@ -9,7 +9,6 @@ country: Congo
 description: ""
 email: null
 facebookUrl: null
-id: bantuhub
 lat: null
 linkedUrl: null
 lng: null
@@ -17,3 +16,4 @@ name: 'BantuHub '
 region: null
 twitterHandle: null
 websiteUrl: http://www.bantuhub.com/
+hubID: bantuhub

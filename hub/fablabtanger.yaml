@@ -15,7 +15,6 @@ county: ""
 description: "This new space was opened early 2014 in Tangier, Morocco\r\nyou can visit our webpage www.fablabtanger.org or facebook fablabtanger to get to know more about it."
 email: contact@fablabtanger.org
 header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/13/54/28/0e082ebf-3c0c-4a61-abd7-22a10c333cda/FabLabTanger.jpg
-id: fablabtanger
 kind_name: fab_lab
 lat: 35.7666667
 links:
@@ -30,3 +29,4 @@ phone: "+212539393954"
 slug: fablabtanger
 addressNotes: ""
 postalCode: ""
+hubID: fablabtanger

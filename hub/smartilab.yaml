@@ -14,7 +14,6 @@ county: ""
 description: "Le SMARTILAB est le premier Fablab de la capitale du Maroc, Rabat. \r\nPrototypage des CI, Packaging, prototypage système embarqués, circuits RF, CEM, essais et caractérisations expérimentales"
 email: 'hafid.griguer@gmail.com '
 header_url: null
-id: smartilab
 kind_name: fab_lab
 lat: 33.9627061
 links:
@@ -29,3 +28,4 @@ phone: '+212660142213 '
 slug: smartilab
 addressNotes: ""
 postalCode: ""
+hubID: smartilab

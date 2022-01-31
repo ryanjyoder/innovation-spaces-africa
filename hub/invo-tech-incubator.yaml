@@ -7,7 +7,6 @@ country: South Africa
 description: ""
 email: null
 facebookUrl: null
-id: invo-tech-incubator
 lat: null
 linkedUrl: null
 lng: null
@@ -15,3 +14,4 @@ name: Invo Tech incubator
 region: null
 twitterHandle: null
 websiteUrl: www.invotech.dut.ac.za
+hubID: invo-tech-incubator

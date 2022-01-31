@@ -27,7 +27,6 @@ funding:
 hasPhysicalSpace: true
 hubNetworks:
   - africinnov
-id: cepem-couveuse-d-entreprise-pour-la-promotion-de-l-emploi-par-la-micro-entreprise
 keyActivities:
   - incubator
 lat: null
@@ -84,3 +83,4 @@ techFocus: false
 twitterHandle: cepemcouveuse
 websiteUrl: https://www.cepem.sn
 yearlyBudget: null
+hubID: cepem-couveuse-d-entreprise-pour-la-promotion-de-l-emploi-par-la-micro-entreprise

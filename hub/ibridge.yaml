@@ -8,7 +8,6 @@ description: |
   iBridge began operation in October, 2012 and was legally registered in the same year. It is a co-creation hub that focuses on skill acquisition, social impact and innovation.
 email: null
 facebookUrl: null
-id: ibridge
 lat: 9.081999
 linkedUrl: null
 lng: 8.67527700000005
@@ -16,3 +15,4 @@ name: iBridge
 region: null
 twitterHandle: null
 websiteUrl: http://www.ibridgehub.com/
+hubID: ibridge

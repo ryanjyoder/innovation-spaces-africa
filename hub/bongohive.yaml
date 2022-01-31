@@ -15,7 +15,6 @@ country: Zambia
 description: "BongoHive, based in Lusaka, Zambia, provides a place for the local tech community to meet, swap experiences, and attend training, networking and hackathon events. \n"
 email: null
 facebookUrl: null
-id: bongohive
 lat: -15.4186552
 linkedUrl: null
 lng: 28.3099678
@@ -23,3 +22,4 @@ name: BongoHive
 region: Lusaka Province
 twitterHandle: bongohive
 websiteUrl: http://bongohive.co.zm/
+hubID: bongohive

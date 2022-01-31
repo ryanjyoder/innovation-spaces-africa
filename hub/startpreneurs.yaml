@@ -10,7 +10,6 @@ country: Nigeria
 description: "Startpreneurs began operation in January, 2016 and was legally registered in December 2015 with a current staff strength of 20.  \n"
 email: info@startpreneurs.com.ng
 facebookUrl: null
-id: startpreneurs
 lat: 9.081999
 linkedUrl: null
 lng: 8.67527700000005
@@ -18,3 +17,4 @@ name: Startpreneurs
 region: null
 twitterHandle: startpreneurs
 websiteUrl: http://www.startpreneurs.com.ng/
+hubID: startpreneurs

@@ -12,7 +12,6 @@ country: Egypt
 description: "Cairo Hackerspace is an innovation hub that focuses on social impact and innovation.   \n"
 email: null
 facebookUrl: null
-id: cairo-hackerspace
 lat: 30.0444196
 linkedUrl: null
 lng: 31.2357116000001
@@ -20,3 +19,4 @@ name: Cairo Hackerspace
 region: Cairo Governorate
 twitterHandle: null
 websiteUrl: https://cairohackerspace.org/
+hubID: cairo-hackerspace

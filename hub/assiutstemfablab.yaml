@@ -16,7 +16,6 @@ county: ASSIUT
 description: ""
 email: ""
 header_url: null
-id: assiutstemfablab
 kind_name: fab_lab
 lat: 27.1857515
 links: []
@@ -27,3 +26,4 @@ phone: ""
 slug: assiutstemfablab
 addressNotes: ""
 postalCode: ""
+hubID: assiutstemfablab

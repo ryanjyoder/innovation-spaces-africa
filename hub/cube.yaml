@@ -7,7 +7,6 @@ description: |
   L'accent est mis sur les projets dans les biotechnologies (Agriculture et transformation agroalimentaire, solutions innovantes en biotechnologies m�dicales, environnementales et industrielles). Toutefois nous sommes pr�ts � accompagner d'autres projets si le volet innovation est prouv� (Inclusion financi�re, �nergie, services de base) et qui r�pondent � un probl�me identifi� dans la communaut�.
 email: equipecube@gmail.com
 facebookUrl: https://www.facebook.com/SAEICUBE/
-id: cube
 lat: null
 linkedUrl: null
 lng: null
@@ -15,3 +14,4 @@ name: CUBE
 region: null
 twitterHandle: cube_togo
 websiteUrl: http://www.cubenter.com
+hubID: cube

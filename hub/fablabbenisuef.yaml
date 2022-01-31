@@ -16,7 +16,6 @@ county: Beni Suef
 description: The  fablab stem school is start up  fablab so is fab lab is new up date the fab lab
 email: hosam_ek_eg@yahoo.com
 header_url: null
-id: fablabbenisuef
 kind_name: fab_lab
 lat: 29.066135
 links: []
@@ -27,3 +26,4 @@ phone: "01100228893"
 slug: fablabbenisuef
 addressNotes: ""
 postalCode: ""
+hubID: fablabbenisuef

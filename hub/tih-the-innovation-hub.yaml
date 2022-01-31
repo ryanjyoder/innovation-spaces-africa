@@ -8,7 +8,6 @@ country: South Africa
 description: ""
 email: null
 facebookUrl: null
-id: tih-the-innovation-hub
 lat: null
 linkedUrl: null
 lng: null
@@ -16,3 +15,4 @@ name: 'TIH-The Innovation Hub '
 region: null
 twitterHandle: null
 websiteUrl: www.theinnovationhub.com
+hubID: tih-the-innovation-hub

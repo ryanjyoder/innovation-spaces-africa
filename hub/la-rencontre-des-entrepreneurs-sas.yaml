@@ -6,7 +6,6 @@ country: null
 description: "La  Rencontre Des Entrepreneurs (RDE) est le 1�r Acc�l�rateur multisectoriel d'appui et d'accompagnement priv� du S�n�gal dont la  principale mission consiste �  rep�rer des PME � fort potentiel pour en faire des champions en leur  donnant acc�s au capital,  aux meilleures comp�tences  et   �  un  ensemble de r�seau   \n"
 email: null
 facebookUrl: null
-id: la-rencontre-des-entrepreneurs-sas
 lat: null
 linkedUrl: null
 lng: null
@@ -14,3 +13,4 @@ name: LA RENCONTRE DES ENTREPRENEURS-SAS
 region: null
 twitterHandle: RDEDAKAR
 websiteUrl: http://www.entrepreneursenegal.com
+hubID: la-rencontre-des-entrepreneurs-sas

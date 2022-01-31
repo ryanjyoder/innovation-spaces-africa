@@ -13,7 +13,6 @@ county: ""
 description: ""
 email: ""
 header_url: null
-id: fablabusms
 kind_name: fab_lab
 latitude: null
 links: []
@@ -24,3 +23,4 @@ phone: ""
 slug: fablabusms
 addressNotes: ""
 postalCode: "23000"
+hubID: fablabusms

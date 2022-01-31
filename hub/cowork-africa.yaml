@@ -9,7 +9,6 @@ description: |
   �Premium co-working space in Douala.�
 email: null
 facebookUrl: null
-id: cowork-africa
 lat: null
 linkedUrl: null
 lng: null
@@ -17,3 +16,4 @@ name: Cowork.Africa
 region: null
 twitterHandle: coworkafrica
 websiteUrl: Co-work.africa
+hubID: cowork-africa

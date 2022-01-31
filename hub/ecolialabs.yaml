@@ -14,7 +14,6 @@ county: Centre
 description: "ECOLIA Labs  aims to stimulate and support technological innovation by promoting the entrepreneurship of young people and women in Cameroon and Africa\r\n\r\nIt is an ecosystem that combines :\r\n\r\n • A project incubator : to support the project leaders in the creation, viability and sustainability of their startups.\r\n\r\n • A Fablab : to train disadvantaged young Cameroonians, in a situation of dropping out of school or just graduated, to the professions of digital manufacture and their uses in the fields of crafts, carpentry, electronics, energy , Environment, health and informatics;\r\n\r\n • A coworking space: to encourage collective emulation and catalyze innovation and technological entrepreneurship in Cameroon."
 email: contact@ecolialabs.org
 header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/14/54/01/d6b4d0ea-d9f9-42a8-8f03-8d522fc4da32/Ecolia Labs.jpg
-id: ecolialabs
 kind_name: fab_lab
 lat: 3.8680387
 links:
@@ -33,3 +32,4 @@ phone: +237 677 56 87 66 / 691 42 24 43
 slug: ecolialabs
 addressNotes: ""
 postalCode: ""
+hubID: ecolialabs

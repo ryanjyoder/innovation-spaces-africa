@@ -8,7 +8,6 @@ country: Namibia
 description: ""
 email: null
 facebookUrl: null
-id: fablab-namibia
 lat: null
 linkedUrl: null
 lng: null
@@ -16,3 +15,4 @@ name: Fablab Namibia
 region: null
 twitterHandle: null
 websiteUrl: http://www.fablabnamibia.org/
+hubID: fablab-namibia

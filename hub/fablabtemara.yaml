@@ -10,7 +10,6 @@ county: ""
 description: "A cause du COVID-19 FabLab Temara en arrêt d'activité depuis le 16 mars 2020\r\nDue to COVID-19 FabLab Temara has been out of business since March 16, 2020"
 email: fablabtemara@gmail.com
 header_url: http://fablabs.io.s3.amazonaws.com/2021/05/14/23/10/51/8a6a85a4-f5d0-4298-9db6-4455284e176f/closed.png
-id: fablabtemara
 kind_name: fab_lab
 lat: 33.9146954
 links: []
@@ -21,3 +20,4 @@ phone: "+212612028009"
 slug: fablabtemara
 addressNotes: "A cause du COVID-19 FabLab Temara en arrêt d'activité depuis le 16 mars 2020\r\nDue to COVID-19 FabLab Temara has been out of business since March 16, 2020\r\n"
 postalCode: "12010"
+hubID: fablabtemara

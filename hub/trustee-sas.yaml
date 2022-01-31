@@ -6,7 +6,6 @@ description: |
   Trustee est une soci�t� qui accompagne et investit en position minoritaire dans les startups innovantes. Trustee intervient �galement � divers stades de d�veloppement dans des Startups et Pme  � fort potentiel de croissance. Nous offrons �galement un espace de travail partag� (Coworking) et d'autres prestations � la carte pour mieux repondre au besoin des porteurs de projet. �
 email: contact@trustees.fr
 facebookUrl: https://www.facebook.com/TrusteeVC/
-id: trustee-sas
 lat: null
 linkedUrl: null
 lng: null
@@ -14,3 +13,4 @@ name: Trustee sas
 region: null
 twitterHandle: TrusteeVC
 websiteUrl: http://www.trustees.fr
+hubID: trustee-sas

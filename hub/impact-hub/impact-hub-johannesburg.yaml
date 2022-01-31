@@ -7,7 +7,6 @@ country: South Africa
 description: ""
 email: null
 facebookUrl: null
-id: impact-hub-johannesburg
 lat: null
 linkedUrl: null
 lng: null
@@ -15,3 +14,4 @@ name: 'IMPACT HUB '
 region: null
 twitterHandle: ImpactHub
 websiteUrl: johannesburg.impacthub.net
+hubID: impact-hub-johannesburg

@@ -16,7 +16,6 @@ county: ""
 description: "Understand the goals of the students in building their capstone projects and assist them in reaching their goals by employing the Fab Lab equipment.\r\nMake sure that all the machines in the lab are correctly calibrated, always running and in good condition. Define and order spare parts for the machines"
 email: ekramy.abdelaziam@stemredsea.moe.edu.eg
 header_url: null
-id: redseafablab
 kind_name: fab_lab
 lat: 27.2905548
 links: []
@@ -27,3 +26,4 @@ phone: "01004269568"
 slug: redseafablab
 addressNotes: ""
 postalCode: "002065"
+hubID: redseafablab

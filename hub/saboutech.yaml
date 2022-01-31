@@ -13,7 +13,6 @@ country: null
 description: ""
 email: projetsaboutech@gmail.com
 facebookUrl: https://www.facebook.com/saboutech/
-id: saboutech
 lat: null
 linkedUrl: null
 lng: null
@@ -21,3 +20,4 @@ name: Saboutech
 region: null
 twitterHandle: null
 websiteUrl: null
+hubID: saboutech

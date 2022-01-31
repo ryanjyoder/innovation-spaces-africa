@@ -9,7 +9,6 @@ country: Tanzania
 description: ""
 email: null
 facebookUrl: null
-id: dtbi-dar-tekinohama-business-incubator
 lat: null
 linkedUrl: null
 lng: null
@@ -17,3 +16,4 @@ name: 'DTBI-Dar Tekinohama Business Incubator '
 region: null
 twitterHandle: null
 websiteUrl: http://www.teknohama.or.tz/
+hubID: dtbi-dar-tekinohama-business-incubator

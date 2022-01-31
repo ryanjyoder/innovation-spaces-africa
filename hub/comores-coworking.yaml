@@ -7,7 +7,6 @@ country: null
 description: ""
 email: contact@comorescoworking.com
 facebookUrl: http://Com&#039
-id: comores-coworking
 lat: null
 linkedUrl: Work
 lng: null
@@ -15,3 +14,4 @@ name: Comores Coworking
 region: null
 twitterHandle: comwork_km
 websiteUrl: http://www.comorescoworking.com
+hubID: comores-coworking

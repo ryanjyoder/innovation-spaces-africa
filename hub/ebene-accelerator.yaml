@@ -11,7 +11,6 @@ country: Mauritius
 description: ""
 email: null
 facebookUrl: null
-id: ebene-accelerator
 lat: null
 linkedUrl: null
 lng: null
@@ -19,3 +18,4 @@ name: Ebene Accelerator
 region: null
 twitterHandle: ebn_accelerator
 websiteUrl: http://ebeneaccelerator.mu
+hubID: ebene-accelerator

@@ -8,7 +8,6 @@ country: Nigeria
 description: "Civic Innovation hub is a co-creation space and innovation center that is focused on social impact, youth engagement and innovation. \n"
 email: Info@civicfoundationforinnovation.org
 facebookUrl: null
-id: civic-foundation-for-innovation
 lat: 9.0764785
 linkedUrl: null
 lng: 7.39857400000005
@@ -16,3 +15,4 @@ name: Civic Foundation for Innovation
 region: Federal Capital Territory
 twitterHandle: null
 websiteUrl: https://civicfoundationforinnovation.org/
+hubID: civic-foundation-for-innovation

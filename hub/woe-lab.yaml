@@ -9,7 +9,6 @@ country: Ghana
 description: "With twenty members, the Woe Lab, a young innovative community in Lome, Togo, is the first African space dedicated to technology democracy. \n"
 email: null
 facebookUrl: null
-id: woe-lab
 lat: 4.9255857
 linkedUrl: null
 lng: -2.32036949999997
@@ -17,3 +16,4 @@ name: Woe Lab
 region: Western Region
 twitterHandle: null
 websiteUrl: http://www.woelabo.com/
+hubID: woe-lab

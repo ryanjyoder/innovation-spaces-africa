@@ -16,7 +16,6 @@ county: ""
 description: "STREAM is an integrated incubator, an accelerator and a fab lab under one roof, it’s a project funded by the UK Embassy and implemented by Expertise France in sponsorship with Libyana mobile company.\r\n\r\nStream Fab Lab is a platform for innovation and learning, it’s a digital fabrication lab with tools and equipment allowing inventors, entrepreneurs, students and artists to make their creations come to life by designing, prototyping and sharing their projects with the community of learners, educators, technologists, researchers, makers and innovators. \r\n\r\nStream team was trained by international experts to enhance the learning process at the Fab Lab by holding regular workshops, events and Fab Lab tours. They supervise and mentor the use of mechanisms, applications, and implications of digital fabrication to help you with your creative digital creations!"
 email: contact@streamers.ly
 header_url: null
-id: streamfablab
 kind_name: fab_lab
 lat: 32.8798255
 links:
@@ -31,3 +30,4 @@ phone: "+218911514378"
 slug: streamfablab
 addressNotes: Near Al-Wehda Bank, Al-Saqqa Mosque Branch
 postalCode: ""
+hubID: streamfablab

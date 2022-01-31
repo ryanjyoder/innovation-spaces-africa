@@ -7,7 +7,6 @@ country: null
 description: ""
 email: incubateur@ugb.edu.sn
 facebookUrl: https://web.facebook.com/incubateurugb/
-id: incubateur-ugb
 lat: null
 linkedUrl: null
 lng: null
@@ -15,3 +14,4 @@ name: Incubateur UGB
 region: null
 twitterHandle: null
 websiteUrl: http://incubation.ugb.sn
+hubID: incubateur-ugb

@@ -6,7 +6,6 @@ country: null
 description: ""
 email: contact@createam.ml
 facebookUrl: https://web.facebook.com/Lincubateur-Createam-927943447313058/?_rdc=1&amp
-id: createam
 lat: null
 linkedUrl: _rdr
 lng: null
@@ -14,3 +13,4 @@ name: CREATEAM
 region: null
 twitterHandle: createam2015
 websiteUrl: https://www.createam.ml/
+hubID: createam

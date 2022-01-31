@@ -16,7 +16,6 @@ county: Senegal
 description: "Place of innovation and collaboration, DefKo Ak Niep (Do it with others) is the new FabLab in Dakar set up by the NGO @Kerthiossane.\r\n--------\r\nLieu d'innovation et de travail collaboratif, Defko Ak Niep (fais le avec les autres) est le nouveau Fablab de Dakar mis en place par l'ONG Ker-Thiossane."
 email: kerthiossane@gmail.com
 header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/14/03/07/0cfe4ef7-69a5-463d-8657-e256dde50cec/DefkoAkNiep Lab.jpg
-id: defkoakniep
 kind_name: fab_lab
 lat: 14.7139787
 links:
@@ -31,3 +30,4 @@ phone: "+221338685309"
 slug: defkoakniep
 addressNotes: Rue 269, Villa 1695 SICAP LIBETE 2
 postalCode: B.P 10664
+hubID: defkoakniep

@@ -9,7 +9,6 @@ country: null
 description: ""
 email: contact@dlcoworking.com
 facebookUrl: https://www.facebook.com/DLCoworking-201097337076733/
-id: dlcoworking-dlc
 lat: null
 linkedUrl: null
 lng: null
@@ -17,3 +16,4 @@ name: DLCOWORKING (DLC)
 region: null
 twitterHandle: dlcoworking
 websiteUrl: http://www.dlcoworking.com
+hubID: dlcoworking-dlc

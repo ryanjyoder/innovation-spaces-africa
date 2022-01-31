@@ -12,7 +12,6 @@ country: Nigeria
 description: "CoLabs is a co-creation space, incubator/accelerator and an innovation space that focuses on skill acquisition, social impact and innovation. \n"
 email: null
 facebookUrl: null
-id: colab
 lat: 10.4548808
 linkedUrl: null
 lng: 7.4056928
@@ -20,3 +19,4 @@ name: CoLab
 region: Kaduna
 twitterHandle: CoLab_kd
 websiteUrl: https://colab.com.ng/
+hubID: colab

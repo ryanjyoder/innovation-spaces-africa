@@ -12,7 +12,6 @@ country: null
 description: ""
 email: null
 facebookUrl: null
-id: kmrstart-up-hub
 lat: null
 linkedUrl: null
 lng: null
@@ -20,3 +19,4 @@ name: KMRSTART-UP HUB
 region: null
 twitterHandle: kmrstartuphub
 websiteUrl: null
+hubID: kmrstart-up-hub

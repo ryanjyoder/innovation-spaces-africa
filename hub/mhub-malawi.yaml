@@ -12,7 +12,6 @@ country: Malawi
 description: "mHub is Malawi�s first ever technology hub. An incubator for technology start-ups with a special focus on building young technology entrepreneurs through training, skills development and mentorship. mHub was founded in November 2013 by Rachel Sibande a young Malawian entrepreneur in the technology space. mHub seeks to enhance the growth of the ICT sector in Malawi by cultivating and nurturing a culture of entrepreneurship in technology among the youths through training, transfer of skills and mentorship in technology and business  \n"
 email: info@mhubmw.com
 facebookUrl: null
-id: mhub-malawi
 lat: -15.7820588
 linkedUrl: null
 lng: 35.0042201
@@ -20,3 +19,4 @@ name: mHub Malawi
 region: Southern Region
 twitterHandle: mHubMW
 websiteUrl: http://www.mhubmw.com/
+hubID: mhub-malawi

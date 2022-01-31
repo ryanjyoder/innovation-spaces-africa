@@ -16,7 +16,6 @@ county: ""
 description: ""
 email: shokry.eshak@stemmenof.moe.edu.eg
 header_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/12/40/24/97cfb170-b946-4773-a9c8-c9beeda6681c/sho1.jpg
-id: fablabmenofia
 kind_name: fab_lab
 lat: 30.4390852
 links: []
@@ -27,3 +26,4 @@ phone: "01555544333"
 slug: fablabmenofia
 addressNotes: ""
 postalCode: ""
+hubID: fablabmenofia

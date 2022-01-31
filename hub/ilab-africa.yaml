@@ -8,7 +8,6 @@ description: |
   @iLabAfrica is a research centre under the Faculty of Information Technology at Strathmore University established to spearhead ICT research.
 email: null
 facebookUrl: null
-id: ilab-africa
 lat: -1.2882626
 linkedUrl: null
 lng: 36.8137592000001
@@ -16,3 +15,4 @@ name: iLab Africa
 region: Nairobi County
 twitterHandle: ilabafrica
 websiteUrl: http://www.ilabafrica.ac.ke/
+hubID: ilab-africa

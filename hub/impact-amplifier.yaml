@@ -12,7 +12,6 @@ country: South Africa
 description: ""
 email: null
 facebookUrl: null
-id: impact-amplifier
 lat: null
 linkedUrl: null
 lng: null
@@ -20,3 +19,4 @@ name: Impact Amplifier
 region: null
 twitterHandle: ImpactAmplifier
 websiteUrl: https://www.impactamplifier.co.za/
+hubID: impact-amplifier

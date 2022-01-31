@@ -11,7 +11,6 @@ description: |
   DoniLab is an innovation hub that is focused on social impact, job creation and innovation.
 email: info@donilab.net
 facebookUrl: https://www.facebook.com/donilab.officiel/
-id: donilab
 lat: 12.6363899
 linkedUrl: null
 lng: -7.99483789999999
@@ -19,3 +18,4 @@ name: DoniLab
 region: District de Bamako
 twitterHandle: null
 websiteUrl: http://www.donilab.net/
+hubID: donilab

@@ -9,7 +9,6 @@ description: |-
   The ISEG research group at Université Internationale des Diasporas Africaines (UNIDAF) was responsible for establishing the African Living Lab, which focused on developing a network of laboratories across West Africa to promote technology takeup and digital community by youth.
 email: null
 facebookUrl: null
-id: africa-living-lab
 lat: null
 linkedUrl: null
 lng: null
@@ -17,3 +16,4 @@ name: 'Africa Living Lab '
 region: null
 twitterHandle: null
 websiteUrl: https://isegcesmi.com/sample-page/
+hubID: africa-living-lab

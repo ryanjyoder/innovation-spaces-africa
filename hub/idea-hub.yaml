@@ -10,7 +10,6 @@ country: Nigeria
 description: "iDEA (Information Technology Developers Entrepreneurship Accelerator) provides essential support to entrepreneurs to build software skills.  \n"
 email: null
 facebookUrl: null
-id: idea-hub
 lat: 9.081999
 linkedUrl: null
 lng: 8.67527700000005
@@ -18,3 +17,4 @@ name: iDEA Hub
 region: null
 twitterHandle: null
 websiteUrl: http://www.idea-nigeria.org/
+hubID: idea-hub

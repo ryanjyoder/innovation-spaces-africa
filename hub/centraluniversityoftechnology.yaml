@@ -10,7 +10,6 @@ county: Free State
 description: ""
 email: ""
 header_url: null
-id: centraluniversityoftechnology
 kind_name: fab_lab
 lat: -29.118349
 links: []
@@ -21,3 +20,4 @@ phone: ""
 slug: centraluniversityoftechnology
 addressNotes: ""
 postalCode: "9301"
+hubID: centraluniversityoftechnology

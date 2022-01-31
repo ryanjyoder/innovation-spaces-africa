@@ -12,7 +12,6 @@ county: Kadiogo
 description: "OuagaLab, un cadre idéal pour l'émergence d’une jeunesse, qui, grâce au numérique peut apporter des solutions concrètes et innovantes aux problèmes du Burkina Faso et de l'Afrique.\r\nDans ce sens ou les défis sont énormes, nous disons que chaque problème rencontré est une entreprise en devenir !"
 email: gildasguiella@ouagalab.bf   gildasguiella@gmail.com
 header_url: http://fablabs.io.s3.amazonaws.com/2018/07/11/22/22/12/c466c53c-48be-422a-867e-f3d27e1e0d3e/20170607_124927.jpg
-id: ouagalab
 kind_name: fab_lab
 lat: 12.3529618
 links:
@@ -33,3 +32,4 @@ phone: +22670766380/+22678927197
 slug: ouagalab
 addressNotes: 'Ouagadougou, Kalgoodin avenue Baba sy '
 postalCode: 03bp7099ouagadougou03
+hubID: ouagalab

@@ -16,7 +16,6 @@ county: ""
 description: "La fabrication par soi-même (DIY) est ici encouragée. Vous pouvez fabriquer presque n'importe quel type d'objet dans un FabLab, grâce essentiellement à des machines contrôlées par ordinateur.\r\n\r\nQue peut-on réaliser?\r\n\r\nToute personne, quel que soit son niveau de connaissance et ses moyens, peut venir se servir des machines mises à disposition pour réaliser ses projets qu'ils soient personnels, scolaires, ou commerciaux, et apprendre en faisant soi-même et aussi grâce aux autres.\r\n\r\nPROTOTYPER :\r\navec une découpeuse laser, une imprimante 3d, de l'outillage pour l'électronique, un atelier classique, et beaucoup d'autres outils encore.\r\n\r\nFABRIQUER:\r\ndes maquettes et objets sur mesure.\r\n\r\nPERSONNALISER:\r\ndes objets et réaliser de la signalétique : plaque de Plexiglasse gravée, lettres découpées en bois, marquage d'objets au laser.\r\n\r\nAPPRENDRE:\r\ngrâce aux cours proposés pour utiliser par soi-même une découpeuse laser, une imprimante 3d, à modéliser en 3d.\r\n\r\nRENCONTRER:\r\ndes personnes aux compétences diverses : Makers, designers, ingénieurs, programmeurs."
 email: info@fablabcasablanca.org
 header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/14/01/55/63a13a90-0347-44e7-8a40-367fc4e1de3c/FABLAB CASABLANCA.jpg
-id: fablabcasablanca
 kind_name: fab_lab
 lat: 33.6179024
 links:
@@ -37,3 +36,4 @@ phone: "+212661215305"
 slug: fablabcasablanca
 addressNotes: ""
 postalCode: "20610"
+hubID: fablabcasablanca

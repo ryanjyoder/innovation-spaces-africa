@@ -11,7 +11,6 @@ county: Cotonou
 description: Design and fabrication for spreading sciences and technologies through open source and open hardware projects.
 email: contact@blolab.org
 header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/14/50/46/625c40a6-a14a-4efb-9820-4438d52256bc/Blolab Cotonou.jpg
-id: blolabcotonou
 kind_name: fab_lab
 lat: 6.3704004
 links:
@@ -24,3 +23,4 @@ phone: (229) 97 38 31 74
 slug: blolabcotonou
 addressNotes: Quartier Kindonou, 2e immeuble après la pharmacie en quittant le CEG Le Nokoué, 3e étage.
 postalCode: "229"
+hubID: blolabcotonou

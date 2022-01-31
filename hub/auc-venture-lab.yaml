@@ -16,7 +16,6 @@ description: |
   AUC V-Lab is the first university-based incubator in Egypt. It has been selected among the top five most promising university incubators in Africa in 2014.
 email: null
 facebookUrl: null
-id: auc-venture-lab
 lat: null
 linkedUrl: null
 lng: null
@@ -24,3 +23,4 @@ name: AUC Venture Lab
 region: null
 twitterHandle: aucventurelab
 websiteUrl: https://business.aucegypt.edu/centers/vlab/
+hubID: auc-venture-lab

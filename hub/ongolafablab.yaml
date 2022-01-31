@@ -15,7 +15,6 @@ county: CENTRE
 description: Laboratoire de Fabrication numérique pour accompagner les jeunes à initier des projets innovants en passant rapidement de l'idée au prototype fonctionnel.
 email: ongolafablab@auf.org
 header_url: http://fablabs.io.s3.amazonaws.com/2021/09/15/10/48/25/f1e675c2-62aa-42f0-8937-356d4dd6261f/IMG_fablab.io.jpg
-id: ongolafablab
 kind_name: fab_lab
 lat: 3.8577597
 links:
@@ -28,3 +27,4 @@ phone: 00237 6 92 55 51 82
 slug: ongolafablab
 addressNotes: Dans l'enceinte de l'AUF, En face de la Gendarmerie Mobile
 postalCode: ""
+hubID: ongolafablab

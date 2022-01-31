@@ -5,7 +5,6 @@ country: Tunisia
 description: "<b>  Kufanya </b>est un partenaire d�impl�mentation de l�organisation international pour les migrations, de l�institut fran�ais, de l�ONG Tunisie terre d�asile. Nous sommes membre de reseau de promotion de l�entreprise sociale chabaka et partenaire de l�incubateur pour entreprise sociale en tunisie lab�ess.   \n"
 email: africabusinessleaders@gmail.com
 facebookUrl: https://www.facebook.com/kufanyaincub/
-id: kufanya
 lat: null
 linkedUrl: null
 lng: null
@@ -13,3 +12,4 @@ name: Kufanya
 region: null
 twitterHandle: null
 websiteUrl: https://www.facebook.com/kufanyaincub/
+hubID: kufanya

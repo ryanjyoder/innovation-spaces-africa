@@ -21,7 +21,6 @@ description: |
   The Meltwater Entrepreneurial School of Technology (MEST) provides training and mentoring for aspiring African software entrepreneurs with the goal of creating wealth and jobs locally in Africa.
 email: null
 facebookUrl: null
-id: the-meltwater-entrepreneurial-school-of-technology-mest
 lat: 5.6446677
 linkedUrl: null
 lng: -0.152526599999987
@@ -29,3 +28,4 @@ name: The Meltwater Entrepreneurial School of Technology (MEST)
 region: Greater Accra Region
 twitterHandle: MESTAfrica
 websiteUrl: http://meltwater.org/
+hubID: the-meltwater-entrepreneurial-school-of-technology-mest

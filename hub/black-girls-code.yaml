@@ -18,7 +18,6 @@ country: South Africa
 description: ""
 email: future@blackgirlscode.org
 facebookUrl: https://www.facebook.com/BlackGirlsCodeJohannesburg
-id: black-girls-code
 lat: null
 linkedUrl: null
 lng: null
@@ -27,3 +26,4 @@ phone: +510 398 0880
 region: null
 twitterHandle: blackgirlscode
 websiteUrl: https://blackgirlscode.com/chapter/sa/
+hubID: black-girls-code

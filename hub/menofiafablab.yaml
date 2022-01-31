@@ -16,7 +16,6 @@ county: menofia
 description: ""
 email: shokry29@gmail.com
 header_url: null
-id: menofiafablab
 kind_name: fab_lab
 lat: 30.4390852
 links: []
@@ -27,3 +26,4 @@ phone: ""
 slug: menofiafablab
 addressNotes: ""
 postalCode: "33511"
+hubID: menofiafablab

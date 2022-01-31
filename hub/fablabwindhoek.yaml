@@ -10,7 +10,6 @@ county: Khomas
 description: ""
 email: ""
 header_url: null
-id: fablabwindhoek
 kind_name: fab_lab
 lat: -22.5589039
 links:
@@ -23,3 +22,4 @@ phone: ""
 slug: fablabwindhoek
 addressNotes: ""
 postalCode: ""
+hubID: fablabwindhoek

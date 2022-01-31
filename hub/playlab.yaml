@@ -6,7 +6,6 @@ country: Senegal
 description: ""
 email: info@play-international.org
 facebookUrl: null
-id: playlab
 lat: null
 linkedUrl: null
 lng: null
@@ -14,3 +13,4 @@ name: Playlab
 region: null
 twitterHandle: pl4y
 websiteUrl: https://www.play-international.org/le-playlab
+hubID: playlab

@@ -7,7 +7,6 @@ country: null
 description: "ISTIC Entreprises Startup se propose comme une passerelle entre le monde universitaire et le monde socio-�conomique.  \n"
 email: null
 facebookUrl: http://ISTIC Entreprises Startup
-id: istic-entreprises-startup
 lat: null
 linkedUrl: null
 lng: null
@@ -15,3 +14,4 @@ name: ISTIC Entreprises Startup
 region: null
 twitterHandle: istic_tunisie
 websiteUrl: http://www.istic.rnu.tn
+hubID: istic-entreprises-startup

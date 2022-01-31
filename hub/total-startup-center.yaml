@@ -5,7 +5,6 @@ country: null
 description: ""
 email: princilia-doris.mizere@total.com
 facebookUrl: http://facebook.com/TotalCongo
-id: total-startup-center
 lat: null
 linkedUrl: https://www.linkedin.com/company/incubateur-total-startup-center
 lng: null
@@ -13,3 +12,4 @@ name: total-startup-center
 region: null
 twitterHandle: null
 websiteUrl: null
+hubID: total-startup-center

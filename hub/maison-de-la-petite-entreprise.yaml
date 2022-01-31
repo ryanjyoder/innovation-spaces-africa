@@ -7,7 +7,6 @@ country: null
 description: ""
 email: null
 facebookUrl: null
-id: maison-de-la-petite-entreprise
 lat: null
 linkedUrl: null
 lng: null
@@ -15,3 +14,4 @@ name: Maison de la Petite Entreprise
 region: null
 twitterHandle: null
 websiteUrl: http://www.mpetchad.com
+hubID: maison-de-la-petite-entreprise

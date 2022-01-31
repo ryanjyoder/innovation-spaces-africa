@@ -16,7 +16,6 @@ county: Alexandria
 description: "we have ..\r\n* laser cuter\r\n* shopbot\r\n*3D printer\r\n* vinaly cuter\r\n* mono fab"
 email: khalid.diab@stemalex.moe.edu.eg
 header_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/15/17/10/f5cad84b-7610-4866-8866-6e1ed59179ac/m.Jpg
-id: stemalexfablab
 kind_name: fab_lab
 lat: 30.9010214
 links: []
@@ -27,3 +26,4 @@ phone: "01227498827"
 slug: stemalexfablab
 addressNotes: "new burj elarab \r\nAlexandria stem school"
 postalCode: "00203"
+hubID: stemalexfablab

@@ -8,7 +8,6 @@ country: Nigeria
 description: "Digital Hub is a co-working space, incubation/acceleration and an innovation center that focuses on social impact, skill acquisition and job creation. \n"
 email: null
 facebookUrl: null
-id: digital-development-hub
 lat: 12.0049303
 linkedUrl: https://ng.linkedin.com/company/ddhubng
 lng: 8.51169030000006
@@ -16,3 +15,4 @@ name: Digital Development Hub
 region: Kano
 twitterHandle: null
 websiteUrl: https://ddhub.org.ng
+hubID: digital-development-hub

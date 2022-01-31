@@ -9,7 +9,6 @@ country: C?te d?Ivoire
 description: ""
 email: null
 facebookUrl: null
-id: jokkolabs-abidjan
 lat: null
 linkedUrl: null
 lng: null
@@ -17,3 +16,4 @@ name: Jokkolabs Abidjan
 region: null
 twitterHandle: JklAbidjan
 websiteUrl: http://jokkolabs.net/en/#jokkolabs
+hubID: jokkolabs-abidjan

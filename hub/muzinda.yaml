@@ -9,7 +9,6 @@ description: |
   Muzinda is Zimbabwe�s first entrepreneurship and innovation Hub�a one-stop shop for idea development, innovation and digital skills.
 email: null
 facebookUrl: https://www.facebook.com/muzindahub/
-id: muzinda
 lat: -17.8118106
 linkedUrl: null
 lng: 31.0895029000001
@@ -17,3 +16,4 @@ name: Muzinda
 region: Harare Province
 twitterHandle: MuzindaHub
 websiteUrl: https://muzindahub.com/
+hubID: muzinda
