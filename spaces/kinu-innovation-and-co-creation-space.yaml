@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Dar es Salaam
 country: Tanzania
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: Kinu Innovation and Co-Creation Space
-region: null
-twitterHandle: null
-websiteUrl: http://www.kinu.co.tz/
+email: ""
+facebookUrl: ""
 hubID: kinu-innovation-and-co-creation-space
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Kinu Innovation and Co-Creation Space
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://www.kinu.co.tz/

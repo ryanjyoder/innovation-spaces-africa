@@ -1,14 +1,17 @@
 addressLine1: Abidjan, C�te-d&#039;Ivoire, Abidjan, C�te d&#039;Ivoire
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
-email: null
+email: ""
 facebookUrl: https://web.facebook.com/AccompagnementCIED/
-lat: null
-lng: null
-name: Cied
-region: null
-twitterHandle: null
-websiteUrl: null
 hubID: cied
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Cied
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: ""

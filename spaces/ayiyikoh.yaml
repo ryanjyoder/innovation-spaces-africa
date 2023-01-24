@@ -1,28 +1,17 @@
-activity_status: null
-address_1: Abidjan
-address_2: ""
-avatar_url: null
-blurb: ""
-capabilities:
-  - circuit_production
-  - laser
+addressLine1: ""
+addressNotes: ""
 city: Abidjan
-country_code: CI
-county: Yopougon
+country: ""
 description: ""
 email: ayiyikoh@gmail.com
-header_url: null
-kind_name: fab_lab
+facebookUrl: ""
+hubID: ayiyikoh
+instagramHandle: ""
 lat: 5.316667
-links:
-  - id: 1400
-    url: http://fb.com/ayiyikoh
+linkedinUrl: ""
 lng: -4.03333299999997
 name: Ayiyikoh
-parent_id: 14
-phone: "57583482"
-slug: ayiyikoh
-addressNotes: ""
 postalCode: "225"
-hubID: ayiyikoh
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

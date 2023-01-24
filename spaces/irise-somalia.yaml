@@ -1,15 +1,18 @@
 addressLine1: Somalia
-city: null
+addressNotes: ""
+city: ""
 country: Somalia
 description: |
   iRise Somalia
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: irise-somalia
+instagramHandle: ""
 lat: 5.152149
+linkedinUrl: ""
 lng: 46.199616
 name: iRise Somalia
-region: null
+postalCode: ""
+region: ""
 twitterHandle: iRiseHub
 websiteUrl: https://irisehub.so/en/
-hubID: irise-somalia
-linkedinUrl: null

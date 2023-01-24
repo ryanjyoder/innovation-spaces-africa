@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Ebene Cybercity
 country: Mauritius
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: ebene-accelerator
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Ebene Accelerator
-region: null
+postalCode: ""
+region: ""
 twitterHandle: ebn_accelerator
 websiteUrl: http://ebeneaccelerator.mu
-hubID: ebene-accelerator
-linkedinUrl: null

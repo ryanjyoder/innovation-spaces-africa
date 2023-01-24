@@ -1,14 +1,17 @@
 addressLine1: ""
-city: null
+addressNotes: ""
+city: ""
 country: Burkina Faso
 description: ""
 email: contact@smlab.cool
 facebookUrl: https://web.facebook.com/SMLabCO
-lat: null
-lng: null
+hubID: sm-lab-co
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: SM LAB & CO
-region: null
+postalCode: ""
+region: ""
 twitterHandle: switch_maker
 websiteUrl: http://smlab.cool/
-hubID: sm-lab-co
-linkedinUrl: null

@@ -1,14 +1,17 @@
 addressLine1: South Africa Islam, Johannesburg, Gauteng, South Africa
+addressNotes: ""
 city: Johannesburg
 country: South Africa
 description: "JoziHub is a co-creation space in Johannesburg dedicated to creating sustainable change in Africa 44 Stanley Ave, Milpark, Johannesburg, 2092, South Africa. \n"
 email: info@jozihub.org
-facebookUrl: null
+facebookUrl: ""
+hubID: jozihub
+instagramHandle: ""
 lat: -26.1934093
+linkedinUrl: ""
 lng: 27.9849379
 name: JoziHub
+postalCode: ""
 region: Gauteng
 twitterHandle: JoziHub
 websiteUrl: http://jozihub.org/
-hubID: jozihub
-linkedinUrl: null

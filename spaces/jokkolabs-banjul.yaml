@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Banjul
 country: Gambia
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: jokkolabs-banjul
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Jokkolabs Banjul
-region: null
+postalCode: ""
+region: ""
 twitterHandle: JklBanjul
 websiteUrl: http://jokkolabs.net
-hubID: jokkolabs-banjul
-linkedinUrl: null

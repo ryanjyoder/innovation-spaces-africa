@@ -1,14 +1,17 @@
 addressLine1: ""
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
 email: hello@jabaspace.co
 facebookUrl: https://www.facebook.com/jabaspacecoworking/
-lat: null
-lng: null
+hubID: jaba-space
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: JABA SPACE
-region: null
+postalCode: ""
+region: ""
 twitterHandle: JabaSpace
 websiteUrl: https://jabaspace.co/
-hubID: jaba-space
-linkedinUrl: null

@@ -1,14 +1,17 @@
 addressLine1: Abuja, Federal Capital Territory, Nigeria
+addressNotes: ""
 city: Abuja
 country: Nigeria
 description: "enspire is amongst the major initiatives of Abuja Technology Village Free Zone Company (ATV). It seeks to stimulate economic growth and sustainable job creation in Nigeria through innovation, entrepreneurship, enterprise development and technology commercialization by providing training, mentoring, networking opportunities, infrastructure and access to finance among others. \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: enspire-incubator
+instagramHandle: ""
 lat: 9.0764785
+linkedinUrl: ""
 lng: 7.39857400000005
 name: enspire Incubator
+postalCode: ""
 region: Federal Capital Territory
 twitterHandle: enspireatv
 websiteUrl: http://www.enspire.org.ng/
-hubID: enspire-incubator
-linkedinUrl: null

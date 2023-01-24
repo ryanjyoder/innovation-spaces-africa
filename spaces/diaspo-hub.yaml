@@ -1,15 +1,18 @@
 addressLine1: Ambassade d'Allemagne, Rue 14
+addressNotes: ""
 city: Bamako
 country: Mali
 description: |
   Diaspo Hub is an incubator and accelerator  that are focused on skill acquisition, social impact and innovation.
 email: secretariat@diaspohub.com
 facebookUrl: https://www.facebook.com/DiaspoHub/
+hubID: diaspo-hub
+instagramHandle: ""
 lat: 12.6250651
+linkedinUrl: https://ng.linkedin.com/company/ddhubng
 lng: -7.98821799999996
 name: Diaspo Hub
+postalCode: ""
 region: District de Bamako
-twitterHandle: null
-websiteUrl: null
-hubID: diaspo-hub
-linkedinUrl: https://ng.linkedin.com/company/ddhubng
+twitterHandle: ""
+websiteUrl: ""

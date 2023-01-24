@@ -1,14 +1,17 @@
 addressLine1: Aldua Tower, Wing A, 6 Floor, New Bagamoyo Road
+addressNotes: ""
 city: Dar-es-Salaam
 country: Tanzania
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: sahara-ventures
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Sahara Ventures
-region: null
+postalCode: ""
+region: ""
 twitterHandle: VenturesSahara
 websiteUrl: https://saharaventures.com/sahara-accelerator
-hubID: sahara-ventures
-linkedinUrl: null

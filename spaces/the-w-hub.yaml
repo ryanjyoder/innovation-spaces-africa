@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Abidjan
 country: Cote d'Ivoire
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: the-w-hub
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: The W Hub
-region: null
+postalCode: ""
+region: ""
 twitterHandle: thewhub
 websiteUrl: http://www.thewhub.com/
-hubID: the-w-hub
-linkedinUrl: null

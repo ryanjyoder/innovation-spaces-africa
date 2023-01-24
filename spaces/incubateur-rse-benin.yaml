@@ -1,14 +1,17 @@
 addressLine1: lot P1430 v�doko ,  Cotonou
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: INCUBATEUR RSE BENIN
-region: null
-twitterHandle: null
-websiteUrl: null
+email: ""
+facebookUrl: ""
 hubID: incubateur-rse-benin
+instagramHandle: ""
+lat: 0
 linkedinUrl: https://www.linkedin.com/company/groupe-de-travail-rse-b%C3%A9nin/
+lng: 0
+name: INCUBATEUR RSE BENIN
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: ""

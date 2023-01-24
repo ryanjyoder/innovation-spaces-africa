@@ -1,15 +1,18 @@
 addressLine1: Tanzania Breweries, Dar es Salaam, Tanzania
+addressNotes: ""
 city: Dar es Salaam
 country: Tanzania
 description: |
   STICLab LTD is the first Maker Space in Tanzania with a state of the art digital fabrication Lab where 80% of the equipment being used is made locally by STICLab itself. This equipment includes tools such as CNC Milling Machines and 3D printers. STICLab�s Technology and Innovation Centre is designed to provide a productive environment for scientists, makers and innovators, providing full access to a Lab and Workshop facilities that support product development from idea creation through to production. We welcome individuals from different backgrounds with engineering and technical ideas that could transform society to use our facilities.
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: stic-lab
+instagramHandle: ""
 lat: -6.8234286
+linkedinUrl: ""
 lng: 39.2680669
 name: STIC Lab
-region: null
-twitterHandle: null
+postalCode: ""
+region: ""
+twitterHandle: ""
 websiteUrl: http://www.sticlab.co.tz/
-hubID: stic-lab
-linkedinUrl: null

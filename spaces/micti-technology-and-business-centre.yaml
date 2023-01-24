@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Maputo
 country: Mozambique
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: MICTI Technology and Business Centre
-region: null
-twitterHandle: null
-websiteUrl: http://www.micti.co.mz/
+email: ""
+facebookUrl: ""
 hubID: micti-technology-and-business-centre
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: MICTI Technology and Business Centre
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://www.micti.co.mz/

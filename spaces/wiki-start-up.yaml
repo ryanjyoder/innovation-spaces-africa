@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Tunis
 country: Tunisia
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: wiki-start-up
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Wiki Start Up
-region: null
+postalCode: ""
+region: ""
 twitterHandle: WIKISTARTUP
 websiteUrl: http://www.wikistartup.tn/
-hubID: wiki-start-up
-linkedinUrl: null

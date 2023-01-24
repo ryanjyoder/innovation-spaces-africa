@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Durban
 country: South Africa
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: Smart Xchange
-region: null
-twitterHandle: null
-websiteUrl: http://www.smartxchange.co.za/
+email: ""
+facebookUrl: ""
 hubID: smart-xchange
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Smart Xchange
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://www.smartxchange.co.za/

@@ -1,29 +1,17 @@
-activity_status: active
-address_1: ' Akwa, Boulevard Ahmadou Ahidjo, Orange Agence  Commerciale Soudanaise, 1er étage'
-address_2: ""
-avatar_url: http://fablabs.io.s3.amazonaws.com/2020/11/11/15/49/19/e03a00ec-ddd6-4ee5-bc97-21e17d9c0f6c/icone.jpg
-blurb: 'The Orange Digital Center FabLab work in areas such as: digital manufacturing, ecodesign, fashion tech, digital craftsmanship, electronics.'
-capabilities:
-  - three_d_printing
-  - laser
-  - vinyl_cutting
+addressLine1: ""
+addressNotes: ' Akwa, Boulevard Ahmadou Ahidjo, Orange Agence  Commerciale Soudanaise, 1er étage BP:1864 douala'
 city: ""
-country_code: CM
-county: ""
+country: ""
 description: "The Orange Digital Center FabLab is a digital fabrication Lab where anyone in the community from young children to students, entrepreneurs and craftmen  can get together to share knowledge, and collaborate on projects and hands-on activities.\r\nIt gives everyone the capability to turn their ideas and concepts into reality and bring to life “almost anything”.\r\nWe put programs in place to train disadvantaged young Cameroonians, in a situation of dropping out of school or just graduated, to the professions of digital manufacture and their uses in the fields of crafts, Carpentry, Electronics, Sewing, Energy , Environment, Health and informatics;\r\nWe share our machines, tools, skills, resources and ideas with the community to create new opportunities for economic and social benefit.\r\nWouriLab is also meant for coworking : to encourage collective emulation and catalyze innovation and technological entrepreneurship.\r\n\r\nL'Orange Digital Center FabLab est un laboratoire de fabrication numérique où tous les membres de la communauté, des jeunes enfants aux étudiants, en passant par les entrepreneurs et les artisans, peuvent se réunir pour partager leurs connaissances et collaborer sur des projets et des activités pratiques.  Cela donne à chacun la capacité de transformer ses idées et concepts en réalité et de donner vie à «presque tout».\r\nNous mettons en place des programmes pour former de jeunes camerounais défavorisés, en situation de décrochage scolaire ou tout juste diplômés, aux métiers de la fabrication numérique et à leurs usages dans les domaines de l'artisanat, de la menuiserie, de l'électronique, de la couture,  de l'énergie, de l'environnement, de la santé et de l'informatique;\r\nNous partageons nos machines, nos outils, nos compétences, nos ressources et nos idées avec la communauté pour créer de nouvelles opportunités  au profit économique et social.\r\nWouriLab est également destiné au coworking: pour encourager l'émulation collective et catalyser l'innovation et l'entrepreneuriat technologique."
 email: ocm.digitalcenter@orange.com
-header_url: http://fablabs.io.s3.amazonaws.com/2020/11/11/15/49/20/8f57aed8-ba8d-4982-a0d1-9533e8893672/baniére.jpg
-kind_name: fab_lab
+facebookUrl: ""
+hubID: wourilab
+instagramHandle: ""
 lat: 4.0473476
-links:
-  - id: 20902
-    url: https://www.orange.cm/orange-digital-center/fr/fab-lab.html
+linkedinUrl: ""
 lng: 9.6939474
 name: WouriLab
-parent_id: 1626
-phone: "699948671"
-slug: wourilab
-addressNotes: ' Akwa, Boulevard Ahmadou Ahidjo, Orange Agence  Commerciale Soudanaise, 1er étage BP:1864 douala'
 postalCode: BP:1864
-hubID: wourilab
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

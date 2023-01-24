@@ -1,0 +1,9 @@
+first run:
+ select jsonb_set(profile, '{hubID}', to_jsonb(p.hub_id))::text from tha.hub_profile p;
+
+then clean up the export:
+cat exported_query.csv | sed 's/^"\(.*\)"$/\1/' | sed 's/""/"/g'  >clean
+
+export:
+ for hubID in $(                    
+jq -r .hubID exported_query.csv ); do echo "hubID: $hubID"; grep 'hubID": "'$hubID'"' ./exported_query.csv | jq . --sort-keys > $hubID.yaml; yq -i --prettyPrint e . $hubID.yaml ; done

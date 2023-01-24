@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Casablanca
 country: Morocco
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: OCP Entrepreneurship Network
-region: null
-twitterHandle: null
-websiteUrl: http://www.ocpentrepreneurship.org/
+email: ""
+facebookUrl: ""
 hubID: ocp-entrepreneurship-network
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: OCP Entrepreneurship Network
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://www.ocpentrepreneurship.org/

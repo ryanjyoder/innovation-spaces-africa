@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Gaborone
 country: Botswana
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: botswana-innovation-hub
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Botswana Innovation Hub
-region: null
+postalCode: ""
+region: ""
 twitterHandle: YourBIH
 websiteUrl: http://www.bih.co.bw/
-hubID: botswana-innovation-hub
-linkedinUrl: null

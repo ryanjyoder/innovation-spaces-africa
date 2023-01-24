@@ -1,14 +1,17 @@
 addressLine1: Cairo, Egypt
+addressNotes: ""
 city: Cairo
 country: Egypt
 description: "Cairo Hackerspace is an innovation hub that focuses on social impact and innovation.   \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: cairo-hackerspace
+instagramHandle: ""
 lat: 30.0444196
+linkedinUrl: ""
 lng: 31.2357116000001
 name: Cairo Hackerspace
+postalCode: ""
 region: Cairo Governorate
-twitterHandle: null
+twitterHandle: ""
 websiteUrl: https://cairohackerspace.org/
-hubID: cairo-hackerspace
-linkedinUrl: null

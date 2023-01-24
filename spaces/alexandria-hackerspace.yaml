@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Alexandria
 country: Egypt
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: Alexandria Hackerspace
-region: null
-twitterHandle: null
-websiteUrl: http://www.alexhacker.com/
+email: ""
+facebookUrl: ""
 hubID: alexandria-hackerspace
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Alexandria Hackerspace
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://www.alexhacker.com/

@@ -1,14 +1,17 @@
 addressLine1: Anambra, Nigeria
-city: null
+addressNotes: ""
+city: ""
 country: Nigeria
 description: "Tribe is an innovation centre that is focuses on skill acquisition, social impact and innovation.  \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: tribe
+instagramHandle: ""
 lat: 6.2757656
+linkedinUrl: ""
 lng: 7.00683930000002
 name: Tribe
+postalCode: ""
 region: Anambra
-twitterHandle: null
-websiteUrl: null
-hubID: tribe
-linkedinUrl: null
+twitterHandle: ""
+websiteUrl: ""

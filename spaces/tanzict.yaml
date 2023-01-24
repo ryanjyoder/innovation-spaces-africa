@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Dar es Salaam
 country: Tanzania
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: TANZICT
-region: null
-twitterHandle: null
-websiteUrl: http://tanzict.or.tz/
+email: ""
+facebookUrl: ""
 hubID: tanzict
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: TANZICT
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://tanzict.or.tz/

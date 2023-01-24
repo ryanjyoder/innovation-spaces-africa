@@ -1,14 +1,17 @@
 addressLine1: Ho - Denu Road, Dzodze, Ghana
+addressNotes: ""
 city: Dzodze
 country: Ghana
 description: "Honode Hub is an incubator and accelerator  that are focused on skill acquisition, job creation and innovation.  \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: honode-hub
+instagramHandle: ""
 lat: 6.2330852
+linkedinUrl: ""
 lng: 0.996561700000029
 name: Honode Hub
+postalCode: ""
 region: Volta Region
 twitterHandle: Honodehub
 websiteUrl: https://honode.org/
-hubID: honode-hub
-linkedinUrl: null

@@ -1,24 +1,17 @@
-activity_status: null
-address_1: ""
-address_2: ""
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/11/17/400be726-900b-40fd-a08c-4d0d5bf159ff/Central University of Technology.jpg
-blurb: null
-capabilities: []
+addressLine1: ""
+addressNotes: ""
 city: Bloemfontein
-country_code: ZA
-county: Free State
+country: ""
 description: ""
 email: ""
-header_url: null
-kind_name: fab_lab
+facebookUrl: ""
+hubID: centraluniversityoftechnology
+instagramHandle: ""
 lat: -29.118349
-links: []
+linkedinUrl: ""
 lng: 26.22492
 name: Central University of Technology
-parent_id: null
-phone: ""
-slug: centraluniversityoftechnology
-addressNotes: ""
 postalCode: "9301"
-hubID: centraluniversityoftechnology
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

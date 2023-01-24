@@ -1,32 +1,17 @@
-activity_status: active
-address_1: Kafr Abou Dawoud, Tanta, Gharbia Governorate, Egypt
-address_2: ""
-avatar_url: null
-blurb: This fab lab at stem gharbiya school, helping students at their projects
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
-  - vinyl_cutting
+addressLine1: ""
+addressNotes: algalaa - mogamaa almadares
 city: tanta - algharbiya - egypt
-country_code: EG
-county: Gharbiya
+country: ""
 description: Having 5 cnc machines, electronics workbench, mechanical tools.
 email: a.alshazly@stemgharbiya.moe.edu.eg
-header_url: null
-kind_name: fab_lab
+facebookUrl: ""
+hubID: gharbiyafablab
+instagramHandle: ""
 lat: 30.7709949
-links:
-  - id: 6851
-    url: https://www.facebook.com/fablab.gharbiya
+linkedinUrl: ""
 lng: 31.0183497
 name: Gharbiya Fab Lab
-parent_id: 13
-phone: "+201228225357"
-slug: gharbiyafablab
-addressNotes: algalaa - mogamaa almadares
 postalCode: "31511"
-hubID: gharbiyafablab
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

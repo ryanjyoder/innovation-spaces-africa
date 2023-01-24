@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Kampala
 country: Togo
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: mara-launchpad
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Mara Launchpad
-region: null
+postalCode: ""
+region: ""
 twitterHandle: MaraPhones
 websiteUrl: http://www.mara-foundation.org/
-hubID: mara-launchpad
-linkedinUrl: null

@@ -1,29 +1,17 @@
-activity_status: null
-address_1: Marsa
-address_2: ""
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/25/17/c81160c6-5d6a-496d-8cca-de20fdf9e400/elFabLab.jpg
-blurb: El FabLab est le 1er Maker Space tunsien indépendant
-capabilities:
-  - three_d_printing
-  - circuit_production
-  - vinyl_cutting
+addressLine1: ""
+addressNotes: ""
 city: Marsa
-country_code: TN
-county: Tunis
+country: ""
 description: "El FabLab est le 1er Maker Space tunsien indépendant. C'est à la fois un lieu, une communauté, et une façon d'être.\r\n\r\nvous pourrez venir concrétiser vos projets à El Fablab : maquette, prototype, petits objets, etc.....\r\n\r\n"
 email: contact@elfablab.com
-header_url: null
-kind_name: fab_lab
+facebookUrl: ""
+hubID: elfablab
+instagramHandle: ""
 lat: 36.8964803
-links:
-  - id: 1542
-    url: http://www.elfablab.com
+linkedinUrl: ""
 lng: 10.3105009999999
 name: elFabLab
-parent_id: null
-phone: ""
-slug: elfablab
-addressNotes: ""
 postalCode: "2078"
-hubID: elfablab
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

@@ -1,14 +1,17 @@
 addressLine1: Rabat, Maroc
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: mcise
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: MCISE
-region: null
+postalCode: ""
+region: ""
 twitterHandle: moroccancise
 websiteUrl: http://Mcise.org
-hubID: mcise
-linkedinUrl: null

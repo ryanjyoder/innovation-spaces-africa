@@ -1,14 +1,17 @@
 addressLine1: ""
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: Jokkolabs Niamey
-region: null
-twitterHandle: JokkolabsNiamey
-websiteUrl: null
+email: ""
+facebookUrl: ""
 hubID: jokkolabs-niamey
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Jokkolabs Niamey
+postalCode: ""
+region: ""
+twitterHandle: JokkolabsNiamey
+websiteUrl: ""

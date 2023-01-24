@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Capetown
 country: South Africa
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: start-up-garage-98mph
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Start-up Garage/ 98MPH
-region: null
+postalCode: ""
+region: ""
 twitterHandle: 88mph_Africa
 websiteUrl: www.88mph.ac/capetown
-hubID: start-up-garage-98mph
-linkedinUrl: null

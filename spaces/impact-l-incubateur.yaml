@@ -1,15 +1,18 @@
 addressLine1: ""
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: |
   L'incubateur IMPACT detecte, hrberge et accompagne des entreprises sociales tunisiennes.
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: IMPACT, L'incubateur
-region: null
-twitterHandle: IMPACT_LabESS
-websiteUrl: null
+email: ""
+facebookUrl: ""
 hubID: impact-l-incubateur
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: IMPACT, L'incubateur
+postalCode: ""
+region: ""
+twitterHandle: IMPACT_LabESS
+websiteUrl: ""

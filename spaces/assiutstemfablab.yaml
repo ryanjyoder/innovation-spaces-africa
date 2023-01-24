@@ -1,30 +1,17 @@
-activity_status: null
-address_1: منقباد
-address_2: ""
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/31/56/527f1d95-9cf0-4b03-b39e-04a38339b176/ASSIUT STEM FAB LAB.jpg
-blurb: ""
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
-  - vinyl_cutting
+addressLine1: ""
+addressNotes: ""
 city: منقباد
-country_code: EG
-county: ASSIUT
+country: ""
 description: ""
 email: ""
-header_url: null
-kind_name: fab_lab
+facebookUrl: ""
+hubID: assiutstemfablab
+instagramHandle: ""
 lat: 27.1857515
-links: []
+linkedinUrl: ""
 lng: 31.0727519
 name: ASSIUT STEM FAB LAB
-parent_id: 13
-phone: ""
-slug: assiutstemfablab
-addressNotes: ""
 postalCode: ""
-hubID: assiutstemfablab
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

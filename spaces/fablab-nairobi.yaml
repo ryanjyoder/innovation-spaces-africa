@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Nairobi
 country: Kenya
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: fablab-nairobi
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: FabLab Nairobi
-region: null
+postalCode: ""
+region: ""
 twitterHandle: fablabnairobi
 websiteUrl: www.fablab.uonbi.or.ke/#
-hubID: fablab-nairobi
-linkedinUrl: null

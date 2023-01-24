@@ -1,14 +1,17 @@
 addressLine1: JA Gabon, Libreville, Gabon
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
 email: info@jagabon.org
 facebookUrl: https://www.facebook.com/Juniorachievementgabon/
-lat: null
-lng: null
+hubID: ja-gabon
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: JA Gabon
-region: null
+postalCode: ""
+region: ""
 twitterHandle: ja_gabon
 websiteUrl: https://www.jagabon.org/
-hubID: ja-gabon
-linkedinUrl: null

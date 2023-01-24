@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Cape Town
 country: South Africa
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: codebridge
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Codebridge
-region: null
+postalCode: ""
+region: ""
 twitterHandle: codebridge
 websiteUrl: www.codebridge.co.za/
-hubID: codebridge
-linkedinUrl: null

@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Pretoria
 country: South Africa
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: The House 4 Hack
-region: null
-twitterHandle: null
-websiteUrl: www.house4hack.co.za
+email: ""
+facebookUrl: ""
 hubID: the-house-4-hack
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: The House 4 Hack
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: www.house4hack.co.za

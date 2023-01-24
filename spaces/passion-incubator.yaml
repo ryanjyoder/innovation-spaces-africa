@@ -1,14 +1,17 @@
 addressLine1: Lagos Island, Lagos, Nigeria
+addressNotes: ""
 city: Lagos
 country: Nigeria
 description: "Passion Incubator is an innovation hub that focuses on job creation, skill acquisition and innovation. \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: passion-incubator
+instagramHandle: ""
 lat: 6.4524039
+linkedinUrl: ""
 lng: 3.39685350000002
 name: Passion Incubator
+postalCode: ""
 region: Lagos
 twitterHandle: P_Incubator
 websiteUrl: https://www.passionincubator.ng/
-hubID: passion-incubator
-linkedinUrl: null

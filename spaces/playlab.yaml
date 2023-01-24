@@ -1,14 +1,17 @@
 addressLine1: Villa Mamelles Aviation LOT num�ro 3 TF
+addressNotes: ""
 city: Dakar
 country: Senegal
 description: ""
 email: info@play-international.org
-facebookUrl: null
-lat: null
-lng: null
+facebookUrl: ""
+hubID: playlab
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Playlab
-region: null
+postalCode: ""
+region: ""
 twitterHandle: pl4y
 websiteUrl: https://www.play-international.org/le-playlab
-hubID: playlab
-linkedinUrl: null

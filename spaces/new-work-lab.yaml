@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Casablanca
 country: Morocco
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: new-work-lab
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: New Work Lab
-region: null
+postalCode: ""
+region: ""
 twitterHandle: newworklab
 websiteUrl: http://www.newworklab.com
-hubID: new-work-lab
-linkedinUrl: null

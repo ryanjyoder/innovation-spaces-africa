@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Bulawayo
 country: Zimbabwe
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: Sky Hub Initiative
-region: null
-twitterHandle: null
-websiteUrl: http://www.skyhub.co.zw/
+email: ""
+facebookUrl: ""
 hubID: sky-hub-initiative
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Sky Hub Initiative
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://www.skyhub.co.zw/

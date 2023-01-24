@@ -1,15 +1,18 @@
 addressLine1: Kenyatta Avenue, Nakuru, Kenya
+addressNotes: ""
 city: Nakuru
 country: Kenya
 description: |
   AkiraChix is a not for profit organisation that aims to inspire and develop a successful force of women in technology who will change Africa�s future.
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: akirachix
+instagramHandle: ""
 lat: -0.2849853
+linkedinUrl: ""
 lng: 36.0693113
 name: AkiraChix
+postalCode: ""
 region: Nakuru County
 twitterHandle: akirachix
 websiteUrl: http://akirachix.com/
-hubID: akirachix
-linkedinUrl: null

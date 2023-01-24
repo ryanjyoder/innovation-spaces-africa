@@ -1,15 +1,18 @@
 addressLine1: BP 4556, togo
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: |
   L'accent est mis sur les projets dans les biotechnologies (Agriculture et transformation agroalimentaire, solutions innovantes en biotechnologies m�dicales, environnementales et industrielles). Toutefois nous sommes pr�ts � accompagner d'autres projets si le volet innovation est prouv� (Inclusion financi�re, �nergie, services de base) et qui r�pondent � un probl�me identifi� dans la communaut�.
 email: equipecube@gmail.com
 facebookUrl: https://www.facebook.com/SAEICUBE/
-lat: null
-lng: null
+hubID: cube
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: CUBE
-region: null
+postalCode: ""
+region: ""
 twitterHandle: cube_togo
 websiteUrl: http://www.cubenter.com
-hubID: cube
-linkedinUrl: null

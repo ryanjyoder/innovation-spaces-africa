@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Windhoek
 country: Namibia
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: namibia-business-innovation-centre-nbic
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Namibia Business Innovation Centre (NBIC)
-region: null
+postalCode: ""
+region: ""
 twitterHandle: NBII_Namibia
 websiteUrl: http://nbic.polytechnic.edu.na/
-hubID: namibia-business-innovation-centre-nbic
-linkedinUrl: null

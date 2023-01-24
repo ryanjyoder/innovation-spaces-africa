@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Nairobi
 country: Kenya
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: ibiz-africa
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: iBiz Africa
-region: null
+postalCode: ""
+region: ""
 twitterHandle: iBizAfrica
 websiteUrl: http://www.ibizafrica.co.ke/
-hubID: ibiz-africa
-linkedinUrl: null

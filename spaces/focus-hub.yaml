@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Port Harcourt
 country: Nigeria
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: Focus Hub
-region: null
-twitterHandle: null
-websiteUrl: http://focushub.net/
+email: ""
+facebookUrl: ""
 hubID: focus-hub
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Focus Hub
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://focushub.net/

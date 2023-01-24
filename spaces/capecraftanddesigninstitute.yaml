@@ -1,32 +1,17 @@
-activity_status: null
-address_1: ""
-address_2: ""
-avatar_url: null
-blurb: null
-capabilities: []
+addressLine1: ""
+addressNotes: ""
 city: Cape Town
-country_code: ZA
-county: Western Cape
+country: ""
 description: ""
 email: ""
-header_url: null
-kind_name: fab_lab
+facebookUrl: ""
+hubID: capecraftanddesigninstitute
+instagramHandle: ""
 lat: -33.9248685
-links:
-  - id: 108
-    url: http://www.ccdi.org.za
-  - id: 250
-    url: https://www.facebook.com/pages/Cape-Craft-and-Design-Institute/152396544910856
-  - id: 251
-    url: http://www.pinterest.com/capecraftdesign/
-  - id: 252
-    url: http://www.youtube.com/user/capecraftanddesign?feature=watch
+linkedinUrl: ""
 lng: 18.4240553
 name: Cape Craft and Design Institute
-parent_id: null
-phone: ""
-slug: capecraftanddesigninstitute
-addressNotes: ""
 postalCode: "8000"
-hubID: capecraftanddesigninstitute
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

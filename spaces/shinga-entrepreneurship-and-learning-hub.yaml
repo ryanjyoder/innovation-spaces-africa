@@ -1,15 +1,18 @@
 addressLine1: Mutare Road, Harare, Zimbabwe
+addressNotes: ""
 city: Harare
 country: Zimbabwe
 description: |
   Shinga Hub is a coworking space that is focused on job creation, skill acquisition and innovation
-email: null
+email: ""
 facebookUrl: https://www.facebook.com/shingathespace/
+hubID: shinga-entrepreneurship-and-learning-hub
+instagramHandle: ""
 lat: -17.8330168
+linkedinUrl: ""
 lng: 31.0855879000001
 name: Shinga Entrepreneurship and Learning Hub
+postalCode: ""
 region: Harare Province
 twitterHandle: shingahub
 websiteUrl: http://www.shinga.co.zw/
-hubID: shinga-entrepreneurship-and-learning-hub
-linkedinUrl: null

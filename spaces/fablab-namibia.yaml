@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Windhoek
 country: Namibia
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: Fablab Namibia
-region: null
-twitterHandle: null
-websiteUrl: http://www.fablabnamibia.org/
+email: ""
+facebookUrl: ""
 hubID: fablab-namibia
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Fablab Namibia
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://www.fablabnamibia.org/

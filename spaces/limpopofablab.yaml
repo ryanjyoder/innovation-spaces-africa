@@ -1,30 +1,17 @@
-activity_status: null
-address_1: 1025 Science Education Centre, University of Limpopo(Turfloop campus)
-address_2: Private Bag X1106, Sovenga, 0727
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/14/30/ac16959e-83e0-46e3-9eb8-ecc0201d17c8/Limpopo Fablab.jpg
-blurb: It is a community based Fablab that is focused on strengthening the innovative capability of Limpopo youth.
-capabilities:
-  - three_d_printing
-  - circuit_production
-  - laser
-  - vinyl_cutting
+addressLine1: ""
+addressNotes: First floor at the Science Education Centre
 city: 'Polokwane, Mankweng '
-country_code: ZA
-county: Limpopo
+country: ""
 description: ""
 email: meletsoalo@gmail.com
-header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/13/51/01/4b1b7ba9-503d-425e-aa22-580b52bbdb2a/Limpopo Fablab.jpg
-kind_name: fab_lab
+facebookUrl: ""
+hubID: limpopofablab
+instagramHandle: ""
 lat: -23.88648
-links:
-  - id: 564
-    url: http://www.fablab.co.za
+linkedinUrl: ""
 lng: 29.72771
 name: Limpopo Fablab
-parent_id: 78
-phone: +2715 268 3819
-slug: limpopofablab
-addressNotes: First floor at the Science Education Centre
 postalCode: "0727"
-hubID: limpopofablab
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

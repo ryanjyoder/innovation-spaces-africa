@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Brazzaville
 country: Congo
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: 'BantuHub '
-region: null
-twitterHandle: null
-websiteUrl: http://www.bantuhub.com/
+email: ""
+facebookUrl: ""
 hubID: bantuhub
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: 'BantuHub '
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://www.bantuhub.com/

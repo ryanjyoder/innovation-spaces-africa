@@ -1,15 +1,18 @@
 addressLine1: R�sidence les Terrasses D&#039;Oran, Bir El Djir, Oran
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: |
   The Plug est un programme d�incubation propose? par BOPlug a? toute entrepreneur ayant un projet en lien avec le de?veloppement de l'expe?rience client. Plus innovant, plus digitale et plus respectueux des nouvelles attentes environnementales.
 email: contact@thepugbybo.com
 facebookUrl: https://www.facebook.com/the.plug.by.bo
-lat: null
-lng: null
-name: THE PLUG
-region: null
-twitterHandle: null
-websiteUrl: http://www.theplugbybo.com
 hubID: the-plug
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: THE PLUG
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://www.theplugbybo.com

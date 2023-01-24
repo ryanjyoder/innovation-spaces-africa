@@ -1,30 +1,17 @@
-activity_status: active
-address_1: 'مصر -الغردقة -مبارك 13 مدرسة المتفوقين  بجوار مدرسة الفرنسية '
-address_2: ""
-avatar_url: null
-blurb: Support the curriculum by helping teachers identify and plan projects within and across their subjects to support learning outcomes
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
-  - vinyl_cutting
+addressLine1: ""
+addressNotes: ""
 city: hurghada
-country_code: EG
-county: ""
+country: ""
 description: "Understand the goals of the students in building their capstone projects and assist them in reaching their goals by employing the Fab Lab equipment.\r\nMake sure that all the machines in the lab are correctly calibrated, always running and in good condition. Define and order spare parts for the machines"
 email: ekramy.abdelaziam@stemredsea.moe.edu.eg
-header_url: null
-kind_name: fab_lab
+facebookUrl: ""
+hubID: redseafablab
+instagramHandle: ""
 lat: 27.2905548
-links: []
+linkedinUrl: ""
 lng: 33.7311253
 name: 'RED SEA STEM '
-parent_id: 13
-phone: "01004269568"
-slug: redseafablab
-addressNotes: ""
 postalCode: "002065"
-hubID: redseafablab
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

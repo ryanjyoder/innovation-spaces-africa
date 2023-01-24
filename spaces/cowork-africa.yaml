@@ -1,15 +1,18 @@
 addressLine1: ""
+addressNotes: ""
 city: Douala
 country: Cameroon
 description: |
   �Premium co-working space in Douala.�
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: cowork-africa
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Cowork.Africa
-region: null
+postalCode: ""
+region: ""
 twitterHandle: coworkafrica
 websiteUrl: Co-work.africa
-hubID: cowork-africa
-linkedinUrl: null

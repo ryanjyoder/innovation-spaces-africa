@@ -1,14 +1,17 @@
 addressLine1: Festival Des Glaces, Ouagadougou, Burkina Faso
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
 email: contact@sira-labs.com
-facebookUrl: null
-lat: null
-lng: null
-name: Sira Labs
-region: null
-twitterHandle: null
-websiteUrl: https://www.sira-labs.com/
+facebookUrl: ""
 hubID: sira-labs
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Sira Labs
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: https://www.sira-labs.com/

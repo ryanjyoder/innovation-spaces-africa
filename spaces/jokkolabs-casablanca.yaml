@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Casablanca
 country: Morocco
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: jokkolabs-casablanca
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Jokkolabs Casablanca
-region: null
+postalCode: ""
+region: ""
 twitterHandle: JklCasa
 websiteUrl: http://jokkolabs.net
-hubID: jokkolabs-casablanca
-linkedinUrl: null

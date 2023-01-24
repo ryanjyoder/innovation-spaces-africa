@@ -1,14 +1,20 @@
 addressLine1: ""
+addressNotes: Nyonyi Gardens Rd
 city: Kampala
 country: Uganda
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: Grameen Foundation AppLab
-region: null
-twitterHandle: null
-websiteUrl: http://grameen.skipso.us/en/page/grameen-foundation-applab-in-action
+email: ""
+facebookUrl: ""
+googleMapsUrl: https://goo.gl/maps/uzuiFL6US4NViJUL9
 hubID: grameen-foundation-applab
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Grameen Foundation AppLab
+phone: ""
+plusCode: 8HGX+J35
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: https://applab.org/team/uganda.html

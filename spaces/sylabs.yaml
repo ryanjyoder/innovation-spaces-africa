@@ -1,15 +1,18 @@
 addressLine1: Algeria
-city: null
+addressNotes: ""
+city: ""
 country: Algeria
 description: |
   Sylabs is an innovation hub that is focused on social impact, skill acquisition and innovation.
 email: hello@sylabs-dz.com
-facebookUrl: null
+facebookUrl: ""
+hubID: sylabs
+instagramHandle: ""
 lat: 28.033886
+linkedinUrl: ""
 lng: 1.659626
 name: Sylabs
-region: null
+postalCode: ""
+region: ""
 twitterHandle: sylabsdz
 websiteUrl: http://sylabs-dz.com/
-hubID: sylabs
-linkedinUrl: null

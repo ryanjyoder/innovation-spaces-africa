@@ -1,35 +1,17 @@
-activity_status: active
-address_1: 36, rue Abou Chouaïb Doukkali
-address_2: Quartier Gautier
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/04/21/09/32/28/8e2104b6-8096-4a28-bd39-57f8b18ab8fc/Charte de casanostra-4.png
-blurb: Casanostra is an Entrpreneurship Fablab. It is mainly targetted at helping students and entrepreneurs go from Idea to working prototype, and minimal viable products.
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - precision_milling
-  - vinyl_cutting
+addressLine1: ""
+addressNotes: ""
 city: Casablanca
-country_code: MA
-county: Casablanca
+country: ""
 description: "Casanostra est un espace ouvert aux idées novatrices, situé au coeur de Casablanca,dans le quartier Gautier. Casanostra offre la possiblité de disposer d'un panel de services : \r\n- Un espace de travail convivial permettant de travailler dans des conditions idéales à la création, avec une connexion internet par fibre optique. \r\n- Un Fab Lab équipé, comprenant des imprimantes 3d, CNC, découpe laser, découpe Vinyle,  et tout l’outillage nécessaire au prototypage et à la réalisation de produits finis. \r\n- Un studio d'enregistrement vidéo et son pour la réalisation de clip, podcast, web-radio. \r\n- Des cursus de coaching et de formation adaptés au personnes actives.\r\nCasanostra est aussi un incubateur de start-up qui accompagne les porteurs de projets, de l’idée jusqu’au lancement (Prototypage, levée de fond développement)"
 email: imad.bougataya@gmail.com
-header_url: http://fablabs.io.s3.amazonaws.com/2017/04/21/09/32/28/494dd1be-5a58-46a0-b1f2-5703dfc9b1c0/header.png
-kind_name: fab_lab
-latitude: null
-links:
-  - id: 4606
-    url: http://www.casanostra.ma
-  - id: 4607
-    url: https://www.facebook.com/EspaceCasanostra
-  - id: 4608
-    url: https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FEspaceCasanostra%2Fvideos%2F639444069578328%2F
-longitude: null
-name: Casanostra
-parent_id: null
-phone: "00212674588596"
-slug: casanostra
-addressNotes: ""
-postalCode: "20100"
+facebookUrl: ""
 hubID: casanostra
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Casanostra
+postalCode: "20100"
+region: ""
+twitterHandle: ""
+websiteUrl: ""

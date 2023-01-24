@@ -1,14 +1,17 @@
 addressLine1: ""
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
 email: incubateurs@ism.edu.sn
 facebookUrl: https://fr-fr.facebook.com/GroupeISM/
-lat: null
-lng: null
-name: Groupe ISM
-region: null
-twitterHandle: null
-websiteUrl: https://www.ismincub.com/
 hubID: groupe-ism
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Groupe ISM
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: https://www.ismincub.com/

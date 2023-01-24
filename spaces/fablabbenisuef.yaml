@@ -1,30 +1,17 @@
-activity_status: active
-address_1: بياض العرب، بني سويف، محافظة بني سويف
-address_2: ""
-avatar_url: null
-blurb: The fablab stem school is start up fablab so is fab lab is new up date the fab lab
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
-  - vinyl_cutting
+addressLine1: ""
+addressNotes: ""
 city: Beni Suef
-country_code: EG
-county: Beni Suef
+country: ""
 description: The  fablab stem school is start up  fablab so is fab lab is new up date the fab lab
 email: hosam_ek_eg@yahoo.com
-header_url: null
-kind_name: fab_lab
+facebookUrl: ""
+hubID: fablabbenisuef
+instagramHandle: ""
 lat: 29.066135
-links: []
+linkedinUrl: ""
 lng: 31.099421
 name: Fab Lab Beni Suef STEM School
-parent_id: null
-phone: "01100228893"
-slug: fablabbenisuef
-addressNotes: ""
 postalCode: ""
-hubID: fablabbenisuef
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

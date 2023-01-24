@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Luanda
 country: Angola
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: 'INAPEM--Angolan Institute of Support for Micro, Small and Medium Enterprises '
-region: null
-twitterHandle: null
-websiteUrl: http://www.portal.inapem.gov.ao/
+email: ""
+facebookUrl: ""
 hubID: inapem-angolan-institute-of-support-for-micro-small-and-medium-enterprises
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: 'INAPEM--Angolan Institute of Support for Micro, Small and Medium Enterprises '
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://www.portal.inapem.gov.ao/

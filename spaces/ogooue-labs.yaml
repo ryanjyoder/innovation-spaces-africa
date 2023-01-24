@@ -1,14 +1,17 @@
 addressLine1: Gabon Libreville, Libreville, Estuaire, Gabon
+addressNotes: ""
 city: Libreville
 country: Gabon
 description: "Ogooue Labs is the first coworking space in Gabon for entrepreneurs free, that are willing to get together in order to share & develop synergy.  \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: ogooue-labs
+instagramHandle: ""
 lat: 0.3606914
+linkedinUrl: ""
 lng: 9.46803190000003
 name: Ogooue Labs
+postalCode: ""
 region: Estuaire
 twitterHandle: OgooueLabs
 websiteUrl: https://about.me/ogoouelabs
-hubID: ogooue-labs
-linkedinUrl: null

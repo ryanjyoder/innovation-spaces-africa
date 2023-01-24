@@ -1,15 +1,18 @@
 addressLine1: Yaound�, Cameroun
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: |
   Notre cr�do c'est : <b>discipline</b>, <b>travail</b> et <b>performance</b> et nous souhaitons participer activement � la construction de l'�cosyst�me entrepreneurial africain.
 email: gkamande@technipole-supvalor.com
-facebookUrl: null
-lat: null
-lng: null
-name: TECHNIPOLE SUP VALOR
-region: null
-twitterHandle: null
-websiteUrl: http://www.technipole-supvalor.com
+facebookUrl: ""
 hubID: technipole-sup-valor
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: TECHNIPOLE SUP VALOR
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://www.technipole-supvalor.com

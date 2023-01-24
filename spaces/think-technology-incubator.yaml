@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Kigali
 country: Rwanda
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: 'THINK Technology Incubator '
-region: null
-twitterHandle: null
-websiteUrl: http://www.think.rw
+email: ""
+facebookUrl: ""
 hubID: think-technology-incubator
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: 'THINK Technology Incubator '
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://www.think.rw

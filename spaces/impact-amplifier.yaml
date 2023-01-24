@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Johannesburg
 country: South Africa
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: impact-amplifier
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Impact Amplifier
-region: null
+postalCode: ""
+region: ""
 twitterHandle: ImpactAmplifier
 websiteUrl: https://www.impactamplifier.co.za/
-hubID: impact-amplifier
-linkedinUrl: null

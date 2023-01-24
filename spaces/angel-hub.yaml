@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Stellenbosch
 country: South Africa
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: Angel Hub
-region: null
-twitterHandle: null
-websiteUrl: http://www.angelhub.co.za/
+email: ""
+facebookUrl: ""
 hubID: angel-hub
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Angel Hub
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://www.angelhub.co.za/

@@ -1,15 +1,18 @@
 addressLine1: ""
+addressNotes: ""
 city: Monrovia
 country: Liberia
 description: |
   A shared innovation, co-working and community space for organizations focusing on the intersection of ICTs, entrepreneurship & social change in Liberia.
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: icampus-liberia
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: iCampus Liberia
-region: null
+postalCode: ""
+region: ""
 twitterHandle: icampuslib
 websiteUrl: https://www.icampus.io/
-hubID: icampus-liberia
-linkedinUrl: null

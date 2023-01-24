@@ -1,15 +1,18 @@
 addressLine1: Kenya Road, Nairobi, Kenya
+addressNotes: ""
 city: Nairobi
 country: Kenya
 description: |
   BitHub Africa is a commercial Blockchain Accelerator that is driving the adoption of blockchain technology and solutions across Africa.
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: bithub
+instagramHandle: ""
 lat: -1.3009903
+linkedinUrl: ""
 lng: 36.8142327
 name: BitHub
+postalCode: ""
 region: Nairobi County
 twitterHandle: bithubafrica
 websiteUrl: http://bithub.africa/
-hubID: bithub
-linkedinUrl: null

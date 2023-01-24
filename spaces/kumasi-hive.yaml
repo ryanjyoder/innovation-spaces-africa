@@ -1,15 +1,18 @@
 addressLine1: Ghana
-city: null
+addressNotes: ""
+city: ""
 country: Ghana
 description: |
   Kumasi Hive
 email: info@kumasihive.com
-facebookUrl: null
+facebookUrl: ""
+hubID: kumasi-hive
+instagramHandle: ""
 lat: 7.946527
+linkedinUrl: ""
 lng: -1.02319399999999
 name: Kumasi Hive
-region: null
+postalCode: ""
+region: ""
 twitterHandle: KumasiHive
 websiteUrl: https://kumasihive.com
-hubID: kumasi-hive
-linkedinUrl: null

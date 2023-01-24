@@ -1,14 +1,17 @@
 addressLine1: 'Quartier Moursal, Boulevard SAO, Rue 5018, B.P.: 111 , N&#039;Djamena'
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: Maison de la Petite Entreprise
-region: null
-twitterHandle: null
-websiteUrl: http://www.mpetchad.com
+email: ""
+facebookUrl: ""
 hubID: maison-de-la-petite-entreprise
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Maison de la Petite Entreprise
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://www.mpetchad.com

@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Abidjan
 country: Cote D'Ivoire
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: Akendewa
-region: null
-twitterHandle: null
-websiteUrl: www.akendewa.org
+email: ""
+facebookUrl: ""
 hubID: akendewa
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Akendewa
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: www.akendewa.org

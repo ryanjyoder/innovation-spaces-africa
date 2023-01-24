@@ -1,15 +1,18 @@
 addressLine1: Zimbabwe Cricket, Maiden Drive, Harare, Zimbabwe
+addressNotes: ""
 city: Harare
 country: Zimbabwe
 description: |
   iZone Hub is an incubator and accelerator that are focused on skill acquisition, job creation and innovation.
-email: null
+email: ""
 facebookUrl: https://www.facebook.com/izonehub/
+hubID: izone-hub
+instagramHandle: ""
 lat: -17.8118106
+linkedinUrl: ""
 lng: 31.0895029000001
 name: iZone Hub
+postalCode: ""
 region: Harare Province
 twitterHandle: izonehub
 websiteUrl: https://izonehub.org.zw/
-hubID: izone-hub
-linkedinUrl: null

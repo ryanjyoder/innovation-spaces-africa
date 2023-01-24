@@ -1,14 +1,17 @@
 addressLine1: ""
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
 email: yeesalagrihub@gmail.com
 facebookUrl: https://fr-fr.facebook.com/yeesalagrihub/
-lat: null
-lng: null
-name: YESAAL AGRI HUB
-region: null
-twitterHandle: null
-websiteUrl: http://yeesalhub.org/
 hubID: yesaal-agri-hub
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: YESAAL AGRI HUB
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://yeesalhub.org/

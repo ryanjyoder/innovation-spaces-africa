@@ -1,28 +1,17 @@
-activity_status: active
-address_1: Sharkia stem school - Sharkia - Zeraa field
-address_2: ""
-avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/13/07/10/96eccc92-61dd-4a9d-b63d-7438095064ff/IMG-20181015-WA0011.jpg
-blurb: Egypt Sharkia
-capabilities:
-  - cnc_milling
-  - laser
-  - precision_milling
-  - vinyl_cutting
+addressLine1: ""
+addressNotes: Sharkia stem school - Sharkia - Zeraa field
 city: Zagazig
-country_code: EG
-county: Egypt
+country: ""
 description: A new FAB LAB in Sharkia Governerate
 email: esam1972_sal@yahoo.com
-header_url: null
-kind_name: fab_lab
+facebookUrl: ""
+hubID: SharkiaFABLAB
+instagramHandle: ""
 lat: 30.7326853
-links: []
+linkedinUrl: ""
 lng: 31.7195647
 name: Sharkia FAB LAB
-parent_id: 13
-phone: "0553739496"
-slug: SharkiaFABLAB
-addressNotes: Sharkia stem school - Sharkia - Zeraa field
 postalCode: "02"
-hubID: SharkiaFABLAB
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

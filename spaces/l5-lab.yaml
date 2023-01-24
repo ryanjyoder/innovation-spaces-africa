@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Lagos
 country: Nigeria
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: l5-lab
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: L5 Lab
-region: null
+postalCode: ""
+region: ""
 twitterHandle: L5Lab
 websiteUrl: http://www.l5lab.com/
-hubID: l5-lab
-linkedinUrl: null

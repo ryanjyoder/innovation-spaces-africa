@@ -1,17 +1,20 @@
 addressLine1: 20 Kruger Street
+addressNotes: OPEN, 4th Floor, Mainchange Building
 city: Johannesburg
-country: South Africa
-description: |
-  Orange Corners is managed by the Netherlands Enterprise Agency at the request of the Dutch Ministry of Foreign Affairs. Each Orange Corner is initiated by a local Dutch Embassy and in close corporation with local partners. Orange Corners aims to increase job prospects for youth, through building ecosystems for young entrepreneurship and youth employment. The scope is youth between the ages of 18 to 35 in Sub Sahara, Africa and the Middle East.
-  Orange Corners South Africa is an initiative of the Dutch Embassy in Pretoria, with special thanks to implementing partner Signature Support.
-email: null
-facebookUrl: https://www.facebook.com/OrangeCornersHQ
-instagramHandle: https://www.instagram.com/orange_corners
-lat: null
-lng: null
-name: Orange Corners South Africa
-region: null
-twitterHandle: OrangeCorners"
-websiteUrl: https://www.orangecorners.com/country/south-africa/
+country: South-Africa
+description: Orange Corners South Africa (OCSA) aims to empower entrepreneurs, and specifically black owned businesses and young black people wishing to start a business, through providing an enabling platform to their beneficiaries in urban, rural and underdeveloped areas in South Africa. The OCSA programme consists of two main elements. One is a startup programme supporting grassroots entrepreneurs from township backgrounds including Tembisa and Alexandra. It is aimed at building basic business acumen and social entrepreneurship in the community, and creating sustainable small businesses and social upliftment. The other is a programme aimed at supporting high-growth creative urban entrepreneurs and SMSE’s from the broader Johannesburg area. Through this programme, Orange Corners is growing the number of sustainable job creators by supporting established startups, with a focus on accessing markets and finance.
+email: ""
+facebookUrl: ""
+googleMapsUrl: ""
 hubID: orange-corners-south-africa
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: https://www.linkedin.com/company/orange-corners-sa
+lng: 0
+name: Orange Corners SA
+phone: +27 012 425 4577
+plusCode: ""
+postalCode: ' 2001'
+region: ""
+twitterHandle: OrangeCornersSA
+websiteUrl: orangecorners.co.za

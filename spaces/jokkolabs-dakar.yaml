@@ -1,4 +1,5 @@
 addressLine1: Sacr� C�ur 3 villa 9653
+addressNotes: ""
 city: Dakar
 country: Senegal
 description: |-
@@ -9,11 +10,13 @@ description: |-
   Established in October 2010, Jokkolabs Dakar is part of a network of six co-working spaces in Mali, Burkina Faso, Senegal and France. Specifically focused on addressing social needs in Agriculture, Health, Governance and Primary School Education, leveraging open source is part of its culture.
 email: contact@jokkolabs.co
 facebookUrl: https://www.facebook.com/jokkolabsDakar/
-lat: null
-lng: null
+hubID: jokkolabs-dakar
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Jokkolabs Dakar
-region: null
+postalCode: ""
+region: ""
 twitterHandle: JklDakar
 websiteUrl: https://www.jokkolabs.net/senegal/dakar
-hubID: jokkolabs-dakar
-linkedinUrl: null

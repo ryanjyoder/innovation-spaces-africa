@@ -1,14 +1,17 @@
 addressLine1: Kenya
-city: null
+addressNotes: ""
+city: ""
 country: Kenya
 description: "C4DLab is a research & development, prototyping and innovation startup incubation lab housed at the School of Computing & Informatics.  \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: c4dlab
+instagramHandle: ""
 lat: -0.023559
+linkedinUrl: ""
 lng: 37.906193
 name: C4DLab
-region: null
+postalCode: ""
+region: ""
 twitterHandle: C4DLab
 websiteUrl: https://c4dlab.ac.ke/
-hubID: c4dlab
-linkedinUrl: null

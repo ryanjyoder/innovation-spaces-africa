@@ -1,14 +1,17 @@
 addressLine1: kaduna South, Kaduna, Nigeria
+addressNotes: ""
 city: Kaduna
 country: Nigeria
 description: "CoLabs is a co-creation space, incubator/accelerator and an innovation space that focuses on skill acquisition, social impact and innovation. \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: colab
+instagramHandle: ""
 lat: 10.4548808
+linkedinUrl: ""
 lng: 7.4056928
 name: CoLab
+postalCode: ""
 region: Kaduna
 twitterHandle: CoLab_kd
 websiteUrl: https://colab.com.ng/
-hubID: colab
-linkedinUrl: null

@@ -1,14 +1,17 @@
 addressLine1: South Africa
-city: null
+addressNotes: ""
+city: ""
 country: South Africa
 description: "Cape Town�s The Bandwidth Barn (TheBarn) enables people to start successful businesses, develop great products and help change the world   \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: the-bandwidth-barn
+instagramHandle: ""
 lat: -30.559482
+linkedinUrl: ""
 lng: 22.937506
 name: The Bandwidth Barn
-region: null
-twitterHandle: null
+postalCode: ""
+region: ""
+twitterHandle: ""
 websiteUrl: https://www.citi.org.za/spaces/
-hubID: the-bandwidth-barn
-linkedinUrl: null

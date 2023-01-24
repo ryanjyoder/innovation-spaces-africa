@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Kinshasa
 country: DRC
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: Imani Hub
-region: null
-twitterHandle: null
-websiteUrl: http://www.imanihub.net/
+email: ""
+facebookUrl: ""
 hubID: imani-hub
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Imani Hub
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://www.imanihub.net/

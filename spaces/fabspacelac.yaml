@@ -1,39 +1,17 @@
-activity_status: active
-address_1: Immeuble DRISS, Rue du Lac de Côme, les Berges du Lac
-address_2: ""
-avatar_url: null
-blurb: Located at Lac 1, Tunis, at Orange Digital Center. The FabLab offer training and mentorship and digital fabrication services for students and startups.
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
+addressLine1: ""
+addressNotes: ""
 city: Tunis
-country_code: TN
-county: Tunis
+country: ""
 description: "EL FabSpace Lac is a digital fabrication and rapid prototyping workspace located at Orange Digital Center, in Lac 1 Tunis. It's run by Orange Tunisie and El Space in collaboration with OpenFab Tunisia and MakerLab. \r\n\r\nEl FabSpace Lac is a creative space that provides open access to digital fabrication tools, education workshops, and a vibrant community of science and technology enthusiasts. El FabSpace Lac offers training and mentorship to individuals (students, researchers, Makers, designers, hobbyists ...) and startups to learn about the application of digital technologies, rapid hardware prototyping, 3D printing, and sustainable design practices. The lab has a range of fabrication tools including a large laser cutter, 3D printers, PCB milling machine, a 3D scanner, traditional hand tools (saws, drills, hammers, chisels, etc.), and an electronics Tool Kit.\r\n\r\nEL FabSpace Lac is today part of a network of 6 Tunisian Solidary FabLabs, supported by the Orange Foundation, whose objective is to promote digital learning, collaborative creation and the use of digital tools."
 email: mohamedchedli.benyaghlane@orange.com
-header_url: http://fablabs.io.s3.amazonaws.com/2020/11/18/11/29/12/cd96de3d-a34e-4849-9f63-42df6bc70402/Highcompressed_57338459.jpg
-kind_name: fab_lab
+facebookUrl: ""
+hubID: fabspacelac
+instagramHandle: ""
 lat: 36.8346907
-links:
-  - id: 37611
-    url: https://fablabs.tn/fablab/el-fabspace-lac/
-  - id: 27824
-    url: https://hackaday.io/hackerspace/176823-el-fabspace-lac
-  - id: 27823
-    url: https://wikifactory.com/+fabspacelac/
-  - id: 20750
-    url: https://www.facebook.com/OrangeTN.plus
-  - id: 20749
-    url: https://plus.orange.tn
+linkedinUrl: ""
 lng: 10.2426448
 name: EL FabSpace Lac
-parent_id: null
-phone: "+21650011731"
-slug: fabspacelac
-addressNotes: ""
 postalCode: "1053"
-hubID: fabspacelac
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

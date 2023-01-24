@@ -1,14 +1,17 @@
 addressLine1: South Africa
-city: null
+addressNotes: ""
+city: ""
 country: South Africa
 description: "The Innovation Hub \n"
 email: info@theinnovationhub.com
-facebookUrl: null
+facebookUrl: ""
+hubID: the-innovation-hub
+instagramHandle: ""
 lat: -30.559482
+linkedinUrl: ""
 lng: 22.937506
 name: The Innovation Hub
-region: null
+postalCode: ""
+region: ""
 twitterHandle: InnovHub
 websiteUrl: https://theinnovationhub.com/
-hubID: the-innovation-hub
-linkedinUrl: null

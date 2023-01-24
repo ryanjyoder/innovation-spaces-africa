@@ -1,14 +1,17 @@
 addressLine1: Johannesburg, South Africa
+addressNotes: ""
 city: Johannesburg
 country: South Africa
 description: "Softstart Incubator is an innovation hub that is focused on social impact, job creation and innovation. \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: softstart-business-and-technology-incubator
+instagramHandle: ""
 lat: -26.2041028
+linkedinUrl: ""
 lng: 28.0473051
 name: Softstart Business and Technology Incubator
+postalCode: ""
 region: Gauteng
 twitterHandle: SoftstartBTI
 websiteUrl: https://softstartbti.co.za/
-hubID: softstart-business-and-technology-incubator
-linkedinUrl: null

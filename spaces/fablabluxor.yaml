@@ -1,30 +1,17 @@
-activity_status: active
-address_1: Luxor
-address_2: ""
-avatar_url: http://fablabs.io.s3.amazonaws.com/2019/07/09/14/31/00/574eb495-60d8-4101-8c70-b04473b95f92/Fab-lab-logo-330x165.png
-blurb: ""
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
-  - vinyl_cutting
+addressLine1: ""
+addressNotes: ""
 city: Luxor
-country_code: EG
-county: ""
+country: ""
 description: ""
 email: peter.samir@gmail.moe.edu.eg
-header_url: null
-kind_name: fab_lab
+facebookUrl: ""
+hubID: fablabluxor
+instagramHandle: ""
 lat: 25.6877424
-links: []
+linkedinUrl: ""
 lng: 32.6395612
 name: FabLabLuxor
-parent_id: null
-phone: ""
-slug: fablabluxor
-addressNotes: ""
 postalCode: ""
-hubID: fablabluxor
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

@@ -1,14 +1,17 @@
 addressLine1: Mombasa, Kenya
+addressNotes: ""
 city: Mombasa
 country: Kenya
 description: "Swahilipot Hub is an innovation hub that is focused on social impact, job creation, skill acquisition, youth engagement and innovation. \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: swahilipot-hub
+instagramHandle: ""
 lat: -4.0434771
+linkedinUrl: ""
 lng: 39.6682065
 name: Swahilipot Hub
+postalCode: ""
 region: Mombasa County
 twitterHandle: swahilipothub
 websiteUrl: https://swahilipothub.co.ke/
-hubID: swahilipot-hub
-linkedinUrl: null

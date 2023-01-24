@@ -1,15 +1,18 @@
 addressLine1: innovup, Avenue Du 24 Janvier, Lom�, Togo
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: |
   "Pour en savoir plus visitez notre site <a href=""http://innovup.fefa.tg"">http://innovup.fefa.tg</a>�"
 email: innovup@fefa-togo.org
 facebookUrl: https://www.facebook.com/centreInnovupTogo/
-lat: null
-lng: null
-name: Innov’up
-region: null
-twitterHandle: null
-websiteUrl: http://innovup.fefa.tg/
 hubID: innov-up
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Innov’up
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://innovup.fefa.tg/

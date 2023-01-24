@@ -1,14 +1,17 @@
 addressLine1: Nigeria
-city: null
+addressNotes: ""
+city: ""
 country: Nigeria
 description: "iDEA (Information Technology Developers Entrepreneurship Accelerator) provides essential support to entrepreneurs to build software skills.  \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: idea-hub
+instagramHandle: ""
 lat: 9.081999
+linkedinUrl: ""
 lng: 8.67527700000005
 name: iDEA Hub
-region: null
-twitterHandle: null
+postalCode: ""
+region: ""
+twitterHandle: ""
 websiteUrl: http://www.idea-nigeria.org/
-hubID: idea-hub
-linkedinUrl: null

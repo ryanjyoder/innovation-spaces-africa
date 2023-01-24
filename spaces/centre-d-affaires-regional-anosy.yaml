@@ -1,14 +1,17 @@
 addressLine1: Kathyana Car Rental - Bazaribe Fort Dauphin
-city: null
+addressNotes: ""
+city: ""
 country: Madagascar
 description: ""
 email: cara.anosy@gmail.com
-facebookUrl: null
-lat: null
-lng: null
-name: CENTRE D�AFFAIRES REGIONAL ANOSY
-region: Fort-Dauphin
-twitterHandle: null
-websiteUrl: http://www.cara.mg
+facebookUrl: ""
 hubID: centre-d-affaires-regional-anosy
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: CENTRE D�AFFAIRES REGIONAL ANOSY
+postalCode: ""
+region: Fort-Dauphin
+twitterHandle: ""
+websiteUrl: http://www.cara.mg

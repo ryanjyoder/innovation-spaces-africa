@@ -1,30 +1,17 @@
-activity_status: active
-address_1: 'complex education '
-address_2: ""
-avatar_url: null
-blurb: machines, electronics and tools
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
-  - vinyl_cutting
+addressLine1: ""
+addressNotes: ""
 city: ismailia
-country_code: EG
-county: Egypt
+country: ""
 description: fabrication lab
 email: eman.elshabrawy@ismailia.moe.edu.eg
-header_url: null
-kind_name: fab_lab
+facebookUrl: ""
+hubID: fablabismailia
+instagramHandle: ""
 lat: 30.6214053807067
-links: []
+linkedinUrl: ""
 lng: 32.2288652208435
 name: fab lab ismailia
-parent_id: 13
-phone: "01224448985"
-slug: fablabismailia
-addressNotes: ""
 postalCode: ""
-hubID: fablabismailia
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

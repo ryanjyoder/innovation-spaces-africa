@@ -1,31 +1,17 @@
-activity_status: active
-address_1: École normale supérieure de l'enseignement technique de Rabat Enset
-address_2: ', B.P. 6207 Avenue des Forces Armées Royales Rabat 10100 Maroc'
-avatar_url: http://fablabs.io.s3.amazonaws.com/2019/06/14/15/02/58/d7ce5fad-659a-413b-8105-8687b9f073a9/enset.jpg
-blurb: The first university fabrication laboratory in Morocco
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
+addressLine1: ""
+addressNotes: ""
 city: Rabat
-country_code: MA
-county: ""
+country: ""
 description: The FabLab is localised in the engineering school ENSET in Rabat. The equipment are state of the art, it contains SLS and SLM machines, added to the laser cutter and 3d printers. it is also possible to use CNC machines and a metrology lab. Thanks to the proximity of students and professors, the visitor can find help easily.
 email: houcine.salem@um5s.net.ma
-header_url: http://fablabs.io.s3.amazonaws.com/2019/06/14/15/02/58/ffb99738-a26a-4872-856f-633af4bab57d/fablab.png
-kind_name: fab_lab
+facebookUrl: ""
+hubID: fablabrabat
+instagramHandle: ""
 lat: 33.9677612
-links:
-  - id: 7247
-    url: https://fablabrabat.wordpress.com/
+linkedinUrl: ""
 lng: -6.8778926
 name: FabLab Rabat
-parent_id: null
-phone: "0661695788"
-slug: fablabrabat
-addressNotes: ""
 postalCode: B.P. 6207
-hubID: fablabrabat
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

@@ -1,14 +1,17 @@
 addressLine1: accra, Ghana Airways Avenue, Accra, Ghana
+addressNotes: ""
 city: Accra
 country: Ghana
 description: "Tentmaker is a co-creation space  that is focused on social impact, job creation and innovation.  \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: tentmaker
+instagramHandle: ""
 lat: 5.6004186
+linkedinUrl: ""
 lng: -0.183411500000034
 name: Tentmaker
+postalCode: ""
 region: Greater Accra Region
 twitterHandle: TentmakerGhana
 websiteUrl: https://www.tentmakergh.com/
-hubID: tentmaker
-linkedinUrl: null

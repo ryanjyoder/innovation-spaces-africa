@@ -1,14 +1,17 @@
 addressLine1: ANGOLA LNG, Rua Am�lcar Cabral, Luanda, Angola
+addressNotes: ""
 city: Luanda
 country: Angola
 description: "Kianda Hub is an open space, coworking, co creation space and innovation center that focuses on social impact, job creation and innovation. \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: kianda-hub
+instagramHandle: ""
 lat: -8.8249255
+linkedinUrl: ""
 lng: 13.2279833
 name: Kianda Hub
+postalCode: ""
 region: Luanda
 twitterHandle: KiandaHUB
 websiteUrl: https://kiandahub.com/
-hubID: kianda-hub
-linkedinUrl: null

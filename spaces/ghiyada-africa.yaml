@@ -1,14 +1,17 @@
 addressLine1: adidogome la pampa ,  lom�
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
 email: ghiyadaafrica@gmail.com
 facebookUrl: https://www.facebook.com/ghiyadaafrica/
-lat: null
-lng: null
-name: Ghiyada Africa
-region: null
-twitterHandle: null
-websiteUrl: http://www.ghiyadaafrica.org
 hubID: ghiyada-africa
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Ghiyada Africa
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://www.ghiyadaafrica.org

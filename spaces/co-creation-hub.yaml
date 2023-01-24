@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Lagos
 country: Nigeria
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: co-creation-hub
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Co-creation Hub
-region: null
+postalCode: ""
+region: ""
 twitterHandle: Cc_HUB
 websiteUrl: www.cchubnigeria.com
-hubID: co-creation-hub
-linkedinUrl: null

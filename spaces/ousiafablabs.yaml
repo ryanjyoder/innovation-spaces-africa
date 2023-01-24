@@ -1,29 +1,17 @@
-activity_status: planned
-address_1: Eldoret
-address_2: ""
-avatar_url: null
-blurb: 'A Fab Lab, or digital fabrication laboratory, is a place to play, to create, to mentor and to invent: a place for learning and innovation.'
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
+addressLine1: ""
+addressNotes: ""
 city: Eldoret
-country_code: KE
-county: UASIN GISHU
+country: ""
 description: "A Fab Lab, or digital fabrication laboratory, is a place to play, to create, to mentor and to invent: a place for learning and innovation.\r\nFab Labs provide access to the environment, the skills, the materials and the advanced technology to allow anyone anywhere to make (almost) anything."
 email: evans.njagimwendia@gmail.com
-header_url: null
-kind_name: fab_lab
+facebookUrl: ""
+hubID: ousiafablabs
+instagramHandle: ""
 lat: 0.5173983
-links:
-  - id: 8049
-    url: https://ousiatechnologies.com/
+linkedinUrl: ""
 lng: 35.270895
 name: OUSIA FABLABS
-parent_id: null
-phone: "+254728286873"
-slug: ousiafablabs
-addressNotes: ""
 postalCode: "30100"
-hubID: ousiafablabs
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

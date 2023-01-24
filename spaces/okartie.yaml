@@ -1,34 +1,17 @@
-activity_status: null
-address_1: 4 Rue Jacquot
-address_2: ""
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/02/19/09/34/05/cf7b59f2-ae45-477b-85e4-0bd8917e8802/logo.png
-blurb: a district lab who want to generalize the new technologie for everyone
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
-  - vinyl_cutting
+addressLine1: ""
+addressNotes: front of the bus stop " college de l'étang "
 city: ""
-country_code: RE
-county: Reunion
+country: ""
 description: "Okartié ( in english \"open district\" ) are create by the CCSTI of Reunion Island\r\n\r\nwe are 5 man axis :\r\n- education\r\n- innovation\r\n- popularize new technology\r\n- create a social cohesion"
 email: o-kartie@sciences-reunion.net
-header_url: http://fablabs.io.s3.amazonaws.com/2017/02/19/09/34/05/aa12d277-d60f-4b4f-b994-8248000347b0/IMG_7557.jpg
-kind_name: fab_lab
+facebookUrl: ""
+hubID: okartie
+instagramHandle: ""
 lat: -20.9828894
-links:
-  - id: 4408
-    url: https://www.facebook.com/SCIENCES-REUNION-142481865851759/?fref=ts
-  - id: 4409
-    url: https://twitter.com/O_kartie
+linkedinUrl: ""
 lng: 55.2854129
 name: Okartié
-parent_id: null
-phone: ""
-slug: okartie
-addressNotes: front of the bus stop " college de l'étang "
 postalCode: ""
-hubID: okartie
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Johannesburg
 country: South Africa
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: TechinBraam
-region: null
-twitterHandle: null
-websiteUrl: http://techinbraam.co.za
+email: ""
+facebookUrl: ""
 hubID: techinbraam
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: TechinBraam
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://techinbraam.co.za

@@ -1,14 +1,17 @@
 addressLine1: Alexandria Governorate, Egypt
-city: null
+addressNotes: ""
+city: ""
 country: Egypt
 description: "Ice Alex is an ever-growing international network of hubs and nodes in Cairo & Alexandria (Egypt), Addis Ababa (Ethiopia) and Weimar (Germany). \n"
 email: info@icealex.com
-facebookUrl: null
+facebookUrl: ""
+hubID: ice-alex
+instagramHandle: ""
 lat: 30.7622959
+linkedinUrl: ""
 lng: 29.6962677
 name: Ice Alex
+postalCode: ""
 region: Alexandria Governorate
 twitterHandle: icealexHub
 websiteUrl: http://icealex.com/
-hubID: ice-alex
-linkedinUrl: null

@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Johannesburg
 country: South Africa
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: CodedinBraam
-region: null
-twitterHandle: null
-websiteUrl: http://www.meetup.com/CodedInBraam/
+email: ""
+facebookUrl: ""
 hubID: codedinbraam
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: CodedinBraam
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://www.meetup.com/CodedInBraam/

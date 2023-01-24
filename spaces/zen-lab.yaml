@@ -1,14 +1,17 @@
 addressLine1: Immeuble Emeraude Center, Jardins du Lac 2 , Tunis, Tunisie
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
 email: contact@zenlab.com.tn
 facebookUrl: http://www.facebook.com/ZENLAB.Tunisie/
-lat: null
-lng: null
+hubID: zen-lab
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: ZEN Lab
-region: null
+postalCode: ""
+region: ""
 twitterHandle: ZENLAB_tunisie
 websiteUrl: http://www.zenlab.com.tn/
-hubID: zen-lab
-linkedinUrl: null

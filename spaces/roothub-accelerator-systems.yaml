@@ -1,14 +1,17 @@
 addressLine1: Uyo Airport, Uyo, Nigeria
+addressNotes: ""
 city: Uyo
 country: Nigeria
 description: "Roothub is a co-creation space  that is focused on social impact, job creation and innovation. \n"
-email: null
+email: ""
 facebookUrl: https://www.facebook.com/theroothub/
+hubID: roothub-accelerator-systems
+instagramHandle: ""
 lat: 4.876463
+linkedinUrl: ""
 lng: 8.08569299999999
 name: Roothub Accelerator Systems
+postalCode: ""
 region: Akwa Ibom
 twitterHandle: theroothub
 websiteUrl: https://theroothub.com/
-hubID: roothub-accelerator-systems
-linkedinUrl: null

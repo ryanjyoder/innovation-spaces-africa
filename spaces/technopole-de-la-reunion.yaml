@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Saint Denis (Sainte Clotilde)
 country: Reunion
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: 'Technopole de la Reunion '
-region: null
-twitterHandle: null
-websiteUrl: http://technopole-reunion.com
+email: ""
+facebookUrl: ""
 hubID: technopole-de-la-reunion
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: 'Technopole de la Reunion '
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://technopole-reunion.com

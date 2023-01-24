@@ -1,14 +1,17 @@
 addressLine1: Concession Procoki, avenue de L&#039;OUA, Kinshasa, Democratic Republic of the Congo
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: congo-business-network
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Congo Business Network
-region: null
+postalCode: ""
+region: ""
 twitterHandle: CongoBizNetwork
 websiteUrl: http://www.congobusinessnetwork.org
-hubID: congo-business-network
-linkedinUrl: null

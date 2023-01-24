@@ -1,32 +1,17 @@
-activity_status: active
-address_1: BV 30004 Cite An2 Ouagadougou
-address_2: ""
-avatar_url: http://fablabs.io.s3.amazonaws.com/2019/08/13/13/48/29/708080ee-3942-4636-8a51-b767a14ec61b/KeoLID-01.jpg
-blurb: KeoLID Innovation Hub est une structure associative, un espace dédié aux expérimentations, au prototypage et au développement de projets innovants au Burkina Faso.
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
-  - vinyl_cutting
+addressLine1: ""
+addressNotes: BV 30004 Cite An2 Ouagadougou
 city: Ouagadougou
-country_code: BF
-county: Kadiogo
+country: ""
 description: "KeoLID Innovation Hub est une structure associative, un espace dédié aux expérimentations, au prototypage et au développement de projets innovants ; un espace ouvert à tous les jeunes, les acteurs du numérique, les entrepreneurs pour se former, partager et mettre en forme leurs idées, développer des produits, trouver des financements, passer des idées aux projets, des projets à l’entreprise. \r\nLa KeoLID Innovation Hub a été créé en Juillet 2016 par des citoyens burkinabè, français, néerlandais, japonais et nigérian (récépissé de déclaration d’existence d’association N00000428001) est une entreprise sociale qui fournit un espace ouvert aux entrepreneurs pour qu'ils puissent collaborer et innover. Notre accompagnement est personnalisé et balaie aussi bien le savoir, que le savoir-être et le savoir-faire. Nous avons une bonne ouverture aux nouvelles technologies numériques et une grande accessibilité.\r\nL’incubateur KeoLID Innovation Hub est un Incubateur Généraliste, il couvre les domaines d’intervention suivants : Technologies de l’Information et de la Communication, industrie numérique, Fintech, design, objets connectés, software créatif, robotique, innovation sociale & frugale ou encore le développement durable et secteur rural… "
 email: contact@keolid.net
-header_url: null
-kind_name: fab_lab
-latitude: null
-links:
-  - id: 7460
-    url: https://my.keolid.net/
-longitude: null
-name: KEOLAB
-parent_id: null
-phone: "+22670713333"
-slug: keolab
-addressNotes: BV 30004 Cite An2 Ouagadougou
-postalCode: "22670"
+facebookUrl: ""
 hubID: keolab
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: KEOLAB
+postalCode: "22670"
+region: ""
+twitterHandle: ""
+websiteUrl: ""

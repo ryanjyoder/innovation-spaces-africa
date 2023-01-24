@@ -1,15 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Johannesburg
 country: South Africa
 description: ""
 email: future@blackgirlscode.org
 facebookUrl: https://www.facebook.com/BlackGirlsCodeJohannesburg
-lat: null
-lng: null
+hubID: black-girls-code
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Black Girls Code South Africa
-phone: +510 398 0880
-region: null
+postalCode: ""
+region: ""
 twitterHandle: blackgirlscode
 websiteUrl: https://blackgirlscode.com/chapter/sa/
-hubID: black-girls-code
-linkedinUrl: null

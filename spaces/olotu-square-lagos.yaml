@@ -1,15 +1,18 @@
 addressLine1: Nigeria Newspapers, Lagos, Nigeria
+addressNotes: ""
 city: Lagos
 country: Nigeria
 description: |
   Olotu Square
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: olotu-square-lagos
+instagramHandle: ""
 lat: 6.6623005
+linkedinUrl: ""
 lng: 3.2833564
 name: Olotu Square (Lagos)
+postalCode: ""
 region: Lagos
 twitterHandle: olotusquare
 websiteUrl: https://olotusquare.co/
-hubID: olotu-square-lagos
-linkedinUrl: null

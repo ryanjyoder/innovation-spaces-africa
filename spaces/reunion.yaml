@@ -1,26 +1,17 @@
-activity_status: planned
-address_1: La Rivière Saint-Louis
-address_2: ""
-avatar_url: null
-blurb: we are mainly a group of thinkers, geeks and do it yourselfers, still acting unofficially
-capabilities: []
+addressLine1: ""
+addressNotes: ""
 city: La Riviere
-country_code: RE
-county: ""
+country: ""
 description: we are mainly a group of thinkers, geeks and do it yourselfers, still acting unofficially
 email: openatlas@gmail.com
-header_url: null
-kind_name: fab_lab
+facebookUrl: ""
+hubID: reunion
+instagramHandle: ""
 lat: -21.2583341
-links:
-  - id: 514
-    url: http://fablab.re
+linkedinUrl: ""
 lng: 55.4416728
 name: FabLab.re
-parent_id: null
-phone: "0262343686"
-slug: reunion
-addressNotes: ""
 postalCode: "97421"
-hubID: reunion
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

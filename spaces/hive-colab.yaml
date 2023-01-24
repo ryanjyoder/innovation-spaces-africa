@@ -1,15 +1,20 @@
-addressLine1: Uganda National Museum, Kampala, Uganda
+addressLine1: 4th Floor, Kanjokya House, Plot 90, Kanjokya Street
+addressNotes: Uganda National Museum
 city: Kampala
 country: Uganda
-description: |
-  The Hive Colab is a community-owned, collaborative and co-working space for Uganda�s technology based community
-email: null
-facebookUrl: null
+description: The Hive Colab is a community-owned, collaborative and co-working space for Uganda�s technology based community
+email: info@hivecolab.org
+facebookUrl: https://www.facebook.com/HiveColab
+googleMapsUrl: https://goo.gl/maps/cbmJ3SVXxdzi6d1G9
+hubID: hive-colab
+instagramHandle: hivecolab
 lat: 0.3355622
+linkedinUrl: https://ug.linkedin.com/company/hive-colab
 lng: 32.582343
 name: Hive Colab
+phone: +256-393-217-039
+plusCode: 8HRV+PQ
+postalCode: ""
 region: Central Region
 twitterHandle: hivecolab
 websiteUrl: http://hivecolab.org/
-hubID: hive-colab
-linkedinUrl: null

@@ -1,44 +1,17 @@
-activity_status: null
-address_1: "30197"
-address_2: ""
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/10/45/7838d689-c661-4a4a-8183-8b97b605f0e5/Fablab Nairobi.jpg
-blurb: ""
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
-  - vinyl_cutting
+addressLine1: ""
+addressNotes: ""
 city: Nairobi
-country_code: KE
-county: Nairobi
+country: ""
 description: ""
 email: stp@uonbi.ac.ke
-header_url: null
-kind_name: fab_lab
+facebookUrl: ""
+hubID: fablabnairobi
+instagramHandle: ""
 lat: -1.2790019
-links:
-  - id: 1930
-    url: http://twitter.com/fablabnairobi
-  - id: 1931
-    url: http://youtube.com/fablabnairobi
-  - id: 1932
-    url: https://twitter.com/fablaboutreach
-  - id: 1933
-    url: https://www.facebook.com/FabLab-Nairobi-Outreach-220691117976348/
-  - id: 1934
-    url: https://www.facebook.com/fablabnairobi/
-  - id: 2236
-    url: https://fablaboutreach.wordpress.com/
-  - id: 2237
-    url: http://fablab.uonbi.ac.ke
+linkedinUrl: ""
 lng: 36.8170395
 name: Fablab Nairobi
-parent_id: null
-phone: ""
-slug: fablabnairobi
-addressNotes: ""
 postalCode: 00100 (GPO)
-hubID: fablabnairobi
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

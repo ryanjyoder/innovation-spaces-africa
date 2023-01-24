@@ -1,16 +1,17 @@
 addressLine1: Buchanan Square, Sir Lowry Road, Woodstock
+addressNotes: ""
 city: Cape Town
 country: South Africa
 description: ""
-email: null
+email: ""
 facebookUrl: https://www.facebook.com/startup90
+hubID: startup-90
 instagramHandle: http://instagram.com/startup_90/
-lat: null
-lng: null
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Startup 90
-region: null
+postalCode: "7925"
+region: ""
 twitterHandle: startup90
 websiteUrl: https://www.startup90.com
-postalCode: 7925
-hubID: startup-90
-linkedinUrl: null

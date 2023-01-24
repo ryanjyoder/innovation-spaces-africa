@@ -1,14 +1,17 @@
 addressLine1: Rwanda
-city: null
+addressNotes: ""
+city: ""
 country: Rwanda
 description: "kLab (knowledge Lab) is a unique open technology hub in Kigali where students, entrepreneurs and innovators come to work.  \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: klab
+instagramHandle: ""
 lat: -1.940278
+linkedinUrl: ""
 lng: 29.873888
 name: kLab
-region: null
+postalCode: ""
+region: ""
 twitterHandle: klabrw
 websiteUrl: http://klab.rw/
-hubID: klab
-linkedinUrl: null

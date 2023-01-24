@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Abuja
 country: Nigeria
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: National Board for Technology Incubation-Tech Incubation Headquarters
-region: null
-twitterHandle: null
-websiteUrl: http://www.nbti.gov.ng/
+email: ""
+facebookUrl: ""
 hubID: national-board-for-technology-incubation-tech-incubation-headquarters
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: National Board for Technology Incubation-Tech Incubation Headquarters
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://www.nbti.gov.ng/

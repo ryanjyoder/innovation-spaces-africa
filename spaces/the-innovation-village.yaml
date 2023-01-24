@@ -1,14 +1,20 @@
 addressLine1: Uganda
-city: null
+addressNotes: Plot 31 Ntinda - Kisaasi Road, Ntinda Shopping Complex, Block B&C 3rd Floor
+city: Kampala
 country: Uganda
-description: "Kampala began operations in December, 2015 and was legally registered in July, 2015 with a staff strength of 4.  \n"
-email: null
-facebookUrl: null
+description: Kampala began operations in December, 2015 and was legally registered in July, 2015 with a staff strength of 4.
+email: ""
+facebookUrl: ""
+googleMapsUrl: https://goo.gl/maps/kN3VufUiSzRwawwJ8
+hubID: the-innovation-village
+instagramHandle: ""
 lat: 1.373333
+linkedinUrl: ""
 lng: 32.2902750000001
 name: The Innovation Village
-region: null
+phone: "+256393241297"
+plusCode: 9J37+5W
+postalCode: ""
+region: ""
 twitterHandle: TheVillageUG
 websiteUrl: http://www.innovationvillage.co.ug/
-hubID: the-innovation-village
-linkedinUrl: null

@@ -1,14 +1,17 @@
 addressLine1: zone 3 rue des carrossiers Bo�te Postale 10 Bp 1041 Abidjan 10
+addressNotes: ""
 city: Abidjan
 country: Côte d’Ivoire
 description: ""
 email: incubinfo@caamonde.org
 facebookUrl: https://www.facebook.com/incubivoir1/
-lat: null
-lng: null
+hubID: incub-ivoir
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: 'Incub’ivoir '
-region: null
+postalCode: ""
+region: ""
 twitterHandle: ivoirincub
 websiteUrl: http://incubivoir.net/
-hubID: incub-ivoir
-linkedinUrl: null

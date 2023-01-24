@@ -1,14 +1,17 @@
 addressLine1: Malawi
-city: null
+addressNotes: ""
+city: ""
 country: Malawi
 description: "inCUBE8 Malawi began operation in February, 2016 and was officially registered on the same day. They are an innovation hub that run incubation and acceleration programmes targeted at youth engagement and job creation.  \n"
-email: null
+email: ""
 facebookUrl: https://www.facebook.com/incube8mw/
+hubID: incube8
+instagramHandle: ""
 lat: -13.254308
+linkedinUrl: ""
 lng: 34.301525
 name: inCUBE8
-region: null
-twitterHandle: null
+postalCode: ""
+region: ""
+twitterHandle: ""
 websiteUrl: https://www.incube8mw.com/
-hubID: incube8
-linkedinUrl: null

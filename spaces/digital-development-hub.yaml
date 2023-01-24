@@ -1,14 +1,17 @@
 addressLine1: Kano City, Kano, Nigeria
+addressNotes: ""
 city: Kano
 country: Nigeria
 description: "Digital Hub is a co-working space, incubation/acceleration and an innovation center that focuses on social impact, skill acquisition and job creation. \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: digital-development-hub
+instagramHandle: ""
 lat: 12.0049303
+linkedinUrl: https://ng.linkedin.com/company/ddhubng
 lng: 8.51169030000006
 name: Digital Development Hub
+postalCode: ""
 region: Kano
-twitterHandle: null
+twitterHandle: ""
 websiteUrl: https://ddhub.org.ng
-hubID: digital-development-hub
-linkedinUrl: https://ng.linkedin.com/company/ddhubng

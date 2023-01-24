@@ -1,27 +1,17 @@
-activity_status: null
-address_1: Nouakchott
-address_2: ' Les Echos du Sahel– Zone IND EXTS N°0368, Sebkha'
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/33/43/bc76d437-4a4c-4a87-b939-a44f72e74f28/SahelFablab.jpg
-blurb: First Fablab Mauritanian
-capabilities:
-  - three_d_printing
+addressLine1: ""
+addressNotes: ""
 city: Nouakchott
-country_code: MR
-county: ""
+country: ""
 description: "\r\nIt is a convivial space open to all, discovery, learning, sharing knowledge, prototyping and technical skills"
 email: sahelfablab@gmail.com
-header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/14/54/30/135743f7-b513-4024-8146-a22c5a43c6d7/SahelFablab.jpg
-kind_name: fab_lab
+facebookUrl: ""
+hubID: sahelfablab
+instagramHandle: ""
 lat: 18.0769014
-links:
-  - id: 2279
-    url: http://innovrim.org/contextsahel
+linkedinUrl: ""
 lng: -15.957211
 name: SahelFablab
-parent_id: null
-phone: "0022248526105"
-slug: sahelfablab
-addressNotes: ""
 postalCode: BP 2995
-hubID: sahelfablab
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

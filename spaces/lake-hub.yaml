@@ -1,14 +1,17 @@
 addressLine1: Accra Street, Kisumu, Kenya
+addressNotes: ""
 city: Kisumu
 country: Kenya
 description: "LakeHub is bringing together the tech-enthusiasts of Western Kenya. We are an open community created to support individuals and businesses with an interest in technology in Western Kenya. LakeHub brings together programmers, creative, and entrepreneurs and connects them to resources, partners, and mentorship. \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: lake-hub
+instagramHandle: ""
 lat: -0.0974903
+linkedinUrl: ""
 lng: 34.7525582999999
 name: Lake Hub
+postalCode: ""
 region: Kisumu County
 twitterHandle: LakeHub
 websiteUrl: http://www.lakehub.co.ke/
-hubID: lake-hub
-linkedinUrl: null

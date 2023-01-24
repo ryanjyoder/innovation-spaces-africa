@@ -1,14 +1,17 @@
 addressLine1: Nigeria
-city: null
+addressNotes: ""
+city: ""
 country: Nigeria
 description: "nHub began operation in November, 2015 and was legally registered in 2016 with a current staff strength of 17. It is a technology innovation hub that runs incubation and acceleration programmes.  \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: nhub
+instagramHandle: ""
 lat: 9.081999
+linkedinUrl: ""
 lng: 8.67527700000005
 name: nHub
-region: null
+postalCode: ""
+region: ""
 twitterHandle: nHubNG
 websiteUrl: http://www.nhubnigeria.com/
-hubID: nhub
-linkedinUrl: null

@@ -1,14 +1,17 @@
 addressLine1: Harare, Zimbabwe
+addressNotes: ""
 city: Harare
 country: Zimbabwe
 description: "GiHUB is an innovation hub that is focused on social impact, job creation and innovation and get most of their funds from Africa. \n"
-email: null
+email: ""
 facebookUrl: https://www.facebook.com/GiHUBZim/
+hubID: green-innovation-hub-gihub
+instagramHandle: ""
 lat: -17.8251657
+linkedinUrl: ""
 lng: 31.03351
 name: Green Innovation Hub (GiHUB)
+postalCode: ""
 region: Harare Province
-twitterHandle: null
+twitterHandle: ""
 websiteUrl: http://www.gih.space/
-hubID: green-innovation-hub-gihub
-linkedinUrl: null

@@ -1,34 +1,17 @@
-activity_status: null
-address_1: 'Villa N°1695 Sicap Liberté II '
-address_2: Dakar Senegal
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/26/23/0b034f11-5fdb-431d-a979-db204c679a04/DefkoAkNiep Lab.jpg
-blurb: Place of innovation and collaboration, DefKo Ak Niep (Do it with others) is the new FabLab in Dakar set up by the NGO @Kerthiossane
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
-  - vinyl_cutting
+addressLine1: ""
+addressNotes: Rue 269, Villa 1695 SICAP LIBETE 2
 city: Dakar
-country_code: SN
-county: Senegal
+country: ""
 description: "Place of innovation and collaboration, DefKo Ak Niep (Do it with others) is the new FabLab in Dakar set up by the NGO @Kerthiossane.\r\n--------\r\nLieu d'innovation et de travail collaboratif, Defko Ak Niep (fais le avec les autres) est le nouveau Fablab de Dakar mis en place par l'ONG Ker-Thiossane."
 email: kerthiossane@gmail.com
-header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/14/03/07/0cfe4ef7-69a5-463d-8657-e256dde50cec/DefkoAkNiep Lab.jpg
-kind_name: fab_lab
+facebookUrl: ""
+hubID: defkoakniep
+instagramHandle: ""
 lat: 14.7139787
-links:
-  - id: 1637
-    url: http://www.ker-thiossane.org/spip.php?article137
-  - id: 4738
-    url: 'http://defkoakniep.org/    '
+linkedinUrl: ""
 lng: -17.4551477
 name: DefkoAkNiep Lab
-parent_id: null
-phone: "+221338685309"
-slug: defkoakniep
-addressNotes: Rue 269, Villa 1695 SICAP LIBETE 2
 postalCode: B.P 10664
-hubID: defkoakniep
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

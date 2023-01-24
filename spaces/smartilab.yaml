@@ -1,32 +1,17 @@
-activity_status: null
-address_1: Souissi
-address_2: ""
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/28/11/f87ee29f-c6bf-479b-a94a-c9dad3cf26da/SMARTiLab.jpg
-blurb: Prototypage des CI, Packaging, prototypage système embarqués, circuits RF, CEM, essais et caractérisations expérimentales.
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
+addressLine1: ""
+addressNotes: ""
 city: Rabat
-country_code: MA
-county: ""
+country: ""
 description: "Le SMARTILAB est le premier Fablab de la capitale du Maroc, Rabat. \r\nPrototypage des CI, Packaging, prototypage système embarqués, circuits RF, CEM, essais et caractérisations expérimentales"
 email: 'hafid.griguer@gmail.com '
-header_url: null
-kind_name: fab_lab
+facebookUrl: ""
+hubID: smartilab
+instagramHandle: ""
 lat: 33.9627061
-links:
-  - id: 1792
-    url: http://www.smartilab.ma
-  - id: 1793
-    url: 'http://www.emsi.ma '
+linkedinUrl: ""
 lng: -6.83737819999999
 name: SMARTiLab
-parent_id: null
-phone: '+212660142213 '
-slug: smartilab
-addressNotes: ""
 postalCode: ""
-hubID: smartilab
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

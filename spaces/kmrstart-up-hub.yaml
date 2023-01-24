@@ -1,14 +1,17 @@
 addressLine1: ""
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: KMRSTART-UP HUB
-region: null
-twitterHandle: kmrstartuphub
-websiteUrl: null
+email: ""
+facebookUrl: ""
 hubID: kmrstart-up-hub
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: KMRSTART-UP HUB
+postalCode: ""
+region: ""
+twitterHandle: kmrstartuphub
+websiteUrl: ""

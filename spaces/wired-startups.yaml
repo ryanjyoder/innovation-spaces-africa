@@ -1,15 +1,18 @@
 addressLine1: Morocco
-city: null
+addressNotes: ""
+city: ""
 country: Morocco
 description: |
   Wired Startups is an Incubator/Accelerator that is focused on job creation, skill acquisition and innovation.
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: wired-startups
+instagramHandle: ""
 lat: 31.791702
+linkedinUrl: ""
 lng: -7.09262000000001
 name: Wired Startups
-region: null
+postalCode: ""
+region: ""
 twitterHandle: WiredStartups
 websiteUrl: https://wiredstartups.business.site/
-hubID: wired-startups
-linkedinUrl: null

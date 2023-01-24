@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Antananarivo
 country: Madagascar
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: I-Hub Malagasy
-region: null
-twitterHandle: null
-websiteUrl: http://www.i-hub.mg/
+email: ""
+facebookUrl: ""
 hubID: i-hub-malagasy
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: I-Hub Malagasy
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://www.i-hub.mg/

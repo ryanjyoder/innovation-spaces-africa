@@ -1,15 +1,18 @@
 addressLine1: Banikanni, rue de la pharmacie du Campus ,  Parakou
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: |
   Avec Guerra, nous souhaitons d�velopper une communaut�, un p�le social, durable, multiculturel et interg�n�rationnel autour des enjeux du num�rique. A cet effet, nous avons mis en place 3 grands programmes de d�veloppement et offrons de multiples services pour soutenir notre communaut� technologique.
 email: contact@guerrahub.com
 facebookUrl: https://www.facebook.com/GuerraHub
-lat: null
-lng: null
+hubID: guerra-tech-hub
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Guerra Tech Hub
-region: null
+postalCode: ""
+region: ""
 twitterHandle: guerra_hub
 websiteUrl: https://guerrahub.com
-hubID: guerra-tech-hub
-linkedinUrl: null

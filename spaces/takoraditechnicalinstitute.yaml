@@ -1,28 +1,17 @@
-activity_status: null
-address_1: ""
-address_2: ""
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/10/40/d5e8712e-1d66-4f32-b50d-05d10372035d/Takoradi Technical Institute.jpg
-blurb: null
-capabilities: []
+addressLine1: ""
+addressNotes: ""
 city: Takoradi
-country_code: GH
-county: Western
+country: ""
 description: ""
 email: ""
-header_url: null
-kind_name: fab_lab
+facebookUrl: ""
+hubID: takoraditechnicalinstitute
+instagramHandle: ""
 lat: 4.9
-links:
-  - id: 67
-    url: http://ttifab.wikispaces.com/How+to+Use+the+TTI+Fab+Lab+Wiki
-  - id: 288
-    url: http://www.takoraditech.org/?q=node/34
+linkedinUrl: ""
 lng: -1.76666669999997
 name: Takoradi Technical Institute
-parent_id: null
-phone: ""
-slug: takoraditechnicalinstitute
-addressNotes: ""
 postalCode: ""
-hubID: takoraditechnicalinstitute
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

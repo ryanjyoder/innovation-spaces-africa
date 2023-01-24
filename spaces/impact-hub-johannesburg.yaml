@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Johannesburg
 country: South Africa
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: impact-hub-johannesburg
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: 'IMPACT HUB '
-region: null
+postalCode: ""
+region: ""
 twitterHandle: ImpactHub
 websiteUrl: johannesburg.impacthub.net
-hubID: impact-hub-johannesburg
-linkedinUrl: null

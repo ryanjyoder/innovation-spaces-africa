@@ -1,78 +1,17 @@
-active: true
 addressLine1: 3 Rue Amadou Assane Ndoye, Dakar
-angelNetworks:
-  - name: null
-    website: null
-budgetUrl: null
+addressNotes: ""
 city: Dakar
 country: Senegal
 description: "\n\n# Short description\nCEPEM is a business incubator run by the city of Dakar. It was created in partnership with the Association Internationale des Maire Francophone (AIMF), the city of Marseille, the city of Montreal, and L'ecole des Entrepreneurs du Quebec. The incubator provides training, mentoring, and assures a financing for the entrepreneurs at the end of the program. As of September 2021, the incubator is accepting applications for its third cohort of entrepreneurs. The incubator accepts business from any sector (excluding certain capital intensive sectors such as construction), however they have a focus on women and youth.\n\n# Basic history\nLaunched in 2018, CEPEM has incubated two cohorts of entrepreneurs. \n\n# Covid Response\nWas the 2020 program canceled? \n\n# Response to growing remote environment\n"
 email: contact@cepem.sn
 facebookUrl: https://web.facebook.com/cepemsn
-focusAreas:
-  - youth
-  - women
-founded: 2018
-funding:
-  - government
-  - foundations
-hasPhysicalSpace: true
-hubNetworks:
-  - africinnov
-keyActivities:
-  - incubator
-lat: null
-legalEntity: governmental
-lng: null
+hubID: cepem-couveuse-d-entreprise-pour-la-promotion-de-l-emploi-par-la-micro-entreprise
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: CEPEM Couveuse d'Entreprise pour la Promotion de l'Emploi par la Micro-entreprise
-phone: +221 76 223 67 67
-region: null
-team:
-  - email: mourade.dieye@gmail.com
-    name: M. Mourade Dieye Gueye
-    phone: (+221 76 223 67 67)
-    title: President of CEPEM
-  - name: Madame Saham El Wardini
-    title: Maire de la Ville - Responsable Morale de la CEPEM
-  - email: alassgroup@orange.sn
-    name: M. Alassane Lô
-    phone: +221 77 263 05 82
-    title: Consultant
-  - email: maimouna.thiam@cepem.sn
-    name: Mme Maimouna Thiam Sarr
-    phone: +221 76 223 08 43
-    title: Conseillère référente
-  - email: coumba.thioune@cepem.sn
-    name: Mme Coumba Leye Thioune
-    phone: +221 76 223 67 67
-    title: Conseillère référente
-  - email: mame.fatou@cepem.sn
-    name: Madame gueye mame fatou faye
-    phone: (+221 76 223 08 44 )
-    title: Conseillére Référente
-  - email: seynabou.fall@cepem.sn
-    name: Mme Ndeye Seynabou Fall Sall
-    phone: (+221 76 223 08 42)
-    title: Conseillère référente
-  - email: sire.fall@cepem.sn
-    name: Mouhamadou Siré FAll
-    phone: (+221 76 223 08 40)
-    title: Conseiller référent
-  - email: aminad5@hotmail.com
-    name: Mme Samb aminata diop
-    phone: (+221 76 223 08 48  )
-    title: Directrice Générale du FODEM
-  - email: bineta.diop@cepem.sn
-    name: Madame SAR BINETA DIOP
-    phone: (+221 76 223 08 49  )
-    title: Conseillere Technique Principale
-  - email: marieme.diaw@cepem.sn
-    name: Mme Ndeye Mariéme Diaw Seye
-    phone: (+221 76 223 08 46 )
-    title: Conseillere référente
-techFocus: false
+postalCode: ""
+region: ""
 twitterHandle: cepemcouveuse
 websiteUrl: https://www.cepem.sn
-yearlyBudget: null
-hubID: cepem-couveuse-d-entreprise-pour-la-promotion-de-l-emploi-par-la-micro-entreprise
-linkedinUrl: null

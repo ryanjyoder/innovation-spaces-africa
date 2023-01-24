@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Boulevard Karthala, Moroni, Comores
-country: null
+country: ""
 description: ""
 email: contact@comorescoworking.com
 facebookUrl: http://Com&#039
-lat: null
-lng: null
+hubID: comores-coworking
+instagramHandle: ""
+lat: 0
+linkedinUrl: Work
+lng: 0
 name: Comores Coworking
-region: null
+postalCode: ""
+region: ""
 twitterHandle: comwork_km
 websiteUrl: http://www.comorescoworking.com
-hubID: comores-coworking
-linkedinUrl: Work

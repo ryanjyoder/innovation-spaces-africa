@@ -1,14 +1,17 @@
 addressLine1: Technopole Ecopark Borj-c�dria, Borj C�dria, Tunisie
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: "ISTIC Entreprises Startup se propose comme une passerelle entre le monde universitaire et le monde socio-�conomique.  \n"
-email: null
+email: ""
 facebookUrl: http://ISTIC Entreprises Startup
-lat: null
-lng: null
+hubID: istic-entreprises-startup
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: ISTIC Entreprises Startup
-region: null
+postalCode: ""
+region: ""
 twitterHandle: istic_tunisie
 websiteUrl: http://www.istic.rnu.tn
-hubID: istic-entreprises-startup
-linkedinUrl: null

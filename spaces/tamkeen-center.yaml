@@ -1,15 +1,18 @@
 addressLine1: Oujda, Maroc
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: |
   Tamkeen Center est une initiatve priv�e et apolitique, mais accueille toute contribution et appui technique et financiers pour favoriser le d�ploiement de son activit� � plus grande �chelle.&nbsp;
 email: contact@tamkeen.ma
-facebookUrl: null
-lat: null
-lng: null
+facebookUrl: ""
+hubID: tamkeen-center
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Tamkeen Center
-region: null
+postalCode: ""
+region: ""
 twitterHandle: CenterTamkeen
 websiteUrl: http://www.tamkeen.ma
-hubID: tamkeen-center
-linkedinUrl: null

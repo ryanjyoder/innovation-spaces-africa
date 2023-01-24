@@ -1,15 +1,18 @@
 addressLine1: VP 27 A bis Ambohimiandra ,  Antananarivo
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: |
   �Un cabinet d�expertise � destination de toutes les organisations promouvant l�entrepreneuriat des jeunes et des femmes � Madagascar, dans l�Oc�an Indien et en Afrique.&nbsp;
 email: incubons.etc@gmail.com
 facebookUrl: https://fr-fr.facebook.com/incubons/
-lat: null
-lng: null
-name: INCUBONS
-region: null
-twitterHandle: null
-websiteUrl: null
 hubID: incubons
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: INCUBONS
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: ""

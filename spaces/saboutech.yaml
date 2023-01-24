@@ -1,14 +1,17 @@
 addressLine1: Bluezone De Dixinn, Conakry, Guin�e
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
 email: projetsaboutech@gmail.com
 facebookUrl: https://www.facebook.com/saboutech/
-lat: null
-lng: null
-name: Saboutech
-region: null
-twitterHandle: null
-websiteUrl: null
 hubID: saboutech
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Saboutech
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: ""

@@ -1,31 +1,17 @@
-activity_status: active
-address_1: 'Al-Pepsi Street '
-address_2: ' Al Rahba '
-avatar_url: http://fablabs.io.s3.amazonaws.com/2019/03/22/18/39/50/63c65d73-f6e4-4186-97a7-d834c6e90647/fablab libya logo5.png
-blurb: Fab Lab Libya is the first of its kind in Libya, as an open access electronics lab and training center. One of the main targets of our lab is introducing and developing STEAM education in Libya .
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
+addressLine1: ""
+addressNotes: on second floor of the building next to  Al-Breky supermarket -  Al Pepsi street
 city: Banghazi
-country_code: LY
-county: Banghazi
+country: ""
 description: "Our lab was founded by engineers who admired the idea and goals of a Fab Lab organization . It is registered as a civil society non-profit organization in Libya . Our lab basically provides public access to an adequately (but not fully) equipped Laboratory for digital fabrication and electronic innovation . It has been ,so far, focusing in hosting training courses for kids and youth in programming, electronics and robotics , as well as running supervised DIY clubs for kids , various workshops and participating in events such as the first National Robotics championship in Libya . Furthermore, in pursuing its role as a STEAM education promoter in Libya , the lab has developed a curriculum for teaching programming to kids and contracted with a number of private elementary schools in Benghazi for teaching the curriculum to their students . \r\nOne of the very successful projects carried out by the lab , so far , was the 100 youth engineers and the 100 youth programmers ; in which a large number of school students participated in a hands-on learning style training course on the basics of programming and electronics using Arduino development panel. At the end of the course ,the students were able to build their own Arduino projects or Android applications and participated in an end-of-course competition. \r\nThe lab has been providing the equipment required and the technical assistance for a number of more advanced college graduation projects. And this is the area which we want to work on further ,by encouraging people ,specially electronic engineers and IT graduates , to engage in building their own (advanced) prototypes. Ultimately, our lab aims to become a real research and innovation center. \r\n"
 email: info@fablablibya.org
-header_url: http://fablabs.io.s3.amazonaws.com/2019/03/22/18/58/21/ba4d32dd-80b5-4933-8a4e-0c1343649429/Fab Lab Libya profile picture.jpg
-kind_name: fab_lab
-latitude: null
-links:
-  - id: 6850
-    url: https://www.facebook.com/fablablibya/
-  - id: 6849
-    url: https://fablablibya.org/
-longitude: null
-name: Fab Lab Libya
-parent_id: null
-phone: "00218911091929"
-slug: fablabLibyaBNG
-addressNotes: on second floor of the building next to  Al-Breky supermarket -  Al Pepsi street
-postalCode: "99999999999"
+facebookUrl: ""
 hubID: fablabLibyaBNG
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Fab Lab Libya
+postalCode: "99999999999"
+region: ""
+twitterHandle: ""
+websiteUrl: ""

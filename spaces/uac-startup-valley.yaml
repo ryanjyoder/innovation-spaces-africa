@@ -1,14 +1,17 @@
 addressLine1: Abomey Calavi, B�nin
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
 email: uacstartupvalley@uacstartupvalley.com
 facebookUrl: https://www.facebook.com/uacstartupvalley/
-lat: null
-lng: null
-name: UAC Startup Valley
-region: null
-twitterHandle: null
-websiteUrl: http://www.uacstartupvalley.com
 hubID: uac-startup-valley
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: UAC Startup Valley
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://www.uacstartupvalley.com

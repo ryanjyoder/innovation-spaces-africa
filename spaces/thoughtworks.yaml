@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Johannesburg
 country: South Africa
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: thoughtworks
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: ThoughtWorks
-region: null
+postalCode: ""
+region: ""
 twitterHandle: thoughtworks
 websiteUrl: http://info.thoughtworks.com/
-hubID: thoughtworks
-linkedinUrl: null

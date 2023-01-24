@@ -1,14 +1,17 @@
 addressLine1: ""
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
-email: null
+email: ""
 facebookUrl: https://www.facebook.com/JokkolabsDouala
-lat: null
-lng: null
+hubID: jokkolabs-douala
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Jokkolabs Douala
-region: null
+postalCode: ""
+region: ""
 twitterHandle: JklDouala
 websiteUrl: http://jokkolabs.net
-hubID: jokkolabs-douala
-linkedinUrl: null

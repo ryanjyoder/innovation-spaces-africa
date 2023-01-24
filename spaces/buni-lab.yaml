@@ -1,14 +1,17 @@
 addressLine1: Tanzania
-city: null
+addressNotes: ""
+city: ""
 country: Tanzania
 description: "Buni is a technology hub that fosters innovation and technology entrepreneurship through capacity building & mentoring programs.  \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: buni-lab
+instagramHandle: ""
 lat: -6.369028
+linkedinUrl: ""
 lng: 34.888822
 name: Buni Lab
-region: null
+postalCode: ""
+region: ""
 twitterHandle: bunihub
 websiteUrl: http://buni.or.tz/
-hubID: buni-lab
-linkedinUrl: null

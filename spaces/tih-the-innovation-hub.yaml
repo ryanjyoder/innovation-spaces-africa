@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Pretoria
 country: South Africa
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: 'TIH-The Innovation Hub '
-region: null
-twitterHandle: null
-websiteUrl: www.theinnovationhub.com
+email: ""
+facebookUrl: ""
 hubID: tih-the-innovation-hub
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: 'TIH-The Innovation Hub '
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: www.theinnovationhub.com

@@ -1,14 +1,17 @@
 addressLine1: Av Kawar, Derri�re maternit� Yantala ,  Niamey
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
 email: contact@dlcoworking.com
 facebookUrl: https://www.facebook.com/DLCoworking-201097337076733/
-lat: null
-lng: null
+hubID: dlcoworking-dlc
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: DLCOWORKING (DLC)
-region: null
+postalCode: ""
+region: ""
 twitterHandle: dlcoworking
 websiteUrl: http://www.dlcoworking.com
-hubID: dlcoworking-dlc
-linkedinUrl: null

@@ -1,14 +1,17 @@
 addressLine1: Nigeria
-city: null
+addressNotes: ""
+city: ""
 country: Nigeria
 description: "The Wennovation Hub was founded in August 2010, to accelerate HIGH IMPACT entrepreneurs into the marketplace \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: wennovation-hub
+instagramHandle: ""
 lat: 9.081999
+linkedinUrl: ""
 lng: 8.67527700000005
 name: Wennovation Hub
-region: null
+postalCode: ""
+region: ""
 twitterHandle: wennovation
 websiteUrl: http://www.wennovationhub.org/
-hubID: wennovation-hub
-linkedinUrl: null

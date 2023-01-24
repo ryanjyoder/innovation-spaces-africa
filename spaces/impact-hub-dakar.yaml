@@ -1,14 +1,17 @@
 addressLine1: Hamdallaye ACI 2000
+addressNotes: ""
 city: Dakar
 country: Senegal
 description: '"A startup incubation program, workspaces (co-working, private offices, event rooms and seminars), dynamic networking events, workshops and more, it’s a Hub."'
-email: null
+email: ""
 facebookUrl: https://facebook.com/impacthubdakar
+hubID: impact-hub-dakar
+instagramHandle: ""
 lat: 12.6392316
+linkedinUrl: https://www.linkedin.com/company/impact-hub-dakar/
 lng: -8.00288920000003
 name: Impact Hub Dakar
-region: null
+postalCode: ""
+region: ""
 twitterHandle: impacthubdakar
 websiteUrl: https://dakar.impacthub.net/
-hubID: impact-hub-dakar
-linkedinUrl: https://www.linkedin.com/company/impact-hub-dakar/

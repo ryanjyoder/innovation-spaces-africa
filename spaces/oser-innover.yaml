@@ -1,14 +1,17 @@
 addressLine1: ""
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
-email: null
+email: ""
 facebookUrl: https://fr-fr.facebook.com/DaretoInnovate/
-lat: null
-lng: null
+hubID: oser-innover
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Oser Innover
-region: null
+postalCode: ""
+region: ""
 twitterHandle: DaretoInnovate
 websiteUrl: http://daretoinnovate.com/
-hubID: oser-innover
-linkedinUrl: null

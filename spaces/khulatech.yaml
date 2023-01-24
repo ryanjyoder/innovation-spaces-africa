@@ -1,14 +1,17 @@
 addressLine1: Cotonou B�nin, Vedoko, von funai, immeuble MTN ,  Cotonou
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
 email: contact@khulatech.com
 facebookUrl: http://www.facebook.com/khulatech
-lat: null
-lng: null
+hubID: khulatech
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: KhulaTech
-region: null
+postalCode: ""
+region: ""
 twitterHandle: khulatech
 websiteUrl: http://www.khulatech.com
-hubID: khulatech
-linkedinUrl: null

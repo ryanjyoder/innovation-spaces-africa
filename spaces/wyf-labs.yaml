@@ -1,15 +1,17 @@
-addressLine1: null
+addressLine1: ""
+addressNotes: ""
 city: Cairo
 country: Egypt
 description: ""
-email: null
+email: ""
 facebookUrl: https://www.facebook.com/wyfegypt
-lat: null
-lng: null
+hubID: wyf-labs
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: WYF Labs
-region: null
+postalCode: ""
+region: ""
 twitterHandle: wyfegypt
 websiteUrl: https://wyfegypt.com/wyf_labs.php
-youtube: https://www.youtube.com/c/WorldYouthForum
-hubID: wyf-labs
-linkedinUrl: null

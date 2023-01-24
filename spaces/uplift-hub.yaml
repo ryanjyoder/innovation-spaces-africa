@@ -1,15 +1,18 @@
 addressLine1: Bauchi, Nigeria
+addressNotes: ""
 city: Bauchi
 country: Nigeria
 description: |
   Uplift Hub is an innovation hub that is focused on social impact, job creation, skill acquisition, youth engagement and innovation.
 email: info@uplift.ng
-facebookUrl: null
+facebookUrl: ""
+hubID: uplift-hub
+instagramHandle: ""
 lat: 10.3009641
+linkedinUrl: ""
 lng: 9.82365329999993
 name: Uplift Hub
+postalCode: ""
 region: Bauchi
 twitterHandle: uplifthubng
 websiteUrl: https://uplift.ng/
-hubID: uplift-hub
-linkedinUrl: null

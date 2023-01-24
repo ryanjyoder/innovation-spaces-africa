@@ -1,14 +1,17 @@
 addressLine1: Eb�ne, Quatre Bornes, Maurice
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: VERDE VENTURES LTD
-region: null
-twitterHandle: null
-websiteUrl: http://www.verdefrontier.mu/
+email: ""
+facebookUrl: ""
 hubID: verde-ventures-ltd
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: VERDE VENTURES LTD
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://www.verdefrontier.mu/

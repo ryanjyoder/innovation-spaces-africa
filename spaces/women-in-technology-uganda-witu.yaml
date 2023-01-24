@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Kampala
 country: Uganda
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: women-in-technology-uganda-witu
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Women in Technology Uganda (WITU)
-region: null
+postalCode: ""
+region: ""
 twitterHandle: wituganda
 websiteUrl: http://witug.org/
-hubID: women-in-technology-uganda-witu
-linkedinUrl: null

@@ -1,15 +1,18 @@
 addressLine1: Yaounde, Cameroon
+addressNotes: ""
 city: Yaounde
 country: Cameroon
 description: |
   NexGen is an innovation hub that is focused on skill acquisition, youth engagement and innovation.
 email: nextgentechcenter@gmail.com
-facebookUrl: null
+facebookUrl: ""
+hubID: nexgen-technology-center
+instagramHandle: ""
 lat: 3.8480325
+linkedinUrl: ""
 lng: 11.5020752
 name: NexGen Technology Center
+postalCode: ""
 region: Centre
 twitterHandle: NexGenTechC
 websiteUrl: http://nexgentechs.org/
-hubID: nexgen-technology-center
-linkedinUrl: null

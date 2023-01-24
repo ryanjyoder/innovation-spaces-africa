@@ -1,14 +1,17 @@
 addressLine1: Somgand�, Secteur 19, Rue Dima Koon ,  Ouagadougou
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
 email: info@beoogolab.org
-facebookUrl: null
-lat: null
-lng: null
+facebookUrl: ""
+hubID: beoogolab
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: BeoogoLAB
-region: null
+postalCode: ""
+region: ""
 twitterHandle: BeoogoLAB
 websiteUrl: http://www.beoogolab.org
-hubID: beoogolab
-linkedinUrl: null

@@ -1,14 +1,17 @@
 addressLine1: ""
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
 email: hedi@factory319.com
 facebookUrl: https://www.facebook.com/factory619
-lat: null
-lng: null
-name: FACTORY 619
-region: null
-twitterHandle: null
-websiteUrl: https://factory619.com
 hubID: factory-619
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: FACTORY 619
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: https://factory619.com

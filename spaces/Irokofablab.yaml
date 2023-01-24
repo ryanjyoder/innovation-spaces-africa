@@ -1,29 +1,17 @@
-activity_status: active
-address_1: 237 Ave de la Liberation, Jericho
-address_2: ""
-avatar_url: http://fablabs.io.s3.amazonaws.com/2020/07/07/19/47/03/be4fbec6-bee9-41c3-b256-ec16f7945baa/Logo O Iroko FabLab.png
-blurb: A makerspace focus on craftsmanship, low-tech and STEAM education
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - laser
+addressLine1: ""
+addressNotes: 237 Ave de la Liberation, Jericho
 city: Cotonou
-country_code: BJ
-county: Littoral
+country: ""
 description: "We aim to foster frugal innovation (low-tech), promote Do It Yourself, design thinking and\r\ndigital technologies.\r\nWe sensitize to 21st century skills by developing partnerships with local primary and\r\nsecondary schools by proposing STEAM activities for young people outside of the school\r\nterms. We promote local production and the sharing of craftsmanship through DIY\r\nworkshops for kids and adults, and master class for professionals wishing to be trained in\r\ndesign and digital manufacturing."
 email: hello@irokolab.org
-header_url: http://fablabs.io.s3.amazonaws.com/2020/07/07/19/47/07/ab140920-e8a7-4757-bbd9-49cc76cd10a0/IROKO Fablab_Space Apps Challenge.jpg
-kind_name: fab_lab
+facebookUrl: ""
+hubID: Irokofablab
+instagramHandle: ""
 lat: 6.3736274
-links:
-  - id: 7004
-    url: http://www.irokolab.org
+linkedinUrl: ""
 lng: 2.4258254
 name: IROKO FabLab
-parent_id: null
-phone: "+22996084713"
-slug: Irokofablab
-addressNotes: 237 Ave de la Liberation, Jericho
 postalCode: "00229"
-hubID: Irokofablab
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

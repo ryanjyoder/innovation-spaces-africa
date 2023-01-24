@@ -1,15 +1,18 @@
 addressLine1: Algeria
-city: null
+addressNotes: ""
+city: ""
 country: Algeria
 description: |
   Incubme is an incubator and accelerator  that are focused on skill acquisition, job creation and innovation.
-email: null
+email: ""
 facebookUrl: https://www.facebook.com/IncubMeDz/
+hubID: incubme-algeria
+instagramHandle: ""
 lat: 28.033886
+linkedinUrl: ""
 lng: 1.659626
 name: Incubme Algeria
-region: null
-twitterHandle: null
+postalCode: ""
+region: ""
+twitterHandle: ""
 websiteUrl: www.incubme.com
-hubID: incubme-algeria
-linkedinUrl: null

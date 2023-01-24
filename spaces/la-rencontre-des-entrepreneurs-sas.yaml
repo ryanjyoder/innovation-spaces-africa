@@ -1,14 +1,17 @@
 addressLine1: AGORA BUSINESS CENTER, VILLA N7 MERMOZ ,  DAKAR
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: "La  Rencontre Des Entrepreneurs (RDE) est le 1�r Acc�l�rateur multisectoriel d'appui et d'accompagnement priv� du S�n�gal dont la  principale mission consiste �  rep�rer des PME � fort potentiel pour en faire des champions en leur  donnant acc�s au capital,  aux meilleures comp�tences  et   �  un  ensemble de r�seau   \n"
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: la-rencontre-des-entrepreneurs-sas
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: LA RENCONTRE DES ENTREPRENEURS-SAS
-region: null
+postalCode: ""
+region: ""
 twitterHandle: RDEDAKAR
 websiteUrl: http://www.entrepreneursenegal.com
-hubID: la-rencontre-des-entrepreneurs-sas
-linkedinUrl: null

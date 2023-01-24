@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Minna
 country: Nigeria
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: 'Minna Tech Incubation Centre '
-region: null
-twitterHandle: null
-websiteUrl: https://www.govserv.org/NG/Minna/537527556399104/Technology-Incubation-Centre-Minna
+email: ""
+facebookUrl: ""
 hubID: minna-tech-incubation-centre
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: 'Minna Tech Incubation Centre '
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: https://www.govserv.org/NG/Minna/537527556399104/Technology-Incubation-Centre-Minna

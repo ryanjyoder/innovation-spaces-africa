@@ -1,15 +1,18 @@
 addressLine1: Gabon Telecom, Libreville, Estuaire, Gabon
+addressNotes: ""
 city: Libreville
 country: Gabon
 description: |
   The Mawazo Innovation Hub, a division of NFT Consult, was established to support emerging Next Generation ICT businesses .
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: mawazo-innovation-hub-gabon
+instagramHandle: ""
 lat: 0.3935071
+linkedinUrl: ""
 lng: 9.44680019999998
 name: Mawazo Innovation Hub (Gabon)
+postalCode: ""
 region: Estuaire
-twitterHandle: null
+twitterHandle: ""
 websiteUrl: https://mawazohub.com/
-hubID: mawazo-innovation-hub-gabon
-linkedinUrl: null

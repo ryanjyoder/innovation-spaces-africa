@@ -1,14 +1,17 @@
 addressLine1: Zimbabwe
-city: null
+addressNotes: ""
+city: ""
 country: Zimbabwe
 description: "The Tech Village began operations in May, 2016 and was legally registered in September, 2016 with a staff strength of 5.  \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: the-tech-village
+instagramHandle: ""
 lat: -19.015438
+linkedinUrl: ""
 lng: 29.154857
 name: The Tech Village
-region: null
+postalCode: ""
+region: ""
 twitterHandle: TechVillagezw
 websiteUrl: http://www.techvillage.org.zw/
-hubID: the-tech-village
-linkedinUrl: null

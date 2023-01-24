@@ -1,15 +1,18 @@
 addressLine1: 19 Park Road, Gardens, Cape Town, Afrique du Sud
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: |
   ORIBI Village is a local initiative aiming at promoting Social Entrepreneurship throughout Cape Town.&nbsp;Through a collaborative co-working space and an Incubator dedicated to Social Projects, ORIBI Village is bridging the gaps caused by social and geographic inequalities while encouraging and popularizing the practice of Social Entrepreneurship as a way of business.<br>Last but not least, ORIBI Village organizes regular talks and events in order to showcase Cape Town's Social Entrepreneurs, network and inspire the community.
 email: hello@oribivillage.com
 facebookUrl: https://www.facebook.com/ORIBIVillage/
-lat: null
-lng: null
+hubID: oribi-village
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: ORIBI Village
-region: null
+postalCode: ""
+region: ""
 twitterHandle: ORIBIv
 websiteUrl: http://www.oribivillage.com
-hubID: oribi-village
-linkedinUrl: null

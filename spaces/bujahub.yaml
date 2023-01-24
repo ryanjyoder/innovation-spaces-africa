@@ -1,14 +1,17 @@
 addressLine1: Boulevard De La Liberte, Bujumbura, Burundi
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
 email: info@bujahub.com
 facebookUrl: https://www.facebook.com/bujahub/
-lat: null
-lng: null
-name: BujaHub
-region: null
-twitterHandle: null
-websiteUrl: http://www.bujahub.com
 hubID: bujahub
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: BujaHub
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://www.bujahub.com

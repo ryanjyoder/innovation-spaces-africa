@@ -1,31 +1,17 @@
-activity_status: active
-address_1: 150 Avenue Nile
-address_2: Sidi Othman
-avatar_url: http://fablabs.io.s3.amazonaws.com/2019/12/07/13/45/43/aa5e80c2-a3d3-4f7a-af0d-c9ad840148fc/logo LPR ENSAM CASABLANCA.png
-blurb: Fablab LPR/ Laboratoire de prototypage rapide, est un centre de prototypage rapide et de fabrication numérique intégré et hébergé au niveau de l'ENSAM Casablanca.
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
+addressLine1: ""
+addressNotes: '150 Avenue Nile Sidi Othman Casablanca 20670 '
 city: Casablanca
-country_code: MA
-county: ""
+country: ""
 description: L'activités principale du Fablab s'articule autour de la fabrication numérique, le prototypage et la Fabrication additive, il dispose d'une multitude de machines et Équipements mis à la disposition des étudiants, chercheurs de l'ENSAM et de l'Université Hassan 2 Casablanca ainsi que tout passionnés du Making ou industriels souhaitant procéder au prototypage et au développement de produits mécatroniques.
 email: ennaji.moh@gmail.com
-header_url: http://fablabs.io.s3.amazonaws.com/2019/12/07/14/45/03/e88834ca-f6c7-4527-9a6d-c44bb8f874fb/Fablab ENSAM Casablanca.png
-kind_name: fab_lab
-latitude: null
-links:
-  - id: 5276
-    url: http://www.ensam-casa.ma/
-longitude: null
-name: FABLAB/LPR ENSAM Casablanca
-parent_id: 887
-phone: 150 Avenue Nile Sidi Othman Casablanca 20670
-slug: fablablprensamcasablanca
-addressNotes: '150 Avenue Nile Sidi Othman Casablanca 20670 '
-postalCode: "20670"
+facebookUrl: ""
 hubID: fablablprensamcasablanca
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: FABLAB/LPR ENSAM Casablanca
+postalCode: "20670"
+region: ""
+twitterHandle: ""
+websiteUrl: ""

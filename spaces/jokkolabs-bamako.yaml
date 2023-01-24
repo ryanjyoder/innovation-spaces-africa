@@ -1,15 +1,18 @@
 addressLine1: Torokorobougou ,  Bamako
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: |
   <b>Pionnier de l�innovation ouverte, de la transformation digitale et de l�entrepreneuriat social en Afrique, Jokkolabs �uvre � la structuration d�un �cosyst�me o� s�op�rent des dynamiques collaboratives porteuses de changement.</b>
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: jokkolabs-bamako
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Jokkolabs Bamako
-region: null
+postalCode: ""
+region: ""
 twitterHandle: JklBamako
 websiteUrl: http://www.jokkolabs.net/Bamako
-hubID: jokkolabs-bamako
-linkedinUrl: null

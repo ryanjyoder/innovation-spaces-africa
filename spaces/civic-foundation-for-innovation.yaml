@@ -1,14 +1,17 @@
 addressLine1: Abuja, Nigeria
+addressNotes: ""
 city: Abuja
 country: Nigeria
 description: "Civic Innovation hub is a co-creation space and innovation center that is focused on social impact, youth engagement and innovation. \n"
 email: Info@civicfoundationforinnovation.org
-facebookUrl: null
+facebookUrl: ""
+hubID: civic-foundation-for-innovation
+instagramHandle: ""
 lat: 9.0764785
+linkedinUrl: ""
 lng: 7.39857400000005
 name: Civic Foundation for Innovation
+postalCode: ""
 region: Federal Capital Territory
-twitterHandle: null
+twitterHandle: ""
 websiteUrl: https://civicfoundationforinnovation.org/
-hubID: civic-foundation-for-innovation
-linkedinUrl: null

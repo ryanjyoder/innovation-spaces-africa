@@ -1,15 +1,18 @@
 addressLine1: Kenya
-city: null
+addressNotes: ""
+city: ""
 country: Kenya
 description: |
   Sote hub began operations in November, 2015 and was legally registered in December, 2015 with a staff strength of 5. They are an innovation hub that run incubation and acceleration programmes focused on job creation and youth engagement. Its major source of income comes from Europe
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: sote-hub
+instagramHandle: ""
 lat: -0.023559
+linkedinUrl: ""
 lng: 37.906193
 name: Sote hub
-region: null
+postalCode: ""
+region: ""
 twitterHandle: Sote_Hub
 websiteUrl: http://www.sotehub.com/
-hubID: sote-hub
-linkedinUrl: null

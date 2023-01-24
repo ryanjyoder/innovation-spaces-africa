@@ -1,14 +1,17 @@
 addressLine1: Cape Town, South Africa
+addressNotes: ""
 city: Cape Town
 country: South Africa
 description: "Injini is an incubator and accelerator that is focused on social impact, job creation and innovation. \n"
 email: info@injini.africa
-facebookUrl: null
+facebookUrl: ""
+hubID: injini
+instagramHandle: ""
 lat: -33.9248685
+linkedinUrl: ""
 lng: 18.4240553
 name: Injini
+postalCode: ""
 region: Western Cape
 twitterHandle: injiniedtech
 websiteUrl: http://injini.co.za/
-hubID: injini
-linkedinUrl: null

@@ -1,14 +1,17 @@
 addressLine1: Cameroon
-city: null
+addressNotes: ""
+city: ""
 country: Cameroon
 description: "IT Kola stands for innovation and use of sustainable technologies for Africa. It is a collaborative platform where ideas, inspiration & commitment  \n"
-email: null
+email: ""
 facebookUrl: https://www.facebook.com/itkola?_rdc=1&_rdr
+hubID: it-kola
+instagramHandle: ""
 lat: 7.369722
+linkedinUrl: ""
 lng: 12.354722
 name: IT Kola
-region: null
-twitterHandle: null
-websiteUrl: null
-hubID: it-kola
-linkedinUrl: null
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: ""

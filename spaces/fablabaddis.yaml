@@ -1,28 +1,17 @@
-activity_status: null
-address_1: Addis Ababa University
-address_2: Piaza
-avatar_url: null
-blurb: ""
-capabilities: []
+addressLine1: ""
+addressNotes: We are located in Addis Ababa University; Alle school of fine arts and design around 4 killo next to natural science campus.
 city: Addis Ababa
-country_code: ET
-county: Oromia
+country: ""
 description: ""
 email: bereketnesh@yahoo.com
-header_url: null
-kind_name: fab_lab
+facebookUrl: ""
+hubID: fablabaddis
+instagramHandle: ""
 lat: 9.0377172
-links:
-  - id: 153
-    url: http://www.fablabaddis.org
-  - id: 154
-    url: http://fablabaddis.wordpress.com
+linkedinUrl: ""
 lng: 38.755227
 name: FabLab Addis
-parent_id: null
-phone: +251 11 123 2832
-slug: fablabaddis
-addressNotes: We are located in Addis Ababa University; Alle school of fine arts and design around 4 killo next to natural science campus.
 postalCode: ""
-hubID: fablabaddis
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

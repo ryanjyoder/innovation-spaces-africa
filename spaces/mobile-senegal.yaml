@@ -1,18 +1,20 @@
 addressLine1: ""
+addressNotes: ""
 city: Dakar
 country: Senegal
 description: |-
   Copy and pasted from : http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=7007
 
   Established in 2008 with support from Pace University in the US, MobileSenegal (now established as the Mobile4Senegal association) was the first Francophone mobile focused incubator in Africa. MobileSenegal focuses on training mobile developers - to date, over 450 participants have completed boot camps and competitions and developed more than 70 applications. To date, grant funding has been provided through Pace University (Google, NCIIA, IBM), and local companies.
-email: null
+email: ""
 facebookUrl: https://www.facebook.com/mobilesenegal
-lat: null
-lng: null
+hubID: mobile-senegal
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: 'Mobile Senegal '
-region: null
+postalCode: ""
+region: ""
 twitterHandle: mobilesenegal
 websiteUrl: http://mobilesenegal.org/
-youtube: https://youtube.com/mobilesenegal
-hubID: mobile-senegal
-linkedinUrl: null

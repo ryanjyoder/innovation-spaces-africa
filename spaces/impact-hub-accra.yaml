@@ -1,15 +1,17 @@
 addressLine1: F393/4 Otswe St Osu, Ako-Adjei
+addressNotes: ""
 city: Accra
 country: Ghana
 description: '"At Impact Hub Accra, we believe that the world’s greatest challenges will never be solved by one person or organization alone. We need to work together. That’s why we set out to create a thriving innovation ecosystem where people collaborate across organizations, cultures and generations to solve the grand challenges of our time."'
-email: null
+email: ""
 facebookUrl: https://www.facebook.com/impacthubaccra/
+hubID: impact-hub-accra
 instagramHandle: https://www.instagram.com/impacthubaccra/
-lat: null
-lng: null
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Impact Hub Accra
-region: null
+postalCode: ""
+region: ""
 twitterHandle: impacthubaccra
 websiteUrl: https://accra.impacthub.net/
-hubID: impact-hub-accra
-linkedinUrl: null

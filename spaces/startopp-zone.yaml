@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: 22/121 Atron, N&#039;Djamena
-country: null
+country: ""
 description: ""
 email: startoppzone@rjdlt.com
 facebookUrl: http://https
-lat: null
-lng: null
-name: StartOpp Zone
-region: null
-twitterHandle: null
-websiteUrl: http://startoppzone.com
 hubID: startopp-zone
+instagramHandle: ""
+lat: 0
 linkedinUrl: //facebook.com/startoppzone
+lng: 0
+name: StartOpp Zone
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://startoppzone.com

@@ -1,14 +1,17 @@
 addressLine1: Port Harcourt, Nigeria
+addressNotes: ""
 city: Port Harcourt
 country: Nigeria
 description: "Olotu Square is an innovation center focused on social impact, youth engagement and innovation. \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: olotu-square-port-harcourt
+instagramHandle: ""
 lat: 4.815554
+linkedinUrl: ""
 lng: 7.04984420000005
 name: Olotu Square (Port Harcourt)
+postalCode: ""
 region: Rivers
 twitterHandle: olotusquare
 websiteUrl: https://olotusquare.co/
-hubID: olotu-square-port-harcourt
-linkedinUrl: null

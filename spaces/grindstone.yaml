@@ -1,14 +1,17 @@
 addressLine1: E5B Century Square Century City Cape Town
+addressNotes: ""
 city: Cape Town
 country: South Africa
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: Grindstone
-region: Western Cape South Africa
-twitterHandle: null
-websiteUrl: null
+email: ""
+facebookUrl: ""
 hubID: grindstone
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Grindstone
+postalCode: ""
+region: Western Cape South Africa
+twitterHandle: ""
+websiteUrl: ""

@@ -1,14 +1,17 @@
 addressLine1: Rue Lac Victoria
+addressNotes: ""
 city: Tunis 1053
 country: Tunsia
 description: ""
 email: contact@connect-innov.com
-facebookUrl: null
-lat: null
-lng: null
-name: CONNECT�INNOV
-region: null
-twitterHandle: null
-websiteUrl: https://connect-innov.com/
+facebookUrl: ""
 hubID: connect-innov
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: CONNECT�INNOV
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: https://connect-innov.com/

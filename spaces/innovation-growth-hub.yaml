@@ -1,14 +1,17 @@
 addressLine1: Abia, Nigeria
-city: null
+addressNotes: ""
+city: ""
 country: Nigeria
 description: "Innovation Growth Hub is an innovation hub that is focused on job creation, skill acquisition and innovation. \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: innovation-growth-hub
+instagramHandle: ""
 lat: 5.4308921
+linkedinUrl: ""
 lng: 7.5247243
 name: Innovation Growth Hub
+postalCode: ""
 region: Abia
 twitterHandle: theighubafrica
 websiteUrl: https://ighub.com.ng/
-hubID: innovation-growth-hub
-linkedinUrl: null

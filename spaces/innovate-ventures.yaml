@@ -1,15 +1,18 @@
 addressLine1: Hargeisa, Somalia
+addressNotes: ""
 city: Hargeisa
 country: Somalia
 description: |
   Innovate Ventures is an open space, co-working space, incubation/acceleration and an innovation center that focuses on job creation, social impact and innovation.
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: innovate-ventures
+instagramHandle: ""
 lat: 9.562389
+linkedinUrl: ""
 lng: 44.0770133999999
 name: Innovate Ventures
+postalCode: ""
 region: Woqooyi Galbeed
-twitterHandle: null
+twitterHandle: ""
 websiteUrl: https://www.innovate.so/
-hubID: innovate-ventures
-linkedinUrl: null

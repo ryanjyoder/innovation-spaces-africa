@@ -1,14 +1,17 @@
 addressLine1: Casablanca, Maroc
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
 email: mehdi@lafactory.co // omaima@lafactory.co
 facebookUrl: https://www.facebook.com/LaFactoryByScreenDy/?ref=br_rs
-lat: null
-lng: null
+hubID: lafactory
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: LaFactory
-region: null
+postalCode: ""
+region: ""
 twitterHandle: lafactory_co
 websiteUrl: http://www.lafactory.co/
-hubID: lafactory
-linkedinUrl: null

@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Nairobi
 country: Kenya
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: m:Lab East Africa
-region: null
-twitterHandle: null
-websiteUrl: http://mlab.co.ke/
+email: ""
+facebookUrl: ""
 hubID: m-lab-east-africa
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: m:Lab East Africa
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://mlab.co.ke/

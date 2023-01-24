@@ -1,15 +1,18 @@
 addressLine1: ""
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: |
   Creative Hub Ethiopia supports creative innovators, designers, and SMEs in various fields by deepening understanding of global design and industrial concepts.
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: creative-hub-ethiopia
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Creative Hub Ethiopia
-region: null
+postalCode: ""
+region: ""
 twitterHandle: creativehubet
 websiteUrl: https://creativehub.et/
-hubID: creative-hub-ethiopia
-linkedinUrl: null

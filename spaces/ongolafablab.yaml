@@ -1,31 +1,17 @@
-activity_status: active
-address_1: AUF-CAMPUS NUMERIQUE FRANCOPHONE, BLD DE LA REUNIFICATION, NGOA-EKELLE, BP 8114 YAOUNDE-CAMEROUN
-address_2: ""
-avatar_url: http://fablabs.io.s3.amazonaws.com/2019/03/29/13/48/58/dcb39de7-92f4-4f8c-9673-b7f535045b22/g5413.png
-blurb: Laboratoire de Fabrication numérique pour accompagner les jeunes à initier des projets innovants en passant rapidement de l'idée au prototype fonctionnel.
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - laser
-  - precision_milling
-  - vinyl_cutting
+addressLine1: ""
+addressNotes: Dans l'enceinte de l'AUF, En face de la Gendarmerie Mobile
 city: Yaoundé
-country_code: CM
-county: CENTRE
+country: ""
 description: Laboratoire de Fabrication numérique pour accompagner les jeunes à initier des projets innovants en passant rapidement de l'idée au prototype fonctionnel.
 email: ongolafablab@auf.org
-header_url: http://fablabs.io.s3.amazonaws.com/2021/09/15/10/48/25/f1e675c2-62aa-42f0-8937-356d4dd6261f/IMG_fablab.io.jpg
-kind_name: fab_lab
+facebookUrl: ""
+hubID: ongolafablab
+instagramHandle: ""
 lat: 3.8577597
-links:
-  - id: 5353
-    url: https://fab.ongolafablab.cm/#!/
+linkedinUrl: ""
 lng: 11.5070915
 name: Ongola Fablab
-parent_id: 937
-phone: 00237 6 92 55 51 82
-slug: ongolafablab
-addressNotes: Dans l'enceinte de l'AUF, En face de la Gendarmerie Mobile
 postalCode: ""
-hubID: ongolafablab
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

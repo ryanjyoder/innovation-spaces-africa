@@ -1,33 +1,17 @@
-activity_status: null
-address_1: Tanger
-address_2: FSt de Tanger
-avatar_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/11/17/47/d7b2cb77-d415-461c-8b2f-f6e153e3d5a9/FabLabTanger.jpg
-blurb: FablabTanger is a new fablab created in the faculty of sciences and techiques of Tangier, Morocco Dédicated to 3d printing, laser cutting, stratography, vinyle cutting and have a robotics lab.
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - laser
-  - precision_milling
-  - vinyl_cutting
+addressLine1: ""
+addressNotes: ""
 city: Tanger
-country_code: MA
-county: ""
+country: ""
 description: "This new space was opened early 2014 in Tangier, Morocco\r\nyou can visit our webpage www.fablabtanger.org or facebook fablabtanger to get to know more about it."
 email: contact@fablabtanger.org
-header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/13/54/28/0e082ebf-3c0c-4a61-abd7-22a10c333cda/FabLabTanger.jpg
-kind_name: fab_lab
+facebookUrl: ""
+hubID: fablabtanger
+instagramHandle: ""
 lat: 35.7666667
-links:
-  - id: 820
-    url: http://www.fablabtanger.org
-  - id: 821
-    url: https://www.facebook.com/fablabtanger
+linkedinUrl: ""
 lng: -5.79999999999995
 name: FabLabTanger
-parent_id: null
-phone: "+212539393954"
-slug: fablabtanger
-addressNotes: ""
 postalCode: ""
-hubID: fablabtanger
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

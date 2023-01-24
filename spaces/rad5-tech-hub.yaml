@@ -1,15 +1,18 @@
 addressLine1: ""
+addressNotes: ""
 city: Aba
 country: Nigeria
 description: |
   A thriving technology-focused, innovation and startup incubation center dedicated to fostering the economic growth of Africa
 email: info@rad5.com.ng
-facebookUrl: null
-lat: null
-lng: null
+facebookUrl: ""
+hubID: rad5-tech-hub
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: RAD5 Tech Hub
-region: null
+postalCode: ""
+region: ""
 twitterHandle: rad5techhub
 websiteUrl: https://rad5.com.ng/
-hubID: rad5-tech-hub
-linkedinUrl: null

@@ -1,14 +1,17 @@
 addressLine1: Tanzania, Western Region, Ghana
+addressNotes: ""
 city: Tanzania
 country: Ghana
 description: "Twende hub was founded in 2007 to identify local needs & engineer new technology solutions, empower entrepreneurs, offer business support, and encourage local innovation. Also to empower Tanzanians to design, develop, and disseminate life-improving technology solutions to the challenges they and their communities face. \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: twende-hub
+instagramHandle: ""
 lat: 6.3335725
+linkedinUrl: ""
 lng: -3.17231800000002
 name: Twende Hub
+postalCode: ""
 region: Western Region
-twitterHandle: null
+twitterHandle: ""
 websiteUrl: http://www.twende-tanzania.org/
-hubID: twende-hub
-linkedinUrl: null

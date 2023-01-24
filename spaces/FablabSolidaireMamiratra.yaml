@@ -1,34 +1,17 @@
-activity_status: active
-address_1: Andrainarivo
-address_2: ""
-avatar_url: http://fablabs.io.s3.amazonaws.com/2018/10/10/09/31/45/b4c89313-42ce-4efc-aab6-f59ff0540725/Sans titre - 1.png
-blurb: FabLab Solidaire Mamiratra is whichis open for everyone. It's a place which gives a new hope of kid schooled, handicapped person...to have an opportunity to develop a new knowledge.
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - circuit_production
-  - laser
-  - precision_milling
-  - vinyl_cutting
+addressLine1: ""
+addressNotes: Go down the street until Panorama, go down (25m) again and the FabLab is just in our left.
 city: Antananarivo
-country_code: MG
-county: Madagascar
+country: ""
 description: "FabLab Solidaire Mamiratra is a place which:\r\n- test new method, build machine to improve the malagasy life\r\n-help students in those projects, books...\r\n-give a knew knowledge to people, kids shooled which don't have opportunity to have a good schoolar education, with the new technology(using CNC, laser printer, 3D printer...)\r\n-help Malagasy people to discover a new life, job teaching\r\nwith the any machines in the FabLab\r\n   -a laser printer(Trotec Speedy 100R)\r\n   -a shooper PRS Alpha 96*48\r\n   -a Drill press\r\n   -two Zortrax M200\r\n   -a MonoFab SRM20\r\n   -a Vinyl cutter(Roland GS-24)\r\n   -Fab tools\r\n   -electronic laboratory(oscilloscope, frequency generator, laboratory power supply, soldering iron)\r\n   -computer for the PAO and CAD"
 email: resp.fablab@vesosmad.org
-header_url: http://fablabs.io.s3.amazonaws.com/2018/10/10/09/31/45/a3e82f81-530d-4837-b631-77938d1affe4/IMG_0933.JPG
-kind_name: fab_lab
+facebookUrl: ""
+hubID: FablabSolidaireMamiratra
+instagramHandle: ""
 lat: -18.9107003
-links:
-  - id: 6237
-    url: https://www.facebook.com/FablabSolidaireMamiratra/?eid=ARDKOiuesC4Te2WB9cgk55OORDtki_rFI5i25L8lDxfWpVZfBTFzp1EvoHdeJV33zVI24BGshpt2lnkX
-  - id: 6238
-    url: https://twitter.com/FabLabMamiratra
+linkedinUrl: ""
 lng: 47.5429812
 name: FabLab Solidaire Mamiratra
-parent_id: null
-phone: +261 32 05 704 40
-slug: FablabSolidaireMamiratra
-addressNotes: Go down the street until Panorama, go down (25m) again and the FabLab is just in our left.
 postalCode: "101"
-hubID: FablabSolidaireMamiratra
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

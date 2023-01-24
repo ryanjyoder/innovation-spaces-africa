@@ -1,14 +1,17 @@
 addressLine1: Cefam Rd, Buea, Cameroon
+addressNotes: ""
 city: Buea
 country: Cameroon
 description: "ActivSpaces is an open collaboration space, innovation hub and startup incubator for African techies. Established in 2009, ActivSpaces was one of the earliest African coworking spaces to provide free and open access to members actively pursuing technology-based ventures. Based in Buea, Cameroon.  \n"
 email: info@activspaces.com
 facebookUrl: https://www.facebook.com/ActivSpaces
+hubID: activspaces
+instagramHandle: ""
 lat: 4.1515548
+linkedinUrl: ""
 lng: 9.23278570000002
 name: ActivSpaces
+postalCode: ""
 region: Southwest
 twitterHandle: activspaces
 websiteUrl: http://activspaces.com/
-hubID: activspaces
-linkedinUrl: null

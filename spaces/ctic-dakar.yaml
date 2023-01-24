@@ -1,4 +1,5 @@
 addressLine1: Rue Berenger Feraud
+addressNotes: ""
 city: Dakar
 country: Senegal
 description: |
@@ -9,11 +10,13 @@ description: |
   Established in April 2011, CTIC Dakar is primarily focused on supporting high growth potential ICT entrepreneurs with support from the Government of Senegal, the Telecoms regulator, Orange, World Bank, GIZ and the European Union (Centre for the Development of Enterprise - CDE). CTIC Dakar provides hands-on-business development support and coaching for entrepreneurs, as well as training on financial and communication issues, organises events for young entrepreneurs and has also established in six month duration accelerator program for high potential impact startups. 25% of operating costs are contributed by companies supported (through revenue growth sharing), with 30% grant funding, 25% sponsorship and 20% through delivery of business development services. CTIC Dakar is a partner in the WAZIUP Horizon 2020 project focused on IoT.
 email: contact@cticdakar.com
 facebookUrl: https://www.facebook.com/cticdakar/
+hubID: ctic-dakar
+instagramHandle: ""
 lat: 14.6691984
+linkedinUrl: ""
 lng: -17.4306432
 name: CTIC Dakar
-region: null
+postalCode: ""
+region: ""
 twitterHandle: cticdakar
 websiteUrl: http://www.cticdakar.com/fr/
-hubID: ctic-dakar
-linkedinUrl: null

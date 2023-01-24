@@ -1,14 +1,17 @@
 addressLine1: Camp Johnson Rd, Monrovia, Liberia
+addressNotes: ""
 city: Monrovia
 country: Liberia
 description: "iLab Liberia is a non-profit computer laboratory providing access to cutting-edge technology, expert IT assistance and a community leveraging technology for the good of Liberia. iLab offers free trainings in contextually relevant ICTs that are open to the public. iLab also hosts tech events and serves as a meet-up space for a range of tech enthusiasts and professionals. \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: ilab-liberia
+instagramHandle: ""
 lat: 6.306069
+linkedinUrl: ""
 lng: -10.7988739
 name: iLab Liberia
+postalCode: ""
 region: Montserrado
 twitterHandle: iLabLiberia
 websiteUrl: http://ilabliberia.org/
-hubID: ilab-liberia
-linkedinUrl: null

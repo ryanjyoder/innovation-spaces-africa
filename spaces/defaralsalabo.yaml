@@ -1,31 +1,17 @@
-activity_status: planned
-address_1: S.I.C.A.P. Liberte 2
-address_2: ""
-avatar_url: null
-blurb: Primary focus on free electronics, textile and organic dye, wood, irrigation and urban gardening.
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - vinyl_cutting
+addressLine1: ""
+addressNotes: Derrière la place du Jet d'eau, dans une des cantines à côté de la mosquée.
 city: Dakar
-country_code: SN
-county: ""
+country: ""
 description: Located at the heart of Dakar (Sicap Liberté II), this Lab is supported by the NGO Ker-Thiossane. It is the sequel of a series of DIY workshops held in 2013 (Defko Yaw Rek in wolof, a senegalese tongue). Our first public workshop on textile/knitting/PRocessing designed patterns will happen in the frame of the Afropixel festival, during the Dak'Art African Art Biennale, May 2014.
 email: honou003@gmail.com
-header_url: null
-kind_name: fab_lab
+facebookUrl: ""
+hubID: defaralsalabo
+instagramHandle: ""
 lat: 14.7139787
-links:
-  - id: 401
-    url: http://wiki.fablab.is/wiki/DefaralSaLabo_Dakar
-  - id: 501
-    url: http://www.ker-thiossane.org/spip.php?article137
+linkedinUrl: ""
 lng: -17.4551477
 name: Defaral Sa Labo
-parent_id: 17
-phone: ""
-slug: defaralsalabo
-addressNotes: Derrière la place du Jet d'eau, dans une des cantines à côté de la mosquée.
 postalCode: ""
-hubID: defaralsalabo
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

@@ -1,14 +1,17 @@
 addressLine1: Gulf of Guinea, Esiama, Ghana
+addressNotes: ""
 city: Esiama
 country: Ghana
 description: "With twenty members, the Woe Lab, a young innovative community in Lome, Togo, is the first African space dedicated to technology democracy. \n"
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: woe-lab
+instagramHandle: ""
 lat: 4.9255857
+linkedinUrl: ""
 lng: -2.32036949999997
 name: Woe Lab
+postalCode: ""
 region: Western Region
-twitterHandle: null
+twitterHandle: ""
 websiteUrl: http://www.woelabo.com/
-hubID: woe-lab
-linkedinUrl: null

@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Cape Coast
 country: Ghana
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: Oguaa Business Incubator
-region: null
-twitterHandle: null
-websiteUrl: null
+email: ""
+facebookUrl: ""
 hubID: oguaa-business-incubator
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Oguaa Business Incubator
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: ""

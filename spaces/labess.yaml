@@ -1,14 +1,17 @@
 addressLine1: 7 Rue du Docteur Alphonse Laveran
+addressNotes: ""
 city: Tunis
 country: Tunisie
 description: ""
 email: contact@labess.tn
 facebookUrl: https://www.facebook.com/LabessTunisie/
-lat: null
-lng: null
+hubID: labess
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Labess
-region: null
+postalCode: ""
+region: ""
 twitterHandle: LabessTN
 websiteUrl: https://www.labess.tn
-hubID: labess
-linkedinUrl: null

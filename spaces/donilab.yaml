@@ -1,15 +1,18 @@
 addressLine1: SOTUBA
+addressNotes: ""
 city: Bamako
 country: Mali
 description: |
   DoniLab is an innovation hub that is focused on social impact, job creation and innovation.
 email: info@donilab.net
 facebookUrl: https://www.facebook.com/donilab.officiel/
+hubID: donilab
+instagramHandle: ""
 lat: 12.6363899
+linkedinUrl: ""
 lng: -7.99483789999999
 name: DoniLab
+postalCode: ""
 region: District de Bamako
-twitterHandle: null
+twitterHandle: ""
 websiteUrl: http://www.donilab.net/
-hubID: donilab
-linkedinUrl: null

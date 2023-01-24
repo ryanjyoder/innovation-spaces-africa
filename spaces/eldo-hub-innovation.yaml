@@ -1,15 +1,18 @@
 addressLine1: Kenyatta Avenue, Nakuru, Kenya
+addressNotes: ""
 city: Nakuru
 country: Kenya
 description: |
   Eldo Hub Innovation
-email: null
-facebookUrl: null
+email: ""
+facebookUrl: ""
+hubID: eldo-hub-innovation
+instagramHandle: ""
 lat: -0.2849853
+linkedinUrl: ""
 lng: 36.0693113
 name: Eldo Hub Innovation
+postalCode: ""
 region: Nakuru County
 twitterHandle: eldohub
 websiteUrl: https://www.eldohub.co.ke/
-hubID: eldo-hub-innovation
-linkedinUrl: null

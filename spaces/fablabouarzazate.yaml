@@ -1,27 +1,17 @@
-activity_status: planned
-address_1: FABLAB OUARZAZATE , Ibn Al Haytham Technical Hight School, Ouarzazate, Maroc
-address_2: ""
-avatar_url: http://fablabs.io.s3.amazonaws.com/2018/10/15/21/38/33/28d4b66c-e35c-4944-8e82-ec6289c65fea/Logo-FabLab.png
-blurb: We are students, pensioners, teachers, engineers, IT people, makers, who like to spend in their spare time in technology and enjoyment of making their own projects and do not want to do this alone.
-capabilities:
-  - three_d_printing
-  - laser
-  - precision_milling
+addressLine1: ""
+addressNotes: FABLAB OUARZAZATE , Ibn Al Haytham Technical Hight School, Ouarzazate, Maroc
 city: OUARZAZATE
-country_code: MA
-county: OUARZAZATE
+country: ""
 description: "Fablab Ouarzazate is a space aimed at developing and monitoring innovative projects and sharing technoligical knowledge and experiences.\r\nFabLab Ouarzazate 'Manufacturing Laboratory' is open to the public and the professionals. You can manufacture almost any type of project, using all tools, hardware and computers which controlled machines.\r\nLocation :\r\nWe are located in Ouarzazate \"the door of the desert\".\r\nOur laboratory is devided to 3 large labs; one for electrical equipment, the other for electronic devices and the last for mechanical tools, we also have open spaces with computers for project engineering and research.\r\nOur type project :\r\n- Robotic projects\r\n- Projects in the field of RE and EE.\r\n- Electrical, Electronics, Powerful Electronics Projects ....\r\n- Prototyping of ICs, embedded systems, RF circuits, EMC ....\r\nTool and equipment available:\r\n- 3D printer\r\n- tools for electronics\r\n- Electrical and mechanical workshops\r\n- Oscilloscopes, Frequency synthesizer, electrical and electronic tools\r\n- tools for mechanical manufacturing\r\n- high performance computers\r\nExpertise and know how to do it:\r\n- Meet people with various skills in the field of Electrical / Electronics and Telecommunication, Automatic / Automation, Computers and all other fields.\r\n- Theoretical and practical training of high quality themes: robotics, Arduino, Linux electrical / electronics, mechanical manufacturing, PLC, Raspberry PI, IOT, C language, microcontrollers, sensors & actuators, CAD, 3D graphics, 3D printing ..."
 email: khallouki.el.mahdi@gmail.com
-header_url: http://fablabs.io.s3.amazonaws.com/2018/07/26/01/49/55/7371738c-2d8a-427d-a730-73f8bccfbb02/header.jpg
-kind_name: fab_lab
-latitude: null
-links: []
-longitude: null
-name: FABLAB OUARZAZATE
-parent_id: 887
-phone: "+212614014476"
-slug: fablabouarzazate
-addressNotes: FABLAB OUARZAZATE , Ibn Al Haytham Technical Hight School, Ouarzazate, Maroc
-postalCode: "45000"
+facebookUrl: ""
 hubID: fablabouarzazate
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: FABLAB OUARZAZATE
+postalCode: "45000"
+region: ""
+twitterHandle: ""
+websiteUrl: ""

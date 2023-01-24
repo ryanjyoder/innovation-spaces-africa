@@ -1,32 +1,17 @@
-activity_status: active
-address_1: 10 bis rue de algerie
-address_2: ""
-avatar_url: http://fablabs.io.s3.amazonaws.com/2020/05/14/22/47/24/c8130bdc-ddf2-4f06-918d-f692a025edb8/el fabspace.png
-blurb: EL FABSPACE is the first fablab in downtown Tunis located in the vibrant and busy Beb Dzira neighborhood. It is home to a local community of makers working on technology and social impact.
-capabilities:
-  - three_d_printing
-  - cnc_milling
-  - laser
-  - precision_milling
+addressLine1: ""
+addressNotes: 10 bis rue de algerie
 city: Tunis
-country_code: TN
-county: Tunis
+country: ""
 description: "EL FABSPACE is launched by EL SPACE and Open Fab Tunisia, two of the most active nonprofits in Tunisia working on the makers movement and open source technology. \r\nEL FABSPACE is a fablab located within the ecosystem of EL SPACE, the first social innovation hub in Tunisia and home to a vibrant community of makers, technologists, social entrepreneurs and students. "
 email: ahla@elspace.org
-header_url: http://fablabs.io.s3.amazonaws.com/2020/05/14/22/47/24/191e83c3-8119-40d6-8111-89b32ab18926/download.jpg
-kind_name: fab_lab
-latitude: null
-links:
-  - id: 10767
-    url: http://www.elspace.org
-  - id: 10766
-    url: http://www.elfabspace.co
-longitude: null
-name: EL FABSPACE Beb Dzira
-parent_id: null
-phone: "+21627883887"
-slug: elfabspace
-addressNotes: 10 bis rue de algerie
-postalCode: "1000"
+facebookUrl: ""
 hubID: elfabspace
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: EL FABSPACE Beb Dzira
+postalCode: "1000"
+region: ""
+twitterHandle: ""
+websiteUrl: ""

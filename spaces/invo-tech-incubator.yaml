@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Durban
 country: South Africa
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: Invo Tech incubator
-region: null
-twitterHandle: null
-websiteUrl: www.invotech.dut.ac.za
+email: ""
+facebookUrl: ""
 hubID: invo-tech-incubator
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Invo Tech incubator
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: www.invotech.dut.ac.za

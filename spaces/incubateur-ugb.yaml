@@ -1,14 +1,17 @@
 addressLine1: Sanar, Saint-Louis, Saint-Louis, S�n�gal
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
 email: incubateur@ugb.edu.sn
 facebookUrl: https://web.facebook.com/incubateurugb/
-lat: null
-lng: null
-name: Incubateur UGB
-region: null
-twitterHandle: null
-websiteUrl: http://incubation.ugb.sn
 hubID: incubateur-ugb
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Incubateur UGB
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://incubation.ugb.sn

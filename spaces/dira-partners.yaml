@@ -1,14 +1,17 @@
 addressLine1: 80 R�sidences Hacienda, dakar , S�n�gal
-city: null
-country: null
+addressNotes: ""
+city: ""
+country: ""
 description: ""
 email: contact@dirapartners.com
-facebookUrl: null
-lat: null
-lng: null
-name: Dira Partners
-region: null
-twitterHandle: null
-websiteUrl: http://www.dirapartners.com
+facebookUrl: ""
 hubID: dira-partners
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Dira Partners
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://www.dirapartners.com

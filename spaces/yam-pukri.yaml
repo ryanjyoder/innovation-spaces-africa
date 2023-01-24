@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Ouagadougou
 country: Burkina Faso
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: yam-pukri
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Yam Pukri
-region: null
+postalCode: ""
+region: ""
 twitterHandle: yam_pukri
 websiteUrl: http://www.yam-pukri.org/
-hubID: yam-pukri
-linkedinUrl: null

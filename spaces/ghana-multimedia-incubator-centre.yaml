@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Accra
 country: Ghana
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
-name: Ghana Multimedia Incubator Centre
-region: null
-twitterHandle: null
-websiteUrl: http://gmic.gov.gh/
+email: ""
+facebookUrl: ""
 hubID: ghana-multimedia-incubator-centre
-linkedinUrl: null
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
+name: Ghana Multimedia Incubator Centre
+postalCode: ""
+region: ""
+twitterHandle: ""
+websiteUrl: http://gmic.gov.gh/

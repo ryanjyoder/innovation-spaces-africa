@@ -1,14 +1,17 @@
 addressLine1: ""
+addressNotes: ""
 city: Casablanca
 country: Morocco
 description: ""
-email: null
-facebookUrl: null
-lat: null
-lng: null
+email: ""
+facebookUrl: ""
+hubID: girls-in-tech-git-morocco-chapter
+instagramHandle: ""
+lat: 0
+linkedinUrl: ""
+lng: 0
 name: Girls in Tech (GIT)-Morocco Chapter
-region: null
+postalCode: ""
+region: ""
 twitterHandle: girlsintech
 websiteUrl: http://morocco.girlsintech.org/
-hubID: girls-in-tech-git-morocco-chapter
-linkedinUrl: null

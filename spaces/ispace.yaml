@@ -1,14 +1,17 @@
 addressLine1: Ghana International Trade Fair Centre, Accra, Ghana
+addressNotes: ""
 city: Accra
 country: Ghana
 description: "The iSpace Foundation is a coworking tech and creative innovation space for startups, innovators, social entrepreneurs & developers..  \n"
 email: info@ispacegh.com
-facebookUrl: null
+facebookUrl: ""
+hubID: ispace
+instagramHandle: ""
 lat: 5.5712984
+linkedinUrl: ""
 lng: -0.146848299999988
 name: iSpace
+postalCode: ""
 region: Greater Accra Region
 twitterHandle: iSpaceGh
 websiteUrl: http://ispacegh.com/
-hubID: ispace
-linkedinUrl: null

@@ -1,28 +1,17 @@
-activity_status: null
-address_1: ACI 2000
-address_2: ""
-avatar_url: null
-blurb: bamako fablab was created in order to be helpful first to the local artisans then society cause they have a lot of innovative ideas but they need of course the technology to be competitive worldwide.
-capabilities:
-  - three_d_printing
-  - circuit_production
-  - laser
-  - vinyl_cutting
+addressLine1: ""
+addressNotes: ""
 city: Bamako
-country_code: ML
-county: HAMDALLAYE
+country: ""
 description: 'our fablab will be based on the assistance of local artisans then the people. we have an hardworking youth but they don''t have access to the technology so what they make cannot be worldwide competitive. then with the part of the youth which is in school, our vision is to make them understand there is another world different than fuly days of theory. we want them to be able to create by their own whatever they see on tv , internet, or what they think about. '
 email: moussaseydouhan@gmail.com
-header_url: http://fablabs.io.s3.amazonaws.com/2017/01/28/13/55/30/58aef2fb-9022-46e3-ab80-e670252b7d2a/Kabako Bamako.jpg
-kind_name: fab_lab
+facebookUrl: ""
+hubID: kabakobamako
+instagramHandle: ""
 lat: 12.6299491
-links: []
+linkedinUrl: ""
 lng: -8.02742739999997
 name: Kabako Bamako
-parent_id: null
-phone: 00223 75154284
-slug: kabakobamako
-addressNotes: ""
 postalCode: BP E 3568
-hubID: kabakobamako
-linkedinUrl: null
+region: ""
+twitterHandle: ""
+websiteUrl: ""

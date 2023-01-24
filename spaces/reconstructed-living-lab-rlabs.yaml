@@ -1,15 +1,18 @@
 addressLine1: 66 Tarentaal Rd, Bridgetown, Cape Town 7769, South Africa
+addressNotes: ""
 city: Cape Town
 country: South Africa
 description: |
   Reconstructed Living Lab (RLabs) is a global movement and registered social enterprise that provides innovative solutions to address various complex problems.
 email: info@rlabs.org
-facebookUrl: null
+facebookUrl: ""
+hubID: reconstructed-living-lab-rlabs
+instagramHandle: ""
 lat: -33.9538889
+linkedinUrl: ""
 lng: 18.532508
 name: Reconstructed Living Lab (RLabs)
+postalCode: ""
 region: Western Cape
 twitterHandle: RLabs
 websiteUrl: http://rlabs.org/
-hubID: reconstructed-living-lab-rlabs
-linkedinUrl: null
