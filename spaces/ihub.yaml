@@ -2,7 +2,8 @@ addressLine1: Kenya
 addressNotes: ""
 city: ""
 country: Kenya
-description: "iHub is Nairobi�s innovation hub for the technology community and serve as an open space for the technologists, investors, tech companies and hackers   \n"
+description: |
+  iHub is a support system for ICT-focused entrepreneurs who aspire to create great companies leveraging the unique opportunities in Africa. It also speeds the growth of the Kenyan tech community by connecting people, supporting startups, and surfacing information.
 email: ""
 facebookUrl: ""
 hubID: ihub

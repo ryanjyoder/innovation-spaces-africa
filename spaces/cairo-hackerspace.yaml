@@ -2,7 +2,8 @@ addressLine1: Cairo, Egypt
 addressNotes: ""
 city: Cairo
 country: Egypt
-description: "Cairo Hackerspace is an innovation hub that focuses on social impact and innovation.   \n"
+description: |
+  Cairo Hackerspace shares its benefits with other hackerspaces and especially help guide new hackerspaces in developing in a sustainable and practical way. They are an innovation hub that focuses on social impact and innovation and gets most of their funds from Africa and Europe.
 email: ""
 facebookUrl: ""
 hubID: cairo-hackerspace

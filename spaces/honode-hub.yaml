@@ -2,7 +2,8 @@ addressLine1: Ho - Denu Road, Dzodze, Ghana
 addressNotes: ""
 city: Dzodze
 country: Ghana
-description: "Honode Hub is an incubator and accelerator  that are focused on skill acquisition, job creation and innovation.  \n"
+description: |
+  Ho Node Hub is an incubator and accelerator that are focused on skill acquisition, job creation and innovation. Their mission is to shape the local tech conversation, support digital innovations by equipping the youth with the right skill set and attitude for Africa’s digital economy, they get most of their funding from Africa.
 email: ""
 facebookUrl: ""
 hubID: honode-hub
