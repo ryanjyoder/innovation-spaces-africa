@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Iba Ajie, 1 Tasia Street, ShopRite Junction
 addressNotes: ""
 city: Onitsha
 country: Nigeria
-description: |
-  The Ado Business Incubation Centre support businesses in Onitsha providing innovative solutions to challenges across our focus areas. Hub Located @IbaajieCenter
+diescription: The Ado Business Incubation Centre support businesses in Onitsha providing innovative solutions to challenges across our focus areas. Hub Located @IbaajieCenter
 email: ""
-facebookUrl: ""
+facebookUrl: abicng.org
+googleMapsUrl: ""
 hubID: ado-business-incubation-centre-abic-hub
-instagramHandle: ""
+instagramHandle: '@abicng'
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Ado Business Incubation Centre - ABIC Hub
+phone: +234 803 783 4276
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: abicng
-websiteUrl: https://abicng.org
+websiteUrl: abicng.org

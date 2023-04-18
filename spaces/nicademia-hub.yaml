@@ -3,24 +3,23 @@ activities:
   - co-creation-hub
   - co-working-space
   - incubator
-addressLine1: ""
+addressLine1: 315 Herbert Macaulay Way, Yaba 101245, Lagos, Nigeria
 addressNotes: ""
-city: ""
+city: Lagos
 country: Nigeria
-description: |
-  Nicademia Hub is an innovation centre for creatives and techies, designed for African talents with the aim of providing the necessary infrastructure needed to leapfrog local African talents to global standards.
-email: ""
-facebookUrl: ""
+diescription: Nicademia Hub is an innovation centre for creatives and techies, designed for African talents with the aim of providing the necessary infrastructure needed to leapfrog local African talents to global standards.
+email: info@nicademia.com
+facebookUrl: nicademia
 googleMapsUrl: ""
 hubID: nicademia-hub
-instagramHandle: ""
+instagramHandle: '@nicademia01'
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Nicademia Hub
-phone: ""
+phone: +234 909 805 8000
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: '@TeamNicademia'
+websiteUrl: coworker.com/nigeria/lagos/nicademia-hub

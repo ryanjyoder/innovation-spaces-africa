@@ -1,17 +1,21 @@
-addressLine1: ""
-addressNotes: ""
+activities: ""
+addressLine1: Entrée de Thiès - BP A10
+addressNotes: Thiès 21001, Senegal
 city: Thiès
-country: ""
-description: ""
+country: Senegal
+diescription: Du cycle préparatoire au métiers de l'ingénieur....
 email: igueye@ept.sn
-facebookUrl: ""
+facebookUrl: EPT_lofficial
+googleMapsUrl: ""
 hubID: polylab
 instagramHandle: ""
 lat: 14.7910052
 linkedinUrl: ""
 lng: -16.9358604
 name: Polylab
-postalCode: "22000"
+phone: +221 76 223 61 60
+plusCode: Q2WP+676
+postalCode: 22000
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: ept-official
+websiteUrl: http://www.ept.sn/

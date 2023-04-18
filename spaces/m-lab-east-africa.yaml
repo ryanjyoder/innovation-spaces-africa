@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: 3rd Floor, Bishop Magua Centre, George Padmore Ln, Nairobi, Kenya
 addressNotes: ""
 city: Nairobi
 country: Kenya
-description: ""
-email: ""
-facebookUrl: ""
+diescription: m:lab East Africa's vision is to facilitate demand-driven innovation by regional entrepreneurs, ensu
+email: info@ihub.co.ke
+facebookUrl: mlabeastafrica
+googleMapsUrl: https://www.google.com/search?client=ubuntu&hs=AA9&channel=fs&sxsrf=AJOqlzWd6exYU32PIY72z8Q-sK2QbA2Opg:1678166161843&q=Bishop+Magua+Building&ludocid=12596589397095223520&gsas=1&client=ubuntu&lsig=AB86z5WBigyghJbTg_mwszxQGuZg&sa=X&ved=2ahUKEwjmks2PiMn9AhWGGogKHc1pADkQ8G0oAHoECCEQAQ
 hubID: m-lab-east-africa
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: m:Lab East Africa
+phone: +254 798 985410
+plusCode: PQ6M+97
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: http://mlab.co.ke/
+twitterHandle: '@mlabeastafrica'
+websiteUrl: mlab.co.ke

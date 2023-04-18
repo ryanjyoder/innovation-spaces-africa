@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: Bukavu, Kinshasa, Congo-Kinshasa
 addressNotes: ""
 city: Kinshasa
 country: Democratic Republic of the Congo
-description: |
-  KivuHub is a hub for Tech Entrepreneurial Community, virtual spaces for startups and entrepreneurs, eager to make an impact in the world with technology in DR.Congo. They get most of their funding from Africa, Europe, and America.
-email: ""
-facebookUrl: ""
+diescription: KivuHub is a hub for Tech Entrepreneurial Community, virtual spaces for startups and entrepreneurs, eager to make an impact in the world with technology in DR.Congo. They get most of their funding from Africa, Europe, and America.
+email: infos@kivuhub.net
+facebookUrl: kivhub
+googleMapsUrl: ""
 hubID: kivu-hub
 instagramHandle: ""
 lat: -4.3919893
-linkedinUrl: ""
-lng: 15.3127824000001
+linkedinUrl: kivhub
+lng: 15.3127824
 name: Kivu Hub
+phone: 243973058006
+plusCode: ""
 postalCode: ""
 region: Kinshasa
 twitterHandle: kivuhub

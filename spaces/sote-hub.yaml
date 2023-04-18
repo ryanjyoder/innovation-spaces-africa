@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Kenya
-addressNotes: ""
-city: ""
+addressNotes: Bella Rosa House
+city: Mombasa
 country: Kenya
-description: |
-  SoteHub is an innovation hub that runs incubation and acceleration programmes focused on job creation and youth engagement.
-email: ""
-facebookUrl: ""
+diescription: SoteHub is an innovation hub that runs incubation and acceleration programmes focused on job creation and youth engagement.
+email: info@sotehub.com
+facebookUrl: sotehub
+googleMapsUrl: ""
 hubID: sote-hub
 instagramHandle: ""
 lat: -0.023559
-linkedinUrl: ""
+linkedinUrl: sote-hub
 lng: 37.906193
 name: Sote hub
+phone: +254 799 817 560
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: Sote_Hub
-websiteUrl: http://www.sotehub.com/
+websiteUrl: sotehub.com

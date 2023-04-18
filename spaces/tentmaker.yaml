@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: accra, Ghana Airways Avenue, Accra, Ghana
 addressNotes: ""
 city: Accra
 country: Ghana
-description: |
-  Tentmaker Ghana is an entrepreneurial and industry incubator business that turns ideas into economic viable ventures and build businesses for the global market whiles raising entrepreneurs. They are a co-creation space that is focused on social impact, job creation, and innovation.
-email: ""
-facebookUrl: ""
+diescription: Tentmaker Ghana is an entrepreneurial and industry incubator business that turns ideas into economic viable ventures and build businesses for the global market whiles raising entrepreneurs. They are a co-creation space that is focused on social impact, job creation, and innovation.
+email: contact@tentmakergh.com
+facebookUrl: tentmakergh
+googleMapsUrl: ""
 hubID: tentmaker
 instagramHandle: ""
 lat: 5.6004186
-linkedinUrl: ""
-lng: -0.183411500000034
+linkedinUrl: tentmaker-ghana
+lng: -0.1834115
 name: Tentmaker
+phone: +233(0)303969135
+plusCode: MQXQ+G56
 postalCode: ""
 region: Greater Accra Region
 twitterHandle: TentmakerGhana
-websiteUrl: https://www.tentmakergh.com/
+websiteUrl: tentmakergh.com

@@ -1,16 +1,20 @@
-addressLine1: Ouagadougou, Burkina Faso
+activities: ""
+addressLine1: 12 BP 499, Ouagadougou 12
 addressNotes: ""
-city: ""
-country: ""
-description: ""
+city: Ouagadougou
+country: Burkina Faso
+diescription: La force du changement la plus puissante, c’est une idée nouvelle entre les mains d’un vrai entrepreneur
 email: contact@lafabrique-bf.com
 facebookUrl: https://www.facebook.com/lafabriquebf/
+googleMapsUrl: ""
 hubID: la-fabrique
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: la-fabrique-bf
 lng: 0
 name: La Fabrique
+phone: (+226) 55 03 33 33
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ""

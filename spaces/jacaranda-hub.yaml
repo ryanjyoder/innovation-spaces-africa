@@ -1,24 +1,23 @@
 activities:
   - accelerator
   - incubator
-addressLine1: ""
+addressLine1: Plot No. 15584, Sun Share Tower, 1 Lubansenshi, Floor, Zambia
 addressNotes: ""
-city: ""
+city: Lusaka
 country: Zambia
-description: |
-  Jacaranda hub have an independent body that oversees management and run a not-for-profit business model. They are an Incubator and Accelerator focussed on social impact, youth engagement and skill acquisition and get most of their funds from Africa.
-email: ""
-facebookUrl: ""
+diescription: Jacaranda hub have an independent body that oversees management and run a not-for-profit business model. They are an Incubator and Accelerator focussed on social impact, youth engagement and skill acquisition and get most of their funds from Africa.
+email: hello@jacarandahub.org
+facebookUrl: jhud zambia
 googleMapsUrl: ""
 hubID: jacaranda-hub
-instagramHandle: ""
+instagramHandle: '@jhubzambia'
 lat: 0
-linkedinUrl: ""
+linkedinUrl: jacaranda-hub
 lng: 0
 name: Jacaranda Hub
 phone: ""
-plusCode: ""
+plusCode: J868+PC
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: '@jacarandahub'
+websiteUrl: jacarandahub.org

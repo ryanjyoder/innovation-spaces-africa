@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Atomic-Haatso Road, Kwabenya, Accra
 addressNotes: ""
 city: Accra
 country: Ghana
-description: ""
-email: ""
-facebookUrl: ""
+diescription: The Ghana Space Science and Technology Institute (GSSTI) is a statutory organization under the Ghana Atomic Energy Commission (GAEC) of the Ministry of Environment, Science, Technology and Innovation (MESTI). GSSTI has the responsibility to harness, coordinate, research, commercialize and explore space science and technology for the socio-economic development of Ghana. The Institute has a diverse workforce with diverse background and expertise and works with local and international partners including academia, research institutions and industry.
+email: gssti@gaecgh.org
+facebookUrl: https://www.facebook.com/GAECGH
+googleMapsUrl: ""
 hubID: gspace
-instagramHandle: ""
+instagramHandle: gaecgh
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://www.linkedin.com/company/ghana-atomic-energy-commission/
 lng: 0
 name: gSpace
+phone: +233 302 951 830
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: http://gspace.addhen.org/
+twitterHandle: gaecgh
+websiteUrl: https://gssti.org/

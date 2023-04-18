@@ -1,17 +1,19 @@
-addressLine1: ""
+activities: ""
+addressLine1: Yaoundé,Carrefour Bastos
 addressNotes: Bastos
-city: Yaoundé
+city: Yaounde
 country: Cameroon
-description: Nous sommes un centre d’excellence pour la recherche, le développement et innovation et apportons au Cameroun, la technologie pour toutes activités économiques.
-email: ""
-facebookUrl: ""
-gooleMapsUrl: https://goo.gl/maps/H7ASFwBuztBWqTeA6
+diescription: Nous sommes un centre d’excellence pour la recherche, le développement et innovation et apportons au Cameroun, la technologie pour toutes activités économiques.
+email: info@cdic.cm
+facebookUrl: https://www.facebook.com/CDIC-110129708178905
+googleMapsUrl: ""
 hubID: cdic-yaounde
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://www.linkedin.com/company/cameroon-digital-innovation-center
 lng: 0
 name: Cameroon Digital Innovation Centre
+phone: 222207200
 plusCode: VGV6+QW
 postalCode: ""
 region: ""

@@ -1,17 +1,21 @@
-addressLine1: ""
-addressNotes: Boulevard Laymoune, Casablanca
+activities: ""
+addressLine1: Bd Laymoune, Casablanca, Morocco
+addressNotes: ""
 city: Casablanca
-country: ""
-description: FablabEMSICASABLANCA is a new fablab created in the EMSI Casablanca School. The main objective is the support of EMSI students to innovation in engineering sciences
+country: Morocco
+diescription: FablabEMSICASABLANCA is a new fablab created in the EMSI Casablanca School. The main objective is the support of EMSI students to innovation in engineering sciences
 email: med.tabaa@gmail.com
-facebookUrl: ""
+facebookUrl: https://www.facebook.com/emsi.ma/
+googleMapsUrl: ""
 hubID: fablabemsicasablanca
-instagramHandle: ""
+instagramHandle: emsi
 lat: 33.5413023
-linkedinUrl: ""
-lng: -7.67090080000003
+linkedinUrl: https://www.linkedin.com/school/ecole-marocaine-des-sciences-de-l'ing%C3%A9nieur
+lng: -7.6709008
 name: FABLAB EMSI CASABLANCA
+phone: +212 5228-94287
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: www.emsi.ma

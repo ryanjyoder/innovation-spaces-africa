@@ -1,24 +1,23 @@
 activities:
   - accelerator
   - incubator
-addressLine1: ""
-addressNotes: ""
-city: ""
+addressLine1: The Lab, Mutual Benefit Assurance Building
+addressNotes: opposite Ace Supermarket, General, Ogbomosho, Nigeria
+city: Ogbomosho
 country: Nigeria
-description: |
-  Ennovate Lab is an innovation centre focused on social impact, innovation and education. It is an enterprise and innovation hub where creative minds meet to systematically develop and transform communities through technology, creativity, and social enterprise.
-email: ""
-facebookUrl: ""
+diescription: We are an enterprise and innovation hub focused on system transformation and community development. We help businesses grow and partner with organisations to run community development projects
+email: hello@ennovatelab.com
+facebookUrl: facebook.com%2FEnnovatelab
 googleMapsUrl: ""
 hubID: ennovate-lab
-instagramHandle: ""
+instagramHandle: official_ennovatelab
 lat: 0
-linkedinUrl: ""
+linkedinUrl: ennovatelabteam
 lng: 0
 name: Ennovate Lab
-phone: ""
+phone: +234 805 716 2471
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: ennovatelab
+websiteUrl: https://ennovatelab.com/

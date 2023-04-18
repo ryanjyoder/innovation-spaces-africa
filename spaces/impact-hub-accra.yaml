@@ -1,16 +1,20 @@
+activities: ""
 addressLine1: F393/4 Otswe St Osu, Ako-Adjei
 addressNotes: ""
 city: Accra
 country: Ghana
-description: '"At Impact Hub Accra, we believe that the world’s greatest challenges will never be solved by one person or organization alone. We need to work together. That’s why we set out to create a thriving innovation ecosystem where people collaborate across organizations, cultures and generations to solve the grand challenges of our time."'
-email: ""
+diescription: At Impact Hub Accra, we believe that the world’s greatest challenges will never be solved by one person or organization alone. We need to work together. That’s why we set out to create a thriving innovation ecosystem where people collaborate across organizations, cultures and generations to solve the grand challenges of our time.
+email: accra@impacthub.net
 facebookUrl: https://www.facebook.com/impacthubaccra/
+googleMapsUrl: ""
 hubID: impact-hub-accra
-instagramHandle: https://www.instagram.com/impacthubaccra/
+instagramHandle: impacthubaccra
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Impact Hub Accra
+phone: "+233543962412"
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: impacthubaccra

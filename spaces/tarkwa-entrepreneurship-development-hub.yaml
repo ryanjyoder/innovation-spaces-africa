@@ -2,14 +2,13 @@ activities:
   - co-working-space
   - incubator
   - innovation-centre
-addressLine1: ""
-addressNotes: ""
-city: ""
+addressLine1: North Hill Avenue, Tarkwa, Ghana
+addressNotes: Tarkwa, Ghana
+city: Tarkwa
 country: Ghana
-description: |
-  Tarkwa Entrepreneurship Development Hub is focused on improving economic livelihood through capacity building and entrepreneurship and is affiliated to the University of Mines and Technology, Ghana.
-email: ""
-facebookUrl: ""
+diescription: Tarkwa Entrepreneurship Development Hub is focused on improving economic livelihood through capacity building and entrepreneurship and is affiliated to the University of Mines and Technology, Ghana.
+email: info@tedhub.com.gh
+facebookUrl: tarkwahub
 googleMapsUrl: ""
 hubID: tarkwa-entrepreneurship-development-hub
 instagramHandle: ""
@@ -17,9 +16,9 @@ lat: 0
 linkedinUrl: ""
 lng: 0
 name: Tarkwa Entrepreneurship Development Hub
-phone: ""
-plusCode: ""
+phone: +233 54 946 8492
+plusCode: 8244+MG
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: TarkwaHub
+websiteUrl: tedhub.com.gh

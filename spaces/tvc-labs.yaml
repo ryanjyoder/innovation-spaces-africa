@@ -1,23 +1,22 @@
 activities:
   - incubator
-addressLine1: ""
+addressLine1: 17 Chapel St, Sabo, Yaba, Lagos
 addressNotes: ""
-city: ""
+city: Lagos
 country: Nigeria
-description: |
-  TVC Labs is an incubator, a profit making venture desired to implement strategic technology solutions for startups,post-revenue company or even for a mature organization. the vision is to achieve both innovation and independence for new ideas and others within the African continent, especially West Africa. They have currently invested in 8 startups which are at seed stage and 2 growth stage.
-email: ""
-facebookUrl: ""
+diescription: TVC Labs is an incubator, a profit making venture desired to implement strategic technology solutions for startups,post-revenue company or even for a mature organization. the vision is to achieve both innovation and independence for new ideas and others within the African continent, especially West Africa. They have currently invested in 8 startups which are at seed stage and 2 growth stage.
+email: info@tvcng.com
+facebookUrl: TVCLabs
 googleMapsUrl: ""
 hubID: tvc-labs
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: tvclabs
 lng: 0
 name: TVC Labs
-phone: ""
-plusCode: ""
+phone: +234(0)8061200200
+plusCode: G94G+86
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: technovisioncom
+websiteUrl: tvcng.com

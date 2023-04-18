@@ -1,16 +1,20 @@
+activities: ""
 addressLine1: N'Djamena, Chad
 addressNotes: ""
 city: N'Djamena
 country: Chad
-description: "Altoufikh International is an open space focused on social impact, youth engagement and innovation. \n"
+diescription: Altoufikh International is an open space focused on social impact, youth engagement and innovation.
 email: ""
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: altoufikh-international
 instagramHandle: ""
 lat: 12.1348457
 linkedinUrl: ""
-lng: 15.0557415000001
+lng: 15.0557415
 name: Altoufikh International
+phone: ""
+plusCode: ""
 postalCode: ""
 region: N'Djamena
 twitterHandle: ""

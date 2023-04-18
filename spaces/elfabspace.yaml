@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Gouvernorat de, 10 Bis Rue de Algerie, Tunis 1001, Tunisia
 addressNotes: 10 bis rue de algerie
 city: Tunis
-country: ""
-description: "EL FABSPACE is launched by EL SPACE and Open Fab Tunisia, two of the most active nonprofits in Tunisia working on the makers movement and open source technology. \r\nEL FABSPACE is a fablab located within the ecosystem of EL SPACE, the first social innovation hub in Tunisia and home to a vibrant community of makers, technologists, social entrepreneurs and students."
+country: Tunisia
+diescription: EL FABSPACE is launched by EL SPACE and Open Fab Tunisia, two of the most active nonprofits in Tunisia working on the makers movement and open source technology.  EL FABSPACE is a fablab located within the ecosystem of EL SPACE, the first social innovation hub in Tunisia and home to a vibrant community of makers, technologists, social entrepreneurs and students.
 email: ahla@elspace.org
-facebookUrl: ""
+facebookUrl: https://www.facebook.com/elspace.cw
+googleMapsUrl: ""
 hubID: elfabspace
-instagramHandle: ""
+instagramHandle: elspace_cw
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://www.linkedin.com/company/el-space
 lng: 0
 name: EL FABSPACE Beb Dzira
-postalCode: "1000"
+phone: "+21627883887"
+plusCode: Q5VH+G8
+postalCode: 1000
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: elspace_cw
+websiteUrl: https://www.elspace.org/

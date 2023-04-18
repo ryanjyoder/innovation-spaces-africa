@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Av. Annakhil, Rabat, Morocco
 addressNotes: ""
 city: Rabat
-country: ""
-description: The FabLab is localised in the engineering school ENSET in Rabat. The equipment are state of the art, it contains SLS and SLM machines, added to the laser cutter and 3d printers. it is also possible to use CNC machines and a metrology lab. Thanks to the proximity of students and professors, the visitor can find help easily.
+country: Morocco
+diescription: The FabLab is localised in the engineering school ENSET in Rabat. The equipment are state of the art, it contains SLS and SLM machines, added to the laser cutter and 3d printers. it is also possible to use CNC machines and a metrology lab. Thanks to the proximity of students and professors, the visitor can find help easily.
 email: houcine.salem@um5s.net.ma
-facebookUrl: ""
+facebookUrl: facebook.com%2FMarocFablab
+googleMapsUrl: ""
 hubID: fablabrabat
-instagramHandle: ""
+instagramHandle: saad.derouich.architect
 lat: 33.9677612
 linkedinUrl: ""
 lng: -6.8778926
 name: FabLab Rabat
+phone: +212 694-500536
+plusCode: ""
 postalCode: B.P. 6207
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: www.fablabs.io/labs/fablabrabat

@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: Kenya
 addressNotes: ""
-city: ""
+city: Nairobi
 country: Kenya
-description: |
-  C4DLab is an R&D (research & development) and startup incubation lab, based at the School of Computing and Informatics, University of Nairobi, to generate and share knowledge and produce innovative technological solutions that address societal problems by nurturing and mentoring a community of researchers, undertaking cutting-edge research, and forging partnerships.
+diescription: C4DLab is an R&D (research & development) and startup incubation lab, based at the School of Computing and Informatics, University of Nairobi, to generate and share knowledge and produce innovative technological solutions that address societal problems by nurturing and mentoring a community of researchers, undertaking cutting-edge research, and forging partnerships.
 email: ""
-facebookUrl: ""
+facebookUrl: https://www.facebook.com/c4dlab/
+googleMapsUrl: ""
 hubID: c4dlab
 instagramHandle: ""
 lat: -0.023559
 linkedinUrl: ""
 lng: 37.906193
 name: C4DLab
+phone: ""
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: C4DLab

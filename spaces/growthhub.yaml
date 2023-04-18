@@ -1,17 +1,21 @@
-addressLine1: ""
-addressNotes: ""
+activities: ""
+addressLine1: Lenana Towers, 5th floor
+addressNotes: Nairobi, Kenya
 city: Nairobi
 country: Kenya
-description: ""
-email: ""
-facebookUrl: ""
+diescription: GrowthAfrica accelerates ventures in and into Africa - and across the continent. We assist companies seize and develop business opportunities in Africa.
+email: info@growthafrica.com
+facebookUrl: https://facebook.com/GrowthAfrica.Acceleration
+googleMapsUrl: ""
 hubID: growthhub
-instagramHandle: ""
+instagramHandle: growthafrica
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://www.linkedin.com/company/growthafrica
 lng: 0
 name: GrowthHub
+phone: +254 [0] 733 151 924
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: http://www.thegrowthhub.com/
+twitterHandle: GrowthAfrica
+websiteUrl: https://growthafrica.com/

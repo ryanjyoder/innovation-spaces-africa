@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: ""
 addressNotes: ""
 city: Johannesburg
 country: South Africa
-description: ""
+diescription: TechInBraam connects local IT entrepreneurs and professionals to create and grow a world class technology sector.
 email: ""
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: techinbraam
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: TechinBraam
+phone: ""
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: http://techinbraam.co.za
+websiteUrl: techinbraam.co.za

@@ -7,10 +7,9 @@ addressLine1: ""
 addressNotes: ""
 city: ""
 country: Nigeria
-description: |
-  Our community comes together to develop their capacity to build innovation and deploy their skills in building technology solutions. We provide workspace and physical infrastructure for startups and young organizations
+diescription: Our community comes together to develop their capacity to build innovation and deploy their skills in building technology solutions. We provide workspace and physical infrastructure for startups and young organizations
 email: ""
-facebookUrl: ""
+facebookUrl: https://www.facebook.com/afrilabs
 googleMapsUrl: ""
 hubID: buildcode-together
 instagramHandle: ""
@@ -22,5 +21,5 @@ phone: ""
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: AfriLabs
+websiteUrl: https://afrilabs.com/hub/buildcode-together/

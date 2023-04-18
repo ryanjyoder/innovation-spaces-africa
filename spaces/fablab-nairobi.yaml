@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: 30197, Nairobi, Nairobi, 00100 (GPO), Kenya
 addressNotes: ""
 city: Nairobi
 country: Kenya
-description: ""
-email: ""
+diescription: Fablabs.io is the online social network of the international Fab Lab community. It started as a spin-off project in Fab Lab Barcelona by Tomas Diez and John Rees, and is the current official list of Fab Labs that share same principles, tools, and philosophy around the future of technology and its role in society
+email: stp@uonbi.ac.ke
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: fablab-nairobi
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: FabLab Nairobi
+phone: +254 20 4913609
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: fablabnairobi
-websiteUrl: www.fablab.uonbi.or.ke/#
+websiteUrl: https://www.fablabs.io/labs/fablabnairobi

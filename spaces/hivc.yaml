@@ -1,24 +1,23 @@
 activities:
   - co-working-space
   - innovation-centre
-addressLine1: ""
-addressNotes: ""
-city: ""
+addressLine1: Malingo Street, Buea, Cameroon
+addressNotes: Molyko, Buea, South West, Cameroon
+city: Buea
 country: Cameroon
-description: |
-  Hardware Innovation Valley Community (HIVC) has as a mission, to cause transformation by solving problems using technology and getting the youths involved and proactive to technology. They believe that in order to empower the hardware startup revolution they need to transform the hardware startup ecosystem into an integrated global community.
-email: ""
-facebookUrl: ""
+diescription: Hardware Innovation Valley Community (HIVC) has as a mission, to cause transformation by solving problems using technology and getting the youths involved and proactive to technology. They believe that in order to empower the hardware startup revolution they need to transform the hardware startup ecosystem into an integrated global community.
+email: info@hwivc.org
+facebookUrl: https://www.hwivc.org/agency-index.php#
 googleMapsUrl: ""
 hubID: hivc
-instagramHandle: ""
+instagramHandle: hwivc.org/agency-index.php
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://www.hwivc.org/agency-index.php#
 lng: 0
 name: Hardware Innovation Valley Community
-phone: ""
+phone: +237 6 54 13 20 11
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: hwivc.org/agency-index.php
+websiteUrl: www.hwivc.org

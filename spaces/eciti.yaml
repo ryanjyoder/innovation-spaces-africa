@@ -1,8 +1,9 @@
+activities: ""
 addressLine1: Block B, ELIDZ Science & Technology Park / Lower Chester Road, Sunny Ridge
 addressNotes: East London, South Africa
 city: East London
 country: South Africa
-description: Facilitating sustainable development for SMMEs in the information communication and technology (ICT) and film sectors in the Eastern Cape.
+diescription: Facilitating sustainable development for SMMEs in the information communication and technology (ICT) and film sectors in the Eastern Cape.
 email: info@eciti.co.za
 facebookUrl: https://www.facebook.com/Eastern-Cape-Information-Technology-Initiative-ECITI-208721962558213/
 googleMapsUrl: https://goo.gl/maps/CSKvNXN5Xu35VXPW7
@@ -12,10 +13,9 @@ lat: 0
 linkedinUrl: https://www.linkedin.com/company/eciti---eastern-cape-information-technology-initiative
 lng: 0
 name: ECITI
-phone: ' +27 87 373 0970'
+phone: +27 87 373 0970
 plusCode: XR2X+7C
-postalCode: "5201"
+postalCode: 5201
 region: EC
 twitterHandle: ECITIza
 websiteUrl: eciti.co.za
-youtubeUrl: ""

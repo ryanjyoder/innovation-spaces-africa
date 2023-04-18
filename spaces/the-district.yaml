@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Egypt
-addressNotes: ""
-city: ""
+addressNotes: El-Nasr Rd, Sheraton Al Matar, El Nozha, Cairo Governorate 11799, Egypt
+city: Cairo
 country: Egypt
-description: |
-  The District is a co-working space created on the values of positive thinking, inspiration, collaboration, and innovation. It is a vibrant community of entrepreneurs supporting change-making business enterprises with the right people, substantial knowledge in spaces of inspiration.
-email: ""
-facebookUrl: ""
+diescription: The District is a co-working space created on the values of positive thinking, inspiration, collaboration, and innovation. It is a vibrant community of entrepreneurs supporting change-making business enterprises with the right people, substantial knowledge in spaces of inspiration.
+email: customer.service@wadideglacity.com
+facebookUrl: thedistrictvill
+googleMapsUrl: ""
 hubID: the-district
 instagramHandle: ""
 lat: 26.820553
 linkedinUrl: ""
 lng: 30.802498
 name: The District
+phone: +20 120 085 2153
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: District_Egy
-websiteUrl: http://district-egypt.com/
+websiteUrl: thedistrictvill.com

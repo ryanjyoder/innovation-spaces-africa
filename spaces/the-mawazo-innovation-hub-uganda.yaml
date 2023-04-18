@@ -1,11 +1,12 @@
+activities: ""
 addressLine1: Plot 593 block 28
 addressNotes: Plot 593 block 28, Off Mugazi Awongererwa Rd
 city: Kampala
 country: Uganda
-description: The Mawazo Innovation Hub, a division of NFT Consult, was established to support emerging Next Generation ICT businesses through accelerated technology commercialization. The Mawazo Innovation Hub has created a unique space for high tech entrepreneurs, academics, researchers and venture capitalists to meet, network and collectively work towards growing the Ugandan economy through innovation.
+diescription: The Mawazo Innovation Hub, a division of NFT Consult, was established to support emerging Next Generation ICT businesses through accelerated technology commercialization. The Mawazo Innovation Hub has created a unique space for high tech entrepreneurs, academics, researchers and venture capitalists to meet, network and collectively work towards growing the Ugandan economy through innovation.
 email: patrick.kadama@nftconsult.com
 facebookUrl: ""
-googleMapUrl: https://goo.gl/maps/28gBb91nLb2HGeVn8
+googleMapsUrl: ""
 hubID: the-mawazo-innovation-hub-uganda
 instagramHandle: ""
 lat: 0.3119942
@@ -17,4 +18,4 @@ plusCode: 8HV9+5C
 postalCode: ""
 region: Central Region
 twitterHandle: Mawazohub
-websiteUrl: https://mawazohub.com/
+websiteUrl: mawazohub.com

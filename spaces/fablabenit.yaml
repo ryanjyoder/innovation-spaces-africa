@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Salle 607, Bâtiment F2, ENIT BP 37, le belvédère, Rue Habib Maazoun, Tunis 1002, Tunisia
 addressNotes: ""
 city: Tunis
-country: ""
-description: "It is an open space, available to any student wishing to manufacture products, regardless of its expertise and technical and scientific expertise. The purpose of creating such a space in ENIT is to democratize digital and personal fabrication, encourage individual creativity, provide students with simple means of manufacturing and products development, help small businesses, freshly graduated engineers and support their development.\r\nThe FabLab is established thanks to the European Tempus icré@ project. One of the objectives of the project was to create an innovation platform with the purchase of a rapid prototyping machine and RepRap 3D printers. The concept of FabLab seemed then more appropriate."
+country: Tunisia
+diescription: It is an open space, available to any student wishing to manufacture products, regardless of its expertise and technical and scientific expertise. The purpose of creating such a space in ENIT is to democratize digital and personal fabrication, encourage individual creativity, provide students with simple means of manufacturing and products development, help small businesses, freshly graduated engineers and support their development. The FabLab is established thanks to the European Tempus icré@ project. One of the objectives of the project was to create an innovation platform with the purchase of a rapid prototyping machine and RepRap 3D printers. The concept of FabLab seemed then more appropriate.
 email: fablab@enit.utm.tn
-facebookUrl: ""
+facebookUrl: facebook.com%2FFabLabENIT
+googleMapsUrl: ""
 hubID: fablabenit
 instagramHandle: ""
 lat: 36.8291943
-linkedinUrl: ""
+linkedinUrl: fablab-enit
 lng: 10.142301
 name: FabLab ENIT
-postalCode: "1002"
+phone: 21671874700
+plusCode: R4JV+2R
+postalCode: 1002
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: www.fablabs.io/labs/fablabenit

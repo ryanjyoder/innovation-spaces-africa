@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: Ghana
-addressNotes: ""
-city: ""
+addressNotes: Hse 49 - SE 29056 Drive, 2nd Turn Behind Mizpah School Kentinkrono - Kumasi
+city: Kumasi
 country: Ghana
-description: |
-  Kumasi Hive is focused on job creation, skill acquisition, and innovation through incubation and acceleration programme.
+diescription: Kumasi Hive is focused on job creation, skill acquisition, and innovation through incubation and acceleration programme.
 email: info@kumasihive.com
-facebookUrl: ""
+facebookUrl: kumasihive
+googleMapsUrl: ""
 hubID: kumasi-hive
-instagramHandle: ""
+instagramHandle: kumasihive
 lat: 7.946527
 linkedinUrl: ""
-lng: -1.02319399999999
+lng: -1.023194
 name: Kumasi Hive
+phone: (+233) 24 956 9580
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: KumasiHive

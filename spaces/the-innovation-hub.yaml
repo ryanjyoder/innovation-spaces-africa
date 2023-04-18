@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: South Africa
-addressNotes: ""
-city: ""
+addressNotes: 1 Mark Shuttleworth Street, Lynwood, Pretoria, 0087, South Africa
+city: Pretoria
 country: South Africa
-description: "The Innovation Hub \n"
+diescription: The Innovation Hub
 email: info@theinnovationhub.com
-facebookUrl: ""
+facebookUrl: InnovHubZA
+googleMapsUrl: ""
 hubID: the-innovation-hub
 instagramHandle: ""
 lat: -30.559482
 linkedinUrl: ""
 lng: 22.937506
 name: The Innovation Hub
+phone: +27 12 844 0000
+plusCode: 7729+76
 postalCode: ""
 region: ""
 twitterHandle: InnovHub
-websiteUrl: https://theinnovationhub.com/
+websiteUrl: theinnovationhub.com

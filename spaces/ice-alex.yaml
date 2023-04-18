@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: Alexandria Governorate, Egypt
 addressNotes: ""
-city: ""
+city: Alexandria
 country: Egypt
-description: |
-  Ice Alex is a community driven technology innovation space with a strong social and environmental commitment. The main approach for ice activities in Alexandria is to provide an enabling ecosystem for action-oriented minds co-creating sustainable solutions for local challenges.
+diescription: Ice Alex is a community driven technology innovation space with a strong social and environmental commitment. The main approach for ice activities in Alexandria is to provide an enabling ecosystem for action-oriented minds co-creating sustainable solutions for local challenges.
 email: info@icealex.com
-facebookUrl: ""
+facebookUrl: https://www.facebook.com/icealexHub/
+googleMapsUrl: ""
 hubID: ice-alex
-instagramHandle: ""
+instagramHandle: icealexhub
 lat: 30.7622959
 linkedinUrl: ""
 lng: 29.6962677
 name: Ice Alex
+phone: 1022383632
+plusCode: 6WCX+RQ
 postalCode: ""
 region: Alexandria Governorate
 twitterHandle: icealexHub

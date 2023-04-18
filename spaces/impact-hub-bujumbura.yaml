@@ -1,22 +1,21 @@
 activities: []
-addressLine1: ""
+addressLine1: N. 25 Avenue Kunkiko,
 addressNotes: ""
-city: ""
+city: Bujumbura
 country: Burundi
-description: |
-  Impact Hub Bujumbura has an independent body that oversees management and runs a hybrid business model. They are an innovation center and an incubator and accelerator that focuses on social impact, job creation and innovation.
-email: ""
-facebookUrl: ""
+diescription: Impact Hub Bujumbura has an independent body that oversees management and runs a hybrid business model. They are an innovation center and an incubator and accelerator that focuses on social impact, job creation and innovation.
+email: bujumbura@impacthub.net
+facebookUrl: https://www.facebook.com/impacthubbujumbura/
 googleMapsUrl: ""
 hubID: impact-hub-bujumbura
-instagramHandle: ""
+instagramHandle: impact-hub-bujumbura
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Impact Hub Bujumbura
-phone: ""
+phone: +257 72 34 16 13
 plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: impacthubbjm
-websiteUrl: ""
+websiteUrl: https://bujumbura.impacthub.net/home/

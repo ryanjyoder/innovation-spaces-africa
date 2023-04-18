@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: Yaounde, Cameroon
-addressNotes: ""
+addressNotes: Unnamed Rd, Yaoundé, Cameroon
 city: Yaounde
 country: Cameroon
-description: |
-  NexGen Technology Center provides high-level IT services and solutions that help organizations and businesses across the nation improve performance, gain valuable intelligence, integrate mobile solutions, manage business productivity, and capture critical resource data and they get most of their funds from America.
+diescription: NexGen Technology Center provides high-level IT services and solutions that help organizations and businesses across the nation improve performance, gain valuable intelligence, integrate mobile solutions, manage business productivity, and capture critical resource data and they get most of their funds from America.
 email: nextgentechcenter@gmail.com
-facebookUrl: ""
+facebookUrl: nexgenyaounde
+googleMapsUrl: ""
 hubID: nexgen-technology-center
-instagramHandle: ""
+instagramHandle: nexgentechcenter
 lat: 3.8480325
 linkedinUrl: ""
 lng: 11.5020752
 name: NexGen Technology Center
+phone: +237 6 83 09 10 57
+plusCode: RFPW+XH6
 postalCode: ""
 region: Centre
 twitterHandle: NexGenTechC

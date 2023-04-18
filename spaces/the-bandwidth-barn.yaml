@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: South Africa
-addressNotes: ""
-city: ""
+addressNotes: Village 1 South, Cape Town, 7784, South Africa
+city: Cape Town
 country: South Africa
-description: "Cape Town�s The Bandwidth Barn (TheBarn) enables people to start successful businesses, develop great products and help change the world   \n"
-email: ""
-facebookUrl: ""
+diescription: Cape Town�s The Bandwidth Barn (TheBarn) enables people to start successful businesses, develop great products and help change the world
+email: reception@bwb.org.za
+facebookUrl: capeITInitiative
+googleMapsUrl: ""
 hubID: the-bandwidth-barn
 instagramHandle: ""
 lat: -30.559482
-linkedinUrl: ""
+linkedinUrl: capeinnovationandtechnologyinitiative
 lng: 22.937506
 name: The Bandwidth Barn
+phone: +27 (21) 409 7000
+plusCode: XM34+VF
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: https://www.citi.org.za/spaces/
+twitterHandle: cape_IT
+websiteUrl: citi.org.za/spaces

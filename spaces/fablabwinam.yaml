@@ -1,18 +1,21 @@
-addressLine1: ""
-addressNotes: Opposite Huduma Centre, next to PC's Office (Nyanza Regional Commissioner's office)
+activities: ""
+addressLine1: P.O.B 3188-40100,along Ramogi Road at Pembe Tatu,Next to sky FM, Kisumu
+addressNotes: ""
 city: Kisumu
-country: ""
-description: |
-  Fablab Winam is an innovation centre focused on social impact, skill acquisition and innovation. They are also a makerspace, run a hub academy programmes and provide mentorship to members of their community.
+country: Kenya
+diescription: FabLab Winam is a Community, open-access laboratory and a hub of knowledge-share, skills and digital fabrication, empowering the community (creative fabricators, artists, scientists, engineers, educators, students, amateurs, and professionals of all ages); through local and distributed manufacturing, research, and education.
 email: fablabwinam@gmail.com
-facebookUrl: ""
+facebookUrl: https://web.facebook.com/search/top?q=fablab%20winam
+googleMapsUrl: ""
 hubID: fablabwinam
-instagramHandle: ""
+instagramHandle: fablabwinam_kenya
 lat: -0.0768085
-linkedinUrl: ""
+linkedinUrl: https://www.linkedin.com/company/fablab-winam/
 lng: 34.7925762
 name: FABLAB WINAM
-postalCode: "40100"
+phone: +254 704 960 992
+plusCode: ""
+postalCode: 40100
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: FablabWinam
+websiteUrl: https://fablabwinam.org/

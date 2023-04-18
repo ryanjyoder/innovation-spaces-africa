@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Johannesburg, South Africa
 addressNotes: ""
 city: Johannesburg
 country: South Africa
-description: |
-  Softstart Business and Technology Incubator provides an integrated package of workspace, shared office services, access to specialized equipment and value added services like management assistance, access to finance, marketing, and networking support. They are an innovation hub that is focused on social impact, job creation and innovation and get most of their funds from Africa.
-email: ""
-facebookUrl: ""
+diescription: Softstart Business and Technology Incubator provides an integrated package of workspace, shared office services, access to specialized equipment and value added services like management assistance, access to finance, marketing, and networking support. They are an innovation hub that is focused on social impact, job creation and innovation and get most of their funds from Africa.
+email: connect@softstartbti.co.za
+facebookUrl: SoftstartBusinessandTechnologyIncubator
+googleMapsUrl: ""
 hubID: softstart-business-and-technology-incubator
 instagramHandle: ""
 lat: -26.2041028
-linkedinUrl: ""
+linkedinUrl: softstartbti
 lng: 28.0473051
 name: Softstart Business and Technology Incubator
+phone: (+27) 011 695 4800
+plusCode: 246F+CR
 postalCode: ""
 region: Gauteng
 twitterHandle: SoftstartBTI
-websiteUrl: https://softstartbti.co.za/
+websiteUrl: softstartbti.co.za

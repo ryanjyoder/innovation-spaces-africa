@@ -1,17 +1,21 @@
-addressLine1: ""
-addressNotes: "new burj elarab \r\nAlexandria stem school"
+activities: ""
+addressLine1: Burj Al Arab, Burj Al Arab, Alexandria, 00203, Egypt
+addressNotes: new burj elarab  Alexandria stem school
 city: Burj Al Arab
-country: ""
-description: "we have ..\r\n* laser cuter\r\n* shopbot\r\n*3D printer\r\n* vinaly cuter\r\n* mono fab"
+country: Egypt
+diescription: we have .. * laser cuter * shopbot *3D printer * vinaly cuter * mono fab
 email: khalid.diab@stemalex.moe.edu.eg
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: stemalexfablab
 instagramHandle: ""
 lat: 30.9010214
 linkedinUrl: ""
 lng: 29.5516077
 name: Stem Alex Fab Lab
-postalCode: "00203"
+phone: "01227498827"
+plusCode: ""
+postalCode: 203
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: fablabs.io/labs/stemalexfablab

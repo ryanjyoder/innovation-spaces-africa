@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Ghana International Trade Fair Centre, Accra, Ghana
-addressNotes: ""
+addressNotes: 30, 2nd Nana Kanton Street, off El Shaddai Ln, Ghana
 city: Accra
 country: Ghana
-description: |
-  iSpace Ghana is a space for community, talent, ideas, technology, social impact and creativity can join forces to create, learn and to inspire be inspired.
+diescription: iSpace Ghana is a space for community, talent, ideas, technology, social impact and creativity can join forces to create, learn and to inspire be inspired.
 email: info@ispacegh.com
-facebookUrl: ""
+facebookUrl: ispacegh
+googleMapsUrl: ""
 hubID: ispace
 instagramHandle: ""
 lat: 5.5712984
-linkedinUrl: ""
-lng: -0.146848299999988
+linkedinUrl: ispace-foundation
+lng: -0.1468483
 name: iSpace
+phone: +233 50 655 6614
+plusCode: ""
 postalCode: ""
 region: Greater Accra Region
 twitterHandle: iSpaceGh
-websiteUrl: http://ispacegh.com/
+websiteUrl: ispacefoundation.com

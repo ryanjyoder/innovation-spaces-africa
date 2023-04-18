@@ -1,17 +1,21 @@
-addressLine1: ""
-addressNotes: ""
+activities: ""
+addressLine1: Qesm Al Fayoum, Faiyum
+addressNotes: Faiyum Governorate 2931043, Egypt
 city: Fayoum
-country: ""
-description: "Fab Lab Fayoum is an open-maker space and fabrication laboratory to help all makers to turn their ideas into prototypes, help anyone to be amaker. Trying to solve the challenges of our society based on our SDGs Goals, we are part of bigger Makerspace program run by Giza Systems Education Foundation.\r\n\r\n"
+country: Egypt
+diescription: Fab Lab Fayoum is an open-maker space and fabrication laboratory to help all makers to turn their ideas into prototypes, help anyone to be amaker. Trying to solve the challenges of our society based on our SDGs Goals, we are part of bigger Makerspace program run by Giza Systems Education Foundation.
 email: fablab.fayoum@gizasystems.com
-facebookUrl: ""
+facebookUrl: https://www.facebook.com/FabLabFayoum/
+googleMapsUrl: ""
 hubID: fablabfayoum
-instagramHandle: ""
+instagramHandle: fablabfayoum
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Fab Lab Fayoum
-postalCode: "63512"
+phone: "+201030734777"
+plusCode: 8V55+PC7
+postalCode: 63512
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: https://www.fablabs.io/labs/fablabfayoum

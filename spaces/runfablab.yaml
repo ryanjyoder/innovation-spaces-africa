@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: 18 Rue Albert Lougnon, Saint-Denis 97400, Réunion
 addressNotes: ""
 city: Sainte Clotilde
-country: ""
-description: "runFabLab is housed in a 13-room cloistered building spread over 250 square meters. The detail of the structure is :\r\n_ 2 sanitary facilities with shower :-) ;\r\n_ 1 stock room ;\r\n_ 1 room for chemical purpose ; \r\n_ 1 room for electronic designing ;\r\n_ 1 room for vinyl and textile ;\r\n_ 1 room for 3D printing ;\r\n_ 1 room for laser and CNC process ;\r\n_ 1 room for manual activities/assembling/finishing ;\r\n_ 1 conference and meeting room ;\r\n_ 1 administration room ;\r\n_ 1 room for a special technical education program in partnership with the Orange Foundation ;"
+country: Reunion
+diescription: 'runFabLab is housed in a 13-room cloistered building spread over 250 square meters. The detail of the structure is : _ 2 sanitary facilities with shower :-) ; _ 1 stock room ; _ 1 room for chemical purpose ;  _ 1 room for electronic designing ; _ 1 room for vinyl and textile ; _ 1 room for 3D printing ; _ 1 room for laser and CNC process ; _ 1 room for manual activities/assembling/finishing ; _ 1 conference and meeting room ; _ 1 administration room ; _ 1 room for a special technical education program in partnership with the Orange Foundation ;'
 email: contact@solidarnum.org
-facebookUrl: ""
+facebookUrl: solidarnum
+googleMapsUrl: ""
 hubID: runfablab
 instagramHandle: ""
 lat: -20.9040158
 linkedinUrl: ""
 lng: 55.4993409
 name: RunFabLab
-postalCode: "97490"
+phone: +262 262 56 62 11
+plusCode: 3FWX+9P
+postalCode: 97490
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: solidarnum.org
+websiteUrl: solidarnum.org

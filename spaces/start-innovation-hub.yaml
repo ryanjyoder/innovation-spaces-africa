@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Uyo, Akwa Ibom, Nigeria
 addressNotes: ""
 city: Uyo
 country: Nigeria
-description: |
-  Start Innovation Hub is a platform for people to live their tech dreams with the deliberate intention of stimulating economic growth in the technology community by providing access to business expertise.
-email: ""
-facebookUrl: ""
+diescription: Start Innovation Hub is a platform for people to live their tech dreams with the deliberate intention of stimulating economic growth in the technology community by providing access to business expertise.
+email: email@starthub.com.ng
+facebookUrl: starthubtech
+googleMapsUrl: ""
 hubID: start-innovation-hub
-instagramHandle: ""
+instagramHandle: starthubtech
 lat: 5.0377396
-linkedinUrl: ""
-lng: 7.91279450000002
+linkedinUrl: start-innovation-hub-nigeria
+lng: 7.9127945
 name: Start Innovation Hub
+phone: +234-9090009216
+plusCode: ""
 postalCode: ""
 region: Akwa Ibom
 twitterHandle: StartHub_Tech
-websiteUrl: http://www.starthub.com.ng/
+websiteUrl: starthub.com.ng

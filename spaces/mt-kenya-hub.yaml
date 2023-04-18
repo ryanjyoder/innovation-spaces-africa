@@ -2,24 +2,23 @@ activities:
   - accelerator
   - incubator
   - innovation-centre
-addressLine1: ""
+addressLine1: Ring Road, Nyeri, Kenya
 addressNotes: ""
-city: ""
+city: Nyeri
 country: Kenya
-description: |
-  Mt Kenya Hub is both an incubator and accelerator and also a co-working space, focused on building and supporting a strong, vibrant innovation ecosystem. They also train community students on various programming languages which include Java Programming.
-email: ""
-facebookUrl: ""
+diescription: Mt Kenya Hub is both an incubator and accelerator and also a co-working space, focused on building and supporting a strong, vibrant innovation ecosystem. They also train community students on various programming languages which include Java Programming.
+email: hello@mtkenyahub.com
+facebookUrl: mtkenyahub
 googleMapsUrl: ""
 hubID: mt-kenya-hub
-instagramHandle: ""
+instagramHandle: mtkenyahub
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Mt Kenya Hub
-phone: ""
+phone: +254 726 857785
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: mhubkenya
+websiteUrl: mtkenyahub.com

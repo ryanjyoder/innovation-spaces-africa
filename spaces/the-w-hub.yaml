@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: ""
 addressNotes: ""
 city: Abidjan
-country: Cote d'Ivoire
-description: ""
-email: ""
+country: Côte d'Ivoire
+diescription: For our world-wide fans, The W Hub is the membership for you. Stay connected to the club, receive access to exclusive content like the new Handled Internally podcast, exclusive monthly Bomber Store offers, monthly draws, exclusive partner offers and more. Click a link below and enter your username and password to get started!
+email: bbombers@bluebombers.com
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: the-w-hub
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: The W Hub
+phone: ""
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: thewhub
-websiteUrl: http://www.thewhub.com/
+websiteUrl: thewhub.com

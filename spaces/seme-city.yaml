@@ -1,23 +1,22 @@
 activities:
   - innovation-centre
-addressLine1: ""
+addressLine1: Cotonou, Benin
 addressNotes: ""
-city: ""
+city: Cotonou
 country: Benin
-description: |
-  The International City of Innovation and Knowledge: Sèmè City // The Sèmè City Development Agency is responsible for developing national and international partnerships with stakeholders in the education, urban planning and architecture sectors. Benin hopes to develop a unique venue that will train a new generation of talent, equip them for the future and foster an inclusive and sustainable growth model based on “Made in Africa” ​​innovation.
-email: ""
+diescription: 'The International City of Innovation and Knowledge: Sèmè City // The Sèmè City Development Agency is responsible for developing national and international partnerships with stakeholders in the education, urban planning and architecture sectors. Benin hopes to develop a unique venue that will train a new generation of talent, equip them for the future and foster an inclusive and sustainable growth model based on “Made in Africa” ​​innovation.'
+email: semecity@presidence.bj
 facebookUrl: ""
 googleMapsUrl: ""
 hubID: seme-city
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: semecity
 lng: 0
 name: Sèmè City
-phone: ""
+phone: +229 21 36 87 28
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: semecity
+websiteUrl: semecity.bj

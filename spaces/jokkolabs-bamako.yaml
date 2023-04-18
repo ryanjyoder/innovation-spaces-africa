@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Torokorobougou ,  Bamako
 addressNotes: ""
-city: ""
-country: ""
-description: |
-  Jokkolabs Bamako is a professional shared workspace designed to meet the needs of micro-businesses, self-employed workers, homeworkers, entrepreneurs, start-ups, digital economy workers, writers, designers and other new media or digital arts professionals whose work do not fit in a classic office model.
-email: ""
-facebookUrl: ""
+city: Bamako
+country: Mali
+diescription: Jokkolabs Bamako is a professional shared workspace designed to meet the needs of micro-businesses, self-employed workers, homeworkers, entrepreneurs, start-ups, digital economy workers, writers, designers and other new media or digital arts professionals whose work do not fit in a classic office model.
+email: bamako@jokkolabs.co
+facebookUrl: JokkolabsBamako
+googleMapsUrl: ""
 hubID: jokkolabs-bamako
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Jokkolabs Bamako
+phone: +223 76 46 33 33
+plusCode: JX4Q+9WV
 postalCode: ""
 region: ""
 twitterHandle: JklBamako
-websiteUrl: http://www.jokkolabs.net/Bamako
+websiteUrl: jokkolabs.net

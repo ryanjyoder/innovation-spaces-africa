@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: KN 41 St
 addressNotes: 3rd Floor & Rooftop at The Office Building
 city: Kigali
 country: Rwanda
-description: |
-  Impact Hub Kigali is a community building for civic, cultural and entrepreneurial exploration,they provide office space for artists, makers, entrepreneurs and organizations that are working in social enterprise and civic and cultural areas.
+diescription: We believe that bottom-up innovation is the key to development and the creation of a better future for Rwanda and for the world. We are passionate about bringing people together to solve their social challenges together.
 email: connect.kigali@impacthub.net
 facebookUrl: https://facebook.com/impacthubkigali/
+googleMapsUrl: ""
 hubID: impact-hub-kigali
 instagramHandle: impacthubkigali
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Impact Hub Kigali
+phone: +250 788 544 203
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ImpactHubKigali

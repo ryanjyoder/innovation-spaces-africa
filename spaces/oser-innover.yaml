@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Conakry, Guinea
 addressNotes: ""
-city: ""
-country: ""
-description: ""
-email: ""
+city: Conakry
+country: Guinea
+diescription: We are a youth-led movement to end unemployment in West Africa. We invest in the entrepreneurship ecosystem to ignite social change.
+email: guinee@daretoinnovate.com
 facebookUrl: https://fr-fr.facebook.com/DaretoInnovate/
+googleMapsUrl: ""
 hubID: oser-innover
-instagramHandle: ""
+instagramHandle: daretoinovate
 lat: 0
-linkedinUrl: ""
+linkedinUrl: daretoinvote
 lng: 0
 name: Oser Innover
+phone: +224 626 66 03 50
+plusCode: H8WX+F4
 postalCode: ""
 region: ""
 twitterHandle: DaretoInnovate
-websiteUrl: http://daretoinnovate.com/
+websiteUrl: daretoinnovate.com

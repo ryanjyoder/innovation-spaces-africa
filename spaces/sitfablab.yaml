@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Ketu, Ghana
 addressNotes: We are opposite White Dove Hotel.
 city: Penyi
-country: ""
-description: The lab is situated in Ghana as part of Sena Institute of Technology. The lab is working with experts in Boston and Ghana to develop innovative solutions using 3D printing, wood work,pottery and metal works.
+country: Ghana
+diescription: The lab is situated in Ghana as part of Sena Institute of Technology. The lab is working with experts in Boston and Ghana to develop innovative solutions using 3D printing, wood work,pottery and metal works.
 email: info@sitghana.org
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: sitfablab
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: SIT fab lab
+phone: +233 24 944 0222
+plusCode: 62GG+686
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: fablabs.io/labs/sitfablab

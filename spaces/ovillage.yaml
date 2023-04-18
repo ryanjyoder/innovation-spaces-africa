@@ -4,14 +4,13 @@ activities:
   - co-working-space
   - incubator
   - innovation-centre
-addressLine1: ""
+addressLine1: Abidjan, Côte d’Ivoire
 addressNotes: ""
-city: ""
-country: Côte d’Ivoire
-description: |
-  OVillage offers a space for youth who want to learn about technology or who have an idea and need help to develop it. OVillage produces social innovation projects based on open source software.
-email: ""
-facebookUrl: ""
+city: Abidjan
+country: Côte d'Ivoire
+diescription: OVillage offers a space for youth who want to learn about technology or who have an idea and need help to develop it. OVillage produces social innovation projects based on open source software.
+email: info@ovillage.ci
+facebookUrl: OVillageCi
 googleMapsUrl: ""
 hubID: ovillage
 instagramHandle: ""
@@ -19,9 +18,9 @@ lat: 0
 linkedinUrl: ""
 lng: 0
 name: OVillage
-phone: ""
-plusCode: ""
+phone: +225 57564800
+plusCode: 93GP+737
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: ovillage.ci

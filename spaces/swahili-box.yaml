@@ -1,13 +1,12 @@
 activities:
   - co-creation-hub
-addressLine1: ""
+addressLine1: Sir Mbarak Hinawy Road, Mombasa, Kenya
 addressNotes: ""
-city: ""
+city: Mombasa
 country: Kenya
-description: |
-  SwahiliBox is a project of M-Power (CBO). The Technology Open Space in Mombasa, Kenya which focuses on socio-economic technology empowerment, inspiring and developing individuals and help them develop new and innovative ideas through networking, access to training and support and professional mentoring and coaching. They are a makerspace with elements of incubation and co-creation that focuses on skill acquisition, youth engagement and innovation and get most of their funds from Europe.
-email: ""
-facebookUrl: ""
+diescription: SwahiliBox is a project of M-Power (CBO). The Technology Open Space in Mombasa, Kenya which focuses on socio-economic technology empowerment, inspiring and developing individuals and help them develop new and innovative ideas through networking, access to training and support and professional mentoring and coaching. They are a makerspace with elements of incubation and co-creation that focuses on skill acquisition, youth engagement and innovation and get most of their funds from Europe.
+email: info@swahilibox.co.ke
+facebookUrl: swahiliBox
 googleMapsUrl: ""
 hubID: swahili-box
 instagramHandle: ""
@@ -15,9 +14,9 @@ lat: 0
 linkedinUrl: ""
 lng: 0
 name: SwahiliBox
-phone: ""
-plusCode: ""
+phone: +254 700 832618
+plusCode: WMQH+PR3
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: swahilibox
+websiteUrl: swahilibox.co.ke

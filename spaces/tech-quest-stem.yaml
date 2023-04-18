@@ -1,21 +1,20 @@
 activities: []
-addressLine1: ""
+addressLine1: TechQuest STEM Academy Crestsage Place 3 Ahmid Balogun Street, Off Laura Stephens Rd, Lekki Phase II 101003, Lagos, Nigeria
 addressNotes: ""
-city: ""
+city: Lagos
 country: Nigeria
-description: |
-  TechQuest is a non-profit STEM (Science, Technology, Engineering, and Mathematics) Education Provider. We empower individuals, schools and organizations with content, resources, and tools needed to impact young Africans in STEM for the development of Africa and Africans.
-email: ""
-facebookUrl: ""
+diescription: TechQuest is a non-profit STEM (Science, Technology, Engineering, and Mathematics) Education Provider. We empower individuals, schools and organizations with content, resources, and tools needed to impact young Africans in STEM for the development of Africa and Africans.
+email: techquestsupport@tqstem.org
+facebookUrl: techquestcamp
 googleMapsUrl: ""
 hubID: tech-quest-stem
-instagramHandle: ""
+instagramHandle: techquestcamp
 lat: 0
-linkedinUrl: ""
+linkedinUrl: tqstem
 lng: 0
 name: TechQuest STEM
-phone: ""
-plusCode: ""
+phone: +234 811 382 7153
+plusCode: CHXJ+M7 Lagos, Nigeria
 postalCode: ""
 region: ""
 twitterHandle: techquestcamp

@@ -1,17 +1,21 @@
-addressLine1: ""
-addressNotes: ""
+activities: ""
+addressLine1: 1st floor, 103, 7 W Quay Rd
+addressNotes: Victoria & Alfred Waterfront, Cape Town, 8001, South Africa
 city: Cape Town
-country: ""
-description: ""
+country: South Africa
+diescription: The CDI is a catalytic agent of change in the sector, and passionate about developing appropriately skilled, resourced and digitally proficient practitioners who can successfully leverage opportunities for growth and development.
 email: ""
-facebookUrl: ""
+facebookUrl: https://web.facebook.com/TheCraftDesignInstitute/
+googleMapsUrl: ""
 hubID: capecraftanddesigninstitute
-instagramHandle: ""
+instagramHandle: craft_and_design_institute
 lat: -33.9248685
-linkedinUrl: ""
+linkedinUrl: cape-craft-design-institute
 lng: 18.4240553
 name: Cape Craft and Design Institute
-postalCode: "8000"
+phone: +27 21 461 1488
+plusCode: ""
+postalCode: 8000
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: Craft_andDesign
+websiteUrl: www.thecdi.org.za

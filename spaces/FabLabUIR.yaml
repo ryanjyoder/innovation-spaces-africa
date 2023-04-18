@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: International University of Rabat Technopolis Rabat-Shore Rocade Rabat-Salé
 addressNotes: Ground floor of Building 2
 city: Sala al jadida
-country: ""
-description: "FabLab UIR ,created at 2015, is the first university manufacturing laboratory in Morocco, based in International University of Rabat . It's a place for both objects making and knowledge sharing.\r\n\r\nThe lab is intended to entrepreneurs who want to move quickly from concept to prototype; Designers ,and Students wishing to experiment and enrich their practical knowledge in electronics, CAD / CAM, Design \r\n\r\nFabLab UIR provides to visitors several facilities and services. it offers a free access to prototyping machines , Design and FE softwares , Electronic kits , and technical documentations\r\n\r\nMoreover ,thanks to university environnement , FabLab UIR could offer the service of protecting designs and processes ,by filing patents quickly and easily.   Innovative Ideas might be followed within the university Incubator .\r\n\r\nFablab UIR is a real place of prototyping , manufacturing , learn ,and meeting\r\n\r\n\r\n"
+country: Morocco
+diescription: FabLab UIR ,created at 2015, is the first university manufacturing laboratory in Morocco, based in International University of Rabat . It's a place for both objects making and knowledge sharing.  The lab is intended to entrepreneurs who want to move quickly from concept to prototype; Designers ,and Students wishing to experiment and enrich their practical knowledge in electronics, CAD / CAM, Design   FabLab UIR provides to visitors several facilities and services. it offers a free access to prototyping machines , Design and FE softwares , Electronic kits , and technical documentations  Moreover ,thanks to university environnement , FabLab UIR could offer the service of protecting designs and processes ,by filing patents quickly and easily.   Innovative Ideas might be followed within the university Incubator .  Fablab UIR is a real place of prototyping , manufacturing , learn ,and meeting
 email: adnane.saoud@uir.ac.ma
-facebookUrl: ""
+facebookUrl: https://www.facebook.com/sharer/sharer.php?u=https://www.uir.ac.ma/en/pole/research/Fab-Lab%E2%80%99
+googleMapsUrl: ""
 hubID: FabLabUIR
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://www.linkedin.com/cws/share?url=https://www.uir.ac.ma/en/pole/research/Fab-Lab%E2%80%99
 lng: 0
 name: FabLab UIR
-postalCode: "11100"
+phone: +212 (0)5 30 10 30 00
+plusCode: ""
+postalCode: 11100
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: Fab-Lab
+websiteUrl: www.uir.ac.ma/en/pole/research/Fab-Lab

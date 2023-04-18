@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Nouakchott, Les Echos du Sahel– Zone IND EXTS N°0368, Sebkha, Nouakchott, BP 2995, Mauritania
 addressNotes: ""
 city: Nouakchott
-country: ""
-description: "\r\nIt is a convivial space open to all, discovery, learning, sharing knowledge, prototyping and technical skills"
+country: Mauritania
+diescription: It is a convivial space open to all, discovery, learning, sharing knowledge, prototyping and technical skills
 email: sahelfablab@gmail.com
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: sahelfablab
 instagramHandle: ""
 lat: 18.0769014
 linkedinUrl: ""
 lng: -15.957211
 name: SahelFablab
+phone: "0022248526105"
+plusCode: ""
 postalCode: BP 2995
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: fablabs.io/labs/sahelfablab

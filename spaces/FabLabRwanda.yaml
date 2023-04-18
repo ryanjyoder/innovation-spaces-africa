@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: 44 KG 548 St, Kigali, Rwanda
 addressNotes: ""
 city: Kigali
-country: ""
-description: "FabLab Rwanda was established in May 12th, 2016, by ICT Chamber in partnership with Rwanda\r\n\r\nDevelopment Board (RDB), Japan International Cooperation Agency (JICA), Ministry of\r\n\r\nEducation, SolidWorks Corporation MIT-CBA, and Gasabo3D who followed through taking\r\n\r\nlessons learnt from efforts of supporting Software Innovators (at KLAB) to execute on His\r\n\r\nExcellency’s recommendation to put in place a Fabrication Laboratory (FABLAB) to support\r\n\r\nHardware Innovators in Rwanda.\r\n\r\nFabLab Rwanda is a space for members to turn innovative ideas into products specifically in the\r\n\r\nhardware and electronics domain. The space provides a platform for capacity building and\r\n\r\nintegration of hardware skills with software knowledge and quickly bringing Rwandan\r\n\r\ninnovators closer to the Internet of Things era.\r\n\r\nThe space provides collaborative community, Knowledge base and innovation business model\r\n\r\nGuidance with a core focus to increase Rwanda’s competitiveness in the fields of Design,\r\n\r\nEngineering, Electronics, Fabrication and High-Tech innovative business.\r\n\r\nFABLAB Rwanda also serves as a model for the nation’s leaders in policy, government, and\r\n\r\nindustry, to experience, first hand, Fab Lab’s grass roots approach in developing technical\r\n\r\neducation and literacy, promoting innovation and launching inventions while transforming\r\n\r\ntraditional industries into digital fabrication agents."
+country: Rwanda
+diescription: FabLab Rwanda was established in May 12th, 2016, by ICT Chamber in partnership with Rwanda  Development Board (RDB), Japan International Cooperation Agency (JICA), Ministry of  Education, SolidWorks Corporation MIT-CBA, and Gasabo3D who followed through taking  lessons learnt from efforts of supporting Software Innovators (at KLAB) to execute on His  Excellency’s recommendation to put in place a Fabrication Laboratory (FABLAB) to support  Hardware Innovators in Rwanda.  FabLab Rwanda is a space for members to turn innovative ideas into products specifically in the  hardware and electronics domain. The space provides a platform for capacity building and  integration of hardware skills with software knowledge and quickly bringing Rwandan  innovators closer to the Internet of Things era.  The space provides collaborative community, Knowledge base and innovation business model  Guidance with a core focus to increase Rwanda’s competitiveness in the fields of Design,  Engineering, Electronics, Fabrication and High-Tech innovative business.  FABLAB Rwanda also serves as a model for the nation’s leaders in policy, government, and  industry, to experience, first hand, Fab Lab’s grass roots approach in developing technical  education and literacy, promoting innovation and launching inventions while transforming  traditional industries into digital fabrication agents.
 email: info@fablab.rw
-facebookUrl: ""
+facebookUrl: facebook.com%2FKigaliFabLab
+googleMapsUrl: ""
 hubID: FabLabRwanda
 instagramHandle: ""
 lat: -1.9444501
-linkedinUrl: ""
+linkedinUrl: fablab-rwanda
 lng: 30.0896764
 name: FabLab Rwanda
+phone: +250 789 276 080
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: fablabrw
+websiteUrl: http://www.fablab.rw/

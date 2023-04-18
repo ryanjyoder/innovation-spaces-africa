@@ -1,13 +1,12 @@
 activities:
   - innovation-centre
-addressLine1: ""
+addressLine1: 11 Bd du Sud-Est, 92000 Nanterre, France
 addressNotes: ""
-city: ""
+city: Nanterre
 country: France
-description: |
-  Jokkolabs Nanterre is an independent non-profit organization, Jokkolabs is an ecosystem of open innovation and a virtual cluster for social transformation based on an organic community of entrepreneurs and a network of innovation centers.
-email: ""
-facebookUrl: ""
+diescription: Jokkolabs Nanterre is an independent non-profit organization, Jokkolabs is an ecosystem of open innovation and a virtual cluster for social transformation based on an organic community of entrepreneurs and a network of innovation centers.
+email: contact.fr@jokkolabs.net
+facebookUrl: jokkolabsNanterre
 googleMapsUrl: ""
 hubID: jokkolabs-nanterre
 instagramHandle: ""
@@ -15,9 +14,9 @@ lat: 0
 linkedinUrl: ""
 lng: 0
 name: Jokkolabs Nanterre
-phone: ""
+phone: +33 1 47 24 51 59
 plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: jokkolabs.net

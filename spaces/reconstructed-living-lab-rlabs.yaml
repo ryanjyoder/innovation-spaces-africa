@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: 66 Tarentaal Rd, Bridgetown, Cape Town 7769, South Africa
 addressNotes: ""
 city: Cape Town
 country: South Africa
-description: |
-  RLabs is a social enterprise that has impacted more than 7.5 million individuals globally in 22 countries reconstructing communities through training, innovation, and entrepreneurship.
+diescription: RLabs is a social enterprise that has impacted more than 7.5 million individuals globally in 22 countries reconstructing communities through training, innovation, and entrepreneurship.
 email: info@rlabs.org
-facebookUrl: ""
+facebookUrl: rlabsZA
+googleMapsUrl: ""
 hubID: reconstructed-living-lab-rlabs
-instagramHandle: ""
+instagramHandle: rlabsza
 lat: -33.9538889
-linkedinUrl: ""
+linkedinUrl: rlabs-reconstructed-living-lab
 lng: 18.532508
 name: Reconstructed Living Lab (RLabs)
+phone: +27 74 813 6834
+plusCode: 2GQP+GX
 postalCode: ""
 region: Western Cape
 twitterHandle: RLabs

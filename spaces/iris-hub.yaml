@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: Kigali, Rwanda
-addressNotes: ""
+addressNotes: KK215ST 53
 city: Kigali
 country: Rwanda
-description: |
-  Iris Hub have They are an incubator and accelerator focused on job creation, youth engagement, and innovation. Their main source of donation come from Africa.
-email: ""
-facebookUrl: ""
+diescription: Iris Hub have They are an incubator and accelerator focused on job creation, youth engagement, and innovation. Their main source of donation come from Africa.
+email: Infodesk@irishub.rw
+facebookUrl: irishub.rw
+googleMapsUrl: ""
 hubID: iris-hub
-instagramHandle: ""
+instagramHandle: '@iris_hub.rw'
 lat: -1.9705786
 linkedinUrl: ""
-lng: 30.1044288000001
+lng: 30.1044288
 name: Iris Hub
+phone: +250-788-348-805
+plusCode: ""
 postalCode: ""
 region: Kigali City
 twitterHandle: irishub_rw

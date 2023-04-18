@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: Tombo ,  Kaloum, Conakry
 addressNotes: ""
-city: ""
-country: ""
-description: |
-  Description: Trustee Sas is an innovation center that supports business projects in the following sectors; ICT, Renewable Energies, and Agribusiness. Our mission is to help startups develop better by providing them with the necessary expertise and financial means.
+city: Conakry
+country: Guinea
+diescription: 'Description: Trustee Sas is an innovation center that supports business projects in the following sectors; ICT, Renewable Energies, and Agribusiness. Our mission is to help startups develop better by providing them with the necessary expertise and financial means.'
 email: contact@trustees.fr
 facebookUrl: https://www.facebook.com/TrusteeVC/
+googleMapsUrl: ""
 hubID: trustee-sas
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: state-super-sas-trustee-corporation
 lng: 0
 name: Trustee sas
+phone: +224 625 26 43 76
+plusCode: G883+V3J
 postalCode: ""
 region: ""
 twitterHandle: TrusteeVC

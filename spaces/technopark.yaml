@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Bd Dammam, Casablanca, Morocco
 addressNotes: ""
-city: ""
+city: Casablanca
 country: Morocco
-description: ""
+diescription: Notre mission est d’accompagner les starts ups en mettant à leur disposition une palette de services
 email: contact@technopark.ma
 facebookUrl: https://web.facebook.com/pages/Technopark
+googleMapsUrl: ""
 hubID: technopark
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: TECHNOPARK
+phone: +212 5393-24550
+plusCode: G9V5+6V
 postalCode: ""
 region: ""
 twitterHandle: technopark
-websiteUrl: https://www.technopark.ma/s/
+websiteUrl: technopark.ma/s

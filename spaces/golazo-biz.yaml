@@ -1,22 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: 85a Bukoto Kisasi Rd, Kampala, Uganda
 addressNotes: ""
 city: Kampala
 country: Uganda
-description: |-
-  Supporting Businesses & People
-  We: Train. Build Software. Do Media Production. To book call: +256 787 208 115
+diescription: 'Supporting Businesses & People We: Train. Build Software. Do Media Production. To book call: +256 787 208 115'
 email: ""
-facebookUrl: ""
+facebookUrl: https://facebook.com/Golazoproject
 googleMapsUrl: https://goo.gl/maps/q4NhLohppdhj21yZ9
 hubID: golazo-biz
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://linkedin.com/company/thegolazoproject
 lng: 0
 name: Golazo Business
 phone: "+256787208115"
 plusCode: 9H6X+2F
 postalCode: ""
 region: ""
-twitterHandle: Golazo_biz
+twitterHandle: golazoproject
 websiteUrl: thegolazoproject.org

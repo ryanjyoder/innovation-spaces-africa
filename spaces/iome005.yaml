@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: ""
 addressNotes: ""
 city: Lamu
-country: ""
-description: "I.O.Me005 is an initiative of the Kenya Red Cross Society located in Lamu, Kenya and has been in operation since October 2020. Initial funding and support was provided by the Qatar Red Crescent Society. This collaborative space inspires and enables researchers, innovators, technology enthusiasts and entrepreneurs to create and quickly test new concepts, products and businesses by giving them more options through access to advanced technology, materials and production methodologies through shared knowledge and peer learning.\r\nThe lab is also located next to the Lamu Rehabilitation Center – another initiative by the Kenya Red Cross Society, to offer support in the rehabilitation process of drug addicts. During their rehabilitation period, clients spend time at the I.O.Me lab to build new technical skills and practice those that they may already have. This keeps them productively engaged and ensures that at the end of their rehabilitation program they can be easily be integrated back to the society.\r\n"
+country: Kenya
+diescription: I.O.Me005 is an initiative of the Kenya Red Cross Society located in Lamu, Kenya and has been in operation since October 2020. Initial funding and support was provided by the Qatar Red Crescent Society. This collaborative space inspires and enables researchers, innovators, technology enthusiasts and entrepreneurs to create and quickly test new concepts, products and businesses by giving them more options through access to advanced technology, materials and production methodologies through shared knowledge and peer learning. The lab is also located next to the Lamu Rehabilitation Center – another initiative by the Kenya Red Cross Society, to offer support in the rehabilitation process of drug addicts. During their rehabilitation period, clients spend time at the I.O.Me lab to build new technical skills and practice those that they may already have. This keeps them productively engaged and ensures that at the end of their rehabilitation program they can be easily be integrated back to the society.
 email: innovation@redcross.or.ke
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: iome005
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: I.O.Me005
+phone: "+254723950037"
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: ablabs.io/labs/iome005

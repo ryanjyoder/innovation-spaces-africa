@@ -1,24 +1,23 @@
 activities:
   - accelerator
   - incubator
-addressLine1: ""
+addressLine1: Roar hub, Ihe Nsukka 410105, Nsukka, Enugu, Nigeria
 addressNotes: ""
-city: ""
+city: Enugu
 country: Nigeria
-description: |
-  Roar Hub is an incubator and accelerator focused on social impact, youth engagement, and innovation. They currently have an incubation program that runs for a period of 3 months and partner with the Science Park in Nsukka for the acceleration of their startups.
-email: ""
-facebookUrl: ""
+diescription: Roar Hub is an incubator and accelerator focused on social impact, youth engagement, and innovation. They currently have an incubation program that runs for a period of 3 months and partner with the Science Park in Nsukka for the acceleration of their startups.
+email: info@roarnigeria.org
+facebookUrl: roarnigeria
 googleMapsUrl: ""
 hubID: roar-hub
-instagramHandle: ""
+instagramHandle: roar_nigeria
 lat: 0
-linkedinUrl: ""
+linkedinUrl: roar-nigeria-hub
 lng: 0
 name: Roar Hub Nigeria
-phone: ""
+phone: +234 809 941 3182
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: roar_nigeria
+websiteUrl: roarnigeria.org

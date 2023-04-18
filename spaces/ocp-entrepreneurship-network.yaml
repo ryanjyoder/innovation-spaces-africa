@@ -1,17 +1,21 @@
-addressLine1: ""
-addressNotes: ""
+activities: ""
+addressLine1: Bldg. 1243, 4th Floor
+addressNotes: Bashoura Beirut Digital District
 city: Casablanca
 country: Morocco
-description: ""
-email: ""
+diescription: The OCP Entrepreneurship Network aims to promote and foster entrepreneurial ecosystem by focusing on key areas of entrepreneurial development such as access to capital, access to markets, inspiring innovation as well as women’s and social entrepreneurship.
+email: info@arabnet.me
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: ocp-entrepreneurship-network
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: OCP Entrepreneurship Network
+phone: +961 1 658444
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: http://www.ocpentrepreneurship.org/
+websiteUrl: arabnet.me/english/ecosystem/Support-Units/OCP-Entrepreneurship-Network

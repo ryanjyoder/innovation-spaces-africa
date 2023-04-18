@@ -1,17 +1,21 @@
-addressLine1: Abuja, Nigeria
-addressNotes: ""
+activities: ""
+addressLine1: Number 7, Hombari Street
+addressNotes: Adetokunbo Ademola Cres, Wuse 2, Abuja
 city: Abuja
 country: Nigeria
-description: "Civic Innovation hub is a co-creation space and innovation center that is focused on social impact, youth engagement and innovation. \n"
+diescription: Civic Innovation hub is a co-creation space and innovation center that is focused on social impact, youth engagement and innovation.
 email: Info@civicfoundationforinnovation.org
-facebookUrl: ""
+facebookUrl: facebook.com%2Fcivicilab
+googleMapsUrl: ""
 hubID: civic-foundation-for-innovation
 instagramHandle: ""
 lat: 9.0764785
 linkedinUrl: ""
-lng: 7.39857400000005
+lng: 7.398574
 name: Civic Foundation for Innovation
+phone: +234 704 370 0000
+plusCode: ""
 postalCode: ""
 region: Federal Capital Territory
-twitterHandle: ""
-websiteUrl: https://civicfoundationforinnovation.org/
+twitterHandle: civicilab
+websiteUrl: civicilab.com

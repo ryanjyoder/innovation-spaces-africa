@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: Nigeria
-addressNotes: ""
-city: ""
+addressNotes: HugeDomains 2635 Walnut St.
+city: Lagos
 country: Nigeria
-description: |
-  iBridge Hub is a collaborative space for people to connect, learn and work together, is the tech heartbeat of Ibadan, they leverage technology to design and implement creative solutions and partnerships.It is also a co-creation hub that focuses on skill acquisition, social impact and innovation.
-email: ""
+diescription: iBridge Hub is a collaborative space for people to connect, learn and work together, is the tech heartbeat of Ibadan, they leverage technology to design and implement creative solutions and partnerships.It is also a co-creation hub that focuses on skill acquisition, social impact and innovation.
+email: info@bridge,sch.ng
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: ibridge
 instagramHandle: ""
 lat: 9.081999
 linkedinUrl: ""
-lng: 8.67527700000005
+lng: 8.675277
 name: iBridge
+phone: 303-893-0552
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ""

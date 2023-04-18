@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: ""
 addressNotes: ""
 city: Stellenbosch
 country: South Africa
-description: ""
+diescription: ""
 email: ""
-facebookUrl: ""
+facebookUrl: https://www.facebook.com/vc4africa
+googleMapsUrl: ""
 hubID: angel-hub
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://www.linkedin.com/groups?gid=121159
 lng: 0
 name: Angel Hub
+phone: ""
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: http://www.angelhub.co.za/
+twitterHandle: vc4africa
+websiteUrl: angelhub.co.za

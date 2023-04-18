@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: Kumasi Ghana @ 50 Jubilee Park, Kumasi, Ghana
 addressNotes: ""
 city: Kumasi
 country: Ghana
-description: "Hapaweb Solutions is an Information Technology (IT) company based in Kumasi, Ghana. As an IT company the focus is centred on the application of information technology both within the business and individual context. The core areas of operation within the IT industry are in the areas of Web and Mobile applications. \n"
+diescription: Hapaweb Solutions is an Information Technology (IT) company based in Kumasi, Ghana. As an IT company the focus is centred on the application of information technology both within the business and individual context. The core areas of operation within the IT industry are in the areas of Web and Mobile applications.
 email: ""
-facebookUrl: ""
+facebookUrl: facebook.com%2Fhapaspace
+googleMapsUrl: ""
 hubID: hapa-space
-instagramHandle: ""
+instagramHandle: hapaspace
 lat: 6.6934285
 linkedinUrl: ""
-lng: -1.61401030000002
+lng: -1.6140103
 name: Hapa Space
+phone: +233 59 876 4693
+plusCode: ""
 postalCode: ""
 region: Ashanti Region
-twitterHandle: ""
-websiteUrl: http://www.haspace.com/
+twitterHandle: hapaSpace
+websiteUrl: https://hapafoundation.org/

@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Cit� Scherko/Angondje commune D&#039;Akanda ,  Libreville
 addressNotes: ""
-city: ""
-country: ""
-description: |
-  Akewa is the first accelerator and one of the leading players in Gabon’s social innovation ecosystem. They are committed to promoting social entrepreneurship, with a specialty in five (5) key areas: cultural industries, environment, information and communication technologies (ICT), renewable energy and agribusiness
-email: agence.akewa@gmail.com
+city: Angondje
+country: Gabon
+diescription: 'Akewa is the first accelerator and one of the leading players in Gabon’s social innovation ecosystem. They are committed to promoting social entrepreneurship, with a specialty in five (5) key areas: cultural industries, environment, information and communication technologies (ICT), renewable energy and agribusiness'
+email: contact@akewa.org
 facebookUrl: https://www.facebook.com/akewacroissance/
+googleMapsUrl: ""
 hubID: akewa-accelerateur
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: AKEWA ACCELERATEUR
+phone: (+241) 011 455103 / 065 51 0551 / 077 434249 / 066820283
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: http://www.akewa.org
+websiteUrl: akewa.org

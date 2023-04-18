@@ -1,17 +1,20 @@
-addressLine1: ""
-addressNotes: ""
+activities: ""
+addressLine1: AUC New Cairo, AUC Avenue
+addressNotes: P.O.BOX 74, New Cairo 11835, Egypt
 city: Cairo
 country: Egypt
-description: |
-  AUC V-Lab is the first university-based incubator in Egypt. It has been selected among the top five most promising university incubators in Africa in 2014.
-email: ""
-facebookUrl: ""
+diescription: AUC V-Lab is the first university-based incubator in Egypt. It has been selected among the top five most promising university incubators in Africa in 2014.
+email: vlab@aucegypt.edu
+facebookUrl: https://www.facebook.com/AUC.Business
+googleMapsUrl: ""
 hubID: auc-venture-lab
-instagramHandle: ""
+instagramHandle: auc.business
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://www.linkedin.com/company/auc-business/
 lng: 0
 name: AUC Venture Lab
+phone: ""
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: aucventurelab

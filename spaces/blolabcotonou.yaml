@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: 99QJ+9Q4, Cotonou, Benin
 addressNotes: Quartier Kindonou, 2e immeuble après la pharmacie en quittant le CEG Le Nokoué, 3e étage.
 city: Cotonou
-country: ""
-description: Design and fabrication for spreading sciences and technologies through open source and open hardware projects.
+country: Benin
+diescription: Design and fabrication for spreading sciences and technologies through open source and open hardware projects.
 email: contact@blolab.org
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: blolabcotonou
 instagramHandle: ""
 lat: 6.3704004
 linkedinUrl: ""
 lng: 2.3921603
 name: Blolab Cotonou
-postalCode: "229"
+phone: (229) 97 38 31 74
+plusCode: ""
+postalCode: 229
 region: ""
 twitterHandle: ""
 websiteUrl: ""

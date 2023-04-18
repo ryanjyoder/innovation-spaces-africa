@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Eldoret, Eldoret, UASIN GISHU, 30100, Kenya
 addressNotes: ""
 city: Eldoret
-country: ""
-description: "A Fab Lab, or digital fabrication laboratory, is a place to play, to create, to mentor and to invent: a place for learning and innovation.\r\nFab Labs provide access to the environment, the skills, the materials and the advanced technology to allow anyone anywhere to make (almost) anything."
+country: Kenya
+diescription: 'A Fab Lab, or digital fabrication laboratory, is a place to play, to create, to mentor and to invent: a place for learning and innovation. Fab Labs provide access to the environment, the skills, the materials and the advanced technology to allow anyone anywhere to make (almost) anything.'
 email: evans.njagimwendia@gmail.com
-facebookUrl: ""
+facebookUrl: fablab ousia technologies
+googleMapsUrl: ""
 hubID: ousiafablabs
 instagramHandle: ""
 lat: 0.5173983
 linkedinUrl: ""
 lng: 35.270895
 name: OUSIA FABLABS
-postalCode: "30100"
+phone: +254 728286873
+plusCode: ""
+postalCode: 30100
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: fablabs.io/labs/ousiafablabs

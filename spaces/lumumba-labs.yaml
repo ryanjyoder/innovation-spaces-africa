@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: 253, Avenue Kimvula
 addressNotes: ""
 city: Kinshasa
 country: Democratic Republic of the Congo
-description: |
-  Lumumba Labs is a space of shared innovation, where evolved innovative community of people who reflect together on solutions that can improve our daily lives innovation and co-creation hub focused on social impact, skill acquisition and youth engagement.
+diescription: Lumumba Labs is a space of shared innovation, where evolved innovative community of people who reflect together on solutions that can improve our daily lives innovation and co-creation hub focused on social impact, skill acquisition and youth engagement.
 email: start@llab.cd
 facebookUrl: https://www.facebook.com/ZairInnov/
+googleMapsUrl: ""
 hubID: lumumba-labs
 instagramHandle: ""
 lat: -4.038333
 linkedinUrl: ""
 lng: 21.758664
 name: Lumumba Labs
+phone: ;+243 811 903 039
+plusCode: M7JX+79
 postalCode: ""
 region: ""
 twitterHandle: LabLumumba
-websiteUrl: http://www.llab.cd/
+websiteUrl: llab.cd

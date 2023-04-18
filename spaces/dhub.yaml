@@ -2,24 +2,23 @@ activities:
   - co-working-space
   - incubator
   - innovation-centre
-addressLine1: ""
-addressNotes: ""
-city: ""
+addressLine1: 2, Shalom Street, TKP Junction,
+addressNotes: University Road, Ilorin, Nigeria
+city: Ilorin
 country: Nigeria
-description: |
-  dHub also known as Development Hub is an innovation and co-working space with the goal to serve her clients from technology experts & enthusiasts, technology companies, investors, venture capitalists, development partners to government social entrepreneurs working on the 17 sustainable development goals.
-email: ""
-facebookUrl: ""
+diescription: dHub also known as Development Hub is an innovation and co-working space with the goal to serve her clients from technology experts & enthusiasts, technology companies, investors, venture capitalists, development partners to government social entrepreneurs working on the 17 sustainable development goals.
+email: dhubinnovation@gmail.com.
+facebookUrl: facebook.com%2FdHubNigeria
 googleMapsUrl: ""
 hubID: dhub
-instagramHandle: ""
+instagramHandle: mydhubeducation
 lat: 0
 linkedinUrl: ""
 lng: 0
-name: dHUB
-phone: ""
+name: DHUB
+phone: +234 906 777 4136
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
+twitterHandle: dhubnigeria
 websiteUrl: ""

@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: Nouakchott, Nouakchott, Mauritanie
 addressNotes: ""
-city: ""
-country: ""
-description: ""
+city: Nouakchott
+country: Mauritania
+diescription: 1ère compétition d'applications en Mauritanie MauriAppChallenge.
 email: contact@hadinarimtic.com
-facebookUrl: https://www.facebook.com/hadinarimtic/about/?ref=page_internal
+facebookUrl: https://www.facebook.com/hadinarimtic/
+googleMapsUrl: ""
 hubID: hadina-rimtic
-instagramHandle: ""
+instagramHandle: hadinarimtic
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://www.linkedin.com/company/hadina-rimtic
 lng: 0
 name: Hadina Rimtic
+phone: 45 25 76 48 ou 46 01 26 28
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: HadinaRIMTIC
+twitterHandle: hadinarimtic
 websiteUrl: http://www.hadinarimtic.com

@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: Casablanca, Maroc
-addressNotes: ""
-city: ""
+addressNotes: 8 Floor, TechnoPark Casablanca, Morocco
+city: Casablanca
 country: Morocco
-description: |
-  LaFactory by Screendy is an incubator, accelerator and co-creation space. Through their startup programs, they host aspiring entrepreneurs, help them improve their solutions, develop their skill sets, and give them access to markets. Through their corporate innovation programs, they help big corporations find the best solutions to their challenges working side by side with our network of startups and deploying innovative solutions.
+diescription: LaFactory by Screendy is an incubator, accelerator and co-creation space. Through their startup programs, they host aspiring entrepreneurs, help them improve their solutions, develop their skill sets, and give them access to markets. Through their corporate innovation programs, they help big corporations find the best solutions to their challenges working side by side with our network of startups and deploying innovative solutions.
 email: mehdi@lafactory.co // omaima@lafactory.co
 facebookUrl: https://www.facebook.com/LaFactoryByScreenDy/?ref=br_rs
+googleMapsUrl: ""
 hubID: lafactory
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: LaFactory
+phone: +212 674 781 258
+plusCode: G9V5+4VR
 postalCode: ""
 region: ""
 twitterHandle: lafactory_co

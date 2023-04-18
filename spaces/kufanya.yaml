@@ -1,16 +1,20 @@
+activities: ""
 addressLine1: Rue Mongi Bali, Sfax
 addressNotes: ""
-city: ""
+city: sfax
 country: Tunisia
-description: "<b>  Kufanya </b>est un partenaire d�impl�mentation de l�organisation international pour les migrations, de l�institut fran�ais, de l�ONG Tunisie terre d�asile. Nous sommes membre de reseau de promotion de l�entreprise sociale chabaka et partenaire de l�incubateur pour entreprise sociale en tunisie lab�ess.   \n"
+diescription: <b>  Kufanya </b>est un partenaire d�impl�mentation de l�organisation international pour les migrations, de l�institut fran�ais, de l�ONG Tunisie terre d�asile. Nous sommes membre de reseau de promotion de l�entreprise sociale chabaka et partenaire de l�incubateur pour entreprise sociale en tunisie lab�ess.
 email: africabusinessleaders@gmail.com
 facebookUrl: https://www.facebook.com/kufanyaincub/
+googleMapsUrl: Sfax 3000, Tunisia
 hubID: kufanya
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Kufanya
+phone: +216 54 044 141
+plusCode: PQM8+2X
 postalCode: ""
 region: ""
 twitterHandle: ""

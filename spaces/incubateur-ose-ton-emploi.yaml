@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: Conakry, Guin�e
 addressNotes: ""
-city: ""
-country: ""
-description: |
-  Notre objectif est de contribuer � inverser la tendance pour que des jeunes traditionnellement chercheurs d�emploi deviennent des entrepreneurs innovants, des cr�ateurs d�emplois via la cr�ation d�entreprises p�rennes et � forte valeur ajout�e.
+city: Conakry
+country: Guinea
+diescription: Notre objectif est de contribuer � inverser la tendance pour que des jeunes traditionnellement chercheurs d�emploi deviennent des entrepreneurs innovants, des cr�ateurs d�emplois via la cr�ation d�entreprises p�rennes et � forte valeur ajout�e.
 email: contact@osetonemploi.com
 facebookUrl: http://@OseTonEmploi
+googleMapsUrl: ""
 hubID: incubateur-ose-ton-emploi
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: incubateur-ose-ton-emploi/?viewAsMember=true
 lng: 0
 name: Incubateur Ose Ton Emploi
+phone: + 224 622-434-632
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: osetonemploi

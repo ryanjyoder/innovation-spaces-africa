@@ -1,8 +1,9 @@
+activities: ""
 addressLine1: Makerere University, Pool Rd, COCIS Block B
 addressNotes: ""
 city: Kampala
 country: Uganda
-description: Makerere University Startup Hub - Transforming ideas and innovations into successful companies.
+diescription: Makerere University Startup Hub - Transforming ideas and innovations into successful companies.
 email: info@miichub.com
 facebookUrl: ""
 googleMapsUrl: https://goo.gl/maps/TLKvHUkEvCqaHd2M9
@@ -17,4 +18,4 @@ plusCode: 8HJC+W5
 postalCode: ""
 region: ""
 twitterHandle: miic_ug
-websiteUrl: https://miichub.com/
+websiteUrl: miichub.com

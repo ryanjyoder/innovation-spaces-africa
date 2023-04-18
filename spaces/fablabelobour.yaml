@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: El Obour City, El Obour City, Qalubia, 13752, Egypt
 addressNotes: ""
 city: El Obour City
-country: ""
-description: fablab
+country: Egypt
+diescription: fablab
 email: gad.elhebry@stemkalubya.moe.edu.eg
-facebookUrl: ""
+facebookUrl: facebook.com%2Ffablab.egypt
+googleMapsUrl: ""
 hubID: fablabelobour
 instagramHandle: ""
 lat: 30.2283408
-linkedinUrl: ""
+linkedinUrl: fab-lab-egypt
 lng: 31.4798948
 name: Fab Lab Elobour
-postalCode: "13752"
+phone: 1003848669
+plusCode: ""
+postalCode: 13752
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: www.fablabs.io/labs/fablabelobour

@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Wilson Rd, Kampala, Uganda
 addressNotes: ""
 city: Kampala
 country: Uganda
-description: ""
-email: ""
-facebookUrl: ""
+diescription: Welcome to The Hub Uganda, your number one online shopping platform. We’re dedicated to giving you the very best of Electronics and Gadgets, with a focus on timely deliveries, best product quality, and memorable customer experience.
+email: sales@thehubuganda.com
+facebookUrl: TheHubUganda
+googleMapsUrl: ""
 hubID: thehub
-instagramHandle: ""
+instagramHandle: the_hub_uganda
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: TheHub
+phone: +256 759 302133
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: HUBKampala
-websiteUrl: http://thehubkampala.com/
+websiteUrl: thehubuganda.com

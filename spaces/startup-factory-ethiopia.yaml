@@ -1,24 +1,23 @@
 activities:
   - accelerator
   - incubator
-addressLine1: ""
+addressLine1: Dembel City Center Ofiice No. 509, Africa Ave, Addis Ababa, Ethiopia
 addressNotes: ""
-city: ""
+city: Addis Ababa
 country: Ethiopia
-description: |
-  Startup Factory Ethiopia is an incubator, venture builder and accelerator with a fundamental objective of building ventures from the idea stage to series A fundraising stage.
-email: ""
+diescription: Startup Factory Ethiopia is an incubator, venture builder and accelerator with a fundamental objective of building ventures from the idea stage to series A fundraising stage.
+email: info@startupfactoryethiopia.com
 facebookUrl: ""
 googleMapsUrl: ""
 hubID: startup-factory-ethiopia
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: startup-factory-ethiopia
 lng: 0
 name: Startup Factory Ethiopia
-phone: ""
+phone: +251 1 234567890
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: startupfacteth
+websiteUrl: startupfactoryethiopia.com

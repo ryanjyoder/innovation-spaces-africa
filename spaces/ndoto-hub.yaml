@@ -1,24 +1,23 @@
 activities:
   - accelerator
   - incubator
-addressLine1: ""
+addressLine1: Njiro Rd, Arusha, Tanzania
 addressNotes: ""
-city: ""
+city: Arusha
 country: Tanzania
-description: |
-  Ndoto Hub is an incubator and accelerator focused on skill acquisition, social impact, and innovation.
-email: ""
-facebookUrl: ""
+diescription: Ndoto Hub is an incubator and accelerator focused on skill acquisition, social impact, and innovation.
+email: hello@ndotohub.com
+facebookUrl: Ndotohub
 googleMapsUrl: ""
 hubID: ndoto-hub
-instagramHandle: ""
+instagramHandle: '@ndotohub'
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Ndoto Hub
-phone: ""
-plusCode: ""
+phone: +255 742 904 152
+plusCode: JP92+4JP
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: ndotohub
+websiteUrl: ndotohub.com

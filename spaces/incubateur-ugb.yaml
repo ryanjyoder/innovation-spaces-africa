@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: Sanar, Saint-Louis, Saint-Louis, S�n�gal
 addressNotes: ""
-city: ""
-country: ""
-description: ""
+city: St louis
+country: Senegal
+diescription: Nous vous proposons un ensemble de services qui vous seront utiles tout au long de votre parcours d'entrepreneur, en développant vos capacités entrepreneuriales, en plus d'une ressource humaine permanente qui vous accompagnera.
 email: incubateur@ugb.edu.sn
-facebookUrl: https://web.facebook.com/incubateurugb/
+facebookUrl: incubateurugb
+googleMapsUrl: ""
 hubID: incubateur-ugb
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: incubateur-ugb
 lng: 0
 name: Incubateur UGB
+phone: "+221772282627"
+plusCode: 3H6J+X7 St Louis, Senegal
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: http://incubation.ugb.sn
+twitterHandle: incubateurugb
+websiteUrl: incubation.ugb.sn

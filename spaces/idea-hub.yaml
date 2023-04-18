@@ -1,17 +1,21 @@
-addressLine1: Nigeria
+activities: ""
+addressLine1: 296 Herbert Macaulay Way, Yaba 101245, Lagos, Nigeria
 addressNotes: ""
-city: ""
+city: Lagos
 country: Nigeria
-description: "iDEA (Information Technology Developers Entrepreneurship Accelerator) provides essential support to entrepreneurs to build software skills.  \n"
+diescription: iDEA (Information Technology Developers Entrepreneurship Accelerator) provides essential support to entrepreneurs to build software skills.
 email: ""
 facebookUrl: ""
+googleMapsUrl: https://www.google.com/search?client=ubuntu&hs=Psk&channel=fs&sxsrf=AJOqlzVifhNWxJIeCzYWeMy6X9DcRZeeCQ:1677913925181&q=HCI+Healthcare+Limited&ludocid=7529253843153915994&gsas=1&client=ubuntu&lsig=AB86z5WtvT-z0YpUTLz7pT5qmH4h&sa=X&ved=2ahUKEwiW-uS73MH9AhWOQ94KHWftAGsQ8G0oAHoECC4QAQ
 hubID: idea-hub
 instagramHandle: ""
 lat: 9.081999
-linkedinUrl: ""
-lng: 8.67527700000005
+linkedinUrl: https://www.linkedin.com/company/idea-hub-ng/
+lng: 8.675277
 name: iDEA Hub
+phone: +234 813 261 0545
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
+twitterHandle: ideahubng
 websiteUrl: http://www.idea-nigeria.org/

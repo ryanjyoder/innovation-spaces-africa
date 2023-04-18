@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Plot 176, Second Sector, S Teseen, Cairo Governorate 11841, Egypt
 addressNotes: In front of Copper Melt, Ground floor inside Giza systems building.
 city: Cairo
-country: ""
-description: Fab Lab New Cairo is an open-maker space and fabrication laboratory to help all makers to turn their ideas into prototypes, located in 5th Settlement, New Cairo, in Giza Systems Building. It's a part of a bigger Makerspace Program run by Giza Systems Education Foundation, which goal is to target eastern Cairo, as there's no accessible prototyping facility for the makers who live there.
+country: Egypt
+diescription: Fab Lab New Cairo is an open-maker space and fabrication laboratory to help all makers to turn their ideas into prototypes, located in 5th Settlement, New Cairo, in Giza Systems Building. It's a part of a bigger Makerspace Program run by Giza Systems Education Foundation, which goal is to target eastern Cairo, as there's no accessible prototyping facility for the makers who live there.
 email: fablab@gizasystems.com
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: fablabnewcairo
 instagramHandle: ""
 lat: 30.025623
 linkedinUrl: ""
 lng: 31.4594529
 name: Fab Lab in New Cairo (FLiNC)
-postalCode: "11477"
+phone: +20 109 211 1434
+plusCode: ""
+postalCode: 11477
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: fablabnewcairo
+websiteUrl: www.fablabs.io/labs/fablabnewcairo

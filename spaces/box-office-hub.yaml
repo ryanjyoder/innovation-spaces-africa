@@ -1,24 +1,23 @@
 activities:
   - co-working-space
   - innovation-centre
-addressLine1: ""
-addressNotes: ""
-city: ""
+addressLine1: 1473 Inner Block St, Central Business Dis 900103, Abuja, Federal Capital Territory, Nigeria
+addressNotes: Discovery Mall 215 Konoko Crescent
+city: Abuja
 country: Nigeria
-description: |
-  Box Office Hub was created with the aim of giving entrepreneurs an opportunity to study, test and master their market in a conducive environment, cost-effective and professional way.
+diescription: Box Office Hub was created with the aim of giving entrepreneurs an opportunity to study, test and master their market in a conducive environment, cost-effective and professional way.
 email: ""
-facebookUrl: ""
+facebookUrl: https://www.facebook.com/DunBradstreet
 googleMapsUrl: ""
 hubID: box-office-hub
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: http://www.linkedin.com/company/dun-&-bradstreet
 lng: 0
 name: Box Office Hub
-phone: ""
+phone: +234 802 089 9362
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: '@DunBradstreet'
+websiteUrl: www.boxofficehub.com.ng

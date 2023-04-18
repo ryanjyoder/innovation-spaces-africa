@@ -1,23 +1,22 @@
 activities:
   - innovation-centre
-addressLine1: ""
+addressLine1: 656 Avenue de la Nouvelle Marche, Quartier des Etoiles 01BP2274 Lomé 01, Lomé, Togo
 addressNotes: ""
-city: ""
+city: Lome
 country: Togo
-description: |
-  Lome Tech Hub are an innovation centre with focus on skill acquisition, youth engagement, and innovation and get most of their funds from Africa.
+diescription: Lome Tech Hub are an innovation centre with focus on skill acquisition, youth engagement, and innovation and get most of their funds from Africa.
 email: ""
-facebookUrl: ""
+facebookUrl: DjantaTecHub
 googleMapsUrl: ""
 hubID: lome-tech-hub
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: djanta-tech-lab
 lng: 0
 name: Lome Tech Hub
-phone: ""
+phone: +228 93 40 82 24
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: DjantaTecHub
+websiteUrl: djantahub.tg

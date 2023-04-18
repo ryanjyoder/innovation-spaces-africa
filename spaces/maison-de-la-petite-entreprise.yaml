@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: 'Quartier Moursal, Boulevard SAO, Rue 5018, B.P.: 111 , N&#039;Djamena'
 addressNotes: ""
-city: ""
-country: ""
-description: ""
+city: N'Djamena
+country: Chad
+diescription: Sensibilisation,Orientation,Formation, Accompagnement.
 email: ""
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: maison-de-la-petite-entreprise
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Maison de la Petite Entreprise
+phone: +235 65 35 63 88
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: http://www.mpetchad.com
+websiteUrl: mpetchad.com

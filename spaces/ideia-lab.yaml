@@ -1,24 +1,23 @@
 activities:
   - accelerator
   - incubator
-addressLine1: ""
+addressLine1: Edifício CoWork Lab 5, nr 198 R. José Craveirinha, Maputo, Mozambique
 addressNotes: ""
-city: ""
+city: Maputo
 country: Mozambique
-description: |
-  IdeiaLab is a Mozambican incubator, accelerator and consultancy with the guiding purpose of inspiring entrepreneurs, supporting the development of start-ups, accelerating the growth of Micro, Small and Medium enterprises, and promoting entrepreneurship and innovation.
-email: ""
-facebookUrl: ""
+diescription: IdeiaLab is a Mozambican incubator, accelerator and consultancy with the guiding purpose of inspiring entrepreneurs, supporting the development of start-ups, accelerating the growth of Micro, Small and Medium enterprises, and promoting entrepreneurship and innovation.
+email: info@ideialab.biz
+facebookUrl: facebook.com%2Fideialabmz
 googleMapsUrl: ""
 hubID: ideia-lab
-instagramHandle: ""
+instagramHandle: ideialabmz
 lat: 0
-linkedinUrl: ""
+linkedinUrl: linkedin.com/company/ideialabmz
 lng: 0
 name: ideiaLab Mozambique
-phone: ""
+phone: +258 84 625 3176
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: ideialabmz
+websiteUrl: https://ideialab.biz/

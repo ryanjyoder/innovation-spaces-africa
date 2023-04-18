@@ -1,22 +1,21 @@
 activities: []
-addressLine1: ""
-addressNotes: ""
-city: ""
-country: Djibouti
-description: |
-  The Center for Technology and Innovation for Development (CTID) is a non-profit organization that aims to support innovative and sustainable projects in the fields of ICT, renewable energy, agribusiness, the environment, and services. The CTID provides project promoters and companies with the infrastructure needed to ensure sustained and sustainable growth.
-email: ""
-facebookUrl: ""
+addressLine1: Rue Bourhan Bey. Djibouti-ville
+addressNotes: Djibouti
+city: Djibouti
+country: Ethiopia
+diescription: The Center for Technology and Innovation for Development (CTID) is a non-profit organization that aims to support innovative and sustainable projects in the fields of ICT, renewable energy, agribusiness, the environment, and services. The CTID provides project promoters and companies with the infrastructure needed to ensure sustained and sustainable growth.
+email: Info@cridnb.ca
+facebookUrl: facebook.com%2FDjiboutiTechHub
 googleMapsUrl: ""
 hubID: ctid
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: http://linkedin.com/company/cridnb
 lng: 0
 name: CTID (Centre de Technologie, d&#8217;Innovation pour le Developement)
-phone: ""
-plusCode: ""
+phone: +253 21 25 02 95
+plusCode: H4XX+HGC
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: http://www.ctidhub.com/

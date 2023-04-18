@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Somalia
-addressNotes: ""
-city: ""
+addressNotes: Jidka Afgooye, Mogadishu, Somalia
+city: Mogadishu
 country: Somalia
-description: |
-  iRise Hub is space for Somali innovators, techies and aspiring entrepreneurs, with the focus on social impact, youth engagement, job creation and innovation through open space, incubation and acceleration and creation of innovation centres.
-email: ""
-facebookUrl: ""
+diescription: iRise Hub is space for Somali innovators, techies and aspiring entrepreneurs, with the focus on social impact, youth engagement, job creation and innovation through open space, incubation and acceleration and creation of innovation centres.
+email: hello@irisehub.so
+facebookUrl: irisehub
+googleMapsUrl: https://www.google.com/search?client=ubuntu&hs=8q&channel=fs&sxsrf=AJOqlzUHkjN5ZvVmZMzSCJUmWfz2eEGt9A:1678013783852&q=Somali+National+University&ludocid=6014120706423856215&gsas=1&client=ubuntu&lsig=AB86z5WtWUwHvqqZbAGVXLFCjOMH&sa=X&ved=2ahUKEwi50o680MT9AhUQzKQKHeRKCyUQ8G0oAHoECDEQAQ
 hubID: irise-somalia
-instagramHandle: ""
+instagramHandle: irise_hub
 lat: 5.152149
-linkedinUrl: ""
+linkedinUrl: https://so.linkedin.com/company/irisehub
 lng: 46.199616
 name: iRise Somalia
+phone: +252 61 2464665
+plusCode: 27QR+XH8
 postalCode: ""
 region: ""
 twitterHandle: iRiseHub
-websiteUrl: https://irisehub.so/en/
+websiteUrl: http://www.irisehub.so/

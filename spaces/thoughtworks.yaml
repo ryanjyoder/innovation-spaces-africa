@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: 10th & 11th Floor, 73 Juta St, Braamfontein, Johannesburg, 2001, South Africa
 addressNotes: ""
 city: Johannesburg
 country: South Africa
-description: ""
-email: ""
-facebookUrl: ""
+diescription: We are a leading global technology consultancy that integrates strategy, design and software engineering to enable enterprises and technology disruptors across the globe to thrive as modern digital businesses.
+email: info-us@thoughtworks.com
+facebookUrl: Thoughtworks
+googleMapsUrl: ""
 hubID: thoughtworks
-instagramHandle: ""
+instagramHandle: thoughtworks
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: ThoughtWorks
+phone: +27 10 003 2728
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: thoughtworks
-websiteUrl: http://info.thoughtworks.com/
+websiteUrl: info.thoughtworks.com

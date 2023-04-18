@@ -1,18 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: BP 15 03, Douala, Cameroon
 addressNotes: ""
-city: ""
-country: ""
-description: |
-  Jokkolabs is an open space, which welcomes any entrepreneur seeking to develop his network, meet new employees, discuss his practices and develop his professional projects, personal or associative. It is designed to meet the needs of micro-businesses, self-employed workers, homeworkers, entrepreneurs, start-ups, digital economy workers, writers, designers and other new media or digital arts professionals whose work do not fit in a classic office model.
-email: ""
+city: Douala
+country: Cameroon
+diescription: Jokkolabs is an open space, which welcomes any entrepreneur seeking to develop his network, meet new employees, discuss his practices and develop his professional projects, personal or associative. It is designed to meet the needs of micro-businesses, self-employed workers, homeworkers, entrepreneurs, start-ups, digital economy workers, writers, designers and other new media or digital arts professionals whose work do not fit in a classic office model.
+email: hellodouala@jokkolabs.co
 facebookUrl: https://www.facebook.com/JokkolabsDouala
+googleMapsUrl: ""
 hubID: jokkolabs-douala
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Jokkolabs Douala
+phone: +237 6 76 81 38 53
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: JklDouala
-websiteUrl: http://jokkolabs.net
+websiteUrl: jokkolabs.net

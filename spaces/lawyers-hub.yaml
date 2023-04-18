@@ -1,24 +1,23 @@
 activities:
   - accelerator
   - incubator
-addressLine1: ""
-addressNotes: ""
-city: ""
+addressLine1: ACK Garden House Block D, 6TH FLOOR 1St Ngong Ave, Nairobi, Kenya
+addressNotes: Bishop Road First Ngong Ave, Nairobi, Kenya
+city: Nairobi
 country: Kenya
-description: |
-  Lawyers hub is a community of Lawyers promoting Access to Justice through Innovation and Tech. They are a co-creation space with focus on social impact, job creation, skill acquisition, and youth engagement and gets most of their funds from Africa and America.
-email: ""
-facebookUrl: ""
+diescription: Lawyers hub is a community of Lawyers promoting Access to Justice through Innovation and Tech. They are a co-creation space with focus on social impact, job creation, skill acquisition, and youth engagement and gets most of their funds from Africa and America.
+email: info@lawyershub.ke
+facebookUrl: lawyershubkenya
 googleMapsUrl: ""
 hubID: lawyers-hub
-instagramHandle: ""
+instagramHandle: lawyershubkenya
 lat: 0
-linkedinUrl: ""
+linkedinUrl: lawyers-hub-kenya-1bb021161
 lng: 0
 name: Lawyers Hub
-phone: ""
+phone: +254 784 840228
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: lawyershubkenya
+websiteUrl: lawyershub.org

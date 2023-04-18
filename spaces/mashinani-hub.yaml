@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Kisii Country Club, Kisii, Kenya
-addressNotes: ""
+addressNotes: Nyamira behind Huduma Center, Kenya
 city: Kisii
 country: Kenya
-description: |
-  Mashinani Hub is dedicated to the provision of business development, incubation services and market place to the local community through inspiring, creating, and connecting the next generation of entrepreneurs in Africa. They are an innovation center that is focused on social impact, job creation, and innovation.
+diescription: Mashinani Hub is dedicated to the provision of business development, incubation services and market place to the local community through inspiring, creating, and connecting the next generation of entrepreneurs in Africa. They are an innovation center that is focused on social impact, job creation, and innovation.
 email: ""
 facebookUrl: https://www.facebook.com/mashinanihub/
+googleMapsUrl: ""
 hubID: mashinani-hub
 instagramHandle: ""
 lat: -0.6708163
-linkedinUrl: ""
+linkedinUrl: mashinani-hub
 lng: 34.7771001
 name: Mashinani Hub
+phone: +254 727 264748
+plusCode: CWRJ+CW2
 postalCode: ""
 region: Kisii County
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: mashinanihub.co

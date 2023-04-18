@@ -1,24 +1,23 @@
 activities:
   - co-working-space
   - incubator
-addressLine1: ""
-addressNotes: ""
-city: ""
+addressLine1: METI Building, Namibia St
+addressNotes: 8th floor
+city: Addis Ababa
 country: Ethiopia
-description: |
-  blueMoon is an Incubator and accelerator that believe that exceptional ideas and exceptional founders should be matched with exceptional support. They try their best to discover amazing, out-of-the-box, disruptive, highly innovative, scalable, and potentially transformational ideas from youth interested in Ethiopian agribusiness.
-email: ""
-facebookUrl: ""
+diescription: blueMoon is an Incubator and accelerator that believe that exceptional ideas and exceptional founders should be matched with exceptional support. They try their best to discover amazing, out-of-the-box, disruptive, highly innovative, scalable, and potentially transformational ideas from youth interested in Ethiopian agribusiness.
+email: info@bluemoonethiopia.com
+facebookUrl: blueMoonEthiopia
 googleMapsUrl: ""
 hubID: blue-moon
-instagramHandle: ""
+instagramHandle: bluemoonethiopia
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: blueMoon
-phone: ""
+phone: +251-11-667-4810
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: bluemooneth
+websiteUrl: www.bluemoonethiopia.com

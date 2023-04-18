@@ -3,15 +3,14 @@ activities:
   - incubator
 addressLine1: ""
 addressNotes: ""
-city: ""
+city: Owerri
 country: Nigeria
-description: |
-  Heartland Incubation Hub main goal is to attract, train and retain top talents in technological innovation and enterprise development in Nigeria. They are an incubator and accelerator focused on social impact, skill acquisition and innovation and get most of their funds from Africa.
-email: ""
-facebookUrl: ""
+diescription: Heartland Incubation Hub main goal is to attract, train and retain top talents in technological innovation and enterprise development in Nigeria. They are an incubator and accelerator focused on social impact, skill acquisition and innovation and get most of their funds from Africa.
+email: hello@coworker.com
+facebookUrl: https://www.facebook.com/coworkerglobal
 googleMapsUrl: ""
 hubID: heartland-incubation-hub
-instagramHandle: ""
+instagramHandle: coworker
 lat: 0
 linkedinUrl: ""
 lng: 0
@@ -20,5 +19,5 @@ phone: ""
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: coworkerglobal
+websiteUrl: www.coworker.com/nigeria/owerri/heartland-incubation-hubs

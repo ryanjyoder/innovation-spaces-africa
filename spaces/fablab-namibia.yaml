@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Haydn Street, Windhoek, Namibia
 addressNotes: ""
 city: Windhoek
 country: Namibia
-description: ""
+diescription: 'ASSOCIATION OF IDEAS: Design and Technology Centre, Fabrication Laboratory and Creative Think Tank @ The University of Science and Technology'
 email: ""
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: fablab-namibia
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: fablab-namibia-design-and-technology-centre
 lng: 0
 name: Fablab Namibia
+phone: +264 61 207 2390
+plusCode: C3MG+C34
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: http://www.fablabnamibia.org/
+twitterHandle: '@FABlab_Namibia'
+websiteUrl: fablabnamibia.org

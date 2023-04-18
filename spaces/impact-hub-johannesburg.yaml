@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: 9 Walters St, Rosebank, Johannesburg, 2196, South Africa
 addressNotes: ""
 city: Johannesburg
 country: South Africa
-description: ""
-email: ""
-facebookUrl: ""
+diescription: Founded by Tehilah Simantov, The Impact Hub manages all your campaign needs from hosting online and live events to running your campaigns, The Impact Hub is your one-stop-shop!
+email: monique@theimpacthub.co.za
+facebookUrl: theimpacthub
+googleMapsUrl: ""
 hubID: impact-hub-johannesburg
-instagramHandle: ""
+instagramHandle: (@impacthubjoburg
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: IMPACT HUB
+phone: +27 74 548 4497
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ImpactHub
-websiteUrl: johannesburg.impacthub.net
+websiteUrl: heimpacthub.co.za

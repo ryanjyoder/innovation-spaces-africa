@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Recasement Riyad Niamey, 0099, Niger
 addressNotes: ""
-city: ""
-country: ""
-description: ""
-email: ""
-facebookUrl: ""
+city: Niamey
+country: Niger
+diescription: Jokkolabs a ainsi pour ambition de faire émerger un écosystème de l’innovation numérique, induisant de nouvelles façons d’échanger et d’entreprendre.
+email: jokkoniamey@gmail.com
+facebookUrl: facebook.com/JokkolabsNiamey/
+googleMapsUrl: ""
 hubID: jokkolabs-niamey
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Jokkolabs Niamey
+phone: +227 87 74 78 71
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: JokkolabsNiamey
-websiteUrl: ""
+websiteUrl: jokkolabs.net/niamey/

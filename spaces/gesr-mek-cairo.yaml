@@ -1,24 +1,23 @@
 activities:
   - accelerator
   - incubator
-addressLine1: ""
+addressLine1: 4 El Ahram Street, El Nafoura Square, Al Mokattam, Cairo, Egypt.
 addressNotes: ""
-city: ""
+city: Cairo
 country: Egypt
-description: |
-  GESR-MEK with a mission to establish business incubators models that foster technology focused, innovative ideas that solve the societal challenges in the fields of water, food, health, energy, and education, and to help transforming them into sustainable business ventures.
-email: ""
-facebookUrl: ""
+diescription: GESR-MEK with a mission to establish business incubators models that foster technology focused, innovative ideas that solve the societal challenges in the fields of water, food, health, energy, and education, and to help transforming them into sustainable business ventures.
+email: gesr@misrelkheir.org.
+facebookUrl: https://www.facebook.com/GESR.Egypt
 googleMapsUrl: ""
 hubID: gesr-mek-cairo
-instagramHandle: ""
+instagramHandle: gesrmisrelkheir
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: GESR-MEK Cairo
-phone: ""
+phone: 28452549 – 28452351
 plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: https://gesr.net/

@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: Ota, Nigeria
 addressNotes: ""
 city: Ota
 country: Nigeria
-description: "ALFTech Hub is  an innovation hub that is focused on social impact, job creation, skill acquisition, youth engagement and innovation. \n"
+diescription: ALFTech Hub is  an innovation hub that is focused on social impact, job creation, skill acquisition, youth engagement and innovation.
 email: ""
 facebookUrl: https://www.facebook.com/pg/alftechhub/services/
+googleMapsUrl: ""
 hubID: alftech-hub
 instagramHandle: ""
 lat: 6.6927446
 linkedinUrl: ""
-lng: 3.23648539999999
+lng: 3.2364854
 name: ALFTech Hub
+phone: ""
+plusCode: ""
 postalCode: ""
 region: Ogun State
 twitterHandle: ""
-websiteUrl: http://alftechhub.com/
+websiteUrl: alftechhub.com

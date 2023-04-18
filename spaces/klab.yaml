@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Rwanda
-addressNotes: ""
-city: ""
+addressNotes: Telecom House, 6th Floor, Kigali, Rwanda
+city: Kigali
 country: Rwanda
-description: |
-  kLab (knowledge Lab) is a unique open technology hub in Kigali where students, fresh graduates, entrepreneurs, and innovators come to work on their ideas/projects to turn them into viable business models.
-email: ""
-facebookUrl: ""
+diescription: kLab (knowledge Lab) is a unique open technology hub in Kigali where students, fresh graduates, entrepreneurs, and innovators come to work on their ideas/projects to turn them into viable business models.
+email: info@klab.rw
+facebookUrl: Klab
+googleMapsUrl: ""
 hubID: klab
 instagramHandle: ""
 lat: -1.940278
 linkedinUrl: ""
 lng: 29.873888
 name: kLab
+phone: +250 788 306 293
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: klabrw
+twitterHandle: '@klabrw'
 websiteUrl: http://klab.rw/

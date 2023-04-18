@@ -1,11 +1,10 @@
 activities: []
-addressLine1: ""
+addressLine1: Mangani, Bd Karthala, Moroni, Comoros
 addressNotes: ""
-city: ""
+city: Boulevard Karthala, Moroni, Comores
 country: Comoros
-description: |
-  Com’Work is both a coworking space and an incubator of companies in the centre of Moroni, dedicated to national and international customers. Com’Work is a support structure for projects of innovative entrepreneurship, managed by a team of consultants and employees, pooling experiences, skills and networks to contribute to the economic and social development of Comoros. We offer a tailor-made incubation program for companies.
-email: ""
+diescription: Com’Work is both a coworking space and an incubator of companies in the centre of Moroni, dedicated to national and international customers. Com’Work is a support structure for projects of innovative entrepreneurship, managed by a team of consultants and employees, pooling experiences, skills and networks to contribute to the economic and social development of Comoros. We offer a tailor-made incubation program for companies.
+email: contact@comorescoworking.com
 facebookUrl: ""
 googleMapsUrl: ""
 hubID: com-work
@@ -14,9 +13,9 @@ lat: 0
 linkedinUrl: ""
 lng: 0
 name: Com'Work
-phone: ""
-plusCode: ""
+phone: +269 733 24 13
+plusCode: 77X4+G8W
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: www.comorescoworking.com

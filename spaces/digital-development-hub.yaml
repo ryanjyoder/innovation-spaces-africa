@@ -1,18 +1,21 @@
-addressLine1: Kano City, Kano, Nigeria
-addressNotes: ""
+activities: ""
+addressLine1: Shop Rite, 32B Zoo Rd, opposite Al-Hamsad tower
+addressNotes: Albasa 700103, Kano, Nigeria
 city: Kano
 country: Nigeria
-description: |
-  Digital Development Hub are a co-working space, incubation/acceleration and an innovation center that focuses on social impact, skill acquisition and job creation. They get most of their funds from Africa.
-email: ""
-facebookUrl: ""
+diescription: Digital Development Hub are a co-working space, incubation/acceleration and an innovation center that focuses on social impact, skill acquisition and job creation. They get most of their funds from Africa.
+email: hello@ddhubng.com
+facebookUrl: https://facebook.com/DDHubNG
+googleMapsUrl: ""
 hubID: digital-development-hub
-instagramHandle: ""
+instagramHandle: DDHubNG
 lat: 12.0049303
-linkedinUrl: https://ng.linkedin.com/company/ddhubng
-lng: 8.51169030000006
+linkedinUrl: https://linkedin.com/company/ddhubng
+lng: 8.5116903
 name: Digital Development Hub
+phone: +234 813 364 6976
+plusCode: ""
 postalCode: ""
 region: Kano
-twitterHandle: ""
-websiteUrl: https://ddhub.org.ng
+twitterHandle: DDHubNG
+websiteUrl: ddhubng.com

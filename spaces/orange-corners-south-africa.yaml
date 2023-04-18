@@ -1,8 +1,9 @@
+activities: ""
 addressLine1: 20 Kruger Street
 addressNotes: OPEN, 4th Floor, Mainchange Building
 city: Johannesburg
 country: South-Africa
-description: Orange Corners South Africa (OCSA) aims to empower entrepreneurs, and specifically black owned businesses and young black people wishing to start a business, through providing an enabling platform to their beneficiaries in urban, rural and underdeveloped areas in South Africa. The OCSA programme consists of two main elements. One is a startup programme supporting grassroots entrepreneurs from township backgrounds including Tembisa and Alexandra. It is aimed at building basic business acumen and social entrepreneurship in the community, and creating sustainable small businesses and social upliftment. The other is a programme aimed at supporting high-growth creative urban entrepreneurs and SMSE’s from the broader Johannesburg area. Through this programme, Orange Corners is growing the number of sustainable job creators by supporting established startups, with a focus on accessing markets and finance.
+diescription: Orange Corners South Africa (OCSA) aims to empower entrepreneurs, and specifically black owned businesses and young black people wishing to start a business, through providing an enabling platform to their beneficiaries in urban, rural and underdeveloped areas in South Africa. The OCSA programme consists of two main elements. One is a startup programme supporting grassroots entrepreneurs from township backgrounds including Tembisa and Alexandra. It is aimed at building basic business acumen and social entrepreneurship in the community, and creating sustainable small businesses and social upliftment. The other is a programme aimed at supporting high-growth creative urban entrepreneurs and SMSE’s from the broader Johannesburg area. Through this programme, Orange Corners is growing the number of sustainable job creators by supporting established startups, with a focus on accessing markets and finance.
 email: ""
 facebookUrl: ""
 googleMapsUrl: ""
@@ -14,7 +15,7 @@ lng: 0
 name: Orange Corners SA
 phone: +27 012 425 4577
 plusCode: ""
-postalCode: ' 2001'
+postalCode: 2001
 region: ""
 twitterHandle: OrangeCornersSA
 websiteUrl: orangecorners.co.za

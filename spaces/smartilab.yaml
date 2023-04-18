@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Angles Rues Zerhoun, Ejoukak and, Rue Ait Brahim, Rabat 10000, Morocco
 addressNotes: ""
 city: Rabat
-country: ""
-description: "Le SMARTILAB est le premier Fablab de la capitale du Maroc, Rabat. \r\nPrototypage des CI, Packaging, prototypage système embarqués, circuits RF, CEM, essais et caractérisations expérimentales"
-email: hafid.griguer@gmail.com
-facebookUrl: ""
+country: Morocco
+diescription: Le SMARTILAB est le premier Fablab de la capitale du Maroc, Rabat.  Prototypage des CI, Packaging, prototypage système embarqués, circuits RF, CEM, essais et caractérisations expérimentales
+email: contact@smartilab.ma
+facebookUrl: smartilab.ma
+googleMapsUrl: ""
 hubID: smartilab
 instagramHandle: ""
 lat: 33.9627061
 linkedinUrl: ""
-lng: -6.83737819999999
+lng: -6.8373782
 name: SMARTiLab
+phone: +212 5377-55758
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: smartilab.ma

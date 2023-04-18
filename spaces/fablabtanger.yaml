@@ -1,17 +1,21 @@
-addressLine1: ""
-addressNotes: ""
+activities: ""
+addressLine1: Abdelmalek Essaâdi University ⵜⴰⵙⴷⴰⵡⵉⵜ ⵏ ⵄⴰⴱⴷⵍⵎⴰⵍⴽ ⵙⵙⵄⴷⵉ
+addressNotes: Tanger, Morocco
 city: Tanger
-country: ""
-description: "This new space was opened early 2014 in Tangier, Morocco\r\nyou can visit our webpage www.fablabtanger.org or facebook fablabtanger to get to know more about it."
+country: Madagascar
+diescription: This new space was opened early 2014 in Tangier, Morocco you can visit our webpage www.fablabtanger.org or facebook fablabtanger to get to know more about it.
 email: contact@fablabtanger.org
-facebookUrl: ""
+facebookUrl: fablabtanger
+googleMapsUrl: ""
 hubID: fablabtanger
-instagramHandle: ""
+instagramHandle: fablabtanger
 lat: 35.7666667
 linkedinUrl: ""
-lng: -5.79999999999995
+lng: -5.8
 name: FabLabTanger
+phone: +212 644-410453
+plusCode: P4P3+JPQ
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: fablabtanger
+websiteUrl: www.fablabtanger.org

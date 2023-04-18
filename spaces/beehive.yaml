@@ -1,22 +1,21 @@
 activities:
   - co-working-space
   - incubator
-addressLine1: ""
+addressLine1: 34 133 Yaounde, Cameroun
 addressNotes: ""
-city: ""
+city: Yaounde
 country: Cameroon
-description: |
-  Beehive is a business incubator and coworking space dedicated to the detection of innovative project promoters, project support from the conception stage to the post-creation stage, and also the development of project leaders’ mindset in order to unleash their full potential.
+diescription: Beehive is a business incubator and coworking space dedicated to the detection of innovative project promoters, project support from the conception stage to the post-creation stage, and also the development of project leaders’ mindset in order to unleash their full potential.
 email: ""
-facebookUrl: ""
-googleMapsUrl: ""
+facebookUrl: http://facebook.com/BeehiveCoworking237/
+googleMapsUrl: Mini Prix Bastos à 200 m de la rue en face de G4S
 hubID: beehive
-instagramHandle: ""
+instagramHandle: beehivecoworking237
 lat: 0
-linkedinUrl: ""
+linkedinUrl: http://linkedin.com/company/beehivecoworking/
 lng: 0
 name: Beehive Incubator &#038; Coworking
-phone: ""
+phone: (+237) 693 87 59 34
 plusCode: ""
 postalCode: ""
 region: ""

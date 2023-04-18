@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: Kenya
-addressNotes: ""
-city: ""
+addressNotes: 6th Floor Senteu Plaza, Galana/Lenana Road,
+city: Nairobi
 country: Kenya
-description: |
-  iHub is a support system for ICT-focused entrepreneurs who aspire to create great companies leveraging the unique opportunities in Africa. It also speeds the growth of the Kenyan tech community by connecting people, supporting startups, and surfacing information.
-email: ""
-facebookUrl: ""
+diescription: iHub is a support system for ICT-focused entrepreneurs who aspire to create great companies leveraging the unique opportunities in Africa. It also speeds the growth of the Kenyan tech community by connecting people, supporting startups, and surfacing information.
+email: info@ihub.co.ke
+facebookUrl: https://www.facebook.com/iHubNairobi
+googleMapsUrl: ""
 hubID: ihub
-instagramHandle: ""
+instagramHandle: ihub_nairobi
 lat: -0.023559
-linkedinUrl: ""
+linkedinUrl: https://www.linkedin.com/company/ihub-nairobi
 lng: 37.906193
 name: iHub
+phone: "+254798985410"
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: iHub

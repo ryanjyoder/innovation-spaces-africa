@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Tanzania Breweries, Msimbazi Street, Dar es Salaam, Tanzania
 addressNotes: ""
 city: Dar es Salaam
 country: Tanzania
-description: |
-  dLab activities include training in data literacy and analysis, also supports the development of a roadmap, assisting the country to monitor progress toward meeting the Sustainable Development Goals (SDGs). It is also an innovation hub that runs incubation and acceleration programmes focused on skill acquisition, social impact and youth engagement.
-email: ""
-facebookUrl: ""
+diescription: dLab activities include training in data literacy and analysis, also supports the development of a roadmap, assisting the country to monitor progress toward meeting the Sustainable Development Goals (SDGs). It is also an innovation hub that runs incubation and acceleration programmes focused on skill acquisition, social impact and youth engagement.
+email: connect@dlab.or.tz
+facebookUrl: https://www.facebook.com/dlabtz
+googleMapsUrl: ""
 hubID: dlab
-instagramHandle: ""
+instagramHandle: dlabtz
 lat: -6.8234286
-linkedinUrl: ""
+linkedinUrl: http://www.linkedin.com/in/dlab-tanzania
 lng: 39.2680669
 name: dLab
+phone: 0225 222 410 645/ 0222 410 690
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: dlabtz
+twitterHandle: dLabTz
 websiteUrl: http://www.dlab.or.tz/

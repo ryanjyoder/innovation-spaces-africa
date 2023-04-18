@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: Camp Johnson Rd, Monrovia, Liberia
 addressNotes: ""
 city: Monrovia
 country: Liberia
-description: |
-  iLab’s mission is to assist IT professionals, aspiring technologists, newcomers to IT, as well as organizations and institutions in their effort to more readily share information using information and communication technologies (ICTs).
-email: ""
-facebookUrl: ""
+diescription: iLab’s mission is to assist IT professionals, aspiring technologists, newcomers to IT, as well as organizations and institutions in their effort to more readily share information using information and communication technologies (ICTs).
+email: info@ilabliberia.org
+facebookUrl: https://www.facebook.com/ilab.libiberia/
+googleMapsUrl: ""
 hubID: ilab-liberia
 instagramHandle: ""
 lat: 6.306069
 linkedinUrl: ""
 lng: -10.7988739
 name: iLab Liberia
+phone: +231 88 644 2287
+plusCode: ""
 postalCode: ""
 region: Montserrado
 twitterHandle: iLabLiberia

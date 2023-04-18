@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Polokwane, 0727, South Africa
 addressNotes: First floor at the Science Education Centre
 city: Polokwane, Mankweng
-country: ""
-description: ""
+country: South Africa
+diescription: To be a leading African University focused on the developmental needs of its communities and epitomising academic excellence and innovativeness
 email: meletsoalo@gmail.com
-facebookUrl: ""
+facebookUrl: ULvarsity
+googleMapsUrl: ""
 hubID: limpopofablab
-instagramHandle: ""
+instagramHandle: ulvarsity
 lat: -23.88648
 linkedinUrl: ""
 lng: 29.72771
 name: Limpopo Fablab
-postalCode: "0727"
+phone: +27 12 521 4058
+plusCode: 4P6Q+FC
+postalCode: 727
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: '@ULvarsity'
+websiteUrl: http://www.ul.ac.za/

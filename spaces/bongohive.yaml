@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: Haile Selassie Ave, Lusaka, Zambia
-addressNotes: ""
+addressNotes: 19 Katima Mulilo Road, Olympia Park
 city: Lusaka
 country: Zambia
-description: |
-  BongoHive assist scalable startups of any background by enhancing skills, accelerating growth, strengthening networks, increasing collaboration, providing a forum for ideas exchange and reducing the barriers to entrepreneurship.
-email: ""
-facebookUrl: ""
+diescription: BongoHive assist scalable startups of any background by enhancing skills, accelerating growth, strengthening networks, increasing collaboration, providing a forum for ideas exchange and reducing the barriers to entrepreneurship.
+email: contactus@bongohive.co.zm
+facebookUrl: https://facebook.com/BongoHive
+googleMapsUrl: ""
 hubID: bongohive
-instagramHandle: ""
+instagramHandle: bongohive
 lat: -15.4186552
-linkedinUrl: ""
+linkedinUrl: https://www.linkedin.com/company/bongohive
 lng: 28.3099678
 name: BongoHive
+phone: +26 095 301 7526
+plusCode: ""
 postalCode: ""
 region: Lusaka Province
 twitterHandle: bongohive

@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: lot P1430 v�doko ,  Cotonou
 addressNotes: ""
-city: ""
-country: ""
-description: ""
-email: ""
-facebookUrl: ""
+city: Cotonou
+country: Benin
+diescription: Aucune
+email: hello@africinnov.com
+facebookUrl: AfricinnovPAI
+googleMapsUrl: ""
 hubID: incubateur-rse-benin
-instagramHandle: ""
+instagramHandle: africinnovcommunity
 lat: 0
 linkedinUrl: https://www.linkedin.com/company/groupe-de-travail-rse-b%C3%A9nin/
 lng: 0
 name: INCUBATEUR RSE BENIN
+phone: +221 33 823 00 06
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: Africinnov
+websiteUrl: old.uboraweb.com

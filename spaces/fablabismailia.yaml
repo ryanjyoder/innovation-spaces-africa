@@ -1,17 +1,21 @@
-addressLine1: ""
-addressNotes: ""
+activities: ""
+addressLine1: El Sheikh Zayed, Ismailia 3
+addressNotes: Ismailia Governorate 8365011, Egypt
 city: ismailia
-country: ""
-description: fabrication lab
+country: Egypt
+diescription: fabrication lab
 email: eman.elshabrawy@ismailia.moe.edu.eg
-facebookUrl: ""
+facebookUrl: https://www.facebook.com/sharer.php?u=https://www.nezakr.org/Ismailia/&hashtag=%23%D9%86%D8%AA%D8%A7%D8%A6%D8%AC_%D8%A7%D9%84%D8%A5%D9%85%D8%AA%D8%AD%D8%A7%D9%86%D8%A7%D8%AA
+googleMapsUrl: ""
 hubID: fablabismailia
 instagramHandle: ""
-lat: 30.6214053807067
+lat: 30.62140538
 linkedinUrl: ""
-lng: 32.2288652208435
+lng: 32.22886522
 name: fab lab ismailia
+phone: 1224448985
+plusCode: J77F+54Q
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: https://twitter.com/Nezakr2021
+websiteUrl: https://www.nezakr.org/Ismailia/

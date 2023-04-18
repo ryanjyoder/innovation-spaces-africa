@@ -1,24 +1,23 @@
 activities:
   - accelerator
   - incubator
-addressLine1: ""
+addressLine1: shop 13A, Tati river mall, Francistown, botswana
 addressNotes: ""
-city: ""
+city: Francistown
 country: Botswana
-description: |
-  Dream Factory Innovation is focused on research and innovation with projects that target the unemployed youths. They have a coding initiative in the Eastern Cape
-email: ""
-facebookUrl: ""
+diescription: Dream Factory Innovation is focused on research and innovation with projects that target the unemployed youths. They have a coding initiative in the Eastern Cape
+email: bots@dreamfactoryfoundation.org
+facebookUrl: https://www.facebook.com/dreamfactoryfoundation
 googleMapsUrl: ""
 hubID: dream-factory-innovation
-instagramHandle: ""
+instagramHandle: dreamfactory_foundation
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Dream Factory Innovation
-phone: ""
+phone: +267 7789 5682
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: DreamFactoryFdn
+websiteUrl: http://www.dreamfactoryfoundation.org/

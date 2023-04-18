@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: 167 avenue Lamine Gu�ye x Place Soweto Immeuble Rivonia Tower 11eme Etage
-addressNotes: ""
+addressNotes: 167 avenue Lamine Guèye x Place Soweto Immeuble Rivonia Tower 11ème étage, Senegal
 city: Dakar
 country: Senegal
-description: ""
+diescription: Emergence Capital is a financial engineering consulting firm dedicated to African start-ups and SMEs.
 email: ncamara@emergence.africa
-facebookUrl: ""
+facebookUrl: https://www.facebook.com/AfricinnovPAI
+googleMapsUrl: ""
 hubID: emergence-capital-diaspolab
-instagramHandle: ""
+instagramHandle: africinnovcommunity
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://www.linkedin.com/company/africinnov/?viewAsMember=true
 lng: 0
 name: Emergence Capital / DiaspoLab
+phone: "+221338424002"
+plusCode: MH77+84
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: http://www.emergence.africa
+twitterHandle: Africinnov
+websiteUrl: http://www.emergence.africa/

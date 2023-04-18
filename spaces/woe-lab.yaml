@@ -1,17 +1,21 @@
-addressLine1: Gulf of Guinea, Esiama, Ghana
-addressNotes: ""
+activities: ""
+addressLine1: ""
+addressNotes: Villa 227('Djidjolé en allant vers le marché), 110 Aflao-Gakli Rue Klala, Lomé, Togo
 city: Esiama
 country: Togo
-description: "With twenty members, the Woe Lab, a young innovative community in Lome, Togo, is the first African space dedicated to technology democracy. \n"
+diescription: With twenty members, the Woe Lab, a young innovative community in Lome, Togo, is the first African space dedicated to technology democracy.
 email: ""
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: woe-lab
 instagramHandle: ""
 lat: 4.9255857
-linkedinUrl: ""
-lng: -2.32036949999997
+linkedinUrl: weolabs
+lng: -2.3203695
 name: Woe Lab
+phone: +228 93 54 08 26
+plusCode: ""
 postalCode: ""
 region: Western Region
-twitterHandle: ""
-websiteUrl: http://www.woelabo.com/
+twitterHandle: weolab
+websiteUrl: woelabo.com

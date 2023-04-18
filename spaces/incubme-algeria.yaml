@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Algeria
-addressNotes: ""
-city: ""
+addressNotes: Bouchaoui 3 n°333, Cheraga Alger, Algerie
+city: Algiers
 country: Algeria
-description: |
-  Incubme is an incubator and accelerator  that are focused on skill acquisition, job creation and innovation.
-email: ""
-facebookUrl: https://www.facebook.com/IncubMeDz/
+diescription: IncubMe is an incubator and accelerator that has been created to solve problems entrepreneurs and idea holders face in getting their startup or idea off the ground.
+email: contact@incubme.com
+facebookUrl: IncubMeDz
+googleMapsUrl: ""
 hubID: incubme-algeria
-instagramHandle: ""
+instagramHandle: incubme
 lat: 28.033886
-linkedinUrl: ""
+linkedinUrl: incubeme
 lng: 1.659626
 name: Incubme Algeria
+phone: +213 23 22 81 76
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
+twitterHandle: AIncubme
 websiteUrl: www.incubme.com

@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Ambassade d'Allemagne, Rue 14
-addressNotes: ""
+addressNotes: Bamako, Mali
 city: Bamako
 country: Mali
-description: |
-  DiaspoHub is a project incubator that supports project leaders from the diaspora, also focused on supporting innovative projects with high impact. The system provides training, mentoring and networking with project leaders, the Hub is also an incubator and accelerator that is focused on skill acquisition, social impact and innovation.
+diescription: DiaspoHub is a project incubator that supports project leaders from the diaspora, also focused on supporting innovative projects with high impact. The system provides training, mentoring and networking with project leaders, the Hub is also an incubator and accelerator that is focused on skill acquisition, social impact and innovation.
 email: secretariat@diaspohub.com
 facebookUrl: https://www.facebook.com/DiaspoHub/
+googleMapsUrl: ""
 hubID: diaspo-hub
 instagramHandle: ""
 lat: 12.6250651
 linkedinUrl: https://ng.linkedin.com/company/ddhubng
-lng: -7.98821799999996
+lng: -7.988218
 name: Diaspo Hub
+phone: +223 20 21 28 94
+plusCode: JXQX+95M
 postalCode: ""
 region: District de Bamako
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: http://www.mali.campusfrance.org/

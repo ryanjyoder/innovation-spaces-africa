@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: ""
 addressNotes: ""
 city: Kumasi
 country: Ghana
-description: ""
-email: ""
-facebookUrl: ""
+diescription: A Mobile Web Lab that empower members (mainly students) to solve pertinent issues & successfully incubating these world changing ideas into businesses.
+email: info@mfriday.org
+facebookUrl: mfridayslab
+googleMapsUrl: ""
 hubID: mfriday
-instagramHandle: ""
+instagramHandle: '@imfridays'
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: mFriday
+phone: ""
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: mfridays
-websiteUrl: http://www.mfriday.org/
+websiteUrl: mfriday.org

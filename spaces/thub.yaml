@@ -1,23 +1,22 @@
 activities:
   - accelerator
-addressLine1: ""
+addressLine1: Main Road Garoowe NG, Somalia
 addressNotes: ""
-city: ""
+city: Garoowe
 country: Somalia
-description: |
-  THub is an enthusiastic tech community based in Somalia. Our main focus is providing an atmosphere where startups, forward moving enterprises, entrepreneurs and the youth in general can utilise to thrive, develop, learn new skills and create amazing technology using solutions in many fields.
-email: ""
-facebookUrl: ""
+diescription: THub is an enthusiastic tech community based in Somalia. Our main focus is providing an atmosphere where startups, forward moving enterprises, entrepreneurs and the youth in general can utilise to thrive, develop, learn new skills and create amazing technology using solutions in many fields.
+email: Info@t-hub.so
+facebookUrl: THubSom
 googleMapsUrl: ""
 hubID: thub
-instagramHandle: ""
+instagramHandle: thub_somalia
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: THub
-phone: ""
+phone: +252 906 814 414
 plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: THub_Som
-websiteUrl: ""
+websiteUrl: t-hub.so

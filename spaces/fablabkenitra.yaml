@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: 115 assam, Kenitra 14060, Morocco
 addressNotes: ""
 city: Kénitra
-country: ""
-description: "Fablab Kenitra propose et conçoit des formations inter et intra-entreprises, pour l'acquisition de compétences reconnues par les professionnels selon 2 axes :\r\n*Promotion de l’innovation à tout acteur de Kenitra et de sa région (universitaires, étudiants, porteurs de projet et d’idée …)\r\n*Soutien au développement de la Zone Industrielle de Kenitra : Il apportera une valeur ajoutée en termes de soutien à la recherche et à la formation.\r\n"
+country: Morocco
+diescription: 'Fablab Kenitra propose et conçoit des formations inter et intra-entreprises, pour l''acquisition de compétences reconnues par les professionnels selon 2 axes : *Promotion de l’innovation à tout acteur de Kenitra et de sa région (universitaires, étudiants, porteurs de projet et d’idée …) *Soutien au développement de la Zone Industrielle de Kenitra : Il apportera une valeur ajoutée en termes de soutien à la recherche et à la formation.'
 email: contact@fablab-kenitra.com
-facebookUrl: ""
+facebookUrl: https://fablab-kenitra.com/#
+googleMapsUrl: ""
 hubID: fablabkenitra
-instagramHandle: ""
+instagramHandle: kenitra
 lat: 34.2562785
 linkedinUrl: ""
-lng: -6.58140660000004
+lng: -6.5814066
 name: FabLab Kenitra
-postalCode: "14000"
+phone: "+212666888860"
+plusCode: 8F5R+3F
+postalCode: 14000
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: fablab-kenitra.com
+websiteUrl: https://fablab-kenitra.com/

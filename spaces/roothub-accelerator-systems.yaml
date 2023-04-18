@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: Uyo Airport, Uyo, Nigeria
 addressNotes: ""
 city: Uyo
 country: Nigeria
-description: |
-  Roothub incubates, accelerates and supports business ideas to increase the number of self-sufficient Businesses. They are a co-creation space that is focused on social impact, job creation and innovation.
-email: ""
+diescription: Roothub incubates, accelerates and supports business ideas to increase the number of self-sufficient Businesses. They are a co-creation space that is focused on social impact, job creation and innovation.
+email: '@theroothub.com'
 facebookUrl: https://www.facebook.com/theroothub/
+googleMapsUrl: ""
 hubID: roothub-accelerator-systems
-instagramHandle: ""
+instagramHandle: theroothub
 lat: 4.876463
 linkedinUrl: ""
-lng: 8.08569299999999
+lng: 8.085693
 name: Roothub Accelerator Systems
+phone: +23480 9242 7901
+plusCode: ""
 postalCode: ""
 region: Akwa Ibom
 twitterHandle: theroothub

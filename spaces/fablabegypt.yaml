@@ -1,17 +1,21 @@
-addressLine1: ""
-addressNotes: ""
+activities: ""
+addressLine1: Villa 35 - 100 st. - Near Al Horia Square
+addressNotes: Maadi, Cairo, Cairo Governorate, Egypt
 city: Cairo
-country: ""
-description: Fab Lab Egypt (under the umbrella of San3a Tech) is a community-run public makerspace and digital fabrication lab where anyone in the community from young children to students, entrepreneurs and businesses can get together to share knowledge, and collaborate on projects and hands-on activities. It gives everyone the capability to turn their ideas and concepts into reality and to make “almost anything”. We share our machines, tools, skills, resources and ideas with the community to create new opportunities for economic and social benefit.
+country: Egypt
+diescription: Fab Lab Egypt (under the umbrella of San3a Tech) is a community-run public makerspace and digital fabrication lab where anyone in the community from young children to students, entrepreneurs and businesses can get together to share knowledge, and collaborate on projects and hands-on activities. It gives everyone the capability to turn their ideas and concepts into reality and to make “almost anything”. We share our machines, tools, skills, resources and ideas with the community to create new opportunities for economic and social benefit.
 email: fablabegypt@san3atech.com
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: fablabegypt
-instagramHandle: ""
+instagramHandle: fablabegypt
 lat: 29.9592179
-linkedinUrl: ""
+linkedinUrl: fab-lab-egypt
 lng: 31.2527818
 name: Fab Lab Egypt
+phone: +20 101 746 5650
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: fablabegypt
+websiteUrl: www.fablabegypt.com

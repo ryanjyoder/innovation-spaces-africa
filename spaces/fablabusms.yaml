@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Av Med V, BP 591, Béni Mellal
 addressNotes: ""
 city: Béni Mellal
-country: ""
-description: ""
-email: ""
+country: Morocco
+diescription: Le festival des FabLabs est un évènement annuel organisé dans le cadre du projet de l’Agence Universitaire de la Francophonie (AUF). Il regroupe les FabLabs des universités publiques marocaines. Ces FabLabs se sont regroupés, avec le soutien de l’AUF, dans le Réseau des FabLabs Universitaires du Maroc (RUMAF).
+email: festivalfablab@usms.ma
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: fablabusms
-instagramHandle: ""
+instagramHandle: usms.ac.ma/apps/letsfablab2021
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: FabLab USMS
-postalCode: "23000"
+phone: +212 6 48 65 02 44
+plusCode: ""
+postalCode: 23000
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: www.usms.ac.ma/apps/letsfablab2021/

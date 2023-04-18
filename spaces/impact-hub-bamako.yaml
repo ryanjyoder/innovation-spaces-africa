@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: Hamdallaye ACI 2000
 addressNotes: ""
 city: Bamako
 country: Mali
-description: |
-  Impact Hub Bamako first implementation in French-speaking Africa, considered as the largest network of incubators and innovation centers (social and technological) in the world. They are an innovation hub that is focused on job creation, youth engagement and innovation and get most of their funds from Europe.
+diescription: Impact Hub Bamako first implementation in French-speaking Africa, considered as the largest network of incubators and innovation centers (social and technological) in the world. They are an innovation hub that is focused on job creation, youth engagement and innovation and get most of their funds from Europe.
 email: bamako.info@impact.net
 facebookUrl: https://www.facebook.com/ImpactHubBamako
+googleMapsUrl: ""
 hubID: impact-hub-bamako
 instagramHandle: ""
 lat: 12.6392316
 linkedinUrl: ""
-lng: -8.00288920000003
+lng: -8.0028892
 name: Impact Hub Bamako
+phone: "+22376270327"
+plusCode: JXGF+GRQ
 postalCode: ""
 region: Bamako Capital District
 twitterHandle: ImpactHubBKO

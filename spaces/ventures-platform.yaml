@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Abuja International Conference Centre, Herbert Macaulay Way, Abuja, Nigeria
 addressNotes: ""
 city: Abuja
 country: Nigeria
-description: |
-  Ventures Platform (VP) is a world-class full-service innovation hub in Abuja. At the core of VP’s value proposition is an intensive 16-week hybrid incubation program, a residence for need-based cohorts and a paid co-working space for freelance entrepreneurs and professionals on the go.
-email: ""
-facebookUrl: ""
+diescription: Ventures Platform (VP) is a world-class full-service innovation hub in Abuja. At the core of VP’s value proposition is an intensive 16-week hybrid incubation program, a residence for need-based cohorts and a paid co-working space for freelance entrepreneurs and professionals on the go.
+email: partners@venturesplatform.com
+facebookUrl: VPlatformHub
+googleMapsUrl: ""
 hubID: ventures-platform
-instagramHandle: ""
+instagramHandle: vplatformhub
 lat: 9.0438014
-linkedinUrl: ""
-lng: 7.49190239999996
+linkedinUrl: ventures-platform
+lng: 7.4919024
 name: Ventures Platform
+phone: +234 809 041 5327
+plusCode: 3FRF+8X
 postalCode: ""
 region: Federal Capital Territory
 twitterHandle: vplatformhub
-websiteUrl: http://www.venturesplatform.com/
+websiteUrl: venturesplatform.com

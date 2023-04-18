@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Malawi Sun Hotel, Blantyre, Malawi
-addressNotes: ""
+addressNotes: 'Area 15, Chiwengo Road, Plot #46 Box 1689, Malawi'
 city: Blantyre
 country: Malawi
-description: |
-  mHub is an incubator for technology startups with a special focus on building young technology entrepreneurs through training, skills development, and mentorship, the hub is a social enterprise that champions the development of local technology solutions, they also nurture young innovators and entrepreneurs with technical and business skills to create sustainable business solutions.
+diescription: mHub is an incubator for technology startups with a special focus on building young technology entrepreneurs through training, skills development, and mentorship, the hub is a social enterprise that champions the development of local technology solutions, they also nurture young innovators and entrepreneurs with technical and business skills to create sustainable business solutions.
 email: info@mhubmw.com
-facebookUrl: ""
+facebookUrl: mHubMW
+googleMapsUrl: ""
 hubID: mhub-malawi
-instagramHandle: ""
+instagramHandle: mHubMW
 lat: -15.7820588
-linkedinUrl: ""
+linkedinUrl: mhub-malawi
 lng: 35.0042201
 name: mHub Malawi
+phone: +265 888 21 79 37
+plusCode: 2QR9+MQ
 postalCode: ""
 region: Southern Region
 twitterHandle: mHubMW
-websiteUrl: http://www.mhubmw.com/
+websiteUrl: mhubmw.com

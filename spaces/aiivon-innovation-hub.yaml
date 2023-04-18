@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Abuja, Nigeria
 addressNotes: ""
 city: Abuja
 country: Nigeria
-description: |
-  Aiivon Innovation Hub is a community of motivated individuals, focused on developing solutions to local challenges by utilizing innovation from inventive workspaces and inspiring creativity, advancing effectiveness and encouraging coordinated efforts among members. They are an innovation hub that is focused on social impact, job creation, skill acquisition, youth engagement, and innovation.
-email: ""
-facebookUrl: ""
+diescription: Aiivon Innovation Hub is a community of motivated individuals, focused on developing solutions to local challenges by utilizing innovation from inventive workspaces and inspiring creativity, advancing effectiveness and encouraging coordinated efforts among members. They are an innovation hub that is focused on social impact, job creation, skill acquisition, youth engagement, and innovation.
+email: hello@aiivon.com
+facebookUrl: https://web.facebook.com/aiivon
+googleMapsUrl: ""
 hubID: aiivon-innovation-hub
-instagramHandle: ""
+instagramHandle: aiivonhub
 lat: 9.0764785
 linkedinUrl: ""
-lng: 7.39857400000005
+lng: 7.398574
 name: Aiivon innovation hub
+phone: +234 903 153 8045
+plusCode: ""
 postalCode: ""
 region: Federal Capital Territory
 twitterHandle: AiivonHub
-websiteUrl: https://hub.aiivon.com
+websiteUrl: hub.aiivon.com

@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Aluguntugui St, Accra, Ghana
 addressNotes: ""
 city: Accra
 country: Ghana
-description: |
-  MEST offers aspiring African entrepreneurs a fully sponsored intensive twelve-month program. Sourced from top graduates in Ghana, Nigeria, Kenya and South Africa, these Entrepreneurs-In-Training (EITs) are selected each year to receive comprehensive training across the spectrum of skills required to build successful tech businesses, including computer programming, software development, product management, finance, marketing, sales and leadership best practices.
-email: ""
-facebookUrl: ""
+diescription: MEST offers aspiring African entrepreneurs a fully sponsored intensive twelve-month program. Sourced from top graduates in Ghana, Nigeria, Kenya and South Africa, these Entrepreneurs-In-Training (EITs) are selected each year to receive comprehensive training across the spectrum of skills required to build successful tech businesses, including computer programming, software development, product management, finance, marketing, sales and leadership best practices.
+email: info@meltwater.org
+facebookUrl: mestafrica
+googleMapsUrl: ""
 hubID: the-meltwater-entrepreneurial-school-of-technology-mest
 instagramHandle: ""
 lat: 5.6446677
 linkedinUrl: ""
-lng: -0.152526599999987
+lng: -0.1525266
 name: The Meltwater Entrepreneurial School of Technology (MEST)
+phone: +233 30 274 2921
+plusCode: JRVX+P8
 postalCode: ""
 region: Greater Accra Region
 twitterHandle: MESTAfrica
-websiteUrl: http://meltwater.org/
+websiteUrl: meltwater.org

@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: ""
 addressNotes: ""
 city: Cairo
 country: Egypt
-description: ""
-email: ""
+diescription: WYF Labs believes that integration is a key to success and through ensuring that the SDGs are incorporated in each and every discussion and idea implementation, Egypt will play an active role in goal implementations.
+email: support@avada.com
 facebookUrl: https://www.facebook.com/wyfegypt
+googleMapsUrl: ""
 hubID: wyf-labs
-instagramHandle: ""
+instagramHandle: themefusion
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: WYF Labs
+phone: ""
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: wyfegypt
-websiteUrl: https://wyfegypt.com/wyf_labs.php
+websiteUrl: wyfegypt.com

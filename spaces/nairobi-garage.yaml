@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: Nairobi, Kenya
 addressNotes: ""
 city: Nairobi
 country: Kenya
-description: |
-  Nairobi Garage is a co-working space that is focused on social impact and professional solutions.
-email: ""
-facebookUrl: ""
+diescription: Nairobi Garage is a co-working space that is focused on social impact and professional solutions.
+email: join@nairobigarage.com
+facebookUrl: nairobigarage
+googleMapsUrl: ""
 hubID: nairobi-garage
-instagramHandle: ""
+instagramHandle: nairobigarage
 lat: -1.2920659
-linkedinUrl: ""
+linkedinUrl: nairobi-garage
 lng: 36.8219462
 name: Nairobi Garage
+phone: 0755-556955
+plusCode: ""
 postalCode: ""
 region: Nairobi County
 twitterHandle: nairobigarage

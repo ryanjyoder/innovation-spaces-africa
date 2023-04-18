@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Rue 403, Cotonou, Benin
 addressNotes: ""
 city: Cotonou
 country: Benin
-description: |
-  EtriLabs is an innovation center that nurtures and promotes excellence in Africa through the use of digital technology
-email: ""
+diescription: EtriLabs is an innovation center that nurtures and promotes excellence in Africa through the use of digital technology
+email: info@etrilabs.com
 facebookUrl: https://www.facebook.com/etrilabscotonou/
+googleMapsUrl: ""
 hubID: etrilabs
-instagramHandle: ""
+instagramHandle: etrilabs
 lat: 6.3628451
-linkedinUrl: ""
-lng: 2.42312849999996
+linkedinUrl: https://www.linkedin.com/company/etrilabs/
+lng: 2.4231285
 name: EtriLabs
+phone: +229 21 35 49 45
+plusCode: ""
 postalCode: ""
 region: Littoral Department
-twitterHandle: EtriLabs
+twitterHandle: EtriLabsCotonou
 websiteUrl: http://www.etrilabs.com/

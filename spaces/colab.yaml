@@ -1,17 +1,20 @@
-addressLine1: kaduna South, Kaduna, Nigeria
-addressNotes: ""
+activities: ""
+addressLine1: 4 Barnawa Close, Barnawa, Kaduna
+addressNotes: kaduna South, Kaduna, Nigeria
 city: Kaduna
 country: Nigeria
-description: |
-  CoLab do have an independent body that oversees management and run a hybrid business model. They are a co-creation space, incubator/accelerator and an innovation space that focuses on skill acquisition, social impact and innovation.
+diescription: CoLab do have an independent body that oversees management and run a hybrid business model. They are a co-creation space, incubator/accelerator and an innovation space that focuses on skill acquisition, social impact and innovation.
 email: ""
-facebookUrl: ""
+facebookUrl: https://www.facebook.com/CoLabkd/
+googleMapsUrl: ""
 hubID: colab
-instagramHandle: ""
+instagramHandle: CoLabkd
 lat: 10.4548808
 linkedinUrl: ""
 lng: 7.4056928
 name: CoLab
+phone: "+2348155556990"
+plusCode: ""
 postalCode: ""
 region: Kaduna
 twitterHandle: CoLab_kd

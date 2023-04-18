@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Kasse Kelta Ave, Bamako, Mali
 addressNotes: C'est dans l'mmeuble de ESIAU  à la rue 466 porte 28 Badialan1 Bamako Mali
 city: Bamako
-country: ""
-description: Notre fablab dénommée ESIAULAB  a été crée au sein de l'école supérieure d'ingénierie d'architecture et d'urbanisme (ESIAU) Bamako Mali avec l'appui du woelab
+country: Mali
+diescription: Notre fablab dénommée ESIAULAB  a été crée au sein de l'école supérieure d'ingénierie d'architecture et d'urbanisme (ESIAU) Bamako Mali avec l'appui du woelab
 email: abdoulaye.deyoko@wanadoo.fr
-facebookUrl: ""
+facebookUrl: https://www.facebook.com/Esiau-249734645091535/
+googleMapsUrl: ""
 hubID: esiaulab
-instagramHandle: ""
+instagramHandle: esiau_officielle
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: esiaulab
-postalCode: "223"
+phone: "+22320227405"
+plusCode: MX2P+84F
+postalCode: 223
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: http://esiau-mali.com/

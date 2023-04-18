@@ -2,24 +2,23 @@ activities:
   - co-working-space
   - incubator
   - innovation-centre
-addressLine1: ""
+addressLine1: Lagos, Nigeria
 addressNotes: ""
-city: ""
+city: Lagos
 country: Nigeria
-description: |
-  Description: Artificial Intelligence Hub (AI Hub) is a subsidiary of Ogba Educational Clinic with a vision to train people to code and as well as domesticating artificial intelligence (AI) in Africa. AI Hub is for training people to be future-ready for the fourth Industrial revolution by teaching them the various requirements of computer programming such as HTML, CSS, JavaScript (JS), Python, Machine Learning and Artificial Intelligence.
+diescription: 'Description: Artificial Intelligence Hub (AI Hub) is a subsidiary of Ogba Educational Clinic with a vision to train people to code and as well as domesticating artificial intelligence (AI) in Africa. AI Hub is for training people to be future-ready for the fourth Industrial revolution by teaching them the various requirements of computer programming such as HTML, CSS, JavaScript (JS), Python, Machine Learning and Artificial Intelligence.'
 email: ""
 facebookUrl: ""
 googleMapsUrl: ""
 hubID: ai-hub
-instagramHandle: ""
+instagramHandle: globalaihub
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://linkedin.com/company/globalaihub
 lng: 0
 name: Artificial Intelligence Hub
 phone: ""
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: globalaihub
+websiteUrl: globalaihub.com/education

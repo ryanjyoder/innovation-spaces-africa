@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: E 128, Abidjan, C�te d'Ivoire
 addressNotes: ""
 city: Abidjan
-country: C�te d'Ivoire
-description: |
-  AMN Coworking Space focuses on web, design, media and cultural entrepreneurs, leveraging mobile and web solutions to address a business need. Technologists, media professionals, investors and doers are welcomed to the space.
-email: ""
-facebookUrl: ""
+country: Côte d'Ivoire
+diescription: AMN Coworking Space focuses on web, design, media and cultural entrepreneurs, leveraging mobile and web solutions to address a business need. Technologists, media professionals, investors and doers are welcomed to the space.
+email: tapefr@gmail.com
+facebookUrl: http://www.facebook.com/pages/AMN-Co-Working-Space/137309499647828
+googleMapsUrl: ""
 hubID: amn-coworking-space
 instagramHandle: ""
 lat: 5.3553063
 linkedinUrl: ""
-lng: -3.96637899999996
+lng: -3.966379
 name: AMN Coworking Space
+phone: ""
+plusCode: ""
 postalCode: ""
 region: R�gion des lagunes
 twitterHandle: ""
-websiteUrl: https://wiki.hackerspaces.org/AMN_Co_Working_Space
+websiteUrl: wiki.hackerspaces.org/AMN_Co_Working_Space

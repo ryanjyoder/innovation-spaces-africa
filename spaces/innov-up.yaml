@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: innovup, Avenue Du 24 Janvier, Lom�, Togo
 addressNotes: ""
-city: ""
-country: ""
-description: |
-  "Pour en savoir plus visitez notre site <a href=""http://innovup.fefa.tg"">http://innovup.fefa.tg</a>�"
+city: Lome
+country: Togo
+diescription: Pour en savoir plus visitez notre site <a href=""http://innovup.fefa.tg"">http://innovup.fefa.tg</a>�
 email: innovup@fefa-togo.org
 facebookUrl: https://www.facebook.com/centreInnovupTogo/
+googleMapsUrl: ""
 hubID: innov-up
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Innov’up
+phone: +228 92 69 84 46
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ""

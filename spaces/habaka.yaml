@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Lalana Rainandriamampandry, Antananarivo, Antananarivo Province, Madagascar
 addressNotes: ""
 city: Antananarivo
 country: Madagascar
-description: |
-  Habaka is Madagascar’s tech innovation hub: coworking space, tech events, training, startup incubator & ICT projects. It also helps to establish a favorable ecosystem for entrepreneurship
-email: ""
+diescription: 'Habaka is Madagascar’s tech innovation hub: coworking space, tech events, training, startup incubator & ICT projects. It also helps to establish a favorable ecosystem for entrepreneurship'
+email: contact@habaka.org
 facebookUrl: https://web.facebook.com/habakamg?_rdr
+googleMapsUrl: ""
 hubID: habaka
 instagramHandle: ""
 lat: -18.9078944
 linkedinUrl: ""
 lng: 47.5287605
 name: Habaka
+phone: +261 034 53 048 38
+plusCode: ""
 postalCode: ""
 region: Antananarivo Province
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: https://habaka.org/

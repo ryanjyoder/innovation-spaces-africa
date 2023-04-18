@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Jéricho, 237 Ave de la Liberation, Cotonou, Benin
 addressNotes: 237 Ave de la Liberation, Jericho
 city: Cotonou
-country: ""
-description: "We aim to foster frugal innovation (low-tech), promote Do It Yourself, design thinking and\r\ndigital technologies.\r\nWe sensitize to 21st century skills by developing partnerships with local primary and\r\nsecondary schools by proposing STEAM activities for young people outside of the school\r\nterms. We promote local production and the sharing of craftsmanship through DIY\r\nworkshops for kids and adults, and master class for professionals wishing to be trained in\r\ndesign and digital manufacturing."
+country: Benin
+diescription: We aim to foster frugal innovation (low-tech), promote Do It Yourself, design thinking and digital technologies. We sensitize to 21st century skills by developing partnerships with local primary and secondary schools by proposing STEAM activities for young people outside of the school terms. We promote local production and the sharing of craftsmanship through DIY workshops for kids and adults, and master class for professionals wishing to be trained in design and digital manufacturing.
 email: hello@irokolab.org
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: Irokofablab
 instagramHandle: ""
 lat: 6.3736274
 linkedinUrl: ""
 lng: 2.4258254
 name: IROKO FabLab
-postalCode: "00229"
+phone: +229 96 08 47 13
+plusCode: 9CFG+F8
+postalCode: 229
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: irokolab.org/

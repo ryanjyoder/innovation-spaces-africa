@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Immeuble SM, Avenue Ousmane SEMBENE, Ouaga 2000 - 01 BP 822 Ouagadougou, Burkina Faso
 addressNotes: ""
-city: ""
+city: Ouagadougou
 country: Burkina Faso
-description: ""
+diescription: SMLab & Co est un incubateur d'entreprises dont la mission est d'identifier, d'accompagner les porte
 email: contact@smlab.cool
 facebookUrl: https://web.facebook.com/SMLabCO
+googleMapsUrl: ""
 hubID: sm-lab-co
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: SM LAB & CO
+phone: +226 25 48 83 14
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: switch_maker
-websiteUrl: http://smlab.cool/
+websiteUrl: smlab.cool

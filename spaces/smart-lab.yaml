@@ -1,24 +1,23 @@
 activities:
   - accelerator
   - innovation-centre
-addressLine1: ""
+addressLine1: Senga Rd, Dar es Salaam, Tanzania
 addressNotes: ""
-city: ""
+city: Dar es Salaam
 country: Tanzania
-description: |
-  Smart Lab is an innovation platform that connects solutions from learning institutions with corporate needs to create an impact in African communities. They are focused to empower the youth to become more creative and empower their solutions in order to create employment.
-email: ""
-facebookUrl: ""
+diescription: Smart Lab is an innovation platform that connects solutions from learning institutions with corporate needs to create an impact in African communities. They are focused to empower the youth to become more creative and empower their solutions in order to create employment.
+email: info@smartlab.co.tz
+facebookUrl: smartlab255
 googleMapsUrl: ""
 hubID: smart-lab
-instagramHandle: ""
+instagramHandle: '@smartlab255'
 lat: 0
-linkedinUrl: ""
+linkedinUrl: smart-labtz
 lng: 0
 name: Smart Lab
-phone: ""
-plusCode: ""
+phone: +255 683 020 890
+plusCode: 66MX+9M
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: '@smartlab255'
+websiteUrl: smartlab.co.tz

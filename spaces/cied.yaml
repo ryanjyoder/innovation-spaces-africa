@@ -1,16 +1,20 @@
+activities: ""
 addressLine1: Abidjan, C�te-d&#039;Ivoire, Abidjan, C�te d&#039;Ivoire
-addressNotes: ""
-city: ""
-country: ""
-description: ""
+addressNotes: Unnamed Road, Abidjan, Côte d’Ivoire
+city: Abidjan
+country: Côte d'Ivoire
+diescription: ""
 email: ""
 facebookUrl: https://web.facebook.com/AccompagnementCIED/
+googleMapsUrl: ""
 hubID: cied
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: linkedin.com/company/formationcied
 lng: 0
 name: Cied
+phone: +225 40 58 86 48
+plusCode: 928J+676
 postalCode: ""
 region: ""
 twitterHandle: ""

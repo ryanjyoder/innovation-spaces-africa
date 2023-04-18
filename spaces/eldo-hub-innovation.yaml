@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Kenyatta Avenue, Nakuru, Kenya
 addressNotes: ""
 city: Nakuru
 country: Kenya
-description: |
-  EldoHub is an innovation hub that is focused on social impact, job creation and innovation and get most of their funds from Africa. They target young, energetic, innovative and creative individuals, to provide them with skilled based training, working space and a platform to network with their peers and share ideas. It was born with the realization that there was a lot of potential and underlying talent among the youth in the Western Region of Kenya that was unutilized.
-email: ""
-facebookUrl: ""
+diescription: EldoHub is an innovation hub that is focused on social impact, job creation and innovation and get most of their funds from Africa. They target young, energetic, innovative and creative individuals, to provide them with skilled based training, working space and a platform to network with their peers and share ideas. It was born with the realization that there was a lot of potential and underlying talent among the youth in the Western Region of Kenya that was unutilized.
+email: info@eldohub.co.ke
+facebookUrl: https://facebbok.com/eldoHub
+googleMapsUrl: ""
 hubID: eldo-hub-innovation
-instagramHandle: ""
+instagramHandle: Eldohub
 lat: -0.2849853
-linkedinUrl: ""
+linkedinUrl: https://linkedin.com/EldoHub
 lng: 36.0693113
 name: Eldo Hub Innovation
+phone: (+254) 112-006-932
+plusCode: ""
 postalCode: ""
 region: Nakuru County
-twitterHandle: eldohub
+twitterHandle: EldoHub
 websiteUrl: https://www.eldohub.co.ke/

@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Rue TOKOTO, Douala, Cameroon
 addressNotes: ""
-city: ""
-country: ""
-description: ""
+city: Douala
+country: Cameroon
+diescription: Jaba Space est un espace de coworking et un incubateur pour startups et entrepreneurs situé en plein cœur de la ville de Douala, à Bonapriso.
 email: hello@jabaspace.co
-facebookUrl: https://www.facebook.com/jabaspacecoworking/
+facebookUrl: jabaspacecoworking
+googleMapsUrl: ""
 hubID: jaba-space
-instagramHandle: ""
+instagramHandle: '@jaba space'
 lat: 0
-linkedinUrl: ""
+linkedinUrl: JABA SPACE
 lng: 0
 name: JABA SPACE
+phone: +237 6 78 45 30 40
+plusCode: 2MFX+PH
 postalCode: ""
 region: ""
 twitterHandle: JabaSpace
-websiteUrl: https://jabaspace.co/
+websiteUrl: jabaspace.co

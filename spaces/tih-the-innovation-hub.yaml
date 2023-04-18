@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: The Innovation Centre Mark Shuttleworth Street
 addressNotes: ""
 city: Pretoria
 country: South Africa
-description: ""
-email: ""
-facebookUrl: ""
+diescription: The Innovation Hub, the innovation agency of the Gauteng Province is a wholly owned subsidiary of the Gauteng Growth and Development Agency. It was established by the Gauteng Provincial Government through its Department of Economic Development to promote economic development and competitiveness of Gauteng through fostering innovation and entrepreneurship.
+email: info@theinnovationhub.com
+facebookUrl: innovhubZA
+googleMapsUrl: ""
 hubID: tih-the-innovation-hub
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: TIH-The Innovation Hub
+phone: +27 12 844 0000
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: www.theinnovationhub.com
+twitterHandle: innovhub
+websiteUrl: theinnovationhub.com

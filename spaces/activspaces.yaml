@@ -1,19 +1,21 @@
+activities: ""
 addressLine1: Cefam Rd, Buea, Cameroon
 addressNotes: ""
 city: Buea
 country: Cameroon
-description: |
-  ActivSpaces is a tech hub with two co-working spaces and an incubator program called Activation Boot Camp. The co-working space is free to tech entrepreneurs who are actively working on a startup. Activation Boot Camp is a highly selective rigorous six-month acceleration program.
-  ActivSpaces’ mission is to collect, train, encourage, support and delight young Cameroonian innovators into becoming world class entrepreneurs or technology adopters capable of building successful technology enterprises.
-email: info@activspaces.com
+diescription: ActivSpaces is a tech hub with two co-working spaces and an incubator program called Activation Boot Camp. The co-working space is free to tech entrepreneurs who are actively working on a startup. Activation Boot Camp is a highly selective rigorous six-month acceleration program. ActivSpaces’ mission is to collect, train, encourage, support and delight young Cameroonian innovators into becoming world class entrepreneurs or technology adopters capable of building successful technology enterprises.
+email: hello@activspaces.com
 facebookUrl: https://www.facebook.com/ActivSpaces
+googleMapsUrl: ""
 hubID: activspaces
 instagramHandle: ""
 lat: 4.1515548
 linkedinUrl: ""
-lng: 9.23278570000002
+lng: 9.2327857
 name: ActivSpaces
+phone: (+237) 652 280 932, 233 32 24 49 / 678 94 92 41
+plusCode: ""
 postalCode: ""
 region: Southwest
 twitterHandle: activspaces
-websiteUrl: http://activspaces.com/
+websiteUrl: activspaces.com

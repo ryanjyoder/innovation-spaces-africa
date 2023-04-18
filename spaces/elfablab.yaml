@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Marsa, Marsa, Tunis, 2078, Tunisia
 addressNotes: ""
 city: Marsa
-country: ""
-description: "El FabLab est le 1er Maker Space tunsien indépendant. C'est à la fois un lieu, une communauté, et une façon d'être.\r\n\r\nvous pourrez venir concrétiser vos projets à El Fablab : maquette, prototype, petits objets, etc.....\r\n\r\n"
+country: Tunisia
+diescription: 'El FabLab est le 1er Maker Space tunsien indépendant. C''est à la fois un lieu, une communauté, et une façon d''être.  vous pourrez venir concrétiser vos projets à El Fablab : maquette, prototype, petits objets, etc.....'
 email: contact@elfablab.com
-facebookUrl: ""
+facebookUrl: https://www.facebook.com/elfablab
+googleMapsUrl: ""
 hubID: elfablab
 instagramHandle: ""
 lat: 36.8964803
 linkedinUrl: ""
-lng: 10.3105009999999
+lng: 10.310501
 name: elFabLab
-postalCode: "2078"
+phone: ""
+plusCode: ""
+postalCode: 2078
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: http://www.elfablab.com/

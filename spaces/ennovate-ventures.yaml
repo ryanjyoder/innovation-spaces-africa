@@ -1,23 +1,22 @@
 activities:
   - innovation-centre
-addressLine1: ""
+addressLine1: 74 Ally Sykes road, Dar es Salaam, Tanzania
 addressNotes: ""
-city: ""
+city: Dar es Salaam
 country: Tanzania
-description: |
-  Ennovate Ventures is an incubator and co-creation space with the fundamental objective to facilitate entrepreneurship development across the continent, to inspire innovation in designing today’s solution for the future, to support early stage entrepreneurs to scale and become investment ready and to build collaborations across the startup value chain to strengthen startup economic activities.
-email: ""
-facebookUrl: ""
+diescription: Ennovate Ventures is on a mission of enabling underserved tech founders in Africa to succeed. Through our Africa-centric venture solutions, we are investing in the outlying gaps in founders with less visibility that VCs are not covering.
+email: info@ennovateventures.co
+facebookUrl: https://www.facebook.com/ennovateshub
 googleMapsUrl: ""
 hubID: ennovate-ventures
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://www.linkedin.com/company/ennovatehub/
 lng: 0
 name: Ennovate Ventures
-phone: ""
+phone: +255 752 817 723
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: ennovatehub
+websiteUrl: www.ennovateventures.co

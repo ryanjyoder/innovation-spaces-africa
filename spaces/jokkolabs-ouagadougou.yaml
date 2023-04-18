@@ -1,17 +1,20 @@
-addressLine1: ""
+activities: ""
+addressLine1: Ouaga 2000, Ouagadougou, Burkina Faso
 addressNotes: ""
 city: Ouagadougou
 country: Burkina Faso
-description: |
-  Jokkolabs Ouagadougou is a professional shared workspace designed to meet the needs of micro-businesses, self-employed workers, homeworkers, entrepreneurs, start-ups, digital economy workers, writers, designers, and other new media or digital arts professionals whose work do not fit in a classic office model.
-email: ""
-facebookUrl: ""
+diescription: Jokkolabs Ouagadougou is a professional shared workspace designed to meet the needs of micro-businesses, self-employed workers, homeworkers, entrepreneurs, start-ups, digital economy workers, writers, designers, and other new media or digital arts professionals whose work do not fit in a classic office model.
+email: HelloOuaga@jokkolabs.co
+facebookUrl: jokkolabs ouaga
+googleMapsUrl: ""
 hubID: jokkolabs-ouagadougou
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Jokkolabs Ouagadougou
+phone: +226 64 50 76 76
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: JklOuaga

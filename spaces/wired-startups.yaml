@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Morocco
-addressNotes: ""
-city: ""
+addressNotes: 5 Rue Lahcen El Basri, Casablanca 20300, Morocco
+city: Casablanca
 country: Morocco
-description: |
-  Wired Startups is a mentorship-driven incubator and seed capital entreprise based in Morocco. They bring together teams of developers and entrepreneurs as CoFounders, based on skills and affinity, within an ecosystem where they build, validate and scale ideas into marketable solutions.
-email: ""
-facebookUrl: ""
+diescription: Wired Startups is a mentorship-driven incubator and seed capital entreprise based in Morocco. They bring together teams of developers and entrepreneurs as CoFounders, based on skills and affinity, within an ecosystem where they build, validate and scale ideas into marketable solutions.
+email: subscriptions@wiredmag.com
+facebookUrl: wired
+googleMapsUrl: ""
 hubID: wired-startups
-instagramHandle: ""
+instagramHandle: wired
 lat: 31.791702
-linkedinUrl: ""
-lng: -7.09262000000001
+linkedinUrl: wired
+lng: -7.09262
 name: Wired Startups
+phone: +1 800-769-4733
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: WiredStartups
-websiteUrl: https://wiredstartups.business.site/
+websiteUrl: wiredstartups.business.site

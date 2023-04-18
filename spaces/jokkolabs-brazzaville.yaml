@@ -1,22 +1,21 @@
 activities: []
-addressLine1: ""
-addressNotes: ""
-city: ""
-country: Congo
-description: |
-  Jokkolabs is an open space designed to meet the needs of micro-businesses, self-employed workers, homeworkers, entrepreneurs, start-ups, digital economy workers, writers, designers and other new media or digital arts professionals whose work do not fit in a classic office model.
-email: ""
-facebookUrl: ""
+addressLine1: Pointe Noire
+addressNotes: Republic of the Congo
+city: Pointe-Noire
+country: Republic of the Congo
+diescription: Jokkolabs is an open space designed to meet the needs of micro-businesses, self-employed workers, homeworkers, entrepreneurs, start-ups, digital economy workers, writers, designers and other new media or digital arts professionals whose work do not fit in a classic office model.
+email: cmabounda@jokkolabs.co
+facebookUrl: jokkolabspointenoire
 googleMapsUrl: ""
 hubID: jokkolabs-brazzaville
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: gew-congo
 lng: 0
 name: Jokkolabs Congo
-phone: ""
+phone: +242 06 627 0830
 plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: jokkolabs.net

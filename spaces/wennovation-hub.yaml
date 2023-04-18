@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Nigeria
 addressNotes: ""
-city: ""
+city: Lagos
 country: Nigeria
-description: |
-  Wennovation Hub inspires and empowers African entrepreneurs to solve their immediate socio-economic challenges by leveraging technology, resources, and network collaboratively with the aim to drive entrepreneurship, support innovative solutions to socio-economic challenges and create sustainable jobs.
-email: ""
-facebookUrl: ""
+diescription: Wennovation Hub inspires and empowers African entrepreneurs to solve their immediate socio-economic challenges by leveraging technology, resources, and network collaboratively with the aim to drive entrepreneurship, support innovative solutions to socio-economic challenges and create sustainable jobs.
+email: info@wennovationhub.org
+facebookUrl: wennovationhub
+googleMapsUrl: ""
 hubID: wennovation-hub
-instagramHandle: ""
+instagramHandle: wennovation.hub
 lat: 9.081999
 linkedinUrl: ""
-lng: 8.67527700000005
+lng: 8.675277
 name: Wennovation Hub
+phone: +234 902 500 8641
+plusCode: CCH4+CX
 postalCode: ""
 region: ""
 twitterHandle: wennovation
-websiteUrl: http://www.wennovationhub.org/
+websiteUrl: wennovationhub.org

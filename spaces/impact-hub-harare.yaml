@@ -1,23 +1,22 @@
 activities:
   - innovation-centre
-addressLine1: ""
-addressNotes: ""
-city: ""
+addressLine1: 194 Baines Ave, Harare, Zimbabwe
+addressNotes: Mermoz, Rue MZ 115, près de IAM
+city: Harare
 country: Zimbabwe
-description: |
-  Impact Hub Harare is an innovation centre focused on social impact, youth engagement and innovation. They have a lean business programme which entails co-working, events and physical meetups. They also have an incubation programme that lasts for 6 months alongside virtual programs.
+diescription: Impact Hub Harare is an innovation centre focused on social impact, youth engagement and innovation. They have a lean business programme which entails co-working, events and physical meetups. They also have an incubation programme that lasts for 6 months alongside virtual programs.
 email: ""
-facebookUrl: ""
+facebookUrl: ImpactHubHarare
 googleMapsUrl: ""
 hubID: impact-hub-harare
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: imapct-hub-harare
 lng: 0
 name: Impact Hub Harare
-phone: ""
+phone: +263 77 667 2526
 plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ImpactHubHarare
-websiteUrl: ""
+websiteUrl: impacthub.net

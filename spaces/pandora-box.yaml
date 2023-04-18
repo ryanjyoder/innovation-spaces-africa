@@ -1,23 +1,22 @@
 activities:
   - incubator
-addressLine1: ""
+addressLine1: Cotonou, Benin
 addressNotes: ""
-city: ""
+city: Cotonou
 country: Benin
-description: |
-  Pandora Box is an exchange and promotion hub for African startups. We provide services that solve startup valuation problems and also provide alternative investment opportunities. Pandora Box is the sustainable way to develop startups.
+diescription: Pandora Box is an exchange and promotion hub for African startups. We provide services that solve startup valuation problems and also provide alternative investment opportunities. Pandora Box is the sustainable way to develop startups.
 email: ""
-facebookUrl: ""
+facebookUrl: pandorasboxnews
 googleMapsUrl: ""
 hubID: pandora-box
-instagramHandle: ""
+instagramHandle: pandorasboxnews
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Pandora Box
-phone: ""
+phone: +1 581-745-8681
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: PandorasBoxNews
+websiteUrl: pandorasbox.news

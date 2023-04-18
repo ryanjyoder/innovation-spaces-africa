@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Anambra, Nigeria
 addressNotes: ""
-city: ""
+city: Lagos
 country: Nigeria
-description: |
-  Tribe is a software talent and product development company that leverages technology in helping software talents across Africa develop future skills and build a professional portfolio, through internships based learning, creating a workforce of competent software talents, and together, they help early startups build core solutions for their businesses, at a fraction of the market value of the solution, so they can focus the remaining capital on other aspects of their business, like finding product-market fit, customer acquisition, and marketing.
+diescription: Tribe is a software talent and product development company that leverages technology in helping software talents across Africa develop future skills and build a professional portfolio, through internships based learning, creating a workforce of competent software talents, and together, they help early startups build core solutions for their businesses, at a fraction of the market value of the solution, so they can focus the remaining capital on other aspects of their business, like finding product-market fit, customer acquisition, and marketing.
 email: ""
-facebookUrl: ""
+facebookUrl: tribeplatform
+googleMapsUrl: ""
 hubID: tribe
-instagramHandle: ""
+instagramHandle: tribeplatform
 lat: 6.2757656
 linkedinUrl: ""
-lng: 7.00683930000002
+lng: 7.0068393
 name: Tribe
+phone: ""
+plusCode: ""
 postalCode: ""
 region: Anambra
-twitterHandle: ""
+twitterHandle: tribeplatform
 websiteUrl: ""

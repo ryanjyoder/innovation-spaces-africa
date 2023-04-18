@@ -1,24 +1,23 @@
 activities:
   - accelerator
   - incubator
-addressLine1: ""
+addressLine1: 927 Bishop Aboyade Cole St, Eti-Osa 106104, Lagos, Nigeria
 addressNotes: ""
-city: ""
+city: Lagos
 country: Nigeria
-description: |
-  GE Garage is a manufacturing-based innovation hub geared towards equipping the next generation of Nigerian entrepreneurs with innovative tools in technology, strategy development, idea generation, and collaboration focused on manufacturing capacity building through Incubation and acceleration programmes.
+diescription: GE Garage is a manufacturing-based innovation hub geared towards equipping the next generation of Nigerian entrepreneurs with innovative tools in technology, strategy development, idea generation, and collaboration focused on manufacturing capacity building through Incubation and acceleration programmes.
 email: ""
-facebookUrl: ""
-googleMapsUrl: ""
+facebookUrl: https://www.facebook.com/ge
+googleMapsUrl: https://www.google.com/search?client=ubuntu&hs=Efo&channel=fs&sxsrf=AJOqlzW6Hz8xXiendFWmi4YqbQitUxIl_Q:1677849044642&q=Mansard+Place+Victoria+Island+Lagos&ludocid=9328069668927215462&gsas=1&client=ubuntu&lsig=AB86z5UNDoP0Bj6AKj0QHAHXg5xt&sa=X&ved=2ahUKEwiNqqvi6r_9AhWK7GEKHd6GCTsQ8G0oAHoECCUQAQ
 hubID: ge-garage
-instagramHandle: ""
+instagramHandle: generalelectric
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://www.linkedin.com/company/ge
 lng: 0
 name: GE Garage
 phone: ""
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: generalelectric
+websiteUrl: www.ge.com/directory

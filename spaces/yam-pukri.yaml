@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Rue naba Bilgo, Ouagadougou
 addressNotes: ""
 city: Ouagadougou
 country: Burkina Faso
-description: ""
-email: ""
-facebookUrl: ""
+diescription: 'Du 1er au 4 février 2023, une mission composée de 3 personnes a séjourné à Niamey. La mission était composée de : Sylvestre OUEDRAOGO Koudnongom SAMA Leslie LEOSSOGO L’objectif de la mission pour Yam Pukri était de faire une présentation du DPP à la population de Niamey et mettre en place le groupe des alumnis DPP ou le chapitre Vingt-sept personnes (27) dont sept femmes ont participé à la séance d’information publique du DPP suivie de la remise de diplômes des étudiants de l’IPD/AOS. Cette mission (...)'
+email: info@yam-pukri.org
+facebookUrl: yampukri
+googleMapsUrl: ""
 hubID: yam-pukri
-instagramHandle: ""
+instagramHandle: yam-pukri
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Yam Pukri
+phone: +226 25 37 39 74
+plusCode: 8FRQ+PQ
 postalCode: ""
 region: ""
 twitterHandle: yam_pukri
-websiteUrl: http://www.yam-pukri.org/
+websiteUrl: yam-pukri.org

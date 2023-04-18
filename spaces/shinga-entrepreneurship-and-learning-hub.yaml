@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Mutare Road, Harare, Zimbabwe
 addressNotes: ""
 city: Harare
 country: Zimbabwe
-description: |
-  Shinga Entrepreneurship and Learning Hub is an entrepreneurship learning centre where they capacitate, develop and support small to medium enterprises (SME’s) for sustainable growth. They are a coworking space that is focused on job creation, skill acquisition, and innovation. Majority of their funds are crowd funded.
+diescription: Shinga Entrepreneurship and Learning Hub is an entrepreneurship learning centre where they capacitate, develop and support small to medium enterprises (SME’s) for sustainable growth. They are a coworking space that is focused on job creation, skill acquisition, and innovation. Majority of their funds are crowd funded.
 email: ""
 facebookUrl: https://www.facebook.com/shingathespace/
+googleMapsUrl: ""
 hubID: shinga-entrepreneurship-and-learning-hub
 instagramHandle: ""
 lat: -17.8330168
 linkedinUrl: ""
-lng: 31.0855879000001
+lng: 31.0855879
 name: Shinga Entrepreneurship and Learning Hub
+phone: ""
+plusCode: ""
 postalCode: ""
 region: Harare Province
 twitterHandle: shingahub
-websiteUrl: http://www.shinga.co.zw/
+websiteUrl: shinga.co.zw

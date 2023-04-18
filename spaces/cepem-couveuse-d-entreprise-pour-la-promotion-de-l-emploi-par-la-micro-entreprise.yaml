@@ -1,16 +1,20 @@
+activities: ""
 addressLine1: 3 Rue Amadou Assane Ndoye, Dakar
 addressNotes: ""
 city: Dakar
 country: Senegal
-description: "\n\n# Short description\nCEPEM is a business incubator run by the city of Dakar. It was created in partnership with the Association Internationale des Maire Francophone (AIMF), the city of Marseille, the city of Montreal, and L'ecole des Entrepreneurs du Quebec. The incubator provides training, mentoring, and assures a financing for the entrepreneurs at the end of the program. As of September 2021, the incubator is accepting applications for its third cohort of entrepreneurs. The incubator accepts business from any sector (excluding certain capital intensive sectors such as construction), however they have a focus on women and youth.\n\n# Basic history\nLaunched in 2018, CEPEM has incubated two cohorts of entrepreneurs. \n\n# Covid Response\nWas the 2020 program canceled? \n\n# Response to growing remote environment\n"
+diescription: '# Short description CEPEM is a business incubator run by the city of Dakar. It was created in partnership with the Association Internationale des Maire Francophone (AIMF), the city of Marseille, the city of Montreal, and L''ecole des Entrepreneurs du Quebec. The incubator provides training, mentoring, and assures a financing for the entrepreneurs at the end of the program. As of September 2021, the incubator is accepting applications for its third cohort of entrepreneurs. The incubator accepts business from any sector (excluding certain capital intensive sectors such as construction), however they have a focus on women and youth.  # Basic history Launched in 2018, CEPEM has incubated two cohorts of entrepreneurs.   # Covid Response Was the 2020 program canceled?   # Response to growing remote environment'
 email: contact@cepem.sn
 facebookUrl: https://web.facebook.com/cepemsn
+googleMapsUrl: ""
 hubID: cepem-couveuse-d-entreprise-pour-la-promotion-de-l-emploi-par-la-micro-entreprise
-instagramHandle: ""
+instagramHandle: cepem
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: CEPEM Couveuse d'Entreprise pour la Promotion de l'Emploi par la Micro-entreprise
+phone: +221 33 823 34 36
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: cepemcouveuse

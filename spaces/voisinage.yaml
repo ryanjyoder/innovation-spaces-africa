@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Abidjan Cocody Deux-Plateaux, rue K4
 addressNotes: ""
-city: ""
-country: ""
-description: ""
+city: Abidjan
+country: Côte d'Ivoire
+diescription: une communication rapprochée à travers une Web TV et les médias sociaux,
 email: muhamad.adebayo@uvci.edu.ci&gt
-facebookUrl: https://www.facebook.com/uvciv/
+facebookUrl: uvciv
+googleMapsUrl: '(GPS : 5.357177, -4.001287)'
 hubID: voisinage
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: VOISINAGE
+phone: (+225) 0142222211
+plusCode: MXJ9+R6R
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: https://www.uvci.edu.ci/
+twitterHandle: uvciv
+websiteUrl: uvci.edu.ci

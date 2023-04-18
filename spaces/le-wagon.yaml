@@ -1,22 +1,21 @@
 activities: []
-addressLine1: ""
+addressLine1: 380 Bd Brahim Roudani, Casablanca, Morocco
 addressNotes: ""
-city: ""
+city: Casablanca
 country: Morocco
-description: |
-  Le Wagon focuses on tech-enabling Afropreneurs while addressing African high potentials and diaspora that are interested in learning more about the global African startup dynamics while learning how to code in a very efficient way. They have a specialist resource platform that supports the teaching of in-person boot camps thereby impacting the whole value chain of the startup creation in the region.
-email: ""
-facebookUrl: ""
+diescription: Le Wagon focuses on tech-enabling Afropreneurs while addressing African high potentials and diaspora that are interested in learning more about the global African startup dynamics while learning how to code in a very efficient way. They have a specialist resource platform that supports the teaching of in-person boot camps thereby impacting the whole value chain of the startup creation in the region.
+email: contact@lewagon.org
+facebookUrl: lewagon
 googleMapsUrl: ""
 hubID: le-wagon
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: le-wagon
 lng: 0
 name: Le Wagon
-phone: ""
+phone: +212 662-293983
 plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: lewagon.com

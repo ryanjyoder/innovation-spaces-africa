@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: South Africa Islam, Johannesburg, Gauteng, South Africa
 addressNotes: ""
 city: Johannesburg
 country: South Africa
-description: |
-  JoziHub is a co-creation space in Johannesburg dedicated to creating sustainable change in Africa. They foster a culture of openness and innovation providing a space to share ideas, collaborate and explore the opportunities created by the social and technological changes which are transforming our continent.
+diescription: JoziHub is a co-creation space in Johannesburg dedicated to creating sustainable change in Africa. They foster a culture of openness and innovation providing a space to share ideas, collaborate and explore the opportunities created by the social and technological changes which are transforming our continent.
 email: info@jozihub.org
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: jozihub
 instagramHandle: ""
 lat: -26.1934093
 linkedinUrl: ""
 lng: 27.9849379
 name: JoziHub
+phone: +27 82 451 3654
+plusCode: R279+QJ
 postalCode: ""
 region: Gauteng
 twitterHandle: JoziHub

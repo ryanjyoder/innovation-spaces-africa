@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: 'Université Constantine 2 Abdelhamid Mehri – Nouvelle ville Ali Mendjeli BP : 67A, Constantine – Algérie La Nouvelle Ville Ali Mendjeli, 25016, Algeria'
 addressNotes: Université Constantine 2
 city: Constantine
-country: ""
-description: "UC2 Smart FabLab est basé sur les trois principes suivants: (1)Apprendre, (2)Construire et (3)Partager.  \r\n-Rendre le plus accessible possible l'imprimante 3D fournie par la DGRSDT.\r\n-Accélération de la dynamique de partage libre d'espaces, de machines, de compétences et de savoirs.\r\n-Lancement du 1er Appel à projets Innovants, le 13/12/2017 (Smart University) -l‘université de demain.\r\n-Préparation des futurs appels à projets : Smart City, Smart Hospital, Smart Home, Smart Car, etc.\r\n"
+country: Algeria
+diescription: 'UC2 Smart FabLab est basé sur les trois principes suivants: (1)Apprendre, (2)Construire et (3)Partager.   -Rendre le plus accessible possible l''imprimante 3D fournie par la DGRSDT. -Accélération de la dynamique de partage libre d''espaces, de machines, de compétences et de savoirs. -Lancement du 1er Appel à projets Innovants, le 13/12/2017 (Smart University) -l‘université de demain. -Préparation des futurs appels à projets : Smart City, Smart Hospital, Smart Home, Smart Car, etc.'
 email: zakaria.benzadri@univ-constantine2.dz
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: uc2smartfablab
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: UC2 Smart FabLab
-postalCode: "25000"
+phone: +213 31 77 50 27
+plusCode: 6HWC+C2
+postalCode: 25000
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: univ-constantine2.dz

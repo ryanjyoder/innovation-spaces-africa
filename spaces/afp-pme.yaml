@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Immeuble Pharmacie Nouvelle, 2e étage | Ouagadougou
 addressNotes: ""
-city: ""
-country: ""
-description: ""
+city: Ouagadougou
+country: Burkina Faso
+diescription: promouvoir, soutenir et contribuer
 email: direction@afppme.bf
 facebookUrl: https://web.facebook.com/AfpPme/
+googleMapsUrl: ""
 hubID: afp-pme
-instagramHandle: ""
+instagramHandle: afppme.bf
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: AFP PME
+phone: (00226) 25 31 83 11/12
+plusCode: 9F8J+V53
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: http://www.afppme.bf/
+websiteUrl: afppme.bf

@@ -1,22 +1,21 @@
 activities:
   - co-working-space
   - incubator
-addressLine1: ""
-addressNotes: ""
-city: ""
+addressLine1: 19b Adeyemi Lawson
+addressNotes: St, Ikoyi 101233, Lagos, Nigeria
+city: Lagos
 country: Nigeria
-description: |
-  Cedar Hive seeks to help change the local culture, Increase entrepreneurial and economic growth, improve social capital, trust and fostering innovation and entrepreneurship, providing a dynamic learning environment to foster innovation, entrepreneurship and technology transfer and assisting start-ups to navigate increasingly difficult regulatory environments.
+diescription: Cedar Hive seeks to help change the local culture, Increase entrepreneurial and economic growth, improve social capital, trust and fostering innovation and entrepreneurship, providing a dynamic learning environment to foster innovation, entrepreneurship and technology transfer and assisting start-ups to navigate increasingly difficult regulatory environments.
 email: ""
-facebookUrl: ""
+facebookUrl: thecedarhive
 googleMapsUrl: ""
 hubID: cedar-hive
-instagramHandle: ""
+instagramHandle: thecedarhive
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Cedar Hive
-phone: ""
+phone: +234 817 861 1985
 plusCode: ""
 postalCode: ""
 region: ""

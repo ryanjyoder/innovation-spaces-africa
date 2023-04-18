@@ -1,18 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: 15 Carthago St, Tunis, Tunisia
 addressNotes: ""
 city: Cairo
 country: Egypt
-description: |
-  Flat6Labs is a regional startup accelerator program that fosters and invests in bright and passionate entrepreneurs with cutting-edge ideas. We provide seed funding, strategic mentorship, a creative workspace, a multitude of perks, entrepreneurship-focused business training, and directly support our startups through an expansive network of partner entities, mentors and investors.
+diescription: Flat6Labs is a regional startup accelerator program that fosters and invests in bright and passionate entrepreneurs with cutting-edge ideas. We provide seed funding, strategic mentorship, a creative workspace, a multitude of perks, entrepreneurship-focused business training, and directly support our startups through an expansive network of partner entities, mentors and investors.
 email: ""
-facebookUrl: ""
+facebookUrl: facebook.com%2FFlat6LabsTunisia
+googleMapsUrl: ""
 hubID: flat6labs
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: flat6labs
 lng: 0
 name: Flat6Labs
+phone: ""
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: Flat6LabsFR
-websiteUrl: http://www.flat6labs.com
+websiteUrl: flat6labs.com

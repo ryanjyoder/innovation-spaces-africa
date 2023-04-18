@@ -1,16 +1,20 @@
-addressLine1: ""
+activities: ""
+addressLine1: 201, Boulevard Anfa, 1er Etage, Casablanca Morocco
 addressNotes: ""
 city: Casablanca
 country: Morocco
-description: ""
-email: ""
-facebookUrl: ""
+diescription: New Work Lab est un accélérateur où nous concevons pour vous des programmes de formation « nouvelle génération » pour les Change Makers, les Innovateurs, les Leaders et les Entrepreneurs. Avec vous, nous déployons des programmes pour travailler différemment, pour travailler collectivement, pour redonner du sens au travail tout en agissant de manière éthique et durable
+email: jade@newworklab.com
+facebookUrl: newworklab
+googleMapsUrl: ""
 hubID: new-work-lab
-instagramHandle: ""
+instagramHandle: newworklab
 lat: 0
-linkedinUrl: ""
+linkedinUrl: new-work-lab
 lng: 0
 name: New Work Lab
+phone: (+212) 05 22 273 274
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: newworklab

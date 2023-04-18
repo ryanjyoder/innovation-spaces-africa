@@ -1,11 +1,10 @@
 activities: []
 addressLine1: ""
 addressNotes: ""
-city: ""
+city: Douala
 country: Cameroon
-description: |
-  United Advance Development Contributes to the industrialization of the economies, through innovation, research and development, the search for financial and technical partners in Africa and outside Africa.
-email: ""
+diescription: United Advance Development Contributes to the industrialization of the economies, through innovation, research and development, the search for financial and technical partners in Africa and outside Africa.
+email: infos@uaddev.com
 facebookUrl: ""
 googleMapsUrl: ""
 hubID: united-advance-development
@@ -14,9 +13,9 @@ lat: 0
 linkedinUrl: ""
 lng: 0
 name: United Advance Development
-phone: ""
+phone: +237 6 70 02 53 26
 plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: uaddev.com

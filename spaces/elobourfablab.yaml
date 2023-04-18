@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: El Obour City, El Obour City, Qalubia, 13752, Egypt
 addressNotes: elobour
 city: El Obour City
-country: ""
-description: This MY FabLab is very important
+country: Egypt
+diescription: This MY FabLab is very important
 email: gad.elhebry@stemkalubya.moe.edu.eg
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: elobourfablab
 instagramHandle: ""
 lat: 30.2283182
 linkedinUrl: ""
 lng: 31.4798657
 name: ElobourFabLab
-postalCode: "13752"
+phone: 1003848669
+plusCode: ""
+postalCode: 13752
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: http://www.moe.gov.sd/

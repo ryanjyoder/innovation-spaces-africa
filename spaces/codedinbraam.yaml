@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: ""
 addressNotes: ""
 city: Johannesburg
 country: South Africa
-description: ""
+diescription: We welcome beginner to advanced software developers to join us on our mission to build tech capacity here in Johannesburg and create an open and inclusive community where one can come learn and/or teach
 email: ""
-facebookUrl: ""
+facebookUrl: https://www.facebook.com/meetup/
+googleMapsUrl: ""
 hubID: codedinbraam
-instagramHandle: ""
+instagramHandle: meetup
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: CodedinBraam
+phone: ""
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
+twitterHandle: Meetup
 websiteUrl: http://www.meetup.com/CodedInBraam/

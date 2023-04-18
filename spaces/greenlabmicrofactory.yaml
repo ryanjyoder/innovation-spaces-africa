@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Green Garage, House 5, FUTA South Akure, Ondo state, Nigeria.
 addressNotes: Green Garage is 3 minutes walk from the Federal University of Technology Akure (FUTA). You are always welcome to visit us...
-city: AKURE
-country: ""
-description: The mission of the GreenLab is to hearten the innovativeness of the Nigerian populace by encouraging the utilization of dormant and abundant eco-friendly resources in the urban/rural areas of Nigeria. As well as to collaborate with other facilities in promoting the sustainable development of NIGERIA and AFRICA as a whole.
+city: Akure
+country: Nigeria
+diescription: The mission of the GreenLab is to hearten the innovativeness of the Nigerian populace by encouraging the utilization of dormant and abundant eco-friendly resources in the urban/rural areas of Nigeria. As well as to collaborate with other facilities in promoting the sustainable development of NIGERIA and AFRICA as a whole.
 email: info@greenlab-microfactory.org
-facebookUrl: ""
+facebookUrl: https://web.facebook.com/search/top/?q=greenlab%20microfactory&epa=SEARCH_BOX
+googleMapsUrl: ""
 hubID: greenlabmicrofactory
-instagramHandle: ""
+instagramHandle: greenlab_ng
 lat: 7.3228734
-linkedinUrl: ""
-lng: 3.78803489999996
+linkedinUrl: https://www.linkedin.com/company/greenlab-microfactory
+lng: 3.7880349
 name: GreenLab Microfactory
-postalCode: "340271"
+phone: +(234) 809 - 220 - 5588
+plusCode: ""
+postalCode: 340271
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: www.greenlab-microfactory.org

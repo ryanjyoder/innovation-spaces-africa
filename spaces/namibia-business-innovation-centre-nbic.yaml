@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: 1-3 Glueck Street, Windhoek, Namibia
 addressNotes: ""
 city: Windhoek
 country: Namibia
-description: ""
-email: ""
-facebookUrl: ""
+diescription: “We are a national leader in research, entrepreneurship and innovation. We develop ways in getting your insight from idea to marketplace by helping you to navigate the innovation process.”
+email: nbii@nust.na
+facebookUrl: nbii.nust.na
+googleMapsUrl: ""
 hubID: namibia-business-innovation-centre-nbic
-instagramHandle: ""
+instagramHandle: nbii.nust.na
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Namibia Business Innovation Centre (NBIC)
+phone: +264 61 207 2885
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: NBII_Namibia
-websiteUrl: http://nbic.polytechnic.edu.na/
+websiteUrl: nbii.nust.na

@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Zimbabwe
-addressNotes: ""
-city: ""
+addressNotes: First Floor, Netone Building, L Takawira, (between Fife St and J Moyo) Bulawayo, Zimbabwe
+city: Bulawayo
 country: Zimbabwe
-description: |
-  The Tech Village is an innovation hub that runs incubation and acceleration programmes focused on skill acquisition and youth engagement.
-email: ""
-facebookUrl: ""
+diescription: The Tech Village is an innovation hub that runs incubation and acceleration programmes focused on skill acquisition and youth engagement.
+email: hello@techvillage.org.zw
+facebookUrl: techvillageZW
+googleMapsUrl: ""
 hubID: the-tech-village
-instagramHandle: ""
+instagramHandle: techvillageZW
 lat: -19.015438
-linkedinUrl: ""
+linkedinUrl: techvillage
 lng: 29.154857
 name: The Tech Village
+phone: +263 29 2272255
+plusCode: RHWM+9R
 postalCode: ""
 region: ""
 twitterHandle: TechVillagezw
-websiteUrl: http://www.techvillage.org.zw/
+websiteUrl: techvillage.org.zw

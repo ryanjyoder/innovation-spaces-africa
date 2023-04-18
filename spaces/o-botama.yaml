@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: Biyem-Assi
 addressNotes: ""
 city: Yaounde
 country: Cameroon
-description: O’Botama has a mission of being an energy catalyst that strengthens the enterpreneurial culture among young Africans and supports them in creating innovative solutions for their region. They support startups in all stages
+diescription: O’Botama has a mission of being an energy catalyst that strengthens the enterpreneurial culture among young Africans and supports them in creating innovative solutions for their region. They support startups in all stages
 email: contact@obotama.com
 facebookUrl: https://www.facebook.com/OBotama2018/
+googleMapsUrl: ""
 hubID: o-botama
-instagramHandle: ""
+instagramHandle: obotama2018
 lat: 0
-linkedinUrl: ""
+linkedinUrl: aic-o-botama
 lng: 0
 name: OBotama
+phone: +237 6 71 87 59 46
+plusCode: RFPJ+7W
 postalCode: ""
 region: Center
 twitterHandle: OBotama_aic
-websiteUrl: http://www.obotama.com
+websiteUrl: obotama.com

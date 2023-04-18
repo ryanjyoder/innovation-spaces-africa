@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Abidjan, Côte d’Ivoire
 addressNotes: Nous sommes ouverts du lundi au samedi de 8h à 21H
 city: Abidjan
-country: ""
-description: ""
+country: Côte d'Ivoire
+diescription: Fablabs.io is the online social network of the international Fab Lab community. It started as a spin-off project in Fab Lab Barcelona by Tomas Diez and John Rees, and is the current official list of Fab Labs that share same principles, tools, and philosophy around the future of technology and its role in society
 email: fablab@ayiyikoh.org
-facebookUrl: ""
+facebookUrl: https://www.facebook.com/ayiyikohLab/
+googleMapsUrl: ""
 hubID: fablabayiyikoh
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Fablab Ayiyikoh
-postalCode: "225"
+phone: "+22547629362"
+plusCode: 8WFV+8M9
+postalCode: 225
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: ayiyikoh
+websiteUrl: www.fablabs.io/labs/fablabayiyikoh

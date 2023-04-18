@@ -1,16 +1,20 @@
+activities: ""
 addressLine1: Concession Procoki, avenue de L&#039;OUA, Kinshasa, Democratic Republic of the Congo
 addressNotes: ""
-city: ""
-country: ""
-description: ""
+city: Kinshasa
+country: Democratic Republic of the Congo
+diescription: Congo Business Network est un réseau d'affaires regroupant les entrepreneurs congolais évoluant dans la diaspora et en République démocratique du Congo.
 email: ""
-facebookUrl: ""
+facebookUrl: https://www.facebook.com/CongoBizNetwork
+googleMapsUrl: ""
 hubID: congo-business-network
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://www.linkedin.com/company/CongoBusinessNetwork
 lng: 0
 name: Congo Business Network
+phone: ""
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: CongoBizNetwork

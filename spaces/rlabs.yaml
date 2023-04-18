@@ -1,13 +1,12 @@
 activities:
   - innovation-centre
-addressLine1: ""
+addressLine1: Gluck Street, Windhoek, Namibia
 addressNotes: ""
-city: ""
+city: Windhoek
 country: Namibia
-description: |
-  RLabs is a social enterprise that has impacted more than 7.5 million individuals globally in 22 countries reconstructing communities through training, innovation, and entrepreneurship.
-email: ""
-facebookUrl: ""
+diescription: RLabs is a social enterprise that has impacted more than 7.5 million individuals globally in 22 countries reconstructing communities through training, innovation, and entrepreneurship.
+email: rlabsnam@gmail.com
+facebookUrl: RlabsNamibia
 googleMapsUrl: ""
 hubID: rlabs
 instagramHandle: ""
@@ -15,9 +14,9 @@ lat: 0
 linkedinUrl: ""
 lng: 0
 name: RLabs Namibia
-phone: ""
-plusCode: ""
+phone: +264 61 207 2769
+plusCode: C3MF+FR7
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: polytechnic.edu.na

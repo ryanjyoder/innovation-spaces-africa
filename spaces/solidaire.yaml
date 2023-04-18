@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: 69 Avenue Alain Savary, Tunis, Khadra, 1003, Tunisia
 addressNotes: Near the Municipality.
 city: Tunis
-country: ""
-description: "Fab Lab Solidaire fait partie de l'Association Jeunes Science de Tunisie, où il supporte différents programmes éducatifs et de recherche en rapport avec les différentes échelles de l'habitat humain. Il est également le siège de la coordination globale du programme FabLabs Solidaires en collaboration avec la Fondation Orange.\r\n\r\nLe projet FabLab Solidaires est une plate-forme distribuée de l'éducation et de la recherche dans laquelle chaque Fab Labs fonctionne comme une salle de classe et de la planète comme le campus de la plus grande université en construction dans le monde, où les élèves apprennent sur les principes, les applications et les implications de la technologie de fabrication numérique .\r\n\r\nLe Fab Lab Solidaire a produit des projets tels que Smart Khadhra(sélection officielle de la Fondation Orange pour participation à #IMake4MyCity )\r\n\r\nElle développe actuellement des projets dans différentes échelles, de dispositifs intelligents de collecte de données par des particuliers (attribution intelligente Citizen innovant du projet dans la Smart City), les nouveaux modèles de production pour les villes avec le projet Fab Ville mis en œuvre à Cité El Khadhra.\r\n\r\nNotre mission en tant que Fab Lab est de fournir l'accès aux outils, les connaissances et les moyens financiers pour éduquer, innover et inventer en utilisant la technologie et la fabrication numérique pour permettre à quiconque de faire (presque) tout, et créant ainsi des possibilités d'améliorer la vie et les moyens de subsistance autour du monde.\r\n\r\nLes organismes communautaires, les établissements d'enseignement et les préoccupations à but non lucratif sont nos principaux bénéficiaires.\r\n\r\n"
+country: Tunisia
+diescription: 'Fab Lab Solidaire fait partie de l''Association Jeunes Science de Tunisie, où il supporte différents programmes éducatifs et de recherche en rapport avec les différentes échelles de l''habitat humain. Il est également le siège de la coordination globale du programme FabLabs Solidaires en collaboration avec la Fondation Orange.  Le projet FabLab Solidaires est une plate-forme distribuée de l''éducation et de la recherche dans laquelle chaque Fab Labs fonctionne comme une salle de classe et de la planète comme le campus de la plus grande université en construction dans le monde, où les élèves apprennent sur les principes, les applications et les implications de la technologie de fabrication numérique .  Le Fab Lab Solidaire a produit des projets tels que Smart Khadhra(sélection officielle de la Fondation Orange pour participation à #IMake4MyCity )  Elle développe actuellement des projets dans différentes échelles, de dispositifs intelligents de collecte de données par des particuliers (attribution intelligente Citizen innovant du projet dans la Smart City), les nouveaux modèles de production pour les villes avec le projet Fab Ville mis en œuvre à Cité El Khadhra.  Notre mission en tant que Fab Lab est de fournir l''accès aux outils, les connaissances et les moyens financiers pour éduquer, innover et inventer en utilisant la technologie et la fabrication numérique pour permettre à quiconque de faire (presque) tout, et créant ainsi des possibilités d''améliorer la vie et les moyens de subsistance autour du monde.  Les organismes communautaires, les établissements d''enseignement et les préoccupations à but non lucratif sont nos principaux bénéficiaires.'
 email: fablabajst@gmail.com
-facebookUrl: ""
+facebookUrl: Fablab.Solidaire
+googleMapsUrl: ""
 hubID: solidaire
 instagramHandle: ""
 lat: 36.8310562
-linkedinUrl: ""
+linkedinUrl: fablabsolidaire
 lng: 10.187772
 name: FabLab Solidaire - Jeunes Science de Tunisie
-postalCode: "1003"
+phone: +216 71 772 816
+plusCode: ""
+postalCode: 1003
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: fablabs.io/labs/solidaire

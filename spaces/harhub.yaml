@@ -4,24 +4,23 @@ activities:
   - co-working-space
   - incubator
   - innovation-centre
-addressLine1: ""
+addressLine1: Hargeisa, Somalia
 addressNotes: ""
-city: ""
+city: Hargeisa
 country: Somalia
-description: |
-  HarHub is an innovation co-working space with a vision to be a hub for business and people driven impact in Somali speaking regions and beyond and plan to achieve this by building an entrepreneurial community and co-working space to create solutions for an ecosystem that works for all.
-email: ""
-facebookUrl: ""
+diescription: HarHub is an innovation co-working space with a vision to be a hub for business and people driven impact in Somali speaking regions and beyond and plan to achieve this by building an entrepreneurial community and co-working space to create solutions for an ecosystem that works for all.
+email: Info@harhub.com
+facebookUrl: https://m.facebook.com/HarHubSomaliland/
 googleMapsUrl: ""
 hubID: harhub
-instagramHandle: ""
+instagramHandle: harhub
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://www.instagram.com/harhub_/
 lng: 0
 name: Harhub
-phone: ""
-plusCode: ""
+phone: +252 2 515591
+plusCode: H23W+2P8
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: HarHub
+websiteUrl: http://harhub.com/

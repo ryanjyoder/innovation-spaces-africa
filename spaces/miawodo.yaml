@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: Carrefour de la rue 71 et de la rue 232 � Aflao Gakli ,  Lom�
 addressNotes: ""
-city: ""
-country: ""
-description: "Miawodo identifie les femmes et jeunes qui poss�dent des id�es ou des projets novateurs � fort potentiel de croissance et les accompagne � la cr�ation et au d�veloppement de leurs entreprises afin d�hisser ces entreprises au rang d�entreprises de croissance ou d�impacts � l��chelle nationale.  \n"
+city: Lome
+country: Togo
+diescription: Miawodo identifie les femmes et jeunes qui poss�dent des id�es ou des projets novateurs � fort potentiel de croissance et les accompagne � la cr�ation et au d�veloppement de leurs entreprises afin d�hisser ces entreprises au rang d�entreprises de croissance ou d�impacts � l��chelle nationale.
 email: edm.togo@entrepreneursdumonde.org
 facebookUrl: https://www.facebook.com/miawodo/
+googleMapsUrl: ""
 hubID: miawodo
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: MIAWODO
+phone: (+33) 04 37 24 76 50
+plusCode: 655P+63
 postalCode: ""
 region: ""
 twitterHandle: entrep_monde
-websiteUrl: http://www.entrepreneursdumonde.org
+websiteUrl: entrepreneursdumonde.org

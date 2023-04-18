@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Cameroon
-addressNotes: ""
-city: ""
+addressNotes: 1234 Demo Ave, Austin, TX 56789,
+city: Yaounde
 country: Cameroon
-description: |
-  IT Kola’s main focus is to foster collective development of projects focused on innovation and sustainable technologies and also provide services to support individuals, startups and organizations adhering to platforms to build their projects and develop their business.
-email: ""
-facebookUrl: https://www.facebook.com/itkola?_rdc=1&_rdr
+diescription: IT Kola’s main focus is to foster collective development of projects focused on innovation and sustainable technologies and also provide services to support individuals, startups and organizations adhering to platforms to build their projects and develop their business.
+email: itkola@gmail.com
+facebookUrl: itkola
+googleMapsUrl: ""
 hubID: it-kola
 instagramHandle: ""
 lat: 7.369722
-linkedinUrl: ""
+linkedinUrl: itkola
 lng: 12.354722
 name: IT Kola
+phone: +237 6 99 25 66 48
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: it-kola
+websiteUrl: itkola.org

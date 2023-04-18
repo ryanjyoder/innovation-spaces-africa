@@ -1,22 +1,21 @@
 activities: []
 addressLine1: ""
-addressNotes: ""
-city: ""
+addressNotes: Kisii, Kenya
+city: Kisii
 country: Kenya
-description: |
-  Fie_Labs is an innovation and entrepreneurship hub that identifies and nurtures the next generation of innovators, entrepreneurs & creative problem solvers. We identify, incubate, showcase and scale innovative solutions that tackles pressing social-economic challenges within our communities
-email: ""
-facebookUrl: ""
+diescription: Fie_Labs is an innovation and entrepreneurship hub that identifies and nurtures the next generation of innovators, entrepreneurs & creative problem solvers. We identify, incubate, showcase and scale innovative solutions that tackles pressing social-economic challenges within our communities
+email: hello@fielabs.com
+facebookUrl: https://www.facebook.com/pg/FieLabs/posts/?ref=page_internal
 googleMapsUrl: ""
 hubID: fie-labs
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://fielabs.com/
 lng: 0
 name: Fie-Labs Innovation Hub
-phone: ""
+phone: 724457158
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: fie_labs
+websiteUrl: https://fielabs.com/

@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Immeuble BSIC, 2eme �tage
 addressNotes: ""
-city: ""
+city: N'Djamena
 country: Chad
-description: |
-  Wenak Labs is an innovation and co-creation hub focused on social impact, skill acquisition, job creation, and youth engagement.
+diescription: Wenak Labs is an innovation and co-creation hub focused on social impact, skill acquisition, job creation, and youth engagement.
 email: contact@wenaklabs.org
 facebookUrl: https://www.facebook.com/wenaklabs
+googleMapsUrl: ""
 hubID: wenak-labs
 instagramHandle: ""
 lat: 13.1078947
 linkedinUrl: ""
 lng: 14.4490398
 name: Wenak Labs
+phone: +235 63 61 44 79
+plusCode: 43F2+85
 postalCode: ""
 region: N�Djamena
 twitterHandle: WenakLabs
-websiteUrl: http://www.wenaklabs.org/
+websiteUrl: wenaklabs.org

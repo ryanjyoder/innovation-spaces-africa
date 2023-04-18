@@ -2,14 +2,13 @@ activities:
   - co-working-space
   - incubator
   - innovation-centre
-addressLine1: ""
+addressLine1: Plot 33 Tottoe Street, Fumesua-Kumasi
 addressNotes: ""
-city: ""
+city: Kumasi
 country: Ghana
-description: |
-  The Recycle Up! Hub is a safe space for young Ghanaians to develop their professional skills, explore, collaborate and develop entrepreneurial ideas that promote the circular economy. We provide entrepreneurship education, mentoring and support services to young industrious Ghanaians to start businesses that help solve pressing societal challenges.
-email: ""
-facebookUrl: ""
+diescription: The Recycle Up! Hub is a safe space for young Ghanaians to develop their professional skills, explore, collaborate and develop entrepreneurial ideas that promote the circular economy. We provide entrepreneurship education, mentoring and support services to young industrious Ghanaians to start businesses that help solve pressing societal challenges.
+email: info@recycleupghana.org
+facebookUrl: recycleup
 googleMapsUrl: ""
 hubID: recycle-up-ghana
 instagramHandle: ""
@@ -17,7 +16,7 @@ lat: 0
 linkedinUrl: ""
 lng: 0
 name: Recycle Up! Ghana
-phone: ""
+phone: +233-320-66-111
 plusCode: ""
 postalCode: ""
 region: ""

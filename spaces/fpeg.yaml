@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: 2415 Eisenhower Avenue, Alexandria, Virginia 22314
 addressNotes: ""
 city: Alexandria
-country: ""
-description: We are a non-profit organization of active students and specialists in various engineering fields, with a common dream of building a bridge between industry and university. We offer digital fabrication classes and support students in prototyping their university projects.
+country: Egypt
+diescription: We are a non-profit organization of active students and specialists in various engineering fields, with a common dream of building a bridge between industry and university. We offer digital fabrication classes and support students in prototyping their university projects.
 email: info@fp-eg.org
-facebookUrl: ""
+facebookUrl: https://beta.nsf.gov/now-leaving-068c088c448b706e0dbaebf269?external_url=https%3A%2F%2Fwww.facebook.com%2FUS.NSF&back_url=https%3A%2F%2Fbeta.nsf.gov%2Ffunding%2Fopportunities%2Ffuture-manufacturing-fm
+googleMapsUrl: ""
 hubID: fpeg
-instagramHandle: ""
+instagramHandle: beta.nsf.gov
 lat: 31.2198037
 linkedinUrl: ""
 lng: 29.9316576
 name: Foundation for Future Production Engineering
+phone: (703) 292-5111
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: beta.nsf.gov
+websiteUrl: https://beta.nsf.gov/funding/opportunities/future-manufacturing-fm

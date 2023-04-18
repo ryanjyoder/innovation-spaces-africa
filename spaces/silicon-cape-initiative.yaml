@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: ""
 addressNotes: ""
 city: Cape Town
 country: South Africa
-description: ""
-email: ""
-facebookUrl: ""
+diescription: A community of tech entrepreneurs, developers, creatives, angel investors, and VC's who are passionate about entrepreneurship and the roles we play in the future of South Africa.
+email: engage@siliconcape.com
+facebookUrl: siliconcape
+googleMapsUrl: ""
 hubID: silicon-cape-initiative
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: the-silicon-cape-innitiative
 lng: 0
 name: Silicon Cape Initiative
+phone: +27 64 857 2599
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: siliconcape
-websiteUrl: http://www.siliconcape.com/
+websiteUrl: siliconcape.com

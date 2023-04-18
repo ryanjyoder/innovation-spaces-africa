@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: 5th Floor, Smartxchange Building, 5 Walnut Rd, Durban Central, Durban, 4001, South Africa
 addressNotes: ""
 city: Durban
 country: South Africa
-description: ""
-email: ""
-facebookUrl: ""
+diescription: The Durban Technology Hub t/a SmartXchange is an incubator whose core mandate is to provide enterprise development services to Small, Medium and Micro Enterprises (SMME’S) in the Media, Information Communication Technology, Electronics and Arts sector.
+email: info@smartxchange.co.za
+facebookUrl: smartxchange
+googleMapsUrl: ""
 hubID: smart-xchange
-instagramHandle: ""
+instagramHandle: '@smartxchange'
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Smart Xchange
+phone: +27 31 307-1988
+plusCode: 42WH+FC
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: http://www.smartxchange.co.za/
+websiteUrl: smartxchange.co.za

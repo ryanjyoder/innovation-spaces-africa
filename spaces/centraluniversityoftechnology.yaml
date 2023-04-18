@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: ""
 addressNotes: ""
 city: Bloemfontein
-country: ""
-description: ""
+country: South Africa
+diescription: CUT is the foremost higher education institution in the heartland of South Africa. The university has two campuses – one in Bloemfontein, the judicial capital of South Africa, and one in Welkom, in the heart of the Free State goldfields
 email: ""
-facebookUrl: ""
+facebookUrl: CUTFreeState
+googleMapsUrl: ""
 hubID: centraluniversityoftechnology
 instagramHandle: ""
 lat: -29.118349
 linkedinUrl: ""
 lng: 26.22492
 name: Central University of Technology
-postalCode: "9301"
+phone: +27 51 507 3911
+plusCode: ""
+postalCode: 9301
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: '@cutfsonline'
+websiteUrl: www.cut.ac.za

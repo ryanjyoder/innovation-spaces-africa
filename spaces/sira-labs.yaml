@@ -1,17 +1,21 @@
-addressLine1: Festival Des Glaces, Ouagadougou, Burkina Faso
+activities: ""
+addressLine1: Avenue de l´ UEMOA, Koulouba, Ouagadougou, Burkina Faso
 addressNotes: ""
-city: ""
-country: ""
-description: ""
+city: Ouagadougou
+country: Burkina Faso
+diescription: Offrir aux entrepreneurs un environnement stimulant et des outils pour réaliser avec succès leurs projets de création d'entreprises.
 email: contact@sira-labs.com
-facebookUrl: ""
+facebookUrl: siralabs
+googleMapsUrl: ""
 hubID: sira-labs
-instagramHandle: ""
+instagramHandle: siralabs
 lat: 0
-linkedinUrl: ""
+linkedinUrl: siralabs
 lng: 0
 name: Sira Labs
+phone: +226 56 04 73 73
+plusCode: 9F8M+26
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: https://www.sira-labs.com/
+twitterHandle: siralabs
+websiteUrl: sira-labs.com

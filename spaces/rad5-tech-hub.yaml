@@ -1,17 +1,20 @@
-addressLine1: ""
+activities: ""
+addressLine1: 3rd Floor, 7 Factory Rd, Aba 450211, Aba, Abia, Nigeria
 addressNotes: ""
 city: Aba
 country: Nigeria
-description: |
-  RAD5 Tech Hub is a thriving community for developers, creatives and startup founders in Southeast Nigeria. the hub supports the growth of over 1,000 software engineers, designers and technology entrepreneurs through beginner, intermediate and advanced levels.
+diescription: RAD5 Tech Hub is a thriving community for developers, creatives and startup founders in Southeast Nigeria. the hub supports the growth of over 1,000 software engineers, designers and technology entrepreneurs through beginner, intermediate and advanced levels.
 email: info@rad5.com.ng
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: rad5-tech-hub
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: RAD5 Tech Hub
+phone: +234 818 815 5501
+plusCode: 4999+9Q
 postalCode: ""
 region: ""
 twitterHandle: rad5techhub

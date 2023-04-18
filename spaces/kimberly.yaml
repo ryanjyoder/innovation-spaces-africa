@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: ""
 addressNotes: 'GPS Coordinates: 28º 42’53.99“ 24º 42’39.35“'
 city: Kimberley
-country: ""
-description: The Northern Cape FabLab situated in Kimberley is hosted by the National Institute of Higher Education (NIHE), and is the sixth FabLab to be commissioned and launched by the DST on the 06th August 2007.
-email: fabkimberley@gmail.com
+country: South Africa
+diescription: The Northern Cape FabLab situated in Kimberley is hosted by the National Institute of Higher Education (NIHE), and is the sixth FabLab to be commissioned and launched by the DST on the 06th August 2007.
+email: fabkimberley@gmail.com.
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: kimberly
 instagramHandle: ""
 lat: -28.72929
 linkedinUrl: ""
 lng: 24.75404
 name: Kimberly FabLab
-postalCode: "8301"
+phone: 053 872 2615
+plusCode: 1317 Solomon Mekgwe Street, Old Kitsong Training Centre, Kimberley, Northern Cape, 8301, South Africa
+postalCode: 8301
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: fablabs.io/labs/kimberly

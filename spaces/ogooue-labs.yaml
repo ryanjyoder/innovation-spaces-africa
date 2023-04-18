@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Gabon Libreville, Libreville, Estuaire, Gabon
 addressNotes: ""
 city: Libreville
 country: Gabon
-description: |
-  Ogooue Labs provides co-working space to host incubates and start-ups, they provide business accelerator services open to any startup and/or companies requiring global or specific support, and they provide innovation laboratory to introduce young Gabonese to web & mobile development and to the development of projects with high social impacts.
+diescription: Ogooue Labs provides co-working space to host incubates and start-ups, they provide business accelerator services open to any startup and/or companies requiring global or specific support, and they provide innovation laboratory to introduce young Gabonese to web & mobile development and to the development of projects with high social impacts.
 email: ""
-facebookUrl: ""
+facebookUrl: oglabsgabon
+googleMapsUrl: ""
 hubID: ogooue-labs
-instagramHandle: ""
+instagramHandle: ogooue-labs
 lat: 0.3606914
 linkedinUrl: ""
-lng: 9.46803190000003
+lng: 9.4680319
 name: Ogooue Labs
+phone: +241 07 32 32 11
+plusCode: CF92+F58
 postalCode: ""
 region: Estuaire
 twitterHandle: OgooueLabs
-websiteUrl: https://about.me/ogoouelabs
+websiteUrl: ogoouelabs.com

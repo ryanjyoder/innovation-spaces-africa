@@ -1,20 +1,21 @@
+activities: ""
 addressLine1: ""
 addressNotes: ""
 city: Dakar
 country: Senegal
-description: |-
-  Copy and pasted from : http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=7007
-
-  The ISEG research group at Université Internationale des Diasporas Africaines (UNIDAF) was responsible for establishing the African Living Lab, which focused on developing a network of laboratories across West Africa to promote technology takeup and digital community by youth.
+diescription: 'Copy and pasted from : http://www.ist-africa.org/home/default.asp?page=doc-by-id&docid=7007  The ISEG research group at Université Internationale des Diasporas Africaines (UNIDAF) was responsible for establishing the African Living Lab, which focused on developing a network of laboratories across West Africa to promote technology takeup and digital community by youth.'
 email: ""
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: africa-living-lab
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Africa Living Lab
+phone: ""
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: https://isegcesmi.com/sample-page/
+websiteUrl: isegcesmi.com

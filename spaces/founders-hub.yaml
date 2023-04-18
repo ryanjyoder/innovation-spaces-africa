@@ -1,18 +1,21 @@
-addressLine1: Kwara, Nigeria
+activities: ""
+addressLine1: 23 Agodogba Ave, Parkview Estate 106104, Lagos, Nigeria
 addressNotes: ""
-city: ""
+city: Lagos
 country: Nigeria
-description: |
-  Founders Hub serves as the meeting point for enterpreneurs to meet, brain-storm, share ideas and collaborate. This is achieved through knowledge partnership events, meet-ups, focus groups, hackathons, competitions, workshops. They are an innovation hub that is focused on skill acquisition, youth engagement and innovation and get most of their funds from Africa.
-email: ""
-facebookUrl: ""
+diescription: Founders Hub serves as the meeting point for enterpreneurs to meet, brain-storm, share ideas and collaborate. This is achieved through knowledge partnership events, meet-ups, focus groups, hackathons, competitions, workshops. They are an innovation hub that is focused on skill acquisition, youth engagement and innovation and get most of their funds from Africa.
+email: contact@foundershub.xyz
+facebookUrl: https://www.facebook.com/foundershubng/about
+googleMapsUrl: ""
 hubID: founders-hub
-instagramHandle: ""
+instagramHandle: foundershub
 lat: 8.9847995
 linkedinUrl: ""
-lng: 4.56244259999994
+lng: 4.5624426
 name: Founders Hub
+phone: +234 806 435 4498
+plusCode: ""
 postalCode: ""
 region: Kwara
 twitterHandle: foundershubng
-websiteUrl: http://foundershub.xyz/holder/
+websiteUrl: http://foundershub.xyz/

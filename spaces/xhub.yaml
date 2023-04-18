@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Addis Ababa, Ethiopia
 addressNotes: ""
 city: Addis Ababa
 country: Ethiopia
-description: |
-  xHub Innovative Society is an open space for IT entrepreneurs, innovators, technologists, investors, tech companies and coders in Ethiopia to develop their tech idea into a product. It is created to be a system or environment in which young individuals have the necessary resources to grow and learn from one another and from their coaches and mentors.
-email: ""
+diescription: xHub Innovative Society is an open space for IT entrepreneurs, innovators, technologists, investors, tech companies and coders in Ethiopia to develop their tech idea into a product. It is created to be a system or environment in which young individuals have the necessary resources to grow and learn from one another and from their coaches and mentors.
+email: info@xHubaddis.com.
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: xhub
 instagramHandle: ""
 lat: 8.9806034
 linkedinUrl: ""
 lng: 38.7577605
 name: xHub
+phone: +251 903772222
+plusCode: ""
 postalCode: ""
 region: Addis Ababa
 twitterHandle: xhubaddis
-websiteUrl: http://www.xhubaddis.com/
+websiteUrl: xhubaddis.com

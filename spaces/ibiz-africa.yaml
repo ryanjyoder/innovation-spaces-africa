@@ -1,17 +1,20 @@
-addressLine1: ""
-addressNotes: ""
+activities: ""
+addressLine1: keri road, madaraka estate
+addressNotes: Nairobi, Kenya
 city: Nairobi
 country: Kenya
-description: |
-  iBizAfrica seeks to provide a nurturing environment that builds on the potential of the youth to develop ICT solutions and businesses that work for the common good in society.
-email: ""
-facebookUrl: ""
+diescription: iBizAfrica seeks to provide a nurturing environment that builds on the potential of the youth to develop ICT solutions and businesses that work for the common good in society.
+email: adminibiz@strathmore.edu
+facebookUrl: https://www.facebook.com/iBizAfrica
+googleMapsUrl: ""
 hubID: ibiz-africa
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://www.linkedin.com/company/-ibizafrica
 lng: 0
 name: iBiz Africa
+phone: +254 703 034617
+plusCode: https://plus.google.com/+IbizafricaCoKe
 postalCode: ""
 region: ""
 twitterHandle: iBizAfrica

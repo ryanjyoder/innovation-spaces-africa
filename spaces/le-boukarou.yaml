@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Douala, Cameroun
 addressNotes: ""
-city: ""
-country: ""
-description: |
-  Le Boukarou is a support structure for innovative entrepreneurs and citizens. They promote youth and women’s entrepreneurship as the means to achieve their goals. In an operational way, we work mainly, from the structuring of their idea to the operationalization of their project, to the development of their company.
+city: Douala
+country: Cameroon
+diescription: Le Boukarou is a support structure for innovative entrepreneurs and citizens. They promote youth and women’s entrepreneurship as the means to achieve their goals. In an operational way, we work mainly, from the structuring of their idea to the operationalization of their project, to the development of their company.
 email: contact@leboukarou.digital.com
 facebookUrl: https://www.facebook.com/LeboukarouOfficiel/
+googleMapsUrl: ""
 hubID: le-boukarou
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Le Boukarou
+phone: +237 6 83 99 02 79
+plusCode: 2PVV+525
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: http://leboukarou.com/

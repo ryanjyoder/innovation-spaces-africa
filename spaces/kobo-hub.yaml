@@ -1,16 +1,20 @@
+activities: ""
 addressLine1: 'Immeuble 130, avenue Kwango, Kinshasa (Ref: INA)'
 addressNotes: ""
-city: ""
-country: ""
-description: "Kobo Hub is dedicated to accelerating startups and young companies in the Democratic Republic of Congo.It equally helps train and mentor startups to help them grow. \n"
+city: Kinshasa
+country: Democratic Republic of the Congo
+diescription: Kobo Hub is dedicated to accelerating startups and young companies in the Democratic Republic of Congo.It equally helps train and mentor startups to help them grow.
 email: secretariat@kobo-hub.com
 facebookUrl: http://facebook.com/kobohubrdc
+googleMapsUrl: ""
 hubID: kobo-hub
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Kobo hub
+phone: "+243998965640"
+plusCode: M8VC+H3
 postalCode: ""
 region: ""
 twitterHandle: kobo_hub

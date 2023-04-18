@@ -1,18 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: à proximité de Macaci AngrE Terminus, 81-82, Abidjan, Côte d’Ivoire
 addressNotes: ""
 city: Abidjan
 country: Côte d'Ivoire
-description: |
-  Jokkolabs is an open space designed to meet the needs of micro-businesses, self-employed workers, homeworkers, entrepreneurs, start-ups, digital economy workers, writers, designers and other new media or digital arts professionals whose work do not fit in a classic office model.
-email: ""
-facebookUrl: ""
+diescription: Jokkolabs is an open space designed to meet the needs of micro-businesses, self-employed workers, homeworkers, entrepreneurs, start-ups, digital economy workers, writers, designers and other new media or digital arts professionals whose work do not fit in a classic office model.
+email: joue@jokkolabs.co
+facebookUrl: jokkolabs
+googleMapsUrl: https://www.google.com/search?client=ubuntu&hs=NFl&channel=fs&sxsrf=AJOqlzXwZFNIkX4u5JcH5_B_C2_ju1cLuQ:1678074229106&q=abrand+News&ludocid=15897306112523902377&gsas=1&client=ubuntu&lsig=AB86z5X7rRQm9cx0QLgTQSxeB_6F&sa=X&ved=2ahUKEwi_ptTSscb9AhUaMd4KHSCTBt0Q8G0oAHoECEIQAQ
 hubID: jokkolabs-abidjan
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: jokkolabs
 lng: 0
 name: Jokkolabs Abidjan
+phone: +225 07 08 62 8525
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: JklAbidjan
-websiteUrl: http://jokkolabs.net/en/#jokkolabs
+websiteUrl: jokkolabs.net

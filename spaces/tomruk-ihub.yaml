@@ -1,13 +1,12 @@
 activities:
   - innovation-centre
-addressLine1: ""
+addressLine1: Jos, Nigeria
 addressNotes: ""
-city: ""
+city: Jos
 country: Nigeria
-description: |
-  Tomruk iHub is a community center that nurtures disruptive innovators through a culture of collaboration and co-creation to become catalysts of progressive change in their communities. They are an innovation centre with focus on social impact, skill acquisition, youth engagement, and innovation and get most of their funds from Africa.
-email: ""
-facebookUrl: ""
+diescription: Tomruk iHub is a community center that nurtures disruptive innovators through a culture of collaboration and co-creation to become catalysts of progressive change in their communities. They are an innovation centre with focus on social impact, skill acquisition, youth engagement, and innovation and get most of their funds from Africa.
+email: tomrukihub@gmail.com
+facebookUrl: onecom
 googleMapsUrl: ""
 hubID: tomruk-ihub
 instagramHandle: ""
@@ -15,9 +14,9 @@ lat: 0
 linkedinUrl: ""
 lng: 0
 name: Tomruk iHub
-phone: ""
+phone: +234 803 113 7715
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: onecom
+websiteUrl: tomrukihub.com

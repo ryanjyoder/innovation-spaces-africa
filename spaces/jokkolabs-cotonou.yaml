@@ -1,17 +1,20 @@
-addressLine1: ""
+activities: ""
+addressLine1: 237 Ave de la Liberation, Cotonou, Benin
 addressNotes: ""
 city: Cotonou
 country: Benin
-description: |
-  Jokkolabs is an open space designed to meet the needs of micro-businesses, self-employed workers, homeworkers, entrepreneurs, start-ups, digital economy workers, writers, designers, and other new media or digital arts professionals whose work do not fit in a classic office model.
+diescription: Jokkolabs is an open space designed to meet the needs of micro-businesses, self-employed workers, homeworkers, entrepreneurs, start-ups, digital economy workers, writers, designers, and other new media or digital arts professionals whose work do not fit in a classic office model.
 email: ""
-facebookUrl: ""
+facebookUrl: jokkolabs-cotonou
+googleMapsUrl: ""
 hubID: jokkolabs-cotonou
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Jokkolabs Cotonou
+phone: +229 97 27 54 59
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: JklCotonou

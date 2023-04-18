@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: Boulevard De La Liberte, Bujumbura, Burundi
-addressNotes: ""
-city: ""
-country: ""
-description: ""
+addressNotes: Burundi, Bujumbura, Mukaza, Kabondo
+city: Bujumbura
+country: Burundi
+diescription: ""
 email: info@bujahub.com
 facebookUrl: https://www.facebook.com/bujahub/
+googleMapsUrl: ""
 hubID: bujahub
-instagramHandle: ""
+instagramHandle: bujahub
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://www.linkedin.com/company/bujahub/
 lng: 0
 name: BujaHub
+phone: +1-303-893-552
+plusCode: J956+87 Bujumbura, Burundi
 postalCode: ""
 region: ""
-twitterHandle: ""
+twitterHandle: '@BujaHub'
 websiteUrl: http://www.bujahub.com

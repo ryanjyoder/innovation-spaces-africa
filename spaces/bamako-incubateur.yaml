@@ -1,16 +1,20 @@
+activities: ""
 addressLine1: Missira, Mali
 addressNotes: ""
 city: ""
 country: ""
-description: "Les activit�s de Bamako Incubateur s�articulent autour de six (06) axes :  1.Faciliter la promotion du num�rique aupr�s des enfants, femmes et jeunes en milieu urbain, rural, de la diaspora et migrants ;  2.Faciliter l�int�gration du num�rique dans les secteurs du d�veloppement ;  3.Identifier, faciliter la cr�ation de solution num�rique dans les diff�rents secteurs du d�veloppement ;  4.Identifier et accompagner les innovations num�riques dans les diff�rents secteurs du d�veloppement ;  5.Faciliter l�employabilit� des jeunes notamment de la diaspora et migrants dans le domaine du num�rique ;  6.Faciliter l�acc�s des start up num�riques aux financements.     \n"
+diescription: 'Les activit�s de Bamako Incubateur s�articulent autour de six (06) axes :  1.Faciliter la promotion du num�rique aupr�s des enfants, femmes et jeunes en milieu urbain, rural, de la diaspora et migrants ;  2.Faciliter l�int�gration du num�rique dans les secteurs du d�veloppement ;  3.Identifier, faciliter la cr�ation de solution num�rique dans les diff�rents secteurs du d�veloppement ;  4.Identifier et accompagner les innovations num�riques dans les diff�rents secteurs du d�veloppement ;  5.Faciliter l�employabilit� des jeunes notamment de la diaspora et migrants dans le domaine du num�rique ;  6.Faciliter l�acc�s des start up num�riques aux financements.'
 email: bamako.incubateur@gmail.com
 facebookUrl: https://www.facebook.com/BIncubateur/
+googleMapsUrl: ""
 hubID: bamako-incubateur
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Bamako Incubateur
+phone: +223 63 12 43 37
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: BIncubateur

@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Nigeria
-addressNotes: ""
-city: ""
+addressNotes: 2nd Floor TAEN Business Complex Opposite former NITEL Office, Old Airport Junction, Jos, Plateau State, Nigeria.
+city: Jos
 country: Nigeria
-description: |
-  nHub is focused on empowering entrepreneurs on their journey to build great ideas out of little or nothing, they work with start-ups at every stage of maturity to provide the tools, resources, knowledge and expertise they need to succeed.
-email: ""
-facebookUrl: ""
+diescription: nHub is focused on empowering entrepreneurs on their journey to build great ideas out of little or nothing, they work with start-ups at every stage of maturity to provide the tools, resources, knowledge and expertise they need to succeed.
+email: contact@nhubfoundation.org
+facebookUrl: nHub
+googleMapsUrl: ""
 hubID: nhub
-instagramHandle: ""
+instagramHandle: nhub_ng
 lat: 9.081999
 linkedinUrl: ""
-lng: 8.67527700000005
+lng: 8.675277
 name: nHub
+phone: +234 703 436 1648
+plusCode: VVHF+GV
 postalCode: ""
 region: ""
 twitterHandle: nHubNG
-websiteUrl: http://www.nhubnigeria.com/
+websiteUrl: nhubfoundation.org

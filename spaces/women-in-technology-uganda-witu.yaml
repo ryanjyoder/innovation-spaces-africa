@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Plot 19 Bukoto Street, Kampala, Uganda
 addressNotes: ""
 city: Kampala
 country: Uganda
-description: ""
-email: ""
-facebookUrl: ""
+diescription: Imagine a world where women and girls have equal access to education, information, leadership positions and assets, such as land. Poverty, violence and war could be significantly reduced. We are working towards this world! Founded in 2014, WITU is a nonprofit company started by women for women. The goal of WITU is to connect young women from underserved communities to dignified and meaningful employment and economic opportunities. We do this by offering educational programs in STEM and technology job opportunities.
+email: info@witu.org
+facebookUrl: witug
+googleMapsUrl: ""
 hubID: women-in-technology-uganda-witu
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: witu
 lng: 0
 name: Women in Technology Uganda (WITU)
+phone: (256) 392 177 980
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: wituganda
-websiteUrl: http://witug.org/
+websiteUrl: witug.org

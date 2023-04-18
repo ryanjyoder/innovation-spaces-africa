@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Avedji-Elavagnon
 addressNotes: ""
-city: Lomé
+city: Lome
 country: Togo
-description: |
-  "Youth CDC est un programme d'accompagnement � la lev�e de fonds et de d�veloppement d'entreprises qui a pour ambition de lutter contre le ch�mage des jeunes en Afrique par la promotion de l'entrepreneuriat. Le programme d�veloppe une approche innovante d'accompagnement autour d'un programme de formation certifiant d�nomm� <b>""Certificate in Development of Innovation Companies"" -CDIC</b>."
+diescription: Youth CDC est un programme d'accompagnement � la lev�e de fonds et de d�veloppement d'entreprises qui a pour ambition de lutter contre le ch�mage des jeunes en Afrique par la promotion de l'entrepreneuriat. Le programme d�veloppe une approche innovante d'accompagnement autour d'un programme de formation certifiant d�nomm� <b>""Certificate in Development of Innovation Companies"" -CDIC</b>.
 email: youthcdcprogram@gmail.com
-facebookUrl: https://www.facebook.com/YouthCDC/
+facebookUrl: YouthCDC
+googleMapsUrl: ""
 hubID: youth-cdc
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Youth CDC
+phone: +228 93 96 49 07
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: http://www.youthcdc.com
+twitterHandle: '@youthcdc'
+websiteUrl: medium.com/@youthcdcprogram

@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Ngoa, Yaoundé, Cameroon
 addressNotes: Dans l'enceinte de l'AUF, En face de la Gendarmerie Mobile
-city: Yaoundé
-country: ""
-description: Laboratoire de Fabrication numérique pour accompagner les jeunes à initier des projets innovants en passant rapidement de l'idée au prototype fonctionnel.
+city: Yaounde
+country: Cameroon
+diescription: Laboratoire de Fabrication numérique pour accompagner les jeunes à initier des projets innovants en passant rapidement de l'idée au prototype fonctionnel.
 email: ongolafablab@auf.org
-facebookUrl: ""
+facebookUrl: ongalafablab.com
+googleMapsUrl: ""
 hubID: ongolafablab
 instagramHandle: ""
 lat: 3.8577597
 linkedinUrl: ""
 lng: 11.5070915
 name: Ongola Fablab
+phone: +237 6 92 55 51 82
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: '@ongolafablab'
+websiteUrl: fablabs.io/labs/ongolafablab

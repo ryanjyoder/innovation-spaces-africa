@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: VP 27 A bis Ambohimiandra ,  Antananarivo
-addressNotes: ""
-city: ""
-country: ""
-description: |
-  �Un cabinet d�expertise � destination de toutes les organisations promouvant l�entrepreneuriat des jeunes et des femmes � Madagascar, dans l�Oc�an Indien et en Afrique.&nbsp;
+addressNotes: Antananarivo
+city: Antananarivo
+country: Madagascar
+diescription: Incubons supports, advises and develops societal projects and / or companies to train a generation of responsible entrepreneurs.
 email: incubons.etc@gmail.com
-facebookUrl: https://fr-fr.facebook.com/incubons/
+facebookUrl: facebook.com/incubons
+googleMapsUrl: ""
 hubID: incubons
-instagramHandle: ""
+instagramHandle: '@incubons'
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: INCUBONS
+phone: ""
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: ennova.africa/organizations/incubons

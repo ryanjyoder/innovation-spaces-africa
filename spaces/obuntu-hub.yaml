@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: Mega Complex-Arusha
 addressNotes: ""
-city: ""
+city: Arusha
 country: Tanzania
-description: "Obuntu Hub is inspired by the notion of �obuntu� which can be translated as �collective progress.� We conceived the hub as a catalyst to drive collective progress for entrepreneurs and the community at large. Our focus is on empowering young entrepreneurs who innovate through tech or unique business models. \n"
+diescription: Obuntu Hub is inspired by the notion of �obuntu� which can be translated as �collective progress.� We conceived the hub as a catalyst to drive collective progress for entrepreneurs and the community at large. Our focus is on empowering young entrepreneurs who innovate through tech or unique business models.
 email: hello@obuntuhub.co.tz
 facebookUrl: https://web.facebook.com/obuntuhub/?_rdc=1&_rdr
+googleMapsUrl: ""
 hubID: obuntu-hub
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Obuntu Hub
+phone: +255 767731319
+plusCode: JMHP+PC
 postalCode: ""
 region: ""
 twitterHandle: obuntuhub
-websiteUrl: https://obuntuhub.co.tz/
+websiteUrl: obuntuhub.co.tz

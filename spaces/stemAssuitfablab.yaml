@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: ', Egypt'
 addressNotes: good nice place
 city: الهدايا
-country: ""
-description: our students make in all year a lot of projects , our students are using machines to service in your projects
+country: Egypt
+diescription: our students make in all year a lot of projects , our students are using machines to service in your projects
 email: s.hofney@stemassiut.moe.edu.eg
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: stemAssuitfablab
 instagramHandle: ""
 lat: 27.1965514
 linkedinUrl: ""
-lng: 31.0764842999999
+lng: 31.0764843
 name: FabLab Stem School Assuit
-postalCode: "0201010382782"
+phone: "0201010382782"
+plusCode: ""
+postalCode: 201010382782
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: fablabs.io/labs/stemAssuitfablab

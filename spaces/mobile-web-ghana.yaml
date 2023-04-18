@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: Ghana International Trade Fair Centre, Accra, Ghana
 addressNotes: ""
 city: Accra
 country: Ghana
-description: |
-  Mobile Web Ghana aims is to boost the uptake of mobile technology in Ghana through technology entrepreneurship.
+diescription: Mobile Web Ghana aims is to boost the uptake of mobile technology in Ghana through technology entrepreneurship.
 email: ""
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: mobile-web-ghana
 instagramHandle: ""
 lat: 5.5712984
 linkedinUrl: ""
-lng: -0.146848299999988
+lng: -0.1468483
 name: Mobile Web Ghana
+phone: ""
+plusCode: ""
 postalCode: ""
 region: Greater Accra Region
 twitterHandle: MobileWebGhana

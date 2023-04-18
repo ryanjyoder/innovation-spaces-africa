@@ -1,23 +1,22 @@
 activities:
   - accelerator
-addressLine1: ""
-addressNotes: ""
-city: ""
+addressLine1: 3 Rue, Beranger Ferraud,
+addressNotes: DAKAR PLATEAU
+city: Dakar
 country: Senegal
-description: |
-  CITIC Dakar is the leading business incubator in Senegal for IT and mobile services entrepreneurs, with the aim of empowering high potential and high impact entreprenuers connecting them to the entire ecosystem they need to succeed.
-email: ""
-facebookUrl: ""
+diescription: CITIC Dakar is the leading business incubator in Senegal for IT and mobile services entrepreneurs, with the aim of empowering high potential and high impact entreprenuers connecting them to the entire ecosystem they need to succeed.
+email: contact@cticdakar.com
+facebookUrl: facebook.com/cticdakar
 googleMapsUrl: ""
 hubID: citic-dakar
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: ctic-dakar
 lng: 0
 name: CITIC Dakar
-phone: ""
+phone: +221 33 842 49 00
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: cticdakar
+websiteUrl: www.cticdakar.com

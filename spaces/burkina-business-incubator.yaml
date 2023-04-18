@@ -4,24 +4,23 @@ activities:
   - co-working-space
   - incubator
   - innovation-centre
-addressLine1: ""
-addressNotes: ""
-city: ""
+addressLine1: N4, Dassasgo
+addressNotes: Ouagadougou, Burkina Faso
+city: Ouagadougou
 country: Burkina Faso
-description: |
-  The Burkina Business Incubator Association (BBI) is an incubation center for SMEs, a framework for the maturation of ideas for innovative projects and training in business creation, business development, a real common working space. whose main purpose is the promotion of entrepreneurship through the selection of innovative and high-potential projects and their support from idea to launch through the economic model, studies, training of the promoter, mobilization of resources and the creation of the company. BBI prioritizes projects from the following areas: Information and Communication Technologies (ICT), Agro-Industry, Tourism and Hospitality, Renewable Energies and Environment, and Crafts.
-email: ""
-facebookUrl: ""
+diescription: 'The Burkina Business Incubator Association (BBI) is an incubation center for SMEs, a framework for the maturation of ideas for innovative projects and training in business creation, business development, a real common working space. whose main purpose is the promotion of entrepreneurship through the selection of innovative and high-potential projects and their support from idea to launch through the economic model, studies, training of the promoter, mobilization of resources and the creation of the company. BBI prioritizes projects from the following areas: Information and Communication Technologies (ICT), Agro-Industry, Tourism and Hospitality, Renewable Energies and Environment, and Crafts.'
+email: burkinabizincubator@gmail.com.
+facebookUrl: https://www.facebook.com/incubateurPMEBurkinaFaso/
 googleMapsUrl: ""
 hubID: burkina-business-incubator
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: burkina-business-incubator
 lng: 0
 name: Burkina Business Incubator
-phone: ""
-plusCode: ""
+phone: +226 25 46 87 17
+plusCode: 9GRH+Q6W
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: burkinabusiness
+websiteUrl: https://burkina-business-incubator.com/

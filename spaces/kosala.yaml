@@ -1,21 +1,21 @@
 activities: []
-addressLine1: ""
-addressNotes: ""
-city: ""
-country: Congo
-description: "Kosala is the reference startup’s incubator and accelerator in the Republic of Congo. Kosala offers incubation and acceleration programs; Solutions for the digital transformation to the startups. \n"
-email: ""
-facebookUrl: ""
+addressLine1: Immeuble YOKA Bernard, Brazzaville, Congo - Brazzaville
+addressNotes: 2ème étage Immeuble yoka Bernard, centre ville., Brazzaville, Republic of the Congo
+city: Brazzaville
+country: Republic of the Congo
+diescription: Kosala is the reference startup’s incubator and accelerator in the Republic of Congo. Kosala offers incubation and acceleration programs; Solutions for the digital transformation to the startups.
+email: acceuilkosala@gmail.com
+facebookUrl: plateformekosala
 googleMapsUrl: ""
 hubID: kosala
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://fr.linkedin.com/company/kos%C3%A0la?trk=public_profile_experience-item_profile-section-card_image-click
 lng: 0
 name: Kosala
-phone: ""
-plusCode: ""
+phone: +242 06 480 8663
+plusCode: P6PV+M52
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: kosalapme.com

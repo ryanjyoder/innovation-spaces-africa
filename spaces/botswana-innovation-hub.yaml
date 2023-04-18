@@ -1,17 +1,20 @@
-addressLine1: ""
+activities: ""
+addressLine1: Plot 69184, Block 8, Botswana Digital & Innovation Hub
 addressNotes: ""
 city: Gaborone
 country: Botswana
-description: |
-  Botswana Innovation Hub offers a unique platform for scientific, technological and indigenous knowledge based innovation with core values of integrity, openness, excellence, collaboration, and innovation. They add value to existing companies, foster entrepreneurship, and technology transfer while generating knowledge-based jobs thereby attracting innovative companies and institutions to the space.
-email: ""
-facebookUrl: ""
+diescription: Botswana Innovation Hub offers a unique platform for scientific, technological and indigenous knowledge based innovation with core values of integrity, openness, excellence, collaboration, and innovation. They add value to existing companies, foster entrepreneurship, and technology transfer while generating knowledge-based jobs thereby attracting innovative companies and institutions to the space.
+email: info@bih.co.bw
+facebookUrl: https://www.facebook.com/pages/Botswana-Innovation-Hub/737787429594033?ref=hl
+googleMapsUrl: ""
 hubID: botswana-innovation-hub
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Botswana Innovation Hub
+phone: +267 391 3328
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: YourBIH

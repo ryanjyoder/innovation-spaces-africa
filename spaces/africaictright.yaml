@@ -3,22 +3,21 @@ activities:
   - co-working-space
   - incubator
   - living-lab
-addressLine1: ""
+addressLine1: CE593, Yam street, Tema West
 addressNotes: ""
-city: ""
+city: Accra
 country: Ghana
-description: |
-  Africa ICT Right is a hub with a focus on preparing the youth for future digital jobs through technology education and skills development. They hope to achieve this through boot camps, hackathons, mentorship and coaching, internships, digital skills training and job placement.
+diescription: Africa ICT Right is a hub with a focus on preparing the youth for future digital jobs through technology education and skills development. They hope to achieve this through boot camps, hackathons, mentorship and coaching, internships, digital skills training and job placement.
 email: ""
-facebookUrl: ""
+facebookUrl: https://www.facebook.com/africaictright/
 googleMapsUrl: ""
 hubID: africaictright
-instagramHandle: ""
+instagramHandle: africaictright
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Africa ICT Right
-phone: ""
+phone: +233 277 137473
 plusCode: ""
 postalCode: ""
 region: ""

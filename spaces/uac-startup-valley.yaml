@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: Abomey Calavi, B�nin
 addressNotes: ""
-city: ""
-country: ""
-description: ""
+city: Abomey-Calavi
+country: Benin
+diescription: Bonjour, je suis Novalie HOUNGBEDJI, promoteur de la startup DigitAll Farmer créée en août 2020 av...
 email: uacstartupvalley@uacstartupvalley.com
 facebookUrl: https://www.facebook.com/uacstartupvalley/
+googleMapsUrl: ""
 hubID: uac-startup-valley
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: UAC Startup Valley
+phone: (+229) 62 47 07 07
+plusCode: F964+3GX
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: http://www.uacstartupvalley.com
+twitterHandle: '@uacstartupvalley'
+websiteUrl: uacstartupvalley.com

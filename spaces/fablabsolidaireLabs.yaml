@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Ecole Police, Immeuble Scalène Mermoz, lot B Rue KA 05, Dakar, Senegal
 addressNotes: Ecole Police, Immeuble Scalène Mermoz lot B, Rue KA 05, Dakar
 city: Dakar
-country: ""
-description: in this fab lab the public has access to the machines that are often found in fablabs' laser cutting, cnc, 3D printer, digital embroidery machine' membership is free and it is open all week
+country: Senegal
+diescription: in this fab lab the public has access to the machines that are often found in fablabs' laser cutting, cnc, 3D printer, digital embroidery machine' membership is free and it is open all week
 email: mamadou.diallo@sonatelacademy.sn
-facebookUrl: ""
+facebookUrl: facebook.com%2Ffablabsolidairelabs
+googleMapsUrl: ""
 hubID: fablabsolidaireLabs
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Fablab solidaire Lab-s
-postalCode: "\t10700"
+phone: +221 33 839 21 00
+plusCode: ""
+postalCode: 10700
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: fablab_s
+websiteUrl: www.fablabs.io/labs/fablabsolidaireLabs

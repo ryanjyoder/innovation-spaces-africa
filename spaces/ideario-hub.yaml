@@ -1,24 +1,23 @@
 activities:
   - co-working-space
   - innovation-centre
-addressLine1: ""
+addressLine1: 1128 Avenida Do Trabalho, Maputo, Mozambique
 addressNotes: ""
-city: ""
+city: Maputo
 country: Mozambique
-description: |
-  Ideario Hub is an innovation center with the goal to create better entrepreneurial experiences trough knowledge and technologies. We crafted our way to understand and help freelancers, universities, and organizations co-create and impact local communities. They get most of their funds from Europe.
-email: ""
-facebookUrl: ""
+diescription: Ideario Hub is an innovation center with the goal to create better entrepreneurial experiences trough knowledge and technologies. We crafted our way to understand and help freelancers, universities, and organizations co-create and impact local communities. They get most of their funds from Europe.
+email: hub@idear.io
+facebookUrl: facebook.com%2Fweareideario
 googleMapsUrl: ""
 hubID: ideario-hub
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: ideariohub
 lng: 0
 name: Ideario Hub
-phone: ""
+phone: +258 84 442 2789
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: weareideario
+websiteUrl: https://idear.io/

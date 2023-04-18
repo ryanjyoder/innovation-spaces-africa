@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: 90 Kanjokya St, Kampala, Uganda
 addressNotes: ""
 city: Kampala
-country: Togo
-description: ""
-email: ""
-facebookUrl: ""
+country: Uganda
+diescription: Mara Foundation is Mara Group’s social enterprise that focuses on emerging African entrepreneurs. We work to create sustainable economic and business development opportunities for young business owners via our Mara Launchpad incubation centres, Mara Launch Fund and Mara Mentor.
+email: uganda@mara-foundation.org
+facebookUrl: Marafoundationafrica
+googleMapsUrl: ""
 hubID: mara-launchpad
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Mara Launchpad
+phone: ""
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: MaraPhones
-websiteUrl: http://www.mara-foundation.org/
+twitterHandle: marafoundation
+websiteUrl: mara-foundation.org/

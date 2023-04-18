@@ -1,18 +1,21 @@
-addressLine1: Oujda, Maroc
-addressNotes: ""
-city: ""
-country: ""
-description: |
-  Tamkeen Center est une initiatve priv�e et apolitique, mais accueille toute contribution et appui technique et financiers pour favoriser le d�ploiement de son activit� � plus grande �chelle.&nbsp;
+activities: ""
+addressLine1: 498, IMM TREMPLIN II, ÉTAGE 4, BUREAU 18, Meknes 50050, Morocco
+addressNotes: 304, Technopark Rabat
+city: Casablanca
+country: Morocco
+diescription: Tamkeen Center est une initiatve priv�e et apolitique, mais accueille toute contribution et appui technique et financiers pour favoriser le d�ploiement de son activit� � plus grande �chelle.&nbsp;
 email: contact@tamkeen.ma
-facebookUrl: ""
+facebookUrl: TamkeenCenter
+googleMapsUrl: ""
 hubID: tamkeen-center
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Tamkeen Center
+phone: +212 (0) 520 192 900
+plusCode: VC5M+GV
 postalCode: ""
 region: ""
 twitterHandle: CenterTamkeen
-websiteUrl: http://www.tamkeen.ma
+websiteUrl: tamkeen.ma

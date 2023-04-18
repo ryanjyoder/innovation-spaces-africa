@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: El pepsi street Alrahaba, Libya
 addressNotes: ""
-city: بنغازي
-country: ""
-description: ""
+city: Benghazi
+country: Libya
+diescription: Fab Labs are a global network of local labs, enabling invention by providing access to tools for digital fabrication
 email: info@fablablibya.org
-facebookUrl: ""
+facebookUrl: https://www.facebook.com/fablablibya
+googleMapsUrl: ""
 hubID: fablablibya
-instagramHandle: ""
+instagramHandle: fablablibya
 lat: 32.0793436
 linkedinUrl: ""
 lng: 20.0710968
 name: FabLab Libya
+phone: 911091929
+plusCode: 34V7+H6
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: FablabLibya
+websiteUrl: https://fablablibya.org/

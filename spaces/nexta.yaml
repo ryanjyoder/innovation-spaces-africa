@@ -1,11 +1,10 @@
+activities: ""
 addressLine1: ""
 addressNotes: Immeuble Tana Shore - Enceinte Futura Andranomena Antananarivo
 city: Antananarivo
 country: Madagascar
-description: |-
-  NextA est l’incubateur et l’espace de coworking au service des jeunes entreprises, crée par @Axiangroup
-   #NextA #ThePlaceToBe #LetsCreate
-email: ""
+diescription: 'NextA est l’incubateur et l’espace de coworking au service des jeunes entreprises, crée par @Axiangroup  #NextA #ThePlaceToBe #LetsCreate'
+email: contact@nexta.mg
 facebookUrl: https://www.facebook.com/nextA.mg/
 googleMapsUrl: https://goo.gl/maps/2zu3hhEGiJXZhVBv6
 hubID: nexta

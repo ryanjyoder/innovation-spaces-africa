@@ -1,16 +1,20 @@
-addressLine1: Cotonou B�nin, Vedoko, von funai, immeuble MTN ,  Cotonou
+activities: ""
+addressLine1: 117b High St, Grahamstown, Makhanda, 6139, South Africa
 addressNotes: ""
-city: ""
-country: ""
-description: ""
+city: makhanda
+country: South Africa
+diescription: 'Khula Tech Solutions is a Eastern Cape-based internet service provider and ICT solutions company. Our mission is to ensure that the internet is affordable and accessible to all. Contact us today, and one of our friendly consultants will get you connected. Khula Tech Solutions: Connecting you to the world'
 email: contact@khulatech.com
 facebookUrl: http://www.facebook.com/khulatech
+googleMapsUrl: ""
 hubID: khulatech
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: KhulaTech
+phone: +27 10 013 0497
+plusCode: MGQF+HP
 postalCode: ""
 region: ""
 twitterHandle: khulatech

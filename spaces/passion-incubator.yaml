@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Lagos Island, Lagos, Nigeria
-addressNotes: ""
+addressNotes: 70 Olonode St, Alagomeji-Yaba 101245, Lagos, Nigeria
 city: Lagos
 country: Nigeria
-description: |
-  Passion Incubator is a technology incubator/accelerator with expertise in innovation program design and tech investments. They are an innovation fund that focuses on job creation, skill acquisition, and innovation. They get most of their funds from America, Africa, and Europe.
-email: ""
-facebookUrl: ""
+diescription: Passion Incubator is a technology incubator/accelerator with expertise in innovation program design and tech investments. They are an innovation fund that focuses on job creation, skill acquisition, and innovation. They get most of their funds from America, Africa, and Europe.
+email: info@passionincubator.ng
+facebookUrl: passionincubator
+googleMapsUrl: ""
 hubID: passion-incubator
-instagramHandle: ""
+instagramHandle: p_incubator
 lat: 6.4524039
-linkedinUrl: ""
-lng: 3.39685350000002
+linkedinUrl: passion-incubator
+lng: 3.3968535
 name: Passion Incubator
+phone: +234 703 357 9178
+plusCode: F9WH+9J
 postalCode: ""
 region: Lagos
 twitterHandle: P_Incubator
-websiteUrl: https://www.passionincubator.ng/
+websiteUrl: passionincubator.ng

@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: ""
 addressNotes: Rue 269, Villa 1695 SICAP LIBETE 2
 city: Dakar
-country: ""
-description: "Place of innovation and collaboration, DefKo Ak Niep (Do it with others) is the new FabLab in Dakar set up by the NGO @Kerthiossane.\r\n--------\r\nLieu d'innovation et de travail collaboratif, Defko Ak Niep (fais le avec les autres) est le nouveau Fablab de Dakar mis en place par l'ONG Ker-Thiossane."
+country: Senegal
+diescription: ""
 email: kerthiossane@gmail.com
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: defkoakniep
 instagramHandle: ""
 lat: 14.7139787
 linkedinUrl: ""
 lng: -17.4551477
 name: DefkoAkNiep Lab
+phone: ""
+plusCode: ""
 postalCode: B.P 10664
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: ker-thiossane.org

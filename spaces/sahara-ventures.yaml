@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: Aldua Tower, Wing A, 6 Floor, New Bagamoyo Road
 addressNotes: ""
 city: Dar-es-Salaam
 country: Tanzania
-description: ""
-email: ""
-facebookUrl: ""
+diescription: We work with Africa's most promising startups and SMEs helping them to access mentorship and investment opportunities. We will provide the necessary tools and networks you need to grow your business.
+email: accelerator@saharaventures.com
+facebookUrl: VenturesSahara
+googleMapsUrl: ""
 hubID: sahara-ventures
-instagramHandle: ""
+instagramHandle: VenturesSahara
 lat: 0
-linkedinUrl: ""
+linkedinUrl: sahara-ventures
 lng: 0
 name: Sahara Ventures
+phone: +255 713 221 946
+plusCode: 67C2+HG
 postalCode: ""
 region: ""
 twitterHandle: VenturesSahara
-websiteUrl: https://saharaventures.com/sahara-accelerator
+websiteUrl: saharaventures.com/sahara-accelerator

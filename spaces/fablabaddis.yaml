@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: King George VI St, Addis Ababa, Ethiopia
 addressNotes: We are located in Addis Ababa University; Alle school of fine arts and design around 4 killo next to natural science campus.
 city: Addis Ababa
-country: ""
-description: ""
+country: Ethiopia
+diescription: FabLab – digital fabrication laboratories – were set up to inspire people and entrepreneurs to turn their ideas into new products and prototypes by giving them access to a range of advanced digital manufacturing technology
 email: bereketnesh@yahoo.com
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: fablabaddis
 instagramHandle: ""
 lat: 9.0377172
 linkedinUrl: ""
 lng: 38.755227
 name: FabLab Addis
+phone: +251 91 385 8035
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: https://fablabaddis.org/

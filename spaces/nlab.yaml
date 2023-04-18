@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: ""
 addressNotes: ""
 city: Ngoumou
 country: Cameroon
-description: |
-  Projet d'espace coworking & innovation au c�ur de la r�gion centre
+diescription: Nlab is a coworking & innovation space in the Centre region of Cameroon.
 email: ""
-facebookUrl: ""
+facebookUrl: nlabcameroon
+googleMapsUrl: ""
 hubID: nlab
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Nlab
+phone: ""
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: nlabcameroon

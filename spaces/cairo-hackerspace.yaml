@@ -1,18 +1,21 @@
-addressLine1: Cairo, Egypt
-addressNotes: ""
+activities: ""
+addressLine1: Cairo Hackerspace ,KMT House Villa
+addressNotes: 73 Street 15 - Maadi, Cairo, Egypt.
 city: Cairo
 country: Egypt
-description: |
-  Cairo Hackerspace shares its benefits with other hackerspaces and especially help guide new hackerspaces in developing in a sustainable and practical way. They are an innovation hub that focuses on social impact and innovation and gets most of their funds from Africa and Europe.
-email: ""
-facebookUrl: ""
+diescription: Cairo Hackerspace shares its benefits with other hackerspaces and especially help guide new hackerspaces in developing in a sustainable and practical way. They are an innovation hub that focuses on social impact and innovation and gets most of their funds from Africa and Europe.
+email: cairohackerspace@gmail.com
+facebookUrl: https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.facebook.com%2FCairoHackerSpace&t=NzU1ODhmN2Q4MmIwOTI3ZjcxMDJjYTU0Y2IwNDNlYzI2NTNkYjczYSxUbU4zdWpESg%3D%3D&p=&m=0&ts=1677497462
+googleMapsUrl: ""
 hubID: cairo-hackerspace
 instagramHandle: ""
 lat: 30.0444196
 linkedinUrl: ""
-lng: 31.2357116000001
+lng: 31.2357116
 name: Cairo Hackerspace
+phone: ""
+plusCode: ""
 postalCode: ""
 region: Cairo Governorate
-twitterHandle: ""
+twitterHandle: '@CairoHackerspac'
 websiteUrl: https://cairohackerspace.org/

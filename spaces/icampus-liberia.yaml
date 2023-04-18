@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: ""
-addressNotes: ""
+addressNotes: Denver, CO 80205
 city: Monrovia
 country: Liberia
-description: |
-  A shared innovation, co-working and community space for organizations focusing on the intersection of ICTs, entrepreneurship & social change in Liberia.
-email: ""
-facebookUrl: ""
+diescription: A shared innovation, co-working and community space for organizations focusing on the intersection of ICTs, entrepreneurship & social change in Liberia.
+email: info@icampus.io
+facebookUrl: https://www.facebook.com/icampuslib
+googleMapsUrl: ""
 hubID: icampus-liberia
-instagramHandle: ""
+instagramHandle: icampus_liberia
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: iCampus Liberia
+phone: +231 775 996 314
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: icampuslib

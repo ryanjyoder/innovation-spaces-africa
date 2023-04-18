@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: 5 Rue du lac el Bibane, Tunis, Tunisia
 addressNotes: ""
 city: Tunis
 country: Tunisia
-description: ""
-email: ""
-facebookUrl: ""
+diescription: The First Private Business Incubator in Tunisia
+email: info@wikistartup.tn
+facebookUrl: WIKISTARTUP
+googleMapsUrl: ""
 hubID: wiki-start-up
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Wiki Start Up
+phone: +216 52 960 504
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: WIKISTARTUP
-websiteUrl: http://www.wikistartup.tn/
+websiteUrl: wikistartup.tn

@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: 30197, Nairobi, Nairobi, 00100 (GPO), Kenya.
 addressNotes: ""
 city: Nairobi
-country: ""
-description: ""
+country: Kenya
+diescription: Fab Lab (fabrication laboratory) is a makers workshop with an array of computer controlled tools with the aim to make almost anything.
 email: stp@uonbi.ac.ke
-facebookUrl: ""
+facebookUrl: https://www.facebook.com/FabLab-Nairobi-Outreach-220691117976348/
+googleMapsUrl: https://goo.gl/maps/KJkBkuWXgzBkQbmu5
 hubID: fablabnairobi
 instagramHandle: ""
 lat: -1.2790019
 linkedinUrl: ""
 lng: 36.8170395
 name: Fablab Nairobi
+phone: +254 20 4913609
+plusCode: ""
 postalCode: 00100 (GPO)
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: fablabnairobi
+websiteUrl: www.fablabs.io/labs/fablabnairobi

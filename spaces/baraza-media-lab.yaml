@@ -1,14 +1,14 @@
-activities: null
+activities: ""
 addressLine1: ""
 addressNotes: Keystone Park, 95 Riverside
 city: ""
-country: ""
-description: 'A media lab that serves as a beacon for leading thinkers to experiment, problem-solve, learn, and incubate new models of telling stories. #wearebaraza'
+country: Kenya
+diescription: 'A media lab that serves as a beacon for leading thinkers to experiment, problem-solve, learn, and incubate new models of telling stories. #wearebaraza'
 email: ""
-facebookUrl: ""
+facebookUrl: https://web.facebook.com/BarazaLab/
 googleMapsUrl: ""
 hubID: baraza-media-lab
-instagramHandle: ""
+instagramHandle: barazamedialab
 lat: 0
 linkedinUrl: ""
 lng: 0
@@ -17,5 +17,5 @@ phone: ""
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: BarazaLab
+twitterHandle: barazalab
 websiteUrl: barazalab.com

@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Abia, Nigeria
-addressNotes: ""
-city: ""
+addressNotes: 10 Calabar Street, Aba 450211, Aba, Abia, Nigeria
+city: Aba
 country: Nigeria
-description: |
-  Innovation Growth Hub is contributing to fulfilling sustainable development goals four and eight which stands for promoting lifelong learning opportunities for all and promoting sustainable economic growth & decent work for all respectively. They are an innovation hub that is focused on job creation, skill acquisition and innovation and get most of their funds from Africa.
-email: ""
+diescription: Innovation Growth Hub is contributing to fulfilling sustainable development goals four and eight which stands for promoting lifelong learning opportunities for all and promoting sustainable economic growth & decent work for all respectively. They are an innovation hub that is focused on job creation, skill acquisition and innovation and get most of their funds from Africa.
+email: info@ighub.com.ng
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: innovation-growth-hub
 instagramHandle: ""
 lat: 5.4308921
-linkedinUrl: ""
+linkedinUrl: ighubafrica
 lng: 7.5247243
 name: Innovation Growth Hub
+phone: +234 803 090 7949
+plusCode: ""
 postalCode: ""
 region: Abia
 twitterHandle: theighubafrica
-websiteUrl: https://ighub.com.ng/
+websiteUrl: ighub.com.ng

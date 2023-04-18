@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: The GrEEK Campus, Basement Floor, below the Blue Room, El Tahrir, Abdeen, Cairo Governorate 11111, Egypt
 addressNotes: ""
 city: Cairo
 country: Egypt
-description: ""
-email: ""
-facebookUrl: ""
+diescription: icecairo is a technology innovation hub, which aims at accelerating Egypt's economic growth by promoting market-driven and environmentally viable innovations.
+email: info@icecairo.com
+facebookUrl: facebook.com%2FIcecairo
+googleMapsUrl: ""
 hubID: icecairo
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: IceCairo
+phone: +20 114 568 2972
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
+twitterHandle: icecairo
 websiteUrl: http://icecairo.com/

@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: The Enterprise Building, Allan Cormack St, Pretoria 0020, South Africa
-addressNotes: ""
+addressNotes: U8, Enterprise Building, The Innovation Hub, Mark Shuttleworth Street, Tshwane Pretoria, South Africa, 0087
 city: Pretoria
 country: South Africa
-description: |
-  mLab supports young innovators, founders, next generation coders and digital creatives with the right skills to innovate and create solutions thereby unlocking opportunities for new businesses that will drive the economy forward.
+diescription: mLab supports young innovators, founders, next generation coders and digital creatives with the right skills to innovate and create solutions thereby unlocking opportunities for new businesses that will drive the economy forward.
 email: ""
-facebookUrl: ""
+facebookUrl: mLabSA
+googleMapsUrl: ""
 hubID: mlab-southern-africa-sa
 instagramHandle: ""
 lat: -25.7491488
-linkedinUrl: ""
-lng: 28.2674629000001
+linkedinUrl: mlab-south-africa
+lng: 28.2674629
 name: MLab Southern Africa (SA)
+phone: +27 012 844 0240
+plusCode: ""
 postalCode: ""
 region: Gauteng
 twitterHandle: mlabsa

@@ -1,22 +1,21 @@
+activities: ""
 addressLine1: ""
 addressNotes: School of Economics, Rondebosch
 city: Cape Town
 country: South Africa
-description: 'The Financial Innovation Hub, in partnership with the Algorand Foundation, brings together experts in the field of financial technology on the African continent. The hub is located in the Cape Town to Stellenbosch corridor, known as the "Silicon Valley" of Africa and home to over 450 tech startups. It is situated at the University of Cape Town, the number one research university in Africa. The Financial Innovation Hub aims to establish a local ecosystem of academics, students, and entrepreneurs through its three components: rigorous academic research, an innovation hub, and thought leadership.'
-email: ""
+diescription: 'The Financial Innovation Hub, in partnership with the Algorand Foundation, brings together experts in the field of financial technology on the African continent. The hub is located in the Cape Town to Stellenbosch corridor, known as the "Silicon Valley" of Africa and home to over 450 tech startups. It is situated at the University of Cape Town, the number one research university in Africa. The Financial Innovation Hub aims to establish a local ecosystem of academics, students, and entrepreneurs through its three components: rigorous academic research, an innovation hub, and thought leadership.'
+email: hub@uct.ac.za
 facebookUrl: ""
-githubUrl: https://github.com/FinHubSA
 googleMapsUrl: https://goo.gl/maps/ZE6BZwiBpzfgNBhF6
 hubID: algo-uct-hub
 instagramHandle: ""
 lat: 0
 linkedinUrl: https://www.linkedin.com/company/algorand-uct-financial-innovation-hub/
 lng: 0
-mediumUrl: https://medium.com/@hub_16865
 name: Algorand-UCT Financial Innovation Hub
-phone: ""
+phone: +27 795 515 7565
 plusCode: 2FV8+58
-postalCode: "7700"
+postalCode: 7700
 region: ""
 twitterHandle: AlgoUCTHub
 websiteUrl: finhub.org.za

@@ -1,20 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Ecole Police, Immeuble Scalène Mermoz lot B, Rue KA 05, Dakar, Senegal
 addressNotes: Ecole Police, Immeuble Scalène Mermoz lot B, Rue KA 05
 city: Dakar
 country: Senegal
-description: Orange Digital Center est un espace gratuit dédié à l’accompagnement numérique et à l’innovation pour tous.
+diescription: Orange Digital Center est un espace gratuit dédié à l’accompagnement numérique et à l’innovation pour tous.
 email: ""
-facebookUrl: ""
+facebookUrl: ODCSenegal
 googleMapsUrl: https://goo.gl/maps/z2t17AHtXbZ6Vitx5
 hubID: orange-digital-center
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: orange-digital-center-senegal
 lng: 0
 name: Orange Digital Center Sénégal
-phone: ""
+phone: +221 33 839 21 00
 plusCode: PG3J+89
 postalCode: ""
 region: ""
 twitterHandle: ODCSenegal
-websiteUrl: ""
+websiteUrl: orangedigitalcenter.sn

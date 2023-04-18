@@ -1,10 +1,11 @@
-addressLine1: ""
+activities: ""
+addressLine1: Dakar, Senegal
 addressNotes: ""
 city: Dakar
 country: Senegal
-description: Incubateur et Accelerateur d'entreprise
+diescription: Incubateur et Accelerateur d'entreprise
 email: contact.dakar@sira-labs.com
-facebookUrl: ""
+facebookUrl: siralabssn
 googleMapsUrl: https://goo.gl/maps/6S7QAEu8pi4zFJfR7
 hubID: sira-labs-senegal
 instagramHandle: ""
@@ -17,4 +18,4 @@ plusCode: PG9H+7QF
 postalCode: ""
 region: ""
 twitterHandle: LabsSira
-websiteUrl: http://www.sira-labs.com/v20/
+websiteUrl: sira-labs.com/v20

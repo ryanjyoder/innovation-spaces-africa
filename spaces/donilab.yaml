@@ -1,18 +1,21 @@
-addressLine1: SOTUBA
+activities: ""
+addressLine1: Sotuba ACI 2000
 addressNotes: ""
 city: Bamako
 country: Mali
-description: |
-  DoniLab is a business incubator that covers sectors of activity with a high potential for innovation, namely ICT, health, social innovation. They offer entrepreneurs the opportunity to work in a comfortable space while benefiting from various expertise, also an innovation hub that is focused on social impact, job creation and innovation and get most of their funds from Europe.
+diescription: DoniLab is a business incubator that covers sectors of activity with a high potential for innovation, namely ICT, health, social innovation. They offer entrepreneurs the opportunity to work in a comfortable space while benefiting from various expertise, also an innovation hub that is focused on social impact, job creation and innovation and get most of their funds from Europe.
 email: info@donilab.net
 facebookUrl: https://www.facebook.com/donilab.officiel/
+googleMapsUrl: ""
 hubID: donilab
-instagramHandle: ""
+instagramHandle: donilab1
 lat: 12.6363899
-linkedinUrl: ""
-lng: -7.99483789999999
+linkedinUrl: https://www.instagram.com/donilab1/
+lng: -7.9948379
 name: DoniLab
+phone: +223 70091609
+plusCode: ""
 postalCode: ""
 region: District de Bamako
-twitterHandle: ""
+twitterHandle: Donilab1
 websiteUrl: http://www.donilab.net/

@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Immeuble DRISS, Rue du Lac de Côme, Tunis 1053, Tunisia
 addressNotes: ""
 city: Tunis
-country: ""
-description: "EL FabSpace Lac is a digital fabrication and rapid prototyping workspace located at Orange Digital Center, in Lac 1 Tunis. It's run by Orange Tunisie and El Space in collaboration with OpenFab Tunisia and MakerLab. \r\n\r\nEl FabSpace Lac is a creative space that provides open access to digital fabrication tools, education workshops, and a vibrant community of science and technology enthusiasts. El FabSpace Lac offers training and mentorship to individuals (students, researchers, Makers, designers, hobbyists ...) and startups to learn about the application of digital technologies, rapid hardware prototyping, 3D printing, and sustainable design practices. The lab has a range of fabrication tools including a large laser cutter, 3D printers, PCB milling machine, a 3D scanner, traditional hand tools (saws, drills, hammers, chisels, etc.), and an electronics Tool Kit.\r\n\r\nEL FabSpace Lac is today part of a network of 6 Tunisian Solidary FabLabs, supported by the Orange Foundation, whose objective is to promote digital learning, collaborative creation and the use of digital tools."
+country: Tunisia
+diescription: EL FabSpace Lac is a digital fabrication and rapid prototyping workspace located at Orange Digital Center, in Lac 1 Tunis. It's run by Orange Tunisie and El Space in collaboration with OpenFab Tunisia and MakerLab.   El FabSpace Lac is a creative space that provides open access to digital fabrication tools, education workshops, and a vibrant community of science and technology enthusiasts. El FabSpace Lac offers training and mentorship to individuals (students, researchers, Makers, designers, hobbyists ...) and startups to learn about the application of digital technologies, rapid hardware prototyping, 3D printing, and sustainable design practices. The lab has a range of fabrication tools including a large laser cutter, 3D printers, PCB milling machine, a 3D scanner, traditional hand tools (saws, drills, hammers, chisels, etc.), and an electronics Tool Kit.  EL FabSpace Lac is today part of a network of 6 Tunisian Solidary FabLabs, supported by the Orange Foundation, whose objective is to promote digital learning, collaborative creation and the use of digital tools.
 email: mohamedchedli.benyaghlane@orange.com
 facebookUrl: ""
+googleMapsUrl: https://www.google.com/search?client=ubuntu&hs=RN3&channel=fs&sxsrf=AJOqlzXfcDaYK4-7UzMr8n23g5uMn_-mFA:1677826160710&q=Orange+Digital+Center&ludocid=6666995214044369607&gsas=1&client=ubuntu&lsig=AB86z5Wy6FOI8E4pI56eI3riA0OY&sa=X&ved=2ahUKEwi6-7bClb_9AhUM0GEKHeG_Cy0Q8G0oAHoECDgQAQ
 hubID: fabspacelac
 instagramHandle: ""
 lat: 36.8346907
 linkedinUrl: ""
 lng: 10.2426448
 name: EL FabSpace Lac
-postalCode: "1053"
+phone: +216 50 011 731
+plusCode: ""
+postalCode: 1053
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: fablabs.io/labs/fabspacelac

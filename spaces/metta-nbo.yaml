@@ -1,8 +1,9 @@
+activities: ""
 addressLine1: 6/F Belgravia Suite 6A, 14 Riverside
 addressNotes: ""
 city: Nairobi
 country: Kenya
-description: "Connecting people, ideas & resources. \n-Open innovation programs\n-Community & Membership\n-Event hosting. \nSubscribe to our NL: https://t.co/pNRvOuX8SM"
+diescription: 'Connecting people, ideas & resources.  -Open innovation programs -Community & Membership -Event hosting.  Subscribe to our NL: https://t.co/pNRvOuX8SM'
 email: nairobi@metta.co
 facebookUrl: https://www.facebook.com/WeAreMettaNBO
 googleMapsUrl: ""
@@ -17,4 +18,4 @@ plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: WeAreMettaNBO
-websiteUrl: https://metta.co
+websiteUrl: metta.co

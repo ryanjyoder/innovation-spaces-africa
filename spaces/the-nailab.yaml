@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Ngong View Road, Nairobi, Kenya
 addressNotes: ""
 city: Nairobi
 country: Kenya
-description: |
-  Nailab is a startup accelerator that offers a 3 – 6 month entrepreneurship program with focus on growing innovative technology driven ideas…
-email: ""
-facebookUrl: ""
+diescription: Nailab is a startup accelerator that offers a 3 – 6 month entrepreneurship program with focus on growing innovative technology driven ideas…
+email: Info@nailab.co.ke
+facebookUrl: thenailabkenya
+googleMapsUrl: ""
 hubID: the-nailab
-instagramHandle: ""
+instagramHandle: the_nailab
 lat: -1.3373892
-linkedinUrl: ""
-lng: 36.6891955999999
+linkedinUrl: nailab-accelarator-official
+lng: 36.6891956
 name: The NaiLab
+phone: "0790492467"
+plusCode: PQ2R+99
 postalCode: ""
 region: Nairobi County
 twitterHandle: thenailab
-websiteUrl: http://nailab.co.ke/
+websiteUrl: nailab.co.ke

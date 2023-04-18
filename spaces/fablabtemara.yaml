@@ -1,17 +1,21 @@
-addressLine1: ""
-addressNotes: "A cause du COVID-19 FabLab Temara en arrêt d'activité depuis le 16 mars 2020\r\nDue to COVID-19 FabLab Temara has been out of business since March 16, 2020\r\n"
+activities: ""
+addressLine1: Av. Ibn Sina, Rabat, Morocco
+addressNotes: A cause du COVID-19 FabLab Temara en arrêt d'activité depuis le 16 mars 2020 Due to COVID-19 FabLab Temara has been out of business since March 16, 2020
 city: Témara
-country: ""
-description: "A cause du COVID-19 FabLab Temara en arrêt d'activité depuis le 16 mars 2020\r\nDue to COVID-19 FabLab Temara has been out of business since March 16, 2020"
+country: Morocco
+diescription: A cause du COVID-19 FabLab Temara en arrêt d'activité depuis le 16 mars 2020 Due to COVID-19 FabLab Temara has been out of business since March 16, 2020
 email: fablabtemara@gmail.com
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: fablabtemara
 instagramHandle: ""
 lat: 33.9146954
-linkedinUrl: ""
-lng: -6.91560279999999
+linkedinUrl: fab-lab-temara-larbi-ouiyzme
+lng: -6.9156028
 name: FabLab Temara
-postalCode: "12010"
+phone: ""
+plusCode: X3CW+79V
+postalCode: 12010
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: '@FabLab_Temara.'
+websiteUrl: www.fablabs.io:3000/labs/fablabtemara

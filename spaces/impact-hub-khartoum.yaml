@@ -1,24 +1,23 @@
 activities:
   - accelerator
   - incubator
-addressLine1: ""
-addressNotes: ""
-city: ""
+addressLine1: IMPACT hub Khartoum Apartment 1, Building 30, Block 14
+addressNotes: Riyadh، Khartoum Sudan، Street 117, Khartoum, Sudan
+city: Khartoum
 country: Sudan
-description: |
-  Impact Hub Khartoum is an innovation lab, business Incubator and social enterprise community center that offers an entire ecosystem of resources, inspiration and collaboration opportunities for startups and SMEs.They are an incubator and accelerator with focus on social impact, youth engagement and innovation.
-email: ""
-facebookUrl: ""
+diescription: Impact Hub Khartoum is home to members, makers, and beneficiaries from diverse fields. Our members include freelancers, designers, educators, engineers, researchers, and students.
+email: khartoum@impact.net
+facebookUrl: impacthubkhartoum
 googleMapsUrl: ""
 hubID: impact-hub-khartoum
-instagramHandle: ""
+instagramHandle: impacthubkhartoum
 lat: 0
-linkedinUrl: ""
+linkedinUrl: impacthubkhartoum
 lng: 0
 name: Impact Hub Khartoum
-phone: ""
+phone: +249 92 404 0773
 plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: impacthub.net

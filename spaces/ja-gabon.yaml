@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: JA Gabon, Libreville, Gabon
 addressNotes: ""
-city: ""
-country: ""
-description: ""
+city: Libreville
+country: Gabon
+diescription: Membre de la plus grande organisation non gouvernementales du monde dédiée à l’éducation des jeunes, JA Gabon fait partie d’un réseau de 121 pays représentant Junior Achievement Worldwide à travers le monde et dont 15 en Afrique sub-saharienne. Junior Achievement Gabon (JA Gabon) installée depuis septembre 2013 soutient la jeunesse gabonaise à travers des programmes de formations liés à l’éducation financière, l’employabilité, l’entreprenariat et l’insertion professionnelle.
 email: info@jagabon.org
-facebookUrl: https://www.facebook.com/Juniorachievementgabon/
+facebookUrl: Juniorachievementgabon
+googleMapsUrl: ""
 hubID: ja-gabon
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: jagabon
 lng: 0
 name: JA Gabon
+phone: +241 01 74 20 23
+plusCode: 9FQ3+CJW
 postalCode: ""
 region: ""
 twitterHandle: ja_gabon
-websiteUrl: https://www.jagabon.org/
+websiteUrl: jagabon.org

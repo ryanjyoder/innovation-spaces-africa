@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: 6 Rue Albert Lougnon, Saint-Denis 97400, Réunion
 addressNotes: ""
 city: Saint Denis (Sainte Clotilde)
 country: Reunion
-description: ""
-email: ""
-facebookUrl: ""
+diescription: La Technopole de La Réunion est une association née en 2001, de la volonté commune des Institutions Publiques, des acteurs de la Recherche et de la Formation et du monde de l’Entreprise pour créer un outil de développement économique du territoire par l’innovation.
+email: animation@technopole-reunion.com
+facebookUrl: technopole.reunion
+googleMapsUrl: ""
 hubID: technopole-de-la-reunion
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: technopole-reunion
 lng: 0
 name: Technopole de la Reunion
+phone: 0262 90 71 80
+plusCode: 3FVX+JH
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: http://technopole-reunion.com
+twitterHandle: technopole_974
+websiteUrl: technopole-reunion.com

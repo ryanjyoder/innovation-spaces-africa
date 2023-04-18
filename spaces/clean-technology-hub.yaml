@@ -1,23 +1,22 @@
 activities:
   - incubator
-addressLine1: ""
-addressNotes: ""
-city: ""
+addressLine1: 10 Samora Machel St, Asokoro 900103
+addressNotes: Abuja, Federal Capital Territory, Nigeria
+city: Abuja
 country: Nigeria
-description: |
-  Clean Technology Hub is a pioneering hybrid hub for the research, development, demonstration and incubation bastion of clean and green ideas and technologies in Africa, and their valor for commercial-stage development.
-email: ""
-facebookUrl: ""
+diescription: Clean Technology Hub is a pioneering hybrid hub for the research, development, demonstration and incubation bastion of clean and green ideas and technologies in Africa, and their valor for commercial-stage development.
+email: hello@cleantechnologyhub.org
+facebookUrl: https://www.facebook.com/CleanTechHub/
 googleMapsUrl: ""
 hubID: clean-technology-hub
-instagramHandle: ""
+instagramHandle: Cleantechhubnigeria
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://ng.linkedin.com/company/clean-tech-hub-nigeria-3a9085156/
 lng: 0
 name: Clean Technology Hub
-phone: ""
+phone: +234 809 602 4444
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: cleantechhubng
+websiteUrl: cleantechnologyhub.com

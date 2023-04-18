@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Tanzania, Western Region, Ghana
 addressNotes: ""
 city: Tanzania
 country: Ghana
-description: |
-  Twende Hub is a social innovation center, with the believe of collaborating with students and community members in Tanzania to identify their challenges and design & create their own solutions to their problems will contribute to a world with improved access to technologies that improve people’s lives, a stronger local economy, and a nation of innovators and problem-solvers.
-email: ""
-facebookUrl: ""
+diescription: Twende Hub is a social innovation center, with the believe of collaborating with students and community members in Tanzania to identify their challenges and design & create their own solutions to their problems will contribute to a world with improved access to technologies that improve people’s lives, a stronger local economy, and a nation of innovators and problem-solvers.
+email: info@twende-tanzania.org
+facebookUrl: twendetz
+googleMapsUrl: ""
 hubID: twende-hub
-instagramHandle: ""
+instagramHandle: twendeinnovates
 lat: 6.3335725
 linkedinUrl: ""
-lng: -3.17231800000002
+lng: -3.172318
 name: Twende Hub
+phone: + 255 762 612 602
+plusCode: HPV3+MX5
 postalCode: ""
 region: Western Region
 twitterHandle: ""
-websiteUrl: http://www.twende-tanzania.org/
+websiteUrl: twende-tanzania.org

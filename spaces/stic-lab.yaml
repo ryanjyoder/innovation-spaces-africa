@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Tanzania Breweries, Dar es Salaam, Tanzania
-addressNotes: ""
+addressNotes: Dar es Salaam, Tanzania
 city: Dar es Salaam
 country: Tanzania
-description: |
-  STICLab’s Technology and Innovation Centre is designed to provide a productive environment for scientists, makers, and innovators, providing full access to a Lab and Workshop facilities that support product development from idea creation through to production.
-email: ""
-facebookUrl: ""
+diescription: STICLab’s Technology and Innovation Centre is designed to provide a productive environment for scientists, makers, and innovators, providing full access to a Lab and Workshop facilities that support product development from idea creation through to production.
+email: sticlab@sticlab.co.tz
+facebookUrl: stic-lab-paving-way-for-Africa-innovation
+googleMapsUrl: ""
 hubID: stic-lab
 instagramHandle: ""
 lat: -6.8234286
 linkedinUrl: ""
 lng: 39.2680669
 name: STIC Lab
+phone: +255 624 086 540
+plusCode: 36W5+28P
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: http://www.sticlab.co.tz/
+twitterHandle: TheSTICLab
+websiteUrl: sticlab.co.tz

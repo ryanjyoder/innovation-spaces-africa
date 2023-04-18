@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: Maadi as Sarayat Al Gharbeyah, Maadi, Cairo Governorate 4064145, Egypt
 addressNotes: ""
-city: ""
-country: ""
-description: ""
+city: Cairo
+country: Egypt
+diescription: The Egyptian STEM School for Girls in Maadi, Cairo seeks to create independent learners
 email: dr.ade.salah@stemmaadi.moe.edu.eg
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: maadistem
 instagramHandle: ""
-lat: 29.9636527382043
+lat: 29.96365274
 linkedinUrl: ""
-lng: 31.311387299128
+lng: 31.3113873
 name: FabLab Maadi STEM School
+phone: +20 109 944 4645
+plusCode: X876+FH9
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: stemmaadi.edu.eg

@@ -1,23 +1,22 @@
 activities:
   - co-working-space
-addressLine1: ""
-addressNotes: ""
-city: ""
+addressLine1: 2nd Floor, The Garnet Building
+addressNotes: gbo-Efon, Lekki - Epe Expy, Express, Lagos, Nigeria
+city: Lagos
 country: Nigeria
-description: |
-  CapitalSquare create an enabling environment and provide access to learning and resources necessary for startups and small businesses, contributing to their business growth and sustainability, to contribute to the growth and advancement of the arts and culture sector in Nigeria, through various programmes and activities aimed at building their capacity.
-email: ""
-facebookUrl: ""
+diescription: CapitalSquare is a coworking space and membership community for creative entrepreneurs, freelancers, and small business owners
+email: hello@capitalsqua.re
+facebookUrl: capitalsquareng
 googleMapsUrl: ""
 hubID: capital-square
-instagramHandle: ""
+instagramHandle: capsqr
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: CapitalSquare
-phone: ""
+phone: +234 817 223 3774
 plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: http://capitalsqua.re/

@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: Bluezone De Dixinn, Conakry, Guin�e
 addressNotes: ""
-city: ""
+city: Conakry
 country: Guinea
-description: |
-  SABOUTECH is a non-profit organization focused on identifying, support SMEs and start up in IT, renewable energies or the environment in crucial stages of their development by creating a privileged space and a stimulating environment dedicated to creating, development and SMEs’ growth. They are also a place for various events around entrepreneurship and innovation in Guinea.
+diescription: SABOUTECH is a non-profit organization focused on identifying, support SMEs and start up in IT, renewable energies or the environment in crucial stages of their development by creating a privileged space and a stimulating environment dedicated to creating, development and SMEs’ growth. They are also a place for various events around entrepreneurship and innovation in Guinea.
 email: projetsaboutech@gmail.com
 facebookUrl: https://www.facebook.com/saboutech/
+googleMapsUrl: ""
 hubID: saboutech
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: incubateur-saboutech
 lng: 0
 name: Saboutech
+phone: +224 628 75 61 58
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: saboutech
+websiteUrl: facebook.com/saboutech

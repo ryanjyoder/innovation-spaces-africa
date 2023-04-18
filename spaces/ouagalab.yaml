@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: 152 rue 14.54, Kalgondin, Ouagadougou, Burkina Faso
 addressNotes: Ouagadougou, Kalgoodin avenue Baba sy
 city: Ouagadougou
-country: ""
-description: "OuagaLab, un cadre idéal pour l'émergence d’une jeunesse, qui, grâce au numérique peut apporter des solutions concrètes et innovantes aux problèmes du Burkina Faso et de l'Afrique.\r\nDans ce sens ou les défis sont énormes, nous disons que chaque problème rencontré est une entreprise en devenir !"
+country: Burkina Faso
+diescription: OuagaLab, un cadre idéal pour l'émergence d’une jeunesse, qui, grâce au numérique peut apporter des solutions concrètes et innovantes aux problèmes du Burkina Faso et de l'Afrique. Dans ce sens ou les défis sont énormes, nous disons que chaque problème rencontré est une entreprise en devenir !
 email: gildasguiella@ouagalab.bf   gildasguiella@gmail.com
-facebookUrl: ""
+facebookUrl: ouagalab.bf
+googleMapsUrl: ""
 hubID: ouagalab
-instagramHandle: ""
+instagramHandle: ouagafilmlab
 lat: 12.3529618
 linkedinUrl: ""
-lng: -1.50550129999999
+lng: -1.5055013
 name: ouagalab
+phone: ""
+plusCode: 9F3V+8H
 postalCode: 03bp7099ouagadougou03
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: ouagafilmlab.net

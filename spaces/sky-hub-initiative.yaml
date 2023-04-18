@@ -1,17 +1,21 @@
+activities: ""
 addressLine1: ""
 addressNotes: ""
 city: Bulawayo
 country: Zimbabwe
-description: ""
+diescription: Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire !
 email: ""
 facebookUrl: ""
+googleMapsUrl: ""
 hubID: sky-hub-initiative
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Sky Hub Initiative
+phone: ""
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: http://www.skyhub.co.zw/
+twitterHandle: '@skyhub'
+websiteUrl: skyhub.co.zw

@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: Niamey
-addressNotes: ""
-city: ""
+addressNotes: Francophonie Road, Niamey
+city: Niamey
 country: Niger
-description: |
-  The Incubator Center of Small and Medium Enterprises of Niger – CIPMEN provide services promote the development of business activities in the field of new technologies, renewable energies, environment, and agribusiness. Recognized internationally, we are a key player in Nigerian entrepreneurship.
+diescription: The Incubator Center of Small and Medium Enterprises of Niger – CIPMEN provide services promote the development of business activities in the field of new technologies, renewable energies, environment, and agribusiness. Recognized internationally, we are a key player in Nigerian entrepreneurship.
 email: contact@cipmen.org
 facebookUrl: https://www.facebook.com/incubateurCIPMEN/
+googleMapsUrl: ""
 hubID: cipmen
 instagramHandle: ""
 lat: 17.607789
-linkedinUrl: ""
-lng: 8.08166600000004
+linkedinUrl: https://www.linkedin.com/company/cipmen/
+lng: 8.081666
 name: CIPMEN
+phone: +227 91 33 91 24
+plusCode: H483+7FW
 postalCode: ""
 region: ""
 twitterHandle: Cipmen

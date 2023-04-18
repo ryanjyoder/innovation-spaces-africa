@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: 40 avenue de Soweto - Terre-Sainte
 addressNotes: ""
 city: Saint-Pierre cedex
-country: ""
-description: "IuT Lab est le premier FabLab ou Laboratoire de Fabrication du Sud de la Réunion. Il a été inauguré en mars 2017 et est un lieu à la fois de fabrication d'objets et de partage de connaissances. Il est implanté sur le campus de l'IUT de Saint Pierre à la Réunion et souhaite regrouper et accompagner le plus grand nombre d'acteurs innovants de cette zone géographique.\r\n\r\nIuT Lab se veut complet dans l'offre des équipements et des services qu'il offre et souhaite élargir au maximum les partenariats et les collaborations entre les étudiants et les industriels du Sud de l'île de la Réunion.\r\n\r\nVous pouvez venir visiter les lieux, rencontrer, échanger avec les membres de la communautés, suivre des conférences régulièrement planifiées sur des thèmes chers à la communauté, apprendre à utiliser des équipements à la pointe de la technologie ou encore les utiliser librement (mode FreeLab) tout en respectant le règlement intérieur et la charte des FabLabs."
+country: South Africa
+diescription: IuT Lab est le premier FabLab ou Laboratoire de Fabrication du Sud de la Réunion. Il a été inauguré en mars 2017 et est un lieu à la fois de fabrication d'objets et de partage de connaissances. Il est implanté sur le campus de l'IUT de Saint Pierre à la Réunion et souhaite regrouper et accompagner le plus grand nombre d'acteurs innovants de cette zone géographique.  IuT Lab se veut complet dans l'offre des équipements et des services qu'il offre et souhaite élargir au maximum les partenariats et les collaborations entre les étudiants et les industriels du Sud de l'île de la Réunion.  Vous pouvez venir visiter les lieux, rencontrer, échanger avec les membres de la communautés, suivre des conférences régulièrement planifiées sur des thèmes chers à la communauté, apprendre à utiliser des équipements à la pointe de la technologie ou encore les utiliser librement (mode FreeLab) tout en respectant le règlement intérieur et la charte des FabLabs.
 email: fablab@univ-reunion.fr
-facebookUrl: ""
+facebookUrl: iutreunion
+googleMapsUrl: ""
 hubID: iutlabreunion
-instagramHandle: ""
+instagramHandle: iutdelareunionofficiel
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://www.linkedin.com/company/10221508?trk=tyah&trkInfo=clickedVertical%3Ashowcase%2CclickedEntityId%3A10221508%2Cidx%3A1-1-1%2CtarId%3A1445427710958%2Ctas%3AIUT%20de%20la%20r%C3%A9union
 lng: 0
 name: IuTLAB
-postalCode: "97455"
+phone: +262(0) 262 96 28 70
+plusCode: ""
+postalCode: 97455
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: '@IutlabReunion.'
+websiteUrl: univ-reunion.fr

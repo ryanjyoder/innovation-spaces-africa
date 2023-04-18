@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: Ecolia Labs, Unnamed Rd, Yaound�, Cameroun
 addressNotes: ""
 city: Yaoundé
 country: Cameroon
-description: |
-  Ecolia Labs is focused on social impact, skill acquisition, and innovation through incubation and acceleration programmes.
+diescription: Ecolia Labs is focused on social impact, skill acquisition, and innovation through incubation and acceleration programmes.
 email: contact@ecolialabs.org
 facebookUrl: https://www.facebook.com/EcoliaLabs/
+googleMapsUrl: ""
 hubID: ecolia-labs
 instagramHandle: ""
 lat: 3.8680387
 linkedinUrl: ""
 lng: 11.5475754
 name: Ecolia Labs
+phone: ""
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ecolialabs

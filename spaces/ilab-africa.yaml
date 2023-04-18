@@ -1,17 +1,20 @@
+activities: ""
 addressLine1: Kenyatta Avenue, Nairobi, Kenya
 addressNotes: ""
 city: Nairobi
 country: Kenya
-description: |
-  @iLabAfrica is a research centre under the Faculty of Information Technology at Strathmore University established to spearhead ICT research.
-email: ""
-facebookUrl: ""
+diescription: '@iLabAfrica is a research centre under the Faculty of Information Technology at Strathmore University established to spearhead ICT research.'
+email: ilabafrica@strathmore.edu
+facebookUrl: https://www.facebook.com/iLabAfricaStrathmore/?fref=ts
+googleMapsUrl: ""
 hubID: ilab-africa
-instagramHandle: ""
+instagramHandle: ilabafrica
 lat: -1.2882626
-linkedinUrl: ""
-lng: 36.8137592000001
+linkedinUrl: https://www.linkedin.com/company/2596334?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A2596334%2Cidx%3A2-1-2%2CtarId%3A1465459099320%2Ctas%3AILABAFRICA
+lng: 36.8137592
 name: iLab Africa
+phone: +254 703 034616
+plusCode: ""
 postalCode: ""
 region: Nairobi County
 twitterHandle: ilabafrica

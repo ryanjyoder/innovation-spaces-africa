@@ -1,16 +1,20 @@
-addressLine1: ""
-addressNotes: ""
+activities: ""
+addressLine1: 2nd Floor, Brickfield Canvas Building
+addressNotes: 35 Brickfield Road, Woodstock
 city: Cape Town
 country: South Africa
-description: ""
-email: ""
-facebookUrl: ""
+diescription: ""
+email: complaints@ispa.org.za
+facebookUrl: https://www.facebook.com/CapeITInitiative/
+googleMapsUrl: ""
 hubID: cape-innovation-and-technology-initiative-citi
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://za.linkedin.com/company/capeinnovationandtechnologyinitiative
 lng: 0
 name: Cape Innovation and Technology Initiative (CITI)
+phone: 010 500 1200
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: Cape_IT

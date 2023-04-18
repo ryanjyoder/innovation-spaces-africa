@@ -1,18 +1,21 @@
+activities: ""
 addressLine1: 107 Boulevard Des Martyrs, Sidi M&#039;Hamed, Alg�rie
 addressNotes: ""
-city: ""
-country: ""
-description: |
-  <b>The Algerian Center for Social Entrepreneurship (ACSE)</b> a �t� cr�� en 2013 et a comme mission que chaque probl�me social et environnemental en Alg�rie trouve une solution innovante et entrepreneuriale. Pour ce faire, ACSE d�veloppe deux volets : <b>un volet promotion</b>, visant � sensibiliser, valoriser et f�d�rer autour de l'entrepreneuriat social en Alg�rie, et <b>un volet accompagnement</b> se concr�tisant par une incubation de huit mois. Plus qu'un incubateur d'entreprises sociales, ACSE UP, est �galement<b> le plus grand coworking space d'Alg�rie. </b>
+city: Algiers
+country: Algeria
+diescription: 'The Algerian Center for Social Entrepreneurship (ACSE)</b> was created in 2013 and has as its mission that every social and environmental problem in Algeria finds an innovative and entrepreneurial solution. To do this, ACSE is developing two components: <b>a promotion component</b>, aimed at raising awareness, promoting and uniting around social entrepreneurship in Algeria, and <b>a accompaniment</b> resulting in an incubation of eight months. More than a social business incubator, ACSE UP is also<b>the largest coworking space in Algeria. </b>'
 email: j.ferreira@acsedz.com
-facebookUrl: https://www.facebook.com/AlgerianCenterForSocialEntrepreneurship
+facebookUrl: http://facebook.com/annalindhfoundation
+googleMapsUrl: ""
 hubID: acse
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://www.linkedin.com/company/anna-lindh-foundation/
 lng: 0
-name: ACSE
+name: al
+phone: +213 670 28 50 23
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: AnnaLindh
+websiteUrl: annalindhfoundation.org/members/algerian-center-social-entrepreneurship

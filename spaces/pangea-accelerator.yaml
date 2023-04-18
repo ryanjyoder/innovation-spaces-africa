@@ -1,12 +1,11 @@
 activities:
   - innovation-centre
-addressLine1: ""
-addressNotes: ""
-city: ""
+addressLine1: Nairobi, Kenya 0100
+addressNotes: Ikigai Lavington, 90 James Gichuri Rd
+city: Nairobi
 country: Kenya
-description: |
-  Pangea accelerator creates an enabling environment, where African entrepreneurs can develop competence, access relevant network and capital in order to reach their full potential. Pangea Accelerator realized that the needs of African startups go beyond funding and as a result developed an investment program and a competence development platform that connects talented and impact driven start-ups with international angel investors and African diaspora investors.
-email: ""
+diescription: Pangea accelerator creates an enabling environment, where African entrepreneurs can develop competence, access relevant network and capital in order to reach their full potential. Pangea Accelerator realized that the needs of African startups go beyond funding and as a result developed an investment program and a competence development platform that connects talented and impact driven start-ups with international angel investors and African diaspora investors.
+email: info@pangeaa.com
 facebookUrl: ""
 googleMapsUrl: ""
 hubID: pangea-accelerator
@@ -15,9 +14,9 @@ lat: 0
 linkedinUrl: ""
 lng: 0
 name: Pangea Accelerator
-phone: ""
+phone: +254 728051080
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: '@pangeaaccelerator'
+websiteUrl: pangeaa.com

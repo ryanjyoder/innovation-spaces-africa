@@ -1,22 +1,21 @@
 activities: []
-addressLine1: ""
+addressLine1: 8493, Douala, Cameroon
 addressNotes: ""
-city: ""
+city: Douala
 country: Cameroon
-description: |
-  Intellium Global Perspective acts for the development of the social micro-economy in Africa. IGP incubates startups by designing its training and research using an approach that promotes business performance focused on innovation.
-email: ""
-facebookUrl: ""
+diescription: Intellium Global Perspective acts for the development of the social micro-economy in Africa. IGP incubates startups by designing its training and research using an approach that promotes business performance focused on innovation.
+email: contact@intelliumgp.org
+facebookUrl: intelliumgp
 googleMapsUrl: ""
 hubID: intellium-global-perspective
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: intellium-global-perspective-group
 lng: 0
 name: Intellium Global Perspective
-phone: ""
+phone: +237 6 57 13 94 20
 plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: '@globalintellium'
+websiteUrl: intelliumgp.org

@@ -1,16 +1,20 @@
-addressLine1: ""
-addressNotes: ""
-city: ""
-country: ""
-description: ""
+activities: ""
+addressLine1: Point-E
+addressNotes: Dakar Fann
+city: Dakar
+country: Senegal
+diescription: 'En février 2019, le Groupe ISM a ouvert 2 incubateurs pour permettre aux projets innovants de se développer à Dakar : ISM Incub’ s’adresse aux jeunes entrepreneurs de domaines variés mais toujours innovants (digital, agriculture, management, services, Tech & IT, social…) ;'
 email: incubateurs@ism.edu.sn
 facebookUrl: https://fr-fr.facebook.com/GroupeISM/
+googleMapsUrl: ""
 hubID: groupe-ism
 instagramHandle: ""
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Groupe ISM
+phone: (+221) 33 869 76 76
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ""

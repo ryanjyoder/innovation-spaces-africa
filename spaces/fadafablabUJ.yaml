@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: 31 Jay Rd, Cottesloe, Johannesburg, 2092, South Africa
 addressNotes: The security personal at the front entrance of FADA will kindly direct you to the FabLab on ground level at the rear of the building
 city: Johannesburg
-country: ""
-description: 'We are a design centred Lab focussing on crosspollination and collaboration through multiple disciplines namely: Fashion, Jewellery, Industrial Design, Visual Arts, Multimedia, Graphic Design and Architecture.'
+country: South Africa
+diescription: 'We are a design centred Lab focussing on crosspollination and collaboration through multiple disciplines namely: Fashion, Jewellery, Industrial Design, Visual Arts, Multimedia, Graphic Design and Architecture.'
 email: uj.fablab@gmail.com
 facebookUrl: ""
+googleMapsUrl: https://www.google.com/search?client=ubuntu&hs=PD8&channel=fs&sxsrf=AJOqlzXAd2WYlXUr4QgN3S_KdOBnF0LCuw:1677844758594&q=FNB+Bank+ATM+UJ+Bunting+Road+Campus&ludocid=7428101132834883204&gsas=1&client=ubuntu&lsig=AB86z5UzIPcGcF7WyeMQQkdzee52&sa=X&ved=2ahUKEwjG2Mvm2r_9AhU47LsIHYcdD28Q8G0oAHoECBkQAQ
 hubID: fadafablabUJ
-instagramHandle: ""
+instagramHandle: fada_fablab
 lat: -26.188017
 linkedinUrl: ""
 lng: 28.0170951
 name: FADA FabLab University of Johannesburg
-postalCode: "2092"
+phone: +27 81 893 9292
+plusCode: ""
+postalCode: 2092
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: www.fablabs.io/labs/fadafablabUJ

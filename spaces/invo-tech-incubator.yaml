@@ -1,17 +1,21 @@
-addressLine1: ""
+activities: ""
+addressLine1: 123 Botanic Gardens Road
 addressNotes: ""
 city: Durban
 country: South Africa
-description: ""
-email: ""
-facebookUrl: ""
+diescription: We’re dedicated to giving you the very best of service, with a focus on dependability, customer service and uniqueness
+email: invotech@dut.ac.za
+facebookUrl: invotech.co.za
+googleMapsUrl: ""
 hubID: invo-tech-incubator
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: invotech-business-incubator
 lng: 0
 name: Invo Tech incubator
+phone: 031 201 4788
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: www.invotech.dut.ac.za
+twitterHandle: '@invotech'
+websiteUrl: invotech.co.za

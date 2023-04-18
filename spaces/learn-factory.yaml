@@ -4,23 +4,22 @@ activities:
   - incubator
   - innovation-centre
 addressLine1: ""
-addressNotes: ""
-city: ""
+addressNotes: 4B Aba-Owerri Rd, behind MTN BUILDING, UMUNGASI 450102, Aba, Abia, Nigeria
+city: Aba
 country: Nigeria
-description: |
-  LearnFactory Nigeria is the first full-stack software development training and technology hub in South-East Nigeria. We are passionate about grooming Craftsmen and Software Engineers; as well as education and how we can enhance its outcomes using technology. We fervently believe that for our children to maximize their learning experience, they must transition from being just consumers of information to become creators of information.
+diescription: LearnFactory Nigeria is the first full-stack software development training and technology hub in South-East Nigeria. We are passionate about grooming Craftsmen and Software Engineers; as well as education and how we can enhance its outcomes using technology. We fervently believe that for our children to maximize their learning experience, they must transition from being just consumers of information to become creators of information.
 email: ""
 facebookUrl: ""
 googleMapsUrl: ""
 hubID: learn-factory
 instagramHandle: ""
 lat: 0
-linkedinUrl: ""
+linkedinUrl: learn-factory nigeria
 lng: 0
 name: LearnFactory
-phone: ""
+phone: +234 2348022932368
 plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: https://learnfactory.com.ng/

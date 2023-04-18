@@ -1,18 +1,21 @@
-addressLine1: ""
-addressNotes: ""
+activities: ""
+addressLine1: 441 Boulevard de la République,
+addressNotes: Douala, Cameroon
 city: Douala
 country: Cameroon
-description: |
-  �Premium co-working space in Douala.�
+diescription: �Premium co-working space in Douala.�
 email: ""
-facebookUrl: ""
+facebookUrl: https://www.facebook.com/coworkerglobal
+googleMapsUrl: ""
 hubID: cowork-africa
-instagramHandle: ""
+instagramHandle: coworker
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Cowork.Africa
+phone: +237 6 54 01 01 01
+plusCode: ""
 postalCode: ""
 region: ""
-twitterHandle: coworkafrica
-websiteUrl: Co-work.africa
+twitterHandle: coworkerglobal
+websiteUrl: https://www.co-work.africa/

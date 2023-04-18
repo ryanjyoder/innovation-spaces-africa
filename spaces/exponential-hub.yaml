@@ -1,24 +1,23 @@
 activities:
   - co-working-space
   - incubator
-addressLine1: ""
-addressNotes: ""
-city: ""
+addressLine1: 1A Akin Osiyemi St, Allen 101233
+addressNotes: Ikeja, Lagos, Nigeria
+city: Lagos
 country: Nigeria
-description: |
-  Exponential Hub is an arm of Simply Exponential Consult Limited and is oriented around entrepreneurship and employability. They have had one incubation cohort since inception.
-email: ""
-facebookUrl: ""
+diescription: Exponential Hub is an arm of Simply Exponential Consult Limited and is oriented around entrepreneurship and employability. They have had one incubation cohort since inception.
+email: info@simplyexponential.com, simplyexpo@yahoo.com
+facebookUrl: https://www.facebook.com/simplyexponentialconsult/
 googleMapsUrl: ""
 hubID: exponential-hub
-instagramHandle: ""
+instagramHandle: simplyexponentialconsult
 lat: 0
 linkedinUrl: ""
 lng: 0
 name: Exponential Hub
-phone: ""
+phone: +234 803 403 0366
 plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: ""
-websiteUrl: ""
+websiteUrl: www.simplyexponential.com

@@ -1,16 +1,20 @@
+activities: ""
 addressLine1: Somgand�, Secteur 19, Rue Dima Koon ,  Ouagadougou
-addressNotes: ""
-city: ""
-country: ""
-description: ""
+addressNotes: . 01 BP 726 Ouagadougou 01
+city: Ouagadougou
+country: Burkina Faso
+diescription: ""
 email: info@beoogolab.org
-facebookUrl: ""
+facebookUrl: https://web.facebook.com/BeoogoLAB/
+googleMapsUrl: ""
 hubID: beoogolab
-instagramHandle: ""
+instagramHandle: beoogolab
 lat: 0
-linkedinUrl: ""
+linkedinUrl: https://www.linkedin.com/company/beoogolab/
 lng: 0
 name: BeoogoLAB
+phone: +226 65 34 00 00
+plusCode: ""
 postalCode: ""
 region: ""
 twitterHandle: BeoogoLAB

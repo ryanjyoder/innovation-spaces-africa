@@ -1,24 +1,23 @@
 activities:
   - accelerator
   - incubator
-addressLine1: ""
+addressLine1: Mzuzu, Malawi
 addressNotes: ""
-city: ""
+city: mzuzu
 country: Malawi
-description: |
-  Mzuzu E-Hub is an entrepreneurship and innovation hub providing working space and technical assistance to start-up and early-stage companies by linking them to a network of services for success. They get most of their funds from Africa and Europe.
-email: ""
-facebookUrl: ""
+diescription: Mzuzu E-Hub is an entrepreneurship and innovation hub providing working space and technical assistance to start-up and early-stage companies by linking them to a network of services for success. They get most of their funds from Africa and Europe.
+email: hello@mzuzuehub.org
+facebookUrl: mzuzuehub
 googleMapsUrl: ""
 hubID: mzuzu-e-hub
-instagramHandle: ""
+instagramHandle: mzuzuehub
 lat: 0
-linkedinUrl: ""
+linkedinUrl: mzuzu-e-hub
 lng: 0
 name: Mzuzu E-Hub
-phone: ""
-plusCode: ""
+phone: +265 888 20 92 63
+plusCode: G2QC+6XV
 postalCode: ""
 region: ""
-twitterHandle: ""
-websiteUrl: ""
+twitterHandle: mzehub
+websiteUrl: mzuzuehub.org
