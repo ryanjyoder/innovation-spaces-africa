@@ -21,3 +21,6 @@ postalCode: ""
 region: ""
 twitterHandle: BeehiveCoworkCM
 websiteUrl: beehive-coworking.com
+activities:
+  - co-working-space
+  - incubator

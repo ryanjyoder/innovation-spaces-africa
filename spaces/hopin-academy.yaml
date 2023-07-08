@@ -22,3 +22,7 @@ postalCode: ""
 region: ""
 twitterHandle: HopinAcademy
 websiteUrl: http://www.hopinacademy.org/programmes/
+activities:
+  - accelerator
+  - incubator
+  - innovation-centre

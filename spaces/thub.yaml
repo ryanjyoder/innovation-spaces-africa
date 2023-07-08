@@ -20,3 +20,5 @@ postalCode: ""
 region: ""
 twitterHandle: THub_Som
 websiteUrl: t-hub.so
+activities:
+  - accelerator

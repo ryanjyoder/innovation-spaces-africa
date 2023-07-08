@@ -21,3 +21,6 @@ postalCode: ""
 region: ""
 twitterHandle: mzehub
 websiteUrl: mzuzuehub.org
+activities:
+  - accelerator
+  - incubator

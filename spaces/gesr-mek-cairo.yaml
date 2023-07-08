@@ -21,3 +21,6 @@ postalCode: ""
 region: ""
 twitterHandle: ""
 websiteUrl: https://gesr.net/
+activities:
+  - accelerator
+  - incubator

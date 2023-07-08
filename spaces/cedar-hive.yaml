@@ -21,3 +21,6 @@ postalCode: ""
 region: ""
 twitterHandle: ""
 websiteUrl: ""
+activities:
+  - co-working-space
+  - incubator

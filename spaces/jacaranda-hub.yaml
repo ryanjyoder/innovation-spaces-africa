@@ -21,3 +21,6 @@ postalCode: ""
 region: ""
 twitterHandle: '@jacarandahub'
 websiteUrl: jacarandahub.org
+activities:
+  - accelerator
+  - incubator

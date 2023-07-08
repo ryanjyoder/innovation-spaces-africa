@@ -21,3 +21,6 @@ postalCode: ""
 region: ""
 twitterHandle: TechBchallange
 websiteUrl: techbridgeinvest.com
+activities:
+  - accelerator
+  - incubator

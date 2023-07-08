@@ -21,3 +21,6 @@ postalCode: ""
 region: ""
 twitterHandle: generalelectric
 websiteUrl: www.ge.com/directory
+activities:
+  - accelerator
+  - incubator

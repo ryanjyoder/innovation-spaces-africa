@@ -21,3 +21,6 @@ postalCode: ""
 region: ""
 twitterHandle: roar_nigeria
 websiteUrl: roarnigeria.org
+activities:
+  - accelerator
+  - incubator

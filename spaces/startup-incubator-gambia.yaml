@@ -24,3 +24,9 @@ postalCode: ""
 region: ""
 twitterHandle: Gamincubator
 websiteUrl: startupincubator.gm
+activities:
+  - accelerator
+  - co-creation-hub
+  - co-working-space
+  - incubator
+  - innovation-centre

@@ -21,3 +21,6 @@ postalCode: ""
 region: ""
 twitterHandle: ndotohub
 websiteUrl: ndotohub.com
+activities:
+  - accelerator
+  - incubator

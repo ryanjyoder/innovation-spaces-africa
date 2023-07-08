@@ -24,3 +24,9 @@ postalCode: ""
 region: ""
 twitterHandle: HarHub
 websiteUrl: http://harhub.com/
+activities:
+  - accelerator
+  - co-creation-hub
+  - co-working-space
+  - incubator
+  - innovation-centre

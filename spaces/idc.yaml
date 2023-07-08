@@ -22,3 +22,7 @@ postalCode: ""
 region: ""
 twitterHandle: ""
 websiteUrl: https://idc-osc.com/
+activities:
+  - accelerator
+  - co-working-space
+  - incubator

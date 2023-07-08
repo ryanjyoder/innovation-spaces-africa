@@ -21,3 +21,6 @@ postalCode: ""
 region: ""
 twitterHandle: coworkerglobal
 websiteUrl: www.coworker.com/nigeria/owerri/heartland-incubation-hubs
+activities:
+  - accelerator
+  - incubator

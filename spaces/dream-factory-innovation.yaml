@@ -21,3 +21,6 @@ postalCode: ""
 region: ""
 twitterHandle: DreamFactoryFdn
 websiteUrl: http://www.dreamfactoryfoundation.org/
+activities:
+  - accelerator
+  - incubator

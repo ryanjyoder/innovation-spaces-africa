@@ -21,3 +21,6 @@ postalCode: ""
 region: ""
 twitterHandle: ennovatelab
 websiteUrl: https://ennovatelab.com/
+activities:
+  - accelerator
+  - incubator

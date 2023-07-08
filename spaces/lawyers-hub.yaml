@@ -21,3 +21,6 @@ postalCode: ""
 region: ""
 twitterHandle: lawyershubkenya
 websiteUrl: lawyershub.org
+activities:
+  - accelerator
+  - incubator

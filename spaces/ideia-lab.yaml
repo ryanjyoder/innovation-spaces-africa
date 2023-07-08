@@ -21,3 +21,6 @@ postalCode: ""
 region: ""
 twitterHandle: ideialabmz
 websiteUrl: https://ideialab.biz/
+activities:
+  - accelerator
+  - incubator

@@ -21,3 +21,6 @@ postalCode: ""
 region: ""
 twitterHandle: ""
 websiteUrl: impacthub.net
+activities:
+  - accelerator
+  - incubator

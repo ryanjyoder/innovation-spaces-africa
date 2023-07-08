@@ -23,3 +23,8 @@ postalCode: ""
 region: ""
 twitterHandle: africaictright
 websiteUrl: africaictright.org
+activities:
+  - accelerator
+  - co-working-space
+  - incubator
+  - living-lab
